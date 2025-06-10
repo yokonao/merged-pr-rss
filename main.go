@@ -23,9 +23,8 @@ type Config struct {
 
 // Repository represents a GitHub repository to monitor
 type Repository struct {
-	Owner       string `yaml:"owner"`
-	Name        string `yaml:"name"`
-	Description string `yaml:"description"`
+	Owner string `yaml:"owner"`
+	Name  string `yaml:"name"`
 }
 
 // RSSConfig represents RSS feed configuration
@@ -80,12 +79,11 @@ type GitHubUser struct {
 
 // PRData represents processed pull request data
 type PRData struct {
-	Title       string
-	URL         string
-	MergedAt    time.Time
-	Author      string
-	Repository  string
-	Description string
+	Title      string
+	URL        string
+	MergedAt   time.Time
+	Author     string
+	Repository string
 }
 
 // RepositoryStats represents statistics for a repository's RSS feed
@@ -122,12 +120,11 @@ func main() {
 		var repoPRs []PRData
 		for _, pr := range prs {
 			repoPRs = append(repoPRs, PRData{
-				Title:       pr.Title,
-				URL:         pr.HTMLURL,
-				MergedAt:    parseTime(*pr.MergedAt),
-				Author:      pr.User.Login,
-				Repository:  fmt.Sprintf("%s/%s", repo.Owner, repo.Name),
-				Description: repo.Description,
+				Title:      pr.Title,
+				URL:        pr.HTMLURL,
+				MergedAt:   parseTime(*pr.MergedAt),
+				Author:     pr.User.Login,
+				Repository: fmt.Sprintf("%s/%s", repo.Owner, repo.Name),
 			})
 		}
 
@@ -246,7 +243,7 @@ func generateRepositoryRSSFeed(prs []PRData, repo Repository, config RSSConfig, 
 	feed := &feeds.Feed{
 		Title:       fmt.Sprintf("%s - %s/%s Merged PRs", config.Title, repo.Owner, repo.Name),
 		Link:        &feeds.Link{Href: fmt.Sprintf("https://github.com/%s/%s", repo.Owner, repo.Name)},
-		Description: fmt.Sprintf("Recent merged pull requests from %s/%s - %s", repo.Owner, repo.Name, repo.Description),
+		Description: fmt.Sprintf("Recent merged pull requests from %s/%s", repo.Owner, repo.Name),
 		Author:      &feeds.Author{Name: config.Author.Name, Email: config.Author.Email},
 		Created:     now,
 	}
@@ -255,7 +252,7 @@ func generateRepositoryRSSFeed(prs []PRData, repo Repository, config RSSConfig, 
 		item := &feeds.Item{
 			Title:       pr.Title,
 			Link:        &feeds.Link{Href: pr.URL},
-			Description: fmt.Sprintf("Merged by %s - %s", pr.Author, repo.Description),
+			Description: fmt.Sprintf("Merged by %s - %s", pr.Author, pr.Title),
 			Author:      &feeds.Author{Name: pr.Author},
 			Created:     pr.MergedAt,
 		}
@@ -324,13 +321,11 @@ func generateRepositoryIndexHTML(stats []RepositoryStats, config RSSConfig) erro
 		html += fmt.Sprintf(`
         <div class="repository-card">
             <h3>%s/%s</h3>
-            <div class="description">%s</div>
             <div class="stats">PRs: %d件 | 更新: %s</div>
             <a href="%s" class="rss-link">RSS Feed</a>
         </div>`,
 			stat.Repository.Owner,
 			stat.Repository.Name,
-			stat.Repository.Description,
 			totalPRs,
 			stat.LastUpdated.Format("01/02 15:04"),
 			stat.Filename)

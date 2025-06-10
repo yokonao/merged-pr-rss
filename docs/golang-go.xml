@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>OSS Merged PRs Feed - golang/go Merged PRs</title>
-    <link>https://github.com/golang/go</link>
-    <description>Recent merged pull requests from golang/go - The Go programming language</description>
-    <managingEditor>bot@example.com (RSS Bot)</managingEditor>
-    <pubDate>Wed, 11 Jun 2025 06:33:08 +0900</pubDate>
-  </channel>
-</rss>

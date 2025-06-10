@@ -1,20 +1,7 @@
 # 監視対象のOSSリポジトリ設定
 repositories:
-  - owner: facebook
-    name: react
-    description: "A declarative, efficient, and flexible JavaScript library for building user interfaces."
-  - owner: microsoft
-    name: vscode
-    description: "Visual Studio Code"
-  - owner: golang
-    name: go
-    description: "The Go programming language"
-  - owner: kubernetes
-    name: kubernetes
-    description: "Production-Grade Container Scheduling and Management"
-  - owner: nodejs
-    name: node
-    description: "Node.js JavaScript runtime"
+  - owner: modelcontextprotocol
+    name: modelcontextprotocol
 
 # RSS設定
 rss:
@@ -22,8 +9,8 @@ rss:
   description: "Recent merged pull requests from popular open source projects"
   link: "https://yokonao.github.io/merged-pr-rss/"
   author:
-    name: "RSS Bot"
-    email: "bot@example.com"
+    name: "Nao Yokotsuka"
+    email: "yokotsukanao@gmail.com"
 
 # GitHub API設定
 github:
