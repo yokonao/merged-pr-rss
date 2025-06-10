@@ -1,0 +1,1927 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>OSS Merged PRs Feed</title>
+    <link>https://yokonao.github.io/merged-pr-rss/</link>
+    <description>Recent merged pull requests from popular open source projects</description>
+    <managingEditor>bot@example.com (RSS Bot)</managingEditor>
+    <pubDate>Wed, 11 Jun 2025 06:27:30 +0900</pubDate>
+    <item>
+      <title>[microsoft/vscode] de-dupe terminal suggest commands for which there are specs</title>
+      <link>https://github.com/microsoft/vscode/pull/251142</link>
+      <description>Merged by meganrogge in microsoft/vscode - Visual Studio Code</description>
+      <author>meganrogge</author>
+      <pubDate>Tue, 10 Jun 2025 21:18:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] update github.com/spf13/cobra v1.9.1</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/132209</link>
+      <description>Merged by dims in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>dims</author>
+      <pubDate>Tue, 10 Jun 2025 19:45:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] KEP-4633: Graduate to Stable.</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131654</link>
+      <description>Merged by vinayakankugoyal in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>vinayakankugoyal</author>
+      <pubDate>Tue, 10 Jun 2025 19:44:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] more certainty for resuming the paused emitter</title>
+      <link>https://github.com/microsoft/vscode/pull/251130</link>
+      <description>Merged by amunger in microsoft/vscode - Visual Studio Code</description>
+      <author>amunger</author>
+      <pubDate>Tue, 10 Jun 2025 19:30:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] tools: respect chat.editor.wordWrap setting in tool confirms</title>
+      <link>https://github.com/microsoft/vscode/pull/251133</link>
+      <description>Merged by connor4312 in microsoft/vscode - Visual Studio Code</description>
+      <author>connor4312</author>
+      <pubDate>Tue, 10 Jun 2025 19:25:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] add multi-command support for terminal suggest</title>
+      <link>https://github.com/microsoft/vscode/pull/250910</link>
+      <description>Merged by meganrogge in microsoft/vscode - Visual Studio Code</description>
+      <author>meganrogge</author>
+      <pubDate>Tue, 10 Jun 2025 19:18:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] support resource completions for `Git Bash`</title>
+      <link>https://github.com/microsoft/vscode/pull/251120</link>
+      <description>Merged by meganrogge in microsoft/vscode - Visual Studio Code</description>
+      <author>meganrogge</author>
+      <pubDate>Tue, 10 Jun 2025 19:17:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] skip mandatory signature verification for linux arm</title>
+      <link>https://github.com/microsoft/vscode/pull/251125</link>
+      <description>Merged by sandy081 in microsoft/vscode - Visual Studio Code</description>
+      <author>sandy081</author>
+      <pubDate>Tue, 10 Jun 2025 18:31:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] [KEP-4369]: Graduate RelaxedEnvironmentVariableValidation to GA</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/132054</link>
+      <description>Merged by HirazawaUi in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>HirazawaUi</author>
+      <pubDate>Tue, 10 Jun 2025 18:19:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] Promote feature OrderedNamespaceDeletion to GA.</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131514</link>
+      <description>Merged by cici37 in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>cici37</author>
+      <pubDate>Tue, 10 Jun 2025 18:18:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] Allow unregistering registerSchemaContribution</title>
+      <link>https://github.com/microsoft/vscode/pull/233733</link>
+      <description>Merged by mjbvz in microsoft/vscode - Visual Studio Code</description>
+      <author>mjbvz</author>
+      <pubDate>Tue, 10 Jun 2025 18:04:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] Allow menu bar to get more space when there is no window title</title>
+      <link>https://github.com/microsoft/vscode/pull/251113</link>
+      <description>Merged by benibenj in microsoft/vscode - Visual Studio Code</description>
+      <author>benibenj</author>
+      <pubDate>Tue, 10 Jun 2025 17:00:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] fs: allow correct handling of burst in fs-events with AsyncIterator</title>
+      <link>https://github.com/nodejs/node/pull/58490</link>
+      <description>Merged by pipobscure in nodejs/node - Node.js JavaScript runtime</description>
+      <author>pipobscure</author>
+      <pubDate>Tue, 10 Jun 2025 16:27:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] kubectl: sort configmap data alphabetically to avoid random order</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131500</link>
+      <description>Merged by HaraldNordgren in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>HaraldNordgren</author>
+      <pubDate>Tue, 10 Jun 2025 16:04:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] Add color variable to define the color of sticky scroll within the gutter</title>
+      <link>https://github.com/microsoft/vscode/pull/251108</link>
+      <description>Merged by aiday-mar in microsoft/vscode - Visual Studio Code</description>
+      <author>aiday-mar</author>
+      <pubDate>Tue, 10 Jun 2025 15:32:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] fix: revert to NSAccessibilityStaticTextRole for list elements</title>
+      <link>https://github.com/microsoft/vscode/pull/251059</link>
+      <description>Merged by deepak1556 in microsoft/vscode - Visual Studio Code</description>
+      <author>deepak1556</author>
+      <pubDate>Tue, 10 Jun 2025 15:10:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>[facebook/react] [Flight] Emit timestamps only in forwards advancing time in debug info</title>
+      <link>https://github.com/facebook/react/pull/33482</link>
+      <description>Merged by sebmarkbage in facebook/react - A declarative, efficient, and flexible JavaScript library for building user interfaces.</description>
+      <author>sebmarkbage</author>
+      <pubDate>Tue, 10 Jun 2025 15:03:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] Fix onDidChangeCustomChatModes not firing for user data mode changes</title>
+      <link>https://github.com/microsoft/vscode/pull/251012</link>
+      <description>Merged by aeschli in microsoft/vscode - Visual Studio Code</description>
+      <author>aeschli</author>
+      <pubDate>Tue, 10 Jun 2025 14:59:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] Fix #250737,  Match count result overflow in Notebook findWidget</title>
+      <link>https://github.com/microsoft/vscode/pull/250738</link>
+      <description>Merged by yiliang114 in microsoft/vscode - Visual Studio Code</description>
+      <author>yiliang114</author>
+      <pubDate>Tue, 10 Jun 2025 14:53:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] chore - add some editing tests</title>
+      <link>https://github.com/microsoft/vscode/pull/251104</link>
+      <description>Merged by jrieken in microsoft/vscode - Visual Studio Code</description>
+      <author>jrieken</author>
+      <pubDate>Tue, 10 Jun 2025 14:40:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] My install keeps getting bricked due to log file permissions (#250861)</title>
+      <link>https://github.com/microsoft/vscode/pull/251095</link>
+      <description>Merged by bpasero in microsoft/vscode - Visual Studio Code</description>
+      <author>bpasero</author>
+      <pubDate>Tue, 10 Jun 2025 14:33:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] Revert &#34;file watcher - log extension host created watcher logic&#34;</title>
+      <link>https://github.com/microsoft/vscode/pull/251085</link>
+      <description>Merged by bpasero in microsoft/vscode - Visual Studio Code</description>
+      <author>bpasero</author>
+      <pubDate>Tue, 10 Jun 2025 14:16:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] fix: smoke tests for stable with editcontext enabled</title>
+      <link>https://github.com/microsoft/vscode/pull/251056</link>
+      <description>Merged by deepak1556 in microsoft/vscode - Visual Studio Code</description>
+      <author>deepak1556</author>
+      <pubDate>Tue, 10 Jun 2025 13:33:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] Build k8s using latest commit of golang</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/132197</link>
+      <description>Merged by dims in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>dims</author>
+      <pubDate>Tue, 10 Jun 2025 13:14:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] test: skip tests failing when run under root</title>
+      <link>https://github.com/nodejs/node/pull/58610</link>
+      <description>Merged by LiviaMedeiros in nodejs/node - Node.js JavaScript runtime</description>
+      <author>LiviaMedeiros</author>
+      <pubDate>Tue, 10 Jun 2025 12:57:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] Refactoring sticky scroll CSS file</title>
+      <link>https://github.com/microsoft/vscode/pull/251094</link>
+      <description>Merged by aiday-mar in microsoft/vscode - Visual Studio Code</description>
+      <author>aiday-mar</author>
+      <pubDate>Tue, 10 Jun 2025 12:08:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] Color Picker: fix incorrect ternary condition definition</title>
+      <link>https://github.com/microsoft/vscode/pull/251090</link>
+      <description>Merged by aiday-mar in microsoft/vscode - Visual Studio Code</description>
+      <author>aiday-mar</author>
+      <pubDate>Tue, 10 Jun 2025 12:07:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] src: make global error message vectors const in contextify</title>
+      <link>https://github.com/nodejs/node/pull/58580</link>
+      <description>Merged by mertcanaltin in nodejs/node - Node.js JavaScript runtime</description>
+      <author>mertcanaltin</author>
+      <pubDate>Tue, 10 Jun 2025 10:59:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] Drop unused testing manifest</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/132203</link>
+      <description>Merged by soltysh in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>soltysh</author>
+      <pubDate>Tue, 10 Jun 2025 10:56:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] Adding slash in front of uri path if untitled file</title>
+      <link>https://github.com/microsoft/vscode/pull/251087</link>
+      <description>Merged by aiday-mar in microsoft/vscode - Visual Studio Code</description>
+      <author>aiday-mar</author>
+      <pubDate>Tue, 10 Jun 2025 09:40:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] test: cleanup status files</title>
+      <link>https://github.com/nodejs/node/pull/58633</link>
+      <description>Merged by panva in nodejs/node - Node.js JavaScript runtime</description>
+      <author>panva</author>
+      <pubDate>Tue, 10 Jun 2025 09:33:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] remove cyclic dep</title>
+      <link>https://github.com/microsoft/vscode/pull/251086</link>
+      <description>Merged by sandy081 in microsoft/vscode - Visual Studio Code</description>
+      <author>sandy081</author>
+      <pubDate>Tue, 10 Jun 2025 09:23:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] fix #249149</title>
+      <link>https://github.com/microsoft/vscode/pull/250649</link>
+      <description>Merged by sandy081 in microsoft/vscode - Visual Studio Code</description>
+      <author>sandy081</author>
+      <pubDate>Tue, 10 Jun 2025 08:33:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] add trace logging for word based completions</title>
+      <link>https://github.com/microsoft/vscode/pull/251082</link>
+      <description>Merged by jrieken in microsoft/vscode - Visual Studio Code</description>
+      <author>jrieken</author>
+      <pubDate>Tue, 10 Jun 2025 08:29:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] Add context to Count() method of storage interface</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/132191</link>
+      <description>Merged by AwesomePatrol in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>AwesomePatrol</author>
+      <pubDate>Tue, 10 Jun 2025 07:52:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] (Reland) fix: smoke tests for stable with editcontext enabled</title>
+      <link>https://github.com/microsoft/vscode/pull/251074</link>
+      <description>Merged by deepak1556 in microsoft/vscode - Visual Studio Code</description>
+      <author>deepak1556</author>
+      <pubDate>Tue, 10 Jun 2025 07:44:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] ensure the editor model always has a valid selection value</title>
+      <link>https://github.com/microsoft/vscode/pull/251032</link>
+      <description>Merged by amunger in microsoft/vscode - Visual Studio Code</description>
+      <author>amunger</author>
+      <pubDate>Tue, 10 Jun 2025 07:10:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] fix: revert to NSAccessibilityStaticTextRole for list elements</title>
+      <link>https://github.com/microsoft/vscode/pull/251057</link>
+      <description>Merged by deepak1556 in microsoft/vscode - Visual Studio Code</description>
+      <author>deepak1556</author>
+      <pubDate>Tue, 10 Jun 2025 06:47:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] Revert &#34;fix: smoke tests for stable with editcontext enabled (#251055)&#34;</title>
+      <link>https://github.com/microsoft/vscode/pull/251075</link>
+      <description>Merged by deepak1556 in microsoft/vscode - Visual Studio Code</description>
+      <author>deepak1556</author>
+      <pubDate>Tue, 10 Jun 2025 06:47:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] debt - reduce some explicit `any`</title>
+      <link>https://github.com/microsoft/vscode/pull/251073</link>
+      <description>Merged by bpasero in microsoft/vscode - Visual Studio Code</description>
+      <author>bpasero</author>
+      <pubDate>Tue, 10 Jun 2025 05:48:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] notifications - add and use `withSeverityPrefix`</title>
+      <link>https://github.com/microsoft/vscode/pull/251067</link>
+      <description>Merged by bpasero in microsoft/vscode - Visual Studio Code</description>
+      <author>bpasero</author>
+      <pubDate>Tue, 10 Jun 2025 05:48:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] Fix incorrect logging of insufficientResources in preemption</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/132183</link>
+      <description>Merged by chrisy-x in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>chrisy-x</author>
+      <pubDate>Tue, 10 Jun 2025 03:50:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] fix: smoke tests for stable with editcontext enabled</title>
+      <link>https://github.com/microsoft/vscode/pull/251055</link>
+      <description>Merged by deepak1556 in microsoft/vscode - Visual Studio Code</description>
+      <author>deepak1556</author>
+      <pubDate>Tue, 10 Jun 2025 03:36:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] deps: update sqlite to 3.50.1</title>
+      <link>https://github.com/nodejs/node/pull/58630</link>
+      <description>Merged by nodejs-github-bot in nodejs/node - Node.js JavaScript runtime</description>
+      <author>nodejs-github-bot</author>
+      <pubDate>Tue, 10 Jun 2025 01:07:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] deps: update simdjson to 3.13.0</title>
+      <link>https://github.com/nodejs/node/pull/58629</link>
+      <description>Merged by nodejs-github-bot in nodejs/node - Node.js JavaScript runtime</description>
+      <author>nodejs-github-bot</author>
+      <pubDate>Tue, 10 Jun 2025 01:07:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] deps: update zlib to 1.3.1-470d3a2</title>
+      <link>https://github.com/nodejs/node/pull/58628</link>
+      <description>Merged by nodejs-github-bot in nodejs/node - Node.js JavaScript runtime</description>
+      <author>nodejs-github-bot</author>
+      <pubDate>Tue, 10 Jun 2025 01:07:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] check tool specific enablement when reading tool set</title>
+      <link>https://github.com/microsoft/vscode/pull/250984</link>
+      <description>Merged by jrieken in microsoft/vscode - Visual Studio Code</description>
+      <author>jrieken</author>
+      <pubDate>Tue, 10 Jun 2025 00:14:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[facebook/react] [Fiber] Fix hydration of useId in SuspenseList</title>
+      <link>https://github.com/facebook/react/pull/33491</link>
+      <description>Merged by sebmarkbage in facebook/react - A declarative, efficient, and flexible JavaScript library for building user interfaces.</description>
+      <author>sebmarkbage</author>
+      <pubDate>Mon, 09 Jun 2025 23:37:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] src: add new CopyUtimes function to reduce code duplication</title>
+      <link>https://github.com/nodejs/node/pull/58625</link>
+      <description>Merged by dario-piotrowicz in nodejs/node - Node.js JavaScript runtime</description>
+      <author>dario-piotrowicz</author>
+      <pubDate>Mon, 09 Jun 2025 23:35:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] Polish AI search toggle UX</title>
+      <link>https://github.com/microsoft/vscode/pull/251045</link>
+      <description>Merged by rzhao271 in microsoft/vscode - Visual Studio Code</description>
+      <author>rzhao271</author>
+      <pubDate>Mon, 09 Jun 2025 23:01:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] fix disposable leaks while creating native REPL</title>
+      <link>https://github.com/microsoft/vscode/pull/251044</link>
+      <description>Merged by amunger in microsoft/vscode - Visual Studio Code</description>
+      <author>amunger</author>
+      <pubDate>Mon, 09 Jun 2025 22:28:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] 2025-06-09, Version 24.2.0 (Current)</title>
+      <link>https://github.com/nodejs/node/pull/58635</link>
+      <description>Merged by github-actions[bot] in nodejs/node - Node.js JavaScript runtime</description>
+      <author>github-actions[bot]</author>
+      <pubDate>Mon, 09 Jun 2025 21:46:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] mcp: fix using vscode-remote schemes for MCP servers, use file uris instead</title>
+      <link>https://github.com/microsoft/vscode/pull/251042</link>
+      <description>Merged by connor4312 in microsoft/vscode - Visual Studio Code</description>
+      <author>connor4312</author>
+      <pubDate>Mon, 09 Jun 2025 21:32:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] Fix scrolling not working when hovering on notebook sticky scroll</title>
+      <link>https://github.com/microsoft/vscode/pull/251028</link>
+      <description>Merged by Copilot in microsoft/vscode - Visual Studio Code</description>
+      <author>Copilot</author>
+      <pubDate>Mon, 09 Jun 2025 21:11:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] Accessibility: Add severity prefixes to notification aria-labels for WCAG 4.1.3 compliance</title>
+      <link>https://github.com/microsoft/vscode/pull/250864</link>
+      <description>Merged by Copilot in microsoft/vscode - Visual Studio Code</description>
+      <author>Copilot</author>
+      <pubDate>Mon, 09 Jun 2025 20:01:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] clarify IPolicy.defaultValue</title>
+      <link>https://github.com/microsoft/vscode/pull/251034</link>
+      <description>Merged by joshspicer in microsoft/vscode - Visual Studio Code</description>
+      <author>joshspicer</author>
+      <pubDate>Mon, 09 Jun 2025 19:50:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] chore: adopt EditorOption.lineHeight for various components</title>
+      <link>https://github.com/microsoft/vscode/pull/251029</link>
+      <description>Merged by connor4312 in microsoft/vscode - Visual Studio Code</description>
+      <author>connor4312</author>
+      <pubDate>Mon, 09 Jun 2025 19:35:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] VS Code fails silently when no default browser is set — GitHub authentication hangs without fallback (fix #250895)</title>
+      <link>https://github.com/microsoft/vscode/pull/251009</link>
+      <description>Merged by bpasero in microsoft/vscode - Visual Studio Code</description>
+      <author>bpasero</author>
+      <pubDate>Mon, 09 Jun 2025 19:08:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] New Welcome Experience: Last slide and button label </title>
+      <link>https://github.com/microsoft/vscode/pull/250362</link>
+      <description>Merged by eli-w-king in microsoft/vscode - Visual Studio Code</description>
+      <author>eli-w-king</author>
+      <pubDate>Mon, 09 Jun 2025 18:38:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] frontMatter parsers: fix cyclic runtime dependencies</title>
+      <link>https://github.com/microsoft/vscode/pull/251024</link>
+      <description>Merged by aeschli in microsoft/vscode - Visual Studio Code</description>
+      <author>aeschli</author>
+      <pubDate>Mon, 09 Jun 2025 18:32:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] more API todos</title>
+      <link>https://github.com/microsoft/vscode/pull/251023</link>
+      <description>Merged by jrieken in microsoft/vscode - Visual Studio Code</description>
+      <author>jrieken</author>
+      <pubDate>Mon, 09 Jun 2025 18:30:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] test_runner: support object property mocking</title>
+      <link>https://github.com/nodejs/node/pull/58438</link>
+      <description>Merged by idango10 in nodejs/node - Node.js JavaScript runtime</description>
+      <author>idango10</author>
+      <pubDate>Mon, 09 Jun 2025 17:57:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] fix incorrect comments</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131547</link>
+      <description>Merged by carlory in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>carlory</author>
+      <pubDate>Mon, 09 Jun 2025 17:52:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] api notes/todos</title>
+      <link>https://github.com/microsoft/vscode/pull/251020</link>
+      <description>Merged by jrieken in microsoft/vscode - Visual Studio Code</description>
+      <author>jrieken</author>
+      <pubDate>Mon, 09 Jun 2025 17:33:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>[facebook/react] refactor[devtools]: update css for settings and support css variables in shadow dom scnenario</title>
+      <link>https://github.com/facebook/react/pull/33487</link>
+      <description>Merged by hoxyq in facebook/react - A declarative, efficient, and flexible JavaScript library for building user interfaces.</description>
+      <author>hoxyq</author>
+      <pubDate>Mon, 09 Jun 2025 17:25:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] crypto: runtime deprecate ECDH.setPublicKey()</title>
+      <link>https://github.com/nodejs/node/pull/58620</link>
+      <description>Merged by jasnell in nodejs/node - Node.js JavaScript runtime</description>
+      <author>jasnell</author>
+      <pubDate>Mon, 09 Jun 2025 15:53:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>[facebook/react] [compiler]: fix link compiler &amp; 4 broken tests from path containing spaces</title>
+      <link>https://github.com/facebook/react/pull/33409</link>
+      <description>Merged by wlemahieu in facebook/react - A declarative, efficient, and flexible JavaScript library for building user interfaces.</description>
+      <author>wlemahieu</author>
+      <pubDate>Mon, 09 Jun 2025 15:40:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] async_hooks: move `asyncResource` property on bound function to EOL</title>
+      <link>https://github.com/nodejs/node/pull/58618</link>
+      <description>Merged by jasnell in nodejs/node - Node.js JavaScript runtime</description>
+      <author>jasnell</author>
+      <pubDate>Mon, 09 Jun 2025 15:20:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] kube-proxy: conditionally skip e2e</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131490</link>
+      <description>Merged by aroradaman in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>aroradaman</author>
+      <pubDate>Mon, 09 Jun 2025 14:42:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] test: close FileHandle objects in tests explicitly</title>
+      <link>https://github.com/nodejs/node/pull/58615</link>
+      <description>Merged by jasnell in nodejs/node - Node.js JavaScript runtime</description>
+      <author>jasnell</author>
+      <pubDate>Mon, 09 Jun 2025 14:36:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] src: replace V8 Fast API todo comment with note comment</title>
+      <link>https://github.com/nodejs/node/pull/58614</link>
+      <description>Merged by dario-piotrowicz in nodejs/node - Node.js JavaScript runtime</description>
+      <author>dario-piotrowicz</author>
+      <pubDate>Mon, 09 Jun 2025 14:22:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>[facebook/react] [Flight] Simulate fetch to third party in fixture</title>
+      <link>https://github.com/facebook/react/pull/33484</link>
+      <description>Merged by sebmarkbage in facebook/react - A declarative, efficient, and flexible JavaScript library for building user interfaces.</description>
+      <author>sebmarkbage</author>
+      <pubDate>Mon, 09 Jun 2025 14:04:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[facebook/react] [compiler] Don&#39;t include useEffectEvent values in autodeps</title>
+      <link>https://github.com/facebook/react/pull/33450</link>
+      <description>Merged by jbrown215 in facebook/react - A declarative, efficient, and flexible JavaScript library for building user interfaces.</description>
+      <author>jbrown215</author>
+      <pubDate>Mon, 09 Jun 2025 13:26:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[facebook/react] Format `ReactNativeAttributePayloadFabric.js` with Prettier</title>
+      <link>https://github.com/facebook/react/pull/33486</link>
+      <description>Merged by unstubbable in facebook/react - A declarative, efficient, and flexible JavaScript library for building user interfaces.</description>
+      <author>unstubbable</author>
+      <pubDate>Mon, 09 Jun 2025 11:42:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] metadata client: remove support for API streaming</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/132149</link>
+      <description>Merged by p0lyn0mial in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>p0lyn0mial</author>
+      <pubDate>Mon, 09 Jun 2025 10:38:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>[facebook/react] feat(ReactNative): prioritize attribute config `process` function to allow processing function props</title>
+      <link>https://github.com/facebook/react/pull/32119</link>
+      <description>Merged by hannojg in facebook/react - A declarative, efficient, and flexible JavaScript library for building user interfaces.</description>
+      <author>hannojg</author>
+      <pubDate>Mon, 09 Jun 2025 09:55:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] doc: add path rules and validation for export targets in package.json</title>
+      <link>https://github.com/nodejs/node/pull/58604</link>
+      <description>Merged by 0hmX in nodejs/node - Node.js JavaScript runtime</description>
+      <author>0hmX</author>
+      <pubDate>Mon, 09 Jun 2025 08:30:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] tolerate newer golang/oauth2 version in TestTokenSourceTransportRoundTrip</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/132176</link>
+      <description>Merged by dims in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>dims</author>
+      <pubDate>Mon, 09 Jun 2025 03:38:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] Iperf output parsing for v2.2.0+</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/132180</link>
+      <description>Merged by aroradaman in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>aroradaman</author>
+      <pubDate>Sun, 08 Jun 2025 14:50:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] test: improve flakiness detection on stack corruption tests</title>
+      <link>https://github.com/nodejs/node/pull/58601</link>
+      <description>Merged by RaisinTen in nodejs/node - Node.js JavaScript runtime</description>
+      <author>RaisinTen</author>
+      <pubDate>Sun, 08 Jun 2025 13:17:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] doc,lib: update source map links to ECMA426</title>
+      <link>https://github.com/nodejs/node/pull/58597</link>
+      <description>Merged by legendecas in nodejs/node - Node.js JavaScript runtime</description>
+      <author>legendecas</author>
+      <pubDate>Sun, 08 Jun 2025 10:30:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] Fix kubelet iptables startup, clarify semantics of utiliptables calls.</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/132170</link>
+      <description>Merged by danwinship in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>danwinship</author>
+      <pubDate>Sun, 08 Jun 2025 09:56:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>[facebook/react] [Flight] Use Web Streams APIs for 3rd-party component in Flight fixture</title>
+      <link>https://github.com/facebook/react/pull/33481</link>
+      <description>Merged by unstubbable in facebook/react - A declarative, efficient, and flexible JavaScript library for building user interfaces.</description>
+      <author>unstubbable</author>
+      <pubDate>Sun, 08 Jun 2025 04:33:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] doc: deprecate utilsNativeError in favor of ErrorisError</title>
+      <link>https://github.com/nodejs/node/pull/58262</link>
+      <description>Merged by miguelmarcondesf in nodejs/node - Node.js JavaScript runtime</description>
+      <author>miguelmarcondesf</author>
+      <pubDate>Sun, 08 Jun 2025 03:46:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>[facebook/react] [Flight] Add Web Streams APIs to unbundled Node entries for Webpack</title>
+      <link>https://github.com/facebook/react/pull/33480</link>
+      <description>Merged by unstubbable in facebook/react - A declarative, efficient, and flexible JavaScript library for building user interfaces.</description>
+      <author>unstubbable</author>
+      <pubDate>Sat, 07 Jun 2025 21:39:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>[facebook/react] [Flight] Clarify Semantics for Awaiting Cached Data</title>
+      <link>https://github.com/facebook/react/pull/33438</link>
+      <description>Merged by sebmarkbage in facebook/react - A declarative, efficient, and flexible JavaScript library for building user interfaces.</description>
+      <author>sebmarkbage</author>
+      <pubDate>Sat, 07 Jun 2025 21:26:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] doc: add support link for panva</title>
+      <link>https://github.com/nodejs/node/pull/58591</link>
+      <description>Merged by panva in nodejs/node - Node.js JavaScript runtime</description>
+      <author>panva</author>
+      <pubDate>Sat, 07 Jun 2025 20:14:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] deps: use proper C standard when building libuv</title>
+      <link>https://github.com/nodejs/node/pull/58587</link>
+      <description>Merged by thunder-coding in nodejs/node - Node.js JavaScript runtime</description>
+      <author>thunder-coding</author>
+      <pubDate>Sat, 07 Jun 2025 15:45:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>[facebook/react] [Flight] Add &#34;use ...&#34; boundary after the change instead of before it</title>
+      <link>https://github.com/facebook/react/pull/33478</link>
+      <description>Merged by sebmarkbage in facebook/react - A declarative, efficient, and flexible JavaScript library for building user interfaces.</description>
+      <author>sebmarkbage</author>
+      <pubDate>Sat, 07 Jun 2025 15:28:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] fs: improve cpSync no-filter copyDir performance</title>
+      <link>https://github.com/nodejs/node/pull/58461</link>
+      <description>Merged by dario-piotrowicz in nodejs/node - Node.js JavaScript runtime</description>
+      <author>dario-piotrowicz</author>
+      <pubDate>Sat, 07 Jun 2025 14:44:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>[facebook/react] [Flight] Add Web Stream support to the Flight Server in Node</title>
+      <link>https://github.com/facebook/react/pull/33474</link>
+      <description>Merged by sebmarkbage in facebook/react - A declarative, efficient, and flexible JavaScript library for building user interfaces.</description>
+      <author>sebmarkbage</author>
+      <pubDate>Sat, 07 Jun 2025 14:40:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] src,permission: implicit allow-fs-read to app entrypoint</title>
+      <link>https://github.com/nodejs/node/pull/58579</link>
+      <description>Merged by RafaelGSS in nodejs/node - Node.js JavaScript runtime</description>
+      <author>RafaelGSS</author>
+      <pubDate>Sat, 07 Jun 2025 13:33:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] deps: update simdjson to 3.12.3</title>
+      <link>https://github.com/nodejs/node/pull/57682</link>
+      <description>Merged by nodejs-github-bot in nodejs/node - Node.js JavaScript runtime</description>
+      <author>nodejs-github-bot</author>
+      <pubDate>Sat, 07 Jun 2025 09:40:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] deps: update nghttp2 to 1.65.0</title>
+      <link>https://github.com/nodejs/node/pull/57269</link>
+      <description>Merged by nodejs-github-bot in nodejs/node - Node.js JavaScript runtime</description>
+      <author>nodejs-github-bot</author>
+      <pubDate>Sat, 07 Jun 2025 09:30:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] deps: update googletest to e9092b1</title>
+      <link>https://github.com/nodejs/node/pull/58565</link>
+      <description>Merged by nodejs-github-bot in nodejs/node - Node.js JavaScript runtime</description>
+      <author>nodejs-github-bot</author>
+      <pubDate>Sat, 07 Jun 2025 09:19:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] meta: bump github/codeql-action from 3.28.16 to 3.28.18</title>
+      <link>https://github.com/nodejs/node/pull/58552</link>
+      <description>Merged by dependabot[bot] in nodejs/node - Node.js JavaScript runtime</description>
+      <author>dependabot[bot]</author>
+      <pubDate>Sat, 07 Jun 2025 09:07:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] meta: bump codecov/codecov-action from 5.4.2 to 5.4.3</title>
+      <link>https://github.com/nodejs/node/pull/58551</link>
+      <description>Merged by dependabot[bot] in nodejs/node - Node.js JavaScript runtime</description>
+      <author>dependabot[bot]</author>
+      <pubDate>Sat, 07 Jun 2025 09:06:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] meta: bump step-security/harden-runner from 2.11.0 to 2.12.0</title>
+      <link>https://github.com/nodejs/node/pull/58109</link>
+      <description>Merged by dependabot[bot] in nodejs/node - Node.js JavaScript runtime</description>
+      <author>dependabot[bot]</author>
+      <pubDate>Sat, 07 Jun 2025 08:56:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] kube-proxy: log iptables errors in platformCheckSupported</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131534</link>
+      <description>Merged by aroradaman in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>aroradaman</author>
+      <pubDate>Sat, 07 Jun 2025 04:08:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>[facebook/react] [Fizz] Add Web Streams to Fizz Node entry point</title>
+      <link>https://github.com/facebook/react/pull/33475</link>
+      <description>Merged by sebmarkbage in facebook/react - A declarative, efficient, and flexible JavaScript library for building user interfaces.</description>
+      <author>sebmarkbage</author>
+      <pubDate>Sat, 07 Jun 2025 00:16:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>[facebook/react] [Fizz] Include unit of threshold in rel=expect deopt error</title>
+      <link>https://github.com/facebook/react/pull/33476</link>
+      <description>Merged by eps1lon in facebook/react - A declarative, efficient, and flexible JavaScript library for building user interfaces.</description>
+      <author>eps1lon</author>
+      <pubDate>Sat, 07 Jun 2025 00:11:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] src: env_vars caching and local variable scope optimization</title>
+      <link>https://github.com/nodejs/node/pull/57624</link>
+      <description>Merged by mertcanaltin in nodejs/node - Node.js JavaScript runtime</description>
+      <author>mertcanaltin</author>
+      <pubDate>Fri, 06 Jun 2025 23:30:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] kuberuntime_manager: don&#39;t log entire container spec.</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/132139</link>
+      <description>Merged by hoskeri in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>hoskeri</author>
+      <pubDate>Fri, 06 Jun 2025 22:04:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[facebook/react] [Flight] Add Web Stream support to the Flight Client in Node</title>
+      <link>https://github.com/facebook/react/pull/33473</link>
+      <description>Merged by sebmarkbage in facebook/react - A declarative, efficient, and flexible JavaScript library for building user interfaces.</description>
+      <author>sebmarkbage</author>
+      <pubDate>Fri, 06 Jun 2025 21:14:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] KEP-3329: drop PodDisruptionConditions feature gate</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/132148</link>
+      <description>Merged by soltysh in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>soltysh</author>
+      <pubDate>Fri, 06 Jun 2025 20:38:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] Clean backoff record earlier</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/132109</link>
+      <description>Merged by linxiulei in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>linxiulei</author>
+      <pubDate>Fri, 06 Jun 2025 20:38:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[facebook/react] Revert Node Web Streams</title>
+      <link>https://github.com/facebook/react/pull/33472</link>
+      <description>Merged by sebmarkbage in facebook/react - A declarative, efficient, and flexible JavaScript library for building user interfaces.</description>
+      <author>sebmarkbage</author>
+      <pubDate>Fri, 06 Jun 2025 20:26:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] Update PR template with more guidance around issue links</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/132111</link>
+      <description>Merged by jenshu in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>jenshu</author>
+      <pubDate>Fri, 06 Jun 2025 19:00:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] kubelet: add coverage for identical kubelet config and drop-in config content</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/129460</link>
+      <description>Merged by sohankunkerkar in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>sohankunkerkar</author>
+      <pubDate>Fri, 06 Jun 2025 19:00:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>[facebook/react] [Fizz] Support deeply nested Suspense inside fallback</title>
+      <link>https://github.com/facebook/react/pull/33467</link>
+      <description>Merged by gnoff in facebook/react - A declarative, efficient, and flexible JavaScript library for building user interfaces.</description>
+      <author>gnoff</author>
+      <pubDate>Fri, 06 Jun 2025 18:59:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>[facebook/react] [Fizz] Shorten throttle to hit a specific target metric</title>
+      <link>https://github.com/facebook/react/pull/33463</link>
+      <description>Merged by sebmarkbage in facebook/react - A declarative, efficient, and flexible JavaScript library for building user interfaces.</description>
+      <author>sebmarkbage</author>
+      <pubDate>Fri, 06 Jun 2025 18:01:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>[facebook/react] [ci] Fix missing permissions for stale job</title>
+      <link>https://github.com/facebook/react/pull/33466</link>
+      <description>Merged by poteto in facebook/react - A declarative, efficient, and flexible JavaScript library for building user interfaces.</description>
+      <author>poteto</author>
+      <pubDate>Fri, 06 Jun 2025 17:32:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] Replace queue.FIFOs with k8s.io/utils/buffer.Ring</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/132103</link>
+      <description>Merged by nojnhuh in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>nojnhuh</author>
+      <pubDate>Fri, 06 Jun 2025 17:26:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] KEP-3715: drop ElasticIndexedJob feature gate</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/132147</link>
+      <description>Merged by soltysh in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>soltysh</author>
+      <pubDate>Fri, 06 Jun 2025 15:16:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[facebook/react] [Flight] Build Node.js Web Streams builds for Turbopack and Parcel</title>
+      <link>https://github.com/facebook/react/pull/33457</link>
+      <description>Merged by sebmarkbage in facebook/react - A declarative, efficient, and flexible JavaScript library for building user interfaces.</description>
+      <author>sebmarkbage</author>
+      <pubDate>Fri, 06 Jun 2025 15:07:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>[facebook/react] [Flight] Build node-webstreams version of bundled webpack server</title>
+      <link>https://github.com/facebook/react/pull/33456</link>
+      <description>Merged by sebmarkbage in facebook/react - A declarative, efficient, and flexible JavaScript library for building user interfaces.</description>
+      <author>sebmarkbage</author>
+      <pubDate>Fri, 06 Jun 2025 15:07:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>[facebook/react] [Fizz] Error and deopt from rel=expect for large documents without boundaries</title>
+      <link>https://github.com/facebook/react/pull/33454</link>
+      <description>Merged by sebmarkbage in facebook/react - A declarative, efficient, and flexible JavaScript library for building user interfaces.</description>
+      <author>sebmarkbage</author>
+      <pubDate>Fri, 06 Jun 2025 14:29:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>[facebook/react] [Fizz] Suspensey Images for View Transition Reveals</title>
+      <link>https://github.com/facebook/react/pull/33433</link>
+      <description>Merged by sebmarkbage in facebook/react - A declarative, efficient, and flexible JavaScript library for building user interfaces.</description>
+      <author>sebmarkbage</author>
+      <pubDate>Fri, 06 Jun 2025 14:14:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>[facebook/react] [tests] remove pretest compiler script</title>
+      <link>https://github.com/facebook/react/pull/33452</link>
+      <description>Merged by rickhanlonii in facebook/react - A declarative, efficient, and flexible JavaScript library for building user interfaces.</description>
+      <author>rickhanlonii</author>
+      <pubDate>Fri, 06 Jun 2025 13:16:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] src: support namespace options in configuration</title>
+      <link>https://github.com/nodejs/node/pull/58073</link>
+      <description>Merged by pmarchini in nodejs/node - Node.js JavaScript runtime</description>
+      <author>pmarchini</author>
+      <pubDate>Fri, 06 Jun 2025 12:47:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] src: remove node.h APIs to make callback without an async context</title>
+      <link>https://github.com/nodejs/node/pull/58471</link>
+      <description>Merged by legendecas in nodejs/node - Node.js JavaScript runtime</description>
+      <author>legendecas</author>
+      <pubDate>Fri, 06 Jun 2025 10:50:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] fix TestNodeAffinityPriority</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/132142</link>
+      <description>Merged by carlory in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>carlory</author>
+      <pubDate>Fri, 06 Jun 2025 09:38:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] Fix `windows-pause-image-base:&lt;tag&gt;@&lt;digest&gt;` invalid reference format </title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131258</link>
+      <description>Merged by ArkaSaha30 in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>ArkaSaha30</author>
+      <pubDate>Fri, 06 Jun 2025 07:26:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] test: mark timeouts &amp; flaky test as flaky on IBM i</title>
+      <link>https://github.com/nodejs/node/pull/58583</link>
+      <description>Merged by abmusse in nodejs/node - Node.js JavaScript runtime</description>
+      <author>abmusse</author>
+      <pubDate>Fri, 06 Jun 2025 05:48:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>[facebook/react] [Flight] Bypass caches in Flight fixture if requested</title>
+      <link>https://github.com/facebook/react/pull/33445</link>
+      <description>Merged by unstubbable in facebook/react - A declarative, efficient, and flexible JavaScript library for building user interfaces.</description>
+      <author>unstubbable</author>
+      <pubDate>Fri, 06 Jun 2025 04:42:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] Automated cherry pick of #131623: kubelet: userns: Improve errors returned to the user</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131782</link>
+      <description>Merged by rata in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>rata</author>
+      <pubDate>Fri, 06 Jun 2025 04:28:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] Fix the IsDNS1123SubdomainWithUnderscore function to return the correct error message</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/132034</link>
+      <description>Merged by ChosenFoam in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>ChosenFoam</author>
+      <pubDate>Fri, 06 Jun 2025 02:16:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] Automated cherry pick of #131868: Remove superflous expansion calls if controller finished expansion</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131987</link>
+      <description>Merged by gnufied in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>gnufied</author>
+      <pubDate>Fri, 06 Jun 2025 01:50:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] Automated cherry pick of #131742: [sig-scheduling] SchedulerPreemption [Serial] validates various priority Pods preempt expectedly with the async preemption: replace finalizers with preStop hook and TerminationGracePeriodSeconds</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131767</link>
+      <description>Merged by ingvagabund in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>ingvagabund</author>
+      <pubDate>Fri, 06 Jun 2025 01:50:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] Automated cherry pick of #131408: Remove warning about resizing failed for unknown reason</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/132099</link>
+      <description>Merged by gnufied in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>gnufied</author>
+      <pubDate>Fri, 06 Jun 2025 00:40:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] doc: update metadata for _transformState deprecation</title>
+      <link>https://github.com/nodejs/node/pull/58530</link>
+      <description>Merged by jasnell in nodejs/node - Node.js JavaScript runtime</description>
+      <author>jasnell</author>
+      <pubDate>Thu, 05 Jun 2025 23:42:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] Use named params and structured tags in declarative validation</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/132130</link>
+      <description>Merged by jpbetz in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>jpbetz</author>
+      <pubDate>Thu, 05 Jun 2025 23:32:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] KEP-3335: drop StatefulSetStartOrdinal feature gate</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/132119</link>
+      <description>Merged by soltysh in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>soltysh</author>
+      <pubDate>Thu, 05 Jun 2025 22:28:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] feat: Allow leases to have custom labels set when a new holder takes the lease</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131632</link>
+      <description>Merged by DerekFrank in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>DerekFrank</author>
+      <pubDate>Thu, 05 Jun 2025 22:28:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] Automated cherry pick of #131987: Automated cherry pick of #131868: Remove superflous expansion calls if controller finished expansion</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/132010</link>
+      <description>Merged by gnufied in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>gnufied</author>
+      <pubDate>Thu, 05 Jun 2025 21:24:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[facebook/react] Enable the `enableEagerAlternateStateNodeCleanup` Feature Flag</title>
+      <link>https://github.com/facebook/react/pull/33447</link>
+      <description>Merged by yungsters in facebook/react - A declarative, efficient, and flexible JavaScript library for building user interfaces.</description>
+      <author>yungsters</author>
+      <pubDate>Thu, 05 Jun 2025 21:22:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] Automated cherry pick of #131408: Remove warning about resizing failed for unknown reason</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/132098</link>
+      <description>Merged by gnufied in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>gnufied</author>
+      <pubDate>Thu, 05 Jun 2025 21:02:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] kubeadm: fix one missed pkg/errors location; drop pkg/errors from go.mod</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/132125</link>
+      <description>Merged by neolit123 in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>neolit123</author>
+      <pubDate>Thu, 05 Jun 2025 20:02:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[facebook/react] Do not notify Discord for draft pull requests</title>
+      <link>https://github.com/facebook/react/pull/33446</link>
+      <description>Merged by unstubbable in facebook/react - A declarative, efficient, and flexible JavaScript library for building user interfaces.</description>
+      <author>unstubbable</author>
+      <pubDate>Thu, 05 Jun 2025 19:08:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] Bump gengo/v2 to latest, pick up related validation-gen fixes</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/132110</link>
+      <description>Merged by jpbetz in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>jpbetz</author>
+      <pubDate>Thu, 05 Jun 2025 18:58:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] Update npd from v0.8.20 to v0.8.21</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/132067</link>
+      <description>Merged by bzsuni in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>bzsuni</author>
+      <pubDate>Thu, 05 Jun 2025 18:58:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[facebook/react] [Flight] Add a Node.js Web Streams bundle for unbundled client/server for Webpack</title>
+      <link>https://github.com/facebook/react/pull/33442</link>
+      <description>Merged by sebmarkbage in facebook/react - A declarative, efficient, and flexible JavaScript library for building user interfaces.</description>
+      <author>sebmarkbage</author>
+      <pubDate>Thu, 05 Jun 2025 18:29:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] Automated cherry pick of #131506: Update hnslib version in Windows KubeProxy.</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131649</link>
+      <description>Merged by princepereira in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>princepereira</author>
+      <pubDate>Thu, 05 Jun 2025 18:20:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] hack: fix KUBE_RACE in benchmark-dockerized.sh</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/132123</link>
+      <description>Merged by pohly in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>pohly</author>
+      <pubDate>Thu, 05 Jun 2025 16:54:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] promote agnhost to v2.56</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/132117</link>
+      <description>Merged by yashsingh74 in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>yashsingh74</author>
+      <pubDate>Thu, 05 Jun 2025 16:54:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] Automated cherry pick of #130243: Revert userns kernel check</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131784</link>
+      <description>Merged by rata in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>rata</author>
+      <pubDate>Thu, 05 Jun 2025 15:50:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] Automated cherry pick of #131506: Update hnslib version in Windows KubeProxy.</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131652</link>
+      <description>Merged by princepereira in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>princepereira</author>
+      <pubDate>Thu, 05 Jun 2025 15:50:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>[facebook/react] [Flight] Add a cached 3rd-party component to the Flight fixture</title>
+      <link>https://github.com/facebook/react/pull/33443</link>
+      <description>Merged by unstubbable in facebook/react - A declarative, efficient, and flexible JavaScript library for building user interfaces.</description>
+      <author>unstubbable</author>
+      <pubDate>Thu, 05 Jun 2025 15:19:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] Automated cherry pick of #131962: Revert shorthand for kubectl explain --output</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131993</link>
+      <description>Merged by superbrothers in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>superbrothers</author>
+      <pubDate>Thu, 05 Jun 2025 14:56:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[facebook/react] [Fizz] Add Node Web Streams bundle for SSR</title>
+      <link>https://github.com/facebook/react/pull/33441</link>
+      <description>Merged by sebmarkbage in facebook/react - A declarative, efficient, and flexible JavaScript library for building user interfaces.</description>
+      <author>sebmarkbage</author>
+      <pubDate>Thu, 05 Jun 2025 14:50:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] Automated cherry pick of #123678: kubelet: Add logs for userns custom mappings parsing</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131813</link>
+      <description>Merged by rata in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>rata</author>
+      <pubDate>Thu, 05 Jun 2025 14:44:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] win,tools: use Azure Trusted Signing</title>
+      <link>https://github.com/nodejs/node/pull/58502</link>
+      <description>Merged by StefanStojanovic in nodejs/node - Node.js JavaScript runtime</description>
+      <author>StefanStojanovic</author>
+      <pubDate>Thu, 05 Jun 2025 14:41:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] kubeadm: switch to a local implementation of wrapped errors</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/132080</link>
+      <description>Merged by neolit123 in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>neolit123</author>
+      <pubDate>Thu, 05 Jun 2025 14:30:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] Automated cherry pick of #130243: Revert userns kernel check</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131785</link>
+      <description>Merged by rata in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>rata</author>
+      <pubDate>Thu, 05 Jun 2025 13:12:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] Automated cherry pick of #131623: kubelet: userns: Improve errors returned to the user</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131812</link>
+      <description>Merged by rata in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>rata</author>
+      <pubDate>Thu, 05 Jun 2025 13:08:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] http2: add lenient flag for RFC-9113</title>
+      <link>https://github.com/nodejs/node/pull/58116</link>
+      <description>Merged by metcoder95 in nodejs/node - Node.js JavaScript runtime</description>
+      <author>metcoder95</author>
+      <pubDate>Thu, 05 Jun 2025 12:30:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] Automated cherry pick of #131623: kubelet: userns: Improve errors returned to the user</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131781</link>
+      <description>Merged by rata in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>rata</author>
+      <pubDate>Thu, 05 Jun 2025 11:14:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] Gradute ResilientWatchCacheInitialization to GA</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131979</link>
+      <description>Merged by serathius in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>serathius</author>
+      <pubDate>Thu, 05 Jun 2025 10:02:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] doc: mark Node.js 23 as End-of-Life</title>
+      <link>https://github.com/nodejs/node/pull/58563</link>
+      <description>Merged by aduh95 in nodejs/node - Node.js JavaScript runtime</description>
+      <author>aduh95</author>
+      <pubDate>Thu, 05 Jun 2025 08:43:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] Automated cherry pick of #131623: kubelet: userns: Improve errors returned to the user</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131783</link>
+      <description>Merged by rata in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>rata</author>
+      <pubDate>Thu, 05 Jun 2025 01:48:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] Preempt based based on allocated resources rather than desired</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/132105</link>
+      <description>Merged by tallclair in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>tallclair</author>
+      <pubDate>Thu, 05 Jun 2025 01:26:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] Automated cherry pick of #130800: Fix unit tests on windows</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131786</link>
+      <description>Merged by rata in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>rata</author>
+      <pubDate>Wed, 04 Jun 2025 22:24:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] Only set pod allocation if admission succeeds</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/132102</link>
+      <description>Merged by tallclair in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>tallclair</author>
+      <pubDate>Wed, 04 Jun 2025 21:46:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] fix(metric): prevent data race in metric LabelValueAllowList initialization</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/132063</link>
+      <description>Merged by yongruilin in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>yongruilin</author>
+      <pubDate>Wed, 04 Jun 2025 21:46:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] e2e_node: verify restart looping container correctly</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/132101</link>
+      <description>Merged by haircommander in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>haircommander</author>
+      <pubDate>Wed, 04 Jun 2025 20:40:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] Remove unecessary comment since podResizeMutex no longer exist.</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/132095</link>
+      <description>Merged by esotsal in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>esotsal</author>
+      <pubDate>Wed, 04 Jun 2025 20:40:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] DRAAdminAccess: update label key</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131996</link>
+      <description>Merged by ritazh in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>ritazh</author>
+      <pubDate>Wed, 04 Jun 2025 19:16:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] test: drop dependency on github.com/pkg/errors</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131969</link>
+      <description>Merged by skitt in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>skitt</author>
+      <pubDate>Wed, 04 Jun 2025 19:16:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] Automated cherry pick of #131844: DRA node: reject static pods which reference ResourceClaims</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131875</link>
+      <description>Merged by pohly in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>pohly</author>
+      <pubDate>Wed, 04 Jun 2025 18:28:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] Automated cherry pick of #131844: DRA node: reject static pods which reference ResourceClaims</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131876</link>
+      <description>Merged by pohly in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>pohly</author>
+      <pubDate>Wed, 04 Jun 2025 18:02:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] agnhost: added server address for conntrack cleanup entries</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131924</link>
+      <description>Merged by yashsingh74 in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>yashsingh74</author>
+      <pubDate>Wed, 04 Jun 2025 17:44:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] test/e2e/apimachinery/namespace.go: make OrderedNamespaceDeletion test serial</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131852</link>
+      <description>Merged by bertinatto in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>bertinatto</author>
+      <pubDate>Wed, 04 Jun 2025 17:44:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] Automated cherry pick of #130800: Fix unit tests on windows</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131787</link>
+      <description>Merged by rata in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>rata</author>
+      <pubDate>Wed, 04 Jun 2025 16:32:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] Automated cherry pick of #130800: Fix unit tests on windows</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131811</link>
+      <description>Merged by rata in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>rata</author>
+      <pubDate>Wed, 04 Jun 2025 16:22:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] http2: add diagnostics channel &#39;http2.server.stream.finish&#39;</title>
+      <link>https://github.com/nodejs/node/pull/58560</link>
+      <description>Merged by RaisinTen in nodejs/node - Node.js JavaScript runtime</description>
+      <author>RaisinTen</author>
+      <pubDate>Wed, 04 Jun 2025 14:51:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] [KEP-2400] kubectl top: add a --show-swap option</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/129458</link>
+      <description>Merged by iholder101 in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>iholder101</author>
+      <pubDate>Wed, 04 Jun 2025 14:10:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] disable REPL completion on proxies and getters</title>
+      <link>https://github.com/nodejs/node/pull/57909</link>
+      <description>Merged by dario-piotrowicz in nodejs/node - Node.js JavaScript runtime</description>
+      <author>dario-piotrowicz</author>
+      <pubDate>Wed, 04 Jun 2025 12:13:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[facebook/react] [Flight] Encode Async I/O Tasks using the Enclosing Line/Column</title>
+      <link>https://github.com/facebook/react/pull/33403</link>
+      <description>Merged by sebmarkbage in facebook/react - A declarative, efficient, and flexible JavaScript library for building user interfaces.</description>
+      <author>sebmarkbage</author>
+      <pubDate>Tue, 03 Jun 2025 21:30:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] crypto: forward auth tag to OpenSSL immediately</title>
+      <link>https://github.com/nodejs/node/pull/58547</link>
+      <description>Merged by tniessen in nodejs/node - Node.js JavaScript runtime</description>
+      <author>tniessen</author>
+      <pubDate>Tue, 03 Jun 2025 11:13:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] src: remove fast API for InternalModuleStat</title>
+      <link>https://github.com/nodejs/node/pull/58489</link>
+      <description>Merged by joyeecheung in nodejs/node - Node.js JavaScript runtime</description>
+      <author>joyeecheung</author>
+      <pubDate>Tue, 03 Jun 2025 10:15:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] http2: remove support for priority signaling</title>
+      <link>https://github.com/nodejs/node/pull/58293</link>
+      <description>Merged by mcollina in nodejs/node - Node.js JavaScript runtime</description>
+      <author>mcollina</author>
+      <pubDate>Tue, 03 Jun 2025 09:09:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] dns: fix dns query cache implementation</title>
+      <link>https://github.com/nodejs/node/pull/58404</link>
+      <description>Merged by Ethan-Arrowood in nodejs/node - Node.js JavaScript runtime</description>
+      <author>Ethan-Arrowood</author>
+      <pubDate>Mon, 02 Jun 2025 15:29:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] build,win: fix dll build</title>
+      <link>https://github.com/nodejs/node/pull/58357</link>
+      <description>Merged by StefanStojanovic in nodejs/node - Node.js JavaScript runtime</description>
+      <author>StefanStojanovic</author>
+      <pubDate>Mon, 02 Jun 2025 11:23:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] doc: clarify DEP0194 scope</title>
+      <link>https://github.com/nodejs/node/pull/58504</link>
+      <description>Merged by aduh95 in nodejs/node - Node.js JavaScript runtime</description>
+      <author>aduh95</author>
+      <pubDate>Sat, 31 May 2025 10:59:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] src: add env-&gt;cppgc_allocation_handle() convenience method</title>
+      <link>https://github.com/nodejs/node/pull/58483</link>
+      <description>Merged by jasnell in nodejs/node - Node.js JavaScript runtime</description>
+      <author>jasnell</author>
+      <pubDate>Thu, 29 May 2025 15:32:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] http2: deprecate priority</title>
+      <link>https://github.com/nodejs/node/pull/58313</link>
+      <description>Merged by mcollina in nodejs/node - Node.js JavaScript runtime</description>
+      <author>mcollina</author>
+      <pubDate>Thu, 29 May 2025 08:09:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] test: account for truthy signal in flaky async_hooks tests</title>
+      <link>https://github.com/nodejs/node/pull/58478</link>
+      <description>Merged by RaisinTen in nodejs/node - Node.js JavaScript runtime</description>
+      <author>RaisinTen</author>
+      <pubDate>Thu, 29 May 2025 07:40:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] doc: add Filip Skokan to TSC</title>
+      <link>https://github.com/nodejs/node/pull/58499</link>
+      <description>Merged by RafaelGSS in nodejs/node - Node.js JavaScript runtime</description>
+      <author>RafaelGSS</author>
+      <pubDate>Wed, 28 May 2025 21:12:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] e2e: node: always declare testcase CPU requirements</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131794</link>
+      <description>Merged by ffromani in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>ffromani</author>
+      <pubDate>Wed, 28 May 2025 18:36:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] repl: extract and standardize history from both repl and interface</title>
+      <link>https://github.com/nodejs/node/pull/58225</link>
+      <description>Merged by puskin in nodejs/node - Node.js JavaScript runtime</description>
+      <author>puskin</author>
+      <pubDate>Wed, 28 May 2025 07:38:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] doc: clarify x509.checkIssued only checks metadata</title>
+      <link>https://github.com/nodejs/node/pull/58457</link>
+      <description>Merged by panva in nodejs/node - Node.js JavaScript runtime</description>
+      <author>panva</author>
+      <pubDate>Wed, 28 May 2025 06:26:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] esm: implement import.meta.main</title>
+      <link>https://github.com/nodejs/node/pull/57804</link>
+      <description>Merged by Lordfirespeed in nodejs/node - Node.js JavaScript runtime</description>
+      <author>Lordfirespeed</author>
+      <pubDate>Mon, 26 May 2025 22:31:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] benchmark: add callback-based `fs.glob` to glob benchmark</title>
+      <link>https://github.com/nodejs/node/pull/58417</link>
+      <description>Merged by LiviaMedeiros in nodejs/node - Node.js JavaScript runtime</description>
+      <author>LiviaMedeiros</author>
+      <pubDate>Sun, 25 May 2025 13:52:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] deps: keep required OpenSSL doc files</title>
+      <link>https://github.com/nodejs/node/pull/58431</link>
+      <description>Merged by targos in nodejs/node - Node.js JavaScript runtime</description>
+      <author>targos</author>
+      <pubDate>Sun, 25 May 2025 13:07:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] TerminalTaskSystem: Add support for nushell</title>
+      <link>https://github.com/microsoft/vscode/pull/238440</link>
+      <description>Merged by dylanchu in microsoft/vscode - Visual Studio Code</description>
+      <author>dylanchu</author>
+      <pubDate>Fri, 23 May 2025 16:20:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] build: look for libnode.so in lib subdirectory</title>
+      <link>https://github.com/nodejs/node/pull/58213</link>
+      <description>Merged by khardix in nodejs/node - Node.js JavaScript runtime</description>
+      <author>khardix</author>
+      <pubDate>Thu, 22 May 2025 12:16:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] fix(kubelet): update lease duration when config changes</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131749</link>
+      <description>Merged by cartermckinnon in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>cartermckinnon</author>
+      <pubDate>Wed, 21 May 2025 21:06:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] 2025-05-21, Version 24.1.0 (Current)</title>
+      <link>https://github.com/nodejs/node/pull/58406</link>
+      <description>Merged by github-actions[bot] in nodejs/node - Node.js JavaScript runtime</description>
+      <author>github-actions[bot]</author>
+      <pubDate>Wed, 21 May 2025 15:20:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] src: track cppgc wrappers with a list in Realm</title>
+      <link>https://github.com/nodejs/node/pull/56534</link>
+      <description>Merged by joyeecheung in nodejs/node - Node.js JavaScript runtime</description>
+      <author>joyeecheung</author>
+      <pubDate>Mon, 19 May 2025 20:56:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] readline: add stricter validation for functions called after closed (second attempt)</title>
+      <link>https://github.com/nodejs/node/pull/58283</link>
+      <description>Merged by dario-piotrowicz in nodejs/node - Node.js JavaScript runtime</description>
+      <author>dario-piotrowicz</author>
+      <pubDate>Sun, 18 May 2025 19:46:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] deps: update undici to 7.9.0</title>
+      <link>https://github.com/nodejs/node/pull/58268</link>
+      <description>Merged by nodejs-github-bot in nodejs/node - Node.js JavaScript runtime</description>
+      <author>nodejs-github-bot</author>
+      <pubDate>Sun, 18 May 2025 16:09:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] buffer: use Utf8LengthV2() instead of Utf8Length()</title>
+      <link>https://github.com/nodejs/node/pull/58156</link>
+      <description>Merged by tniessen in nodejs/node - Node.js JavaScript runtime</description>
+      <author>tniessen</author>
+      <pubDate>Sat, 17 May 2025 14:21:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] node-api: use WriteOneByteV2 in napi_get_value_string_latin1</title>
+      <link>https://github.com/nodejs/node/pull/58325</link>
+      <description>Merged by legendecas in nodejs/node - Node.js JavaScript runtime</description>
+      <author>legendecas</author>
+      <pubDate>Fri, 16 May 2025 16:10:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] node-api: use WriteV2 in napi_get_value_string_utf16</title>
+      <link>https://github.com/nodejs/node/pull/58165</link>
+      <description>Merged by tniessen in nodejs/node - Node.js JavaScript runtime</description>
+      <author>tniessen</author>
+      <pubDate>Fri, 16 May 2025 16:10:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] build: fix defaults for shared llhttp</title>
+      <link>https://github.com/nodejs/node/pull/58269</link>
+      <description>Merged by aduh95 in nodejs/node - Node.js JavaScript runtime</description>
+      <author>aduh95</author>
+      <pubDate>Fri, 16 May 2025 12:55:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] verify scripts: preserve exit code</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131777</link>
+      <description>Merged by BenTheElder in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>BenTheElder</author>
+      <pubDate>Thu, 15 May 2025 16:57:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] datapol: compare types directly</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131773</link>
+      <description>Merged by BenTheElder in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>BenTheElder</author>
+      <pubDate>Thu, 15 May 2025 09:15:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] src: remove unused `internalVerifyIntegrity` internal binding</title>
+      <link>https://github.com/nodejs/node/pull/58285</link>
+      <description>Merged by dario-piotrowicz in nodejs/node - Node.js JavaScript runtime</description>
+      <author>dario-piotrowicz</author>
+      <pubDate>Tue, 13 May 2025 21:23:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] crypto: handle missing OPENSSL_TLS_SECURITY_LEVEL</title>
+      <link>https://github.com/nodejs/node/pull/58103</link>
+      <description>Merged by codebytere in nodejs/node - Node.js JavaScript runtime</description>
+      <author>codebytere</author>
+      <pubDate>Mon, 12 May 2025 12:11:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] tools: support environment variables via comments</title>
+      <link>https://github.com/nodejs/node/pull/58186</link>
+      <description>Merged by pmarchini in nodejs/node - Node.js JavaScript runtime</description>
+      <author>pmarchini</author>
+      <pubDate>Sun, 11 May 2025 17:54:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] fs: glob is stable, so should not emit experimental warnings</title>
+      <link>https://github.com/nodejs/node/pull/58236</link>
+      <description>Merged by theoludwig in nodejs/node - Node.js JavaScript runtime</description>
+      <author>theoludwig</author>
+      <pubDate>Sat, 10 May 2025 14:37:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] Move test cases from mounted_volume_resize into testsuites/volume_expand.go</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131686</link>
+      <description>Merged by carlory in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>carlory</author>
+      <pubDate>Fri, 09 May 2025 18:59:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] src: use String::WriteV2() in TwoByteValue</title>
+      <link>https://github.com/nodejs/node/pull/58164</link>
+      <description>Merged by tniessen in nodejs/node - Node.js JavaScript runtime</description>
+      <author>tniessen</author>
+      <pubDate>Fri, 09 May 2025 03:15:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] src: refactor WriteUCS2 and remove flags argument</title>
+      <link>https://github.com/nodejs/node/pull/58163</link>
+      <description>Merged by tniessen in nodejs/node - Node.js JavaScript runtime</description>
+      <author>tniessen</author>
+      <pubDate>Thu, 08 May 2025 12:55:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] crypto: merge CipherBase.initiv into constructor</title>
+      <link>https://github.com/nodejs/node/pull/58166</link>
+      <description>Merged by tniessen in nodejs/node - Node.js JavaScript runtime</description>
+      <author>tniessen</author>
+      <pubDate>Wed, 07 May 2025 16:13:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] deps: update llhttp to 9.3.0</title>
+      <link>https://github.com/nodejs/node/pull/58144</link>
+      <description>Merged by indutny in nodejs/node - Node.js JavaScript runtime</description>
+      <author>indutny</author>
+      <pubDate>Wed, 07 May 2025 14:21:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] Fix build - protected field</title>
+      <link>https://github.com/microsoft/vscode/pull/247458</link>
+      <description>Merged by Yoyokrazy in microsoft/vscode - Visual Studio Code</description>
+      <author>Yoyokrazy</author>
+      <pubDate>Fri, 25 Apr 2025 23:23:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] [prompts]: support &#39;tool name&#39; in the &#39;tools&#39; header metadata</title>
+      <link>https://github.com/microsoft/vscode/pull/247451</link>
+      <description>Merged by legomushroom in microsoft/vscode - Visual Studio Code</description>
+      <author>legomushroom</author>
+      <pubDate>Fri, 25 Apr 2025 23:16:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] Show keybinding hint in new model picker tooltip</title>
+      <link>https://github.com/microsoft/vscode/pull/247457</link>
+      <description>Merged by roblourens in microsoft/vscode - Visual Studio Code</description>
+      <author>roblourens</author>
+      <pubDate>Fri, 25 Apr 2025 23:09:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] Use new custom dropdown widget in mode picker</title>
+      <link>https://github.com/microsoft/vscode/pull/247452</link>
+      <description>Merged by roblourens in microsoft/vscode - Visual Studio Code</description>
+      <author>roblourens</author>
+      <pubDate>Fri, 25 Apr 2025 22:47:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] Tool confirmation improvements</title>
+      <link>https://github.com/microsoft/vscode/pull/247182</link>
+      <description>Merged by connor4312 in microsoft/vscode - Visual Studio Code</description>
+      <author>connor4312</author>
+      <pubDate>Fri, 25 Apr 2025 22:05:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] fix accidental deletion</title>
+      <link>https://github.com/microsoft/vscode/pull/247444</link>
+      <description>Merged by justschen in microsoft/vscode - Visual Studio Code</description>
+      <author>justschen</author>
+      <pubDate>Fri, 25 Apr 2025 21:47:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] Improve focus tracking of custom dropdown</title>
+      <link>https://github.com/microsoft/vscode/pull/247446</link>
+      <description>Merged by lramos15 in microsoft/vscode - Visual Studio Code</description>
+      <author>lramos15</author>
+      <pubDate>Fri, 25 Apr 2025 21:23:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] Update gettingStarted.css to adjust heights and padding for better layout in new slides</title>
+      <link>https://github.com/microsoft/vscode/pull/247445</link>
+      <description>Merged by bhavyaus in microsoft/vscode - Visual Studio Code</description>
+      <author>bhavyaus</author>
+      <pubDate>Fri, 25 Apr 2025 21:22:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] send elements behind setting</title>
+      <link>https://github.com/microsoft/vscode/pull/247421</link>
+      <description>Merged by justschen in microsoft/vscode - Visual Studio Code</description>
+      <author>justschen</author>
+      <pubDate>Fri, 25 Apr 2025 21:04:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] Introduce Notebook Output Preview editor</title>
+      <link>https://github.com/microsoft/vscode/pull/247424</link>
+      <description>Merged by Yoyokrazy in microsoft/vscode - Visual Studio Code</description>
+      <author>Yoyokrazy</author>
+      <pubDate>Fri, 25 Apr 2025 20:59:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] Tweak setting description for clarity</title>
+      <link>https://github.com/microsoft/vscode/pull/247438</link>
+      <description>Merged by roblourens in microsoft/vscode - Visual Studio Code</description>
+      <author>roblourens</author>
+      <pubDate>Fri, 25 Apr 2025 20:35:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] prompt editor: run in new chat by default</title>
+      <link>https://github.com/microsoft/vscode/pull/247433</link>
+      <description>Merged by aeschli in microsoft/vscode - Visual Studio Code</description>
+      <author>aeschli</author>
+      <pubDate>Fri, 25 Apr 2025 20:28:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] Add telemetry notice option to GettingStartedInput and update slide selection logic</title>
+      <link>https://github.com/microsoft/vscode/pull/247422</link>
+      <description>Merged by bhavyaus in microsoft/vscode - Visual Studio Code</description>
+      <author>bhavyaus</author>
+      <pubDate>Fri, 25 Apr 2025 20:09:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] make sure images have references</title>
+      <link>https://github.com/microsoft/vscode/pull/247428</link>
+      <description>Merged by justschen in microsoft/vscode - Visual Studio Code</description>
+      <author>justschen</author>
+      <pubDate>Fri, 25 Apr 2025 19:57:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] [prompts]: fix prompt decoration providers for disposed text model</title>
+      <link>https://github.com/microsoft/vscode/pull/247415</link>
+      <description>Merged by legomushroom in microsoft/vscode - Visual Studio Code</description>
+      <author>legomushroom</author>
+      <pubDate>Fri, 25 Apr 2025 19:42:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] Add missing margin</title>
+      <link>https://github.com/microsoft/vscode/pull/247423</link>
+      <description>Merged by rzhao271 in microsoft/vscode - Visual Studio Code</description>
+      <author>rzhao271</author>
+      <pubDate>Fri, 25 Apr 2025 19:10:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] new prompts: enter template mode, improve templates</title>
+      <link>https://github.com/microsoft/vscode/pull/247420</link>
+      <description>Merged by aeschli in microsoft/vscode - Visual Studio Code</description>
+      <author>aeschli</author>
+      <pubDate>Fri, 25 Apr 2025 18:52:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] ChatRequest.tools: LanguageModelInformation -&gt; string</title>
+      <link>https://github.com/microsoft/vscode/pull/247419</link>
+      <description>Merged by roblourens in microsoft/vscode - Visual Studio Code</description>
+      <author>roblourens</author>
+      <pubDate>Fri, 25 Apr 2025 18:52:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] fix: prevent showing new walkthrough when in a walkthrough</title>
+      <link>https://github.com/microsoft/vscode/pull/247417</link>
+      <description>Merged by bhavyaus in microsoft/vscode - Visual Studio Code</description>
+      <author>bhavyaus</author>
+      <pubDate>Fri, 25 Apr 2025 18:32:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] ui element selection</title>
+      <link>https://github.com/microsoft/vscode/pull/246643</link>
+      <description>Merged by justschen in microsoft/vscode - Visual Studio Code</description>
+      <author>justschen</author>
+      <pubDate>Fri, 25 Apr 2025 18:19:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] Add Settings editor suggestion div</title>
+      <link>https://github.com/microsoft/vscode/pull/247262</link>
+      <description>Merged by rzhao271 in microsoft/vscode - Visual Studio Code</description>
+      <author>rzhao271</author>
+      <pubDate>Fri, 25 Apr 2025 18:17:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] for inline chat and hide-on-request, render tool and progress messages in chat overlay</title>
+      <link>https://github.com/microsoft/vscode/pull/247412</link>
+      <description>Merged by jrieken in microsoft/vscode - Visual Studio Code</description>
+      <author>jrieken</author>
+      <pubDate>Fri, 25 Apr 2025 17:37:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] Update edits image</title>
+      <link>https://github.com/microsoft/vscode/pull/247400</link>
+      <description>Merged by bhavyaus in microsoft/vscode - Visual Studio Code</description>
+      <author>bhavyaus</author>
+      <pubDate>Fri, 25 Apr 2025 17:33:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] api: bump lmdata version in the right place</title>
+      <link>https://github.com/microsoft/vscode/pull/247411</link>
+      <description>Merged by connor4312 in microsoft/vscode - Visual Studio Code</description>
+      <author>connor4312</author>
+      <pubDate>Fri, 25 Apr 2025 17:22:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] prefer gallery over local</title>
+      <link>https://github.com/microsoft/vscode/pull/247410</link>
+      <description>Merged by sandy081 in microsoft/vscode - Visual Studio Code</description>
+      <author>sandy081</author>
+      <pubDate>Fri, 25 Apr 2025 17:08:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] fix awol inline chat widget</title>
+      <link>https://github.com/microsoft/vscode/pull/247408</link>
+      <description>Merged by jrieken in microsoft/vscode - Visual Studio Code</description>
+      <author>jrieken</author>
+      <pubDate>Fri, 25 Apr 2025 16:57:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] Remove warning about resizing failed for unknown reason</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131408</link>
+      <description>Merged by gnufied in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>gnufied</author>
+      <pubDate>Fri, 25 Apr 2025 16:41:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] `ChatRequest#tools` returns as map of tool to enablement state</title>
+      <link>https://github.com/microsoft/vscode/pull/247406</link>
+      <description>Merged by jrieken in microsoft/vscode - Visual Studio Code</description>
+      <author>jrieken</author>
+      <pubDate>Fri, 25 Apr 2025 16:36:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] [css/html/json] update services</title>
+      <link>https://github.com/microsoft/vscode/pull/247404</link>
+      <description>Merged by aeschli in microsoft/vscode - Visual Studio Code</description>
+      <author>aeschli</author>
+      <pubDate>Fri, 25 Apr 2025 16:28:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] support &#39;CodeActionContext.only&#39;</title>
+      <link>https://github.com/microsoft/vscode/pull/247402</link>
+      <description>Merged by aeschli in microsoft/vscode - Visual Studio Code</description>
+      <author>aeschli</author>
+      <pubDate>Fri, 25 Apr 2025 16:10:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] Joao/apricot-felidae</title>
+      <link>https://github.com/microsoft/vscode/pull/247391</link>
+      <description>Merged by joaomoreno in microsoft/vscode - Visual Studio Code</description>
+      <author>joaomoreno</author>
+      <pubDate>Fri, 25 Apr 2025 14:45:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] tweak related-files context picker and placement</title>
+      <link>https://github.com/microsoft/vscode/pull/247390</link>
+      <description>Merged by jrieken in microsoft/vscode - Visual Studio Code</description>
+      <author>jrieken</author>
+      <pubDate>Fri, 25 Apr 2025 14:45:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] fix duplicate file suggestions in chat input</title>
+      <link>https://github.com/microsoft/vscode/pull/247387</link>
+      <description>Merged by jrieken in microsoft/vscode - Visual Studio Code</description>
+      <author>jrieken</author>
+      <pubDate>Fri, 25 Apr 2025 14:44:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] fix https://github.com/microsoft/vscode-copilot/issues/16352</title>
+      <link>https://github.com/microsoft/vscode/pull/247386</link>
+      <description>Merged by jrieken in microsoft/vscode - Visual Studio Code</description>
+      <author>jrieken</author>
+      <pubDate>Fri, 25 Apr 2025 14:13:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] SCM - remove temporary fix for repository codicon alignment</title>
+      <link>https://github.com/microsoft/vscode/pull/247384</link>
+      <description>Merged by lszomoru in microsoft/vscode - Visual Studio Code</description>
+      <author>lszomoru</author>
+      <pubDate>Fri, 25 Apr 2025 13:55:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] SCM - only show submenu when diff decorations appear in the editor gutter</title>
+      <link>https://github.com/microsoft/vscode/pull/247383</link>
+      <description>Merged by lszomoru in microsoft/vscode - Visual Studio Code</description>
+      <author>lszomoru</author>
+      <pubDate>Fri, 25 Apr 2025 13:52:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] Engineering - OSS tool result</title>
+      <link>https://github.com/microsoft/vscode/pull/247379</link>
+      <description>Merged by lszomoru in microsoft/vscode - Visual Studio Code</description>
+      <author>lszomoru</author>
+      <pubDate>Fri, 25 Apr 2025 12:37:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] fix https://github.com/microsoft/vscode/issues/245646</title>
+      <link>https://github.com/microsoft/vscode/pull/247378</link>
+      <description>Merged by jrieken in microsoft/vscode - Visual Studio Code</description>
+      <author>jrieken</author>
+      <pubDate>Fri, 25 Apr 2025 12:12:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] update distro version in package.json</title>
+      <link>https://github.com/microsoft/vscode/pull/247376</link>
+      <description>Merged by isidorn in microsoft/vscode - Visual Studio Code</description>
+      <author>isidorn</author>
+      <pubDate>Fri, 25 Apr 2025 12:08:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] polish</title>
+      <link>https://github.com/microsoft/vscode/pull/247377</link>
+      <description>Merged by jrieken in microsoft/vscode - Visual Studio Code</description>
+      <author>jrieken</author>
+      <pubDate>Fri, 25 Apr 2025 12:07:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] move MCP btn to the bottom left</title>
+      <link>https://github.com/microsoft/vscode/pull/247373</link>
+      <description>Merged by jrieken in microsoft/vscode - Visual Studio Code</description>
+      <author>jrieken</author>
+      <pubDate>Fri, 25 Apr 2025 11:21:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] Tree-sitter: TypeScript expressions inside templated strings are colored as strings</title>
+      <link>https://github.com/microsoft/vscode/pull/246328</link>
+      <description>Merged by alexr00 in microsoft/vscode - Visual Studio Code</description>
+      <author>alexr00</author>
+      <pubDate>Fri, 25 Apr 2025 10:33:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] fix #246830</title>
+      <link>https://github.com/microsoft/vscode/pull/247371</link>
+      <description>Merged by sandy081 in microsoft/vscode - Visual Studio Code</description>
+      <author>sandy081</author>
+      <pubDate>Fri, 25 Apr 2025 10:21:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] Asorted fixes</title>
+      <link>https://github.com/microsoft/vscode/pull/247369</link>
+      <description>Merged by jrieken in microsoft/vscode - Visual Studio Code</description>
+      <author>jrieken</author>
+      <pubDate>Fri, 25 Apr 2025 09:18:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] Add the ability to programatically show a webview sidebar panel, as is possible with treeview panels</title>
+      <link>https://github.com/microsoft/vscode/pull/247214</link>
+      <description>Merged by alexr00 in microsoft/vscode - Visual Studio Code</description>
+      <author>alexr00</author>
+      <pubDate>Fri, 25 Apr 2025 07:47:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] fix: toggleApplicationScope typo</title>
+      <link>https://github.com/microsoft/vscode/pull/247264</link>
+      <description>Merged by s-rigaud in microsoft/vscode - Visual Studio Code</description>
+      <author>s-rigaud</author>
+      <pubDate>Fri, 25 Apr 2025 07:45:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] Welcome page - group multi-step actions into single slides and update navigation logic</title>
+      <link>https://github.com/microsoft/vscode/pull/247351</link>
+      <description>Merged by bhavyaus in microsoft/vscode - Visual Studio Code</description>
+      <author>bhavyaus</author>
+      <pubDate>Fri, 25 Apr 2025 05:16:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>[microsoft/vscode] [prompts]: add logic to auto-import instruction files by their `include` metadata</title>
+      <link>https://github.com/microsoft/vscode/pull/247176</link>
+      <description>Merged by legomushroom in microsoft/vscode - Visual Studio Code</description>
+      <author>legomushroom</author>
+      <pubDate>Fri, 25 Apr 2025 02:41:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] stream: preserve asynclocalstorage context in finished()</title>
+      <link>https://github.com/nodejs/node/pull/57865</link>
+      <description>Merged by gurgunday in nodejs/node - Node.js JavaScript runtime</description>
+      <author>gurgunday</author>
+      <pubDate>Wed, 16 Apr 2025 09:27:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] doc: add missing TS formats for `load` hooks</title>
+      <link>https://github.com/nodejs/node/pull/57837</link>
+      <description>Merged by aduh95 in nodejs/node - Node.js JavaScript runtime</description>
+      <author>aduh95</author>
+      <pubDate>Sun, 13 Apr 2025 17:38:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] fs: improve globSync performance</title>
+      <link>https://github.com/nodejs/node/pull/57725</link>
+      <description>Merged by Trott in nodejs/node - Node.js JavaScript runtime</description>
+      <author>Trott</author>
+      <pubDate>Mon, 07 Apr 2025 22:15:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] test: update WPT for WebCryptoAPI to edd42c005c</title>
+      <link>https://github.com/nodejs/node/pull/57365</link>
+      <description>Merged by nodejs-github-bot in nodejs/node - Node.js JavaScript runtime</description>
+      <author>nodejs-github-bot</author>
+      <pubDate>Sun, 09 Mar 2025 18:44:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] crypto: allow length=0 for HKDF and PBKDF2 in SubtleCrypto.deriveBits</title>
+      <link>https://github.com/nodejs/node/pull/55866</link>
+      <description>Merged by panva in nodejs/node - Node.js JavaScript runtime</description>
+      <author>panva</author>
+      <pubDate>Sun, 17 Nov 2024 13:13:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] Add probe triggered log and shift the periodics timer after manual run</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/119089</link>
+      <description>Merged by mochizuki875 in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>mochizuki875</author>
+      <pubDate>Wed, 23 Oct 2024 01:20:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] meta: remove `build-windows.yml`</title>
+      <link>https://github.com/nodejs/node/pull/54662</link>
+      <description>Merged by avivkeller in nodejs/node - Node.js JavaScript runtime</description>
+      <author>avivkeller</author>
+      <pubDate>Wed, 18 Sep 2024 07:45:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] test,crypto: update WebCryptoAPI WPT</title>
+      <link>https://github.com/nodejs/node/pull/54593</link>
+      <description>Merged by panva in nodejs/node - Node.js JavaScript runtime</description>
+      <author>panva</author>
+      <pubDate>Thu, 29 Aug 2024 16:46:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>[kubernetes/kubernetes] Promote StatefulSetStartOrdinal to stable in 1.31</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/125374</link>
+      <description>Merged by pwschuurman in kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+      <author>pwschuurman</author>
+      <pubDate>Mon, 22 Jul 2024 21:25:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>[nodejs/node] fs: runtime deprecate fs.Stats constructor</title>
+      <link>https://github.com/nodejs/node/pull/52067</link>
+      <description>Merged by marco-ippolito in nodejs/node - Node.js JavaScript runtime</description>
+      <author>marco-ippolito</author>
+      <pubDate>Tue, 19 Mar 2024 08:17:36 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
