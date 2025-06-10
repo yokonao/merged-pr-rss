@@ -4,7 +4,7 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Wed, 11 Jun 2025 06:45:15 +0900</pubDate>
+    <pubDate>Tue, 10 Jun 2025 21:52:53 +0000</pubDate>
     <item>
       <title>added completions to the list of server capabilities (was missing)</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/680</link>
@@ -431,20 +431,6 @@
       <description>Merged by pcarleton - [spec] Auth: consolidate security considerations into new section</description>
       <author>pcarleton</author>
       <pubDate>Wed, 30 Apr 2025 15:49:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add BrowserStack to official integrations.</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/395</link>
-      <description>Merged by pulkitsharma07 - Add BrowserStack to official integrations.</description>
-      <author>pulkitsharma07</author>
-      <pubDate>Wed, 30 Apr 2025 13:31:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>[spec] Auth: Confused deputy</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/407</link>
-      <description>Merged by pcarleton - [spec] Auth: Confused deputy</description>
-      <author>pcarleton</author>
-      <pubDate>Wed, 30 Apr 2025 06:06:46 +0000</pubDate>
     </item>
     <item>
       <title>Remove batching requirement</title>
