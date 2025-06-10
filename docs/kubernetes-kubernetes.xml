@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>OSS Merged PRs Feed - kubernetes/kubernetes Merged PRs</title>
+    <link>https://github.com/kubernetes/kubernetes</link>
+    <description>Recent merged pull requests from kubernetes/kubernetes - Production-Grade Container Scheduling and Management</description>
+    <managingEditor>bot@example.com (RSS Bot)</managingEditor>
+    <pubDate>Wed, 11 Jun 2025 06:33:10 +0900</pubDate>
+    <item>
+      <title>update github.com/spf13/cobra v1.9.1</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/132209</link>
+      <description>Merged by dims - Production-Grade Container Scheduling and Management</description>
+      <author>dims</author>
+      <pubDate>Tue, 10 Jun 2025 19:45:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>KEP-4633: Graduate to Stable.</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131654</link>
+      <description>Merged by vinayakankugoyal - Production-Grade Container Scheduling and Management</description>
+      <author>vinayakankugoyal</author>
+      <pubDate>Tue, 10 Jun 2025 19:44:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[KEP-4369]: Graduate RelaxedEnvironmentVariableValidation to GA</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/132054</link>
+      <description>Merged by HirazawaUi - Production-Grade Container Scheduling and Management</description>
+      <author>HirazawaUi</author>
+      <pubDate>Tue, 10 Jun 2025 18:19:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Promote feature OrderedNamespaceDeletion to GA.</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131514</link>
+      <description>Merged by cici37 - Production-Grade Container Scheduling and Management</description>
+      <author>cici37</author>
+      <pubDate>Tue, 10 Jun 2025 18:18:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>kubectl: sort configmap data alphabetically to avoid random order</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131500</link>
+      <description>Merged by HaraldNordgren - Production-Grade Container Scheduling and Management</description>
+      <author>HaraldNordgren</author>
+      <pubDate>Tue, 10 Jun 2025 16:04:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Build k8s using latest commit of golang</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/132197</link>
+      <description>Merged by dims - Production-Grade Container Scheduling and Management</description>
+      <author>dims</author>
+      <pubDate>Tue, 10 Jun 2025 13:14:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Drop unused testing manifest</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/132203</link>
+      <description>Merged by soltysh - Production-Grade Container Scheduling and Management</description>
+      <author>soltysh</author>
+      <pubDate>Tue, 10 Jun 2025 10:56:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add context to Count() method of storage interface</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/132191</link>
+      <description>Merged by AwesomePatrol - Production-Grade Container Scheduling and Management</description>
+      <author>AwesomePatrol</author>
+      <pubDate>Tue, 10 Jun 2025 07:52:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fix incorrect logging of insufficientResources in preemption</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/132183</link>
+      <description>Merged by chrisy-x - Production-Grade Container Scheduling and Management</description>
+      <author>chrisy-x</author>
+      <pubDate>Tue, 10 Jun 2025 03:50:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>fix incorrect comments</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131547</link>
+      <description>Merged by carlory - Production-Grade Container Scheduling and Management</description>
+      <author>carlory</author>
+      <pubDate>Mon, 09 Jun 2025 17:52:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>kube-proxy: conditionally skip e2e</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131490</link>
+      <description>Merged by aroradaman - Production-Grade Container Scheduling and Management</description>
+      <author>aroradaman</author>
+      <pubDate>Mon, 09 Jun 2025 14:42:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>metadata client: remove support for API streaming</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/132149</link>
+      <description>Merged by p0lyn0mial - Production-Grade Container Scheduling and Management</description>
+      <author>p0lyn0mial</author>
+      <pubDate>Mon, 09 Jun 2025 10:38:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>tolerate newer golang/oauth2 version in TestTokenSourceTransportRoundTrip</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/132176</link>
+      <description>Merged by dims - Production-Grade Container Scheduling and Management</description>
+      <author>dims</author>
+      <pubDate>Mon, 09 Jun 2025 03:38:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Iperf output parsing for v2.2.0+</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/132180</link>
+      <description>Merged by aroradaman - Production-Grade Container Scheduling and Management</description>
+      <author>aroradaman</author>
+      <pubDate>Sun, 08 Jun 2025 14:50:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fix kubelet iptables startup, clarify semantics of utiliptables calls.</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/132170</link>
+      <description>Merged by danwinship - Production-Grade Container Scheduling and Management</description>
+      <author>danwinship</author>
+      <pubDate>Sun, 08 Jun 2025 09:56:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>kube-proxy: log iptables errors in platformCheckSupported</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131534</link>
+      <description>Merged by aroradaman - Production-Grade Container Scheduling and Management</description>
+      <author>aroradaman</author>
+      <pubDate>Sat, 07 Jun 2025 04:08:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>kuberuntime_manager: don&#39;t log entire container spec.</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/132139</link>
+      <description>Merged by hoskeri - Production-Grade Container Scheduling and Management</description>
+      <author>hoskeri</author>
+      <pubDate>Fri, 06 Jun 2025 22:04:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>KEP-3329: drop PodDisruptionConditions feature gate</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/132148</link>
+      <description>Merged by soltysh - Production-Grade Container Scheduling and Management</description>
+      <author>soltysh</author>
+      <pubDate>Fri, 06 Jun 2025 20:38:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Clean backoff record earlier</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/132109</link>
+      <description>Merged by linxiulei - Production-Grade Container Scheduling and Management</description>
+      <author>linxiulei</author>
+      <pubDate>Fri, 06 Jun 2025 20:38:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update PR template with more guidance around issue links</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/132111</link>
+      <description>Merged by jenshu - Production-Grade Container Scheduling and Management</description>
+      <author>jenshu</author>
+      <pubDate>Fri, 06 Jun 2025 19:00:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>kubelet: add coverage for identical kubelet config and drop-in config content</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/129460</link>
+      <description>Merged by sohankunkerkar - Production-Grade Container Scheduling and Management</description>
+      <author>sohankunkerkar</author>
+      <pubDate>Fri, 06 Jun 2025 19:00:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Replace queue.FIFOs with k8s.io/utils/buffer.Ring</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/132103</link>
+      <description>Merged by nojnhuh - Production-Grade Container Scheduling and Management</description>
+      <author>nojnhuh</author>
+      <pubDate>Fri, 06 Jun 2025 17:26:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>KEP-3715: drop ElasticIndexedJob feature gate</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/132147</link>
+      <description>Merged by soltysh - Production-Grade Container Scheduling and Management</description>
+      <author>soltysh</author>
+      <pubDate>Fri, 06 Jun 2025 15:16:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>fix TestNodeAffinityPriority</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/132142</link>
+      <description>Merged by carlory - Production-Grade Container Scheduling and Management</description>
+      <author>carlory</author>
+      <pubDate>Fri, 06 Jun 2025 09:38:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fix `windows-pause-image-base:&lt;tag&gt;@&lt;digest&gt;` invalid reference format </title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131258</link>
+      <description>Merged by ArkaSaha30 - Production-Grade Container Scheduling and Management</description>
+      <author>ArkaSaha30</author>
+      <pubDate>Fri, 06 Jun 2025 07:26:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Automated cherry pick of #131623: kubelet: userns: Improve errors returned to the user</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131782</link>
+      <description>Merged by rata - Production-Grade Container Scheduling and Management</description>
+      <author>rata</author>
+      <pubDate>Fri, 06 Jun 2025 04:28:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fix the IsDNS1123SubdomainWithUnderscore function to return the correct error message</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/132034</link>
+      <description>Merged by ChosenFoam - Production-Grade Container Scheduling and Management</description>
+      <author>ChosenFoam</author>
+      <pubDate>Fri, 06 Jun 2025 02:16:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Automated cherry pick of #131868: Remove superflous expansion calls if controller finished expansion</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131987</link>
+      <description>Merged by gnufied - Production-Grade Container Scheduling and Management</description>
+      <author>gnufied</author>
+      <pubDate>Fri, 06 Jun 2025 01:50:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Automated cherry pick of #131742: [sig-scheduling] SchedulerPreemption [Serial] validates various priority Pods preempt expectedly with the async preemption: replace finalizers with preStop hook and TerminationGracePeriodSeconds</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131767</link>
+      <description>Merged by ingvagabund - Production-Grade Container Scheduling and Management</description>
+      <author>ingvagabund</author>
+      <pubDate>Fri, 06 Jun 2025 01:50:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Automated cherry pick of #131408: Remove warning about resizing failed for unknown reason</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/132099</link>
+      <description>Merged by gnufied - Production-Grade Container Scheduling and Management</description>
+      <author>gnufied</author>
+      <pubDate>Fri, 06 Jun 2025 00:40:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Use named params and structured tags in declarative validation</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/132130</link>
+      <description>Merged by jpbetz - Production-Grade Container Scheduling and Management</description>
+      <author>jpbetz</author>
+      <pubDate>Thu, 05 Jun 2025 23:32:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>KEP-3335: drop StatefulSetStartOrdinal feature gate</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/132119</link>
+      <description>Merged by soltysh - Production-Grade Container Scheduling and Management</description>
+      <author>soltysh</author>
+      <pubDate>Thu, 05 Jun 2025 22:28:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>feat: Allow leases to have custom labels set when a new holder takes the lease</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131632</link>
+      <description>Merged by DerekFrank - Production-Grade Container Scheduling and Management</description>
+      <author>DerekFrank</author>
+      <pubDate>Thu, 05 Jun 2025 22:28:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Automated cherry pick of #131987: Automated cherry pick of #131868: Remove superflous expansion calls if controller finished expansion</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/132010</link>
+      <description>Merged by gnufied - Production-Grade Container Scheduling and Management</description>
+      <author>gnufied</author>
+      <pubDate>Thu, 05 Jun 2025 21:24:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Automated cherry pick of #131408: Remove warning about resizing failed for unknown reason</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/132098</link>
+      <description>Merged by gnufied - Production-Grade Container Scheduling and Management</description>
+      <author>gnufied</author>
+      <pubDate>Thu, 05 Jun 2025 21:02:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>kubeadm: fix one missed pkg/errors location; drop pkg/errors from go.mod</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/132125</link>
+      <description>Merged by neolit123 - Production-Grade Container Scheduling and Management</description>
+      <author>neolit123</author>
+      <pubDate>Thu, 05 Jun 2025 20:02:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bump gengo/v2 to latest, pick up related validation-gen fixes</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/132110</link>
+      <description>Merged by jpbetz - Production-Grade Container Scheduling and Management</description>
+      <author>jpbetz</author>
+      <pubDate>Thu, 05 Jun 2025 18:58:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update npd from v0.8.20 to v0.8.21</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/132067</link>
+      <description>Merged by bzsuni - Production-Grade Container Scheduling and Management</description>
+      <author>bzsuni</author>
+      <pubDate>Thu, 05 Jun 2025 18:58:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Automated cherry pick of #131506: Update hnslib version in Windows KubeProxy.</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131649</link>
+      <description>Merged by princepereira - Production-Grade Container Scheduling and Management</description>
+      <author>princepereira</author>
+      <pubDate>Thu, 05 Jun 2025 18:20:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>hack: fix KUBE_RACE in benchmark-dockerized.sh</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/132123</link>
+      <description>Merged by pohly - Production-Grade Container Scheduling and Management</description>
+      <author>pohly</author>
+      <pubDate>Thu, 05 Jun 2025 16:54:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>promote agnhost to v2.56</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/132117</link>
+      <description>Merged by yashsingh74 - Production-Grade Container Scheduling and Management</description>
+      <author>yashsingh74</author>
+      <pubDate>Thu, 05 Jun 2025 16:54:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Automated cherry pick of #130243: Revert userns kernel check</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131784</link>
+      <description>Merged by rata - Production-Grade Container Scheduling and Management</description>
+      <author>rata</author>
+      <pubDate>Thu, 05 Jun 2025 15:50:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Automated cherry pick of #131506: Update hnslib version in Windows KubeProxy.</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131652</link>
+      <description>Merged by princepereira - Production-Grade Container Scheduling and Management</description>
+      <author>princepereira</author>
+      <pubDate>Thu, 05 Jun 2025 15:50:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Automated cherry pick of #131962: Revert shorthand for kubectl explain --output</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131993</link>
+      <description>Merged by superbrothers - Production-Grade Container Scheduling and Management</description>
+      <author>superbrothers</author>
+      <pubDate>Thu, 05 Jun 2025 14:56:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Automated cherry pick of #123678: kubelet: Add logs for userns custom mappings parsing</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131813</link>
+      <description>Merged by rata - Production-Grade Container Scheduling and Management</description>
+      <author>rata</author>
+      <pubDate>Thu, 05 Jun 2025 14:44:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>kubeadm: switch to a local implementation of wrapped errors</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/132080</link>
+      <description>Merged by neolit123 - Production-Grade Container Scheduling and Management</description>
+      <author>neolit123</author>
+      <pubDate>Thu, 05 Jun 2025 14:30:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Automated cherry pick of #130243: Revert userns kernel check</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131785</link>
+      <description>Merged by rata - Production-Grade Container Scheduling and Management</description>
+      <author>rata</author>
+      <pubDate>Thu, 05 Jun 2025 13:12:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Automated cherry pick of #131623: kubelet: userns: Improve errors returned to the user</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131812</link>
+      <description>Merged by rata - Production-Grade Container Scheduling and Management</description>
+      <author>rata</author>
+      <pubDate>Thu, 05 Jun 2025 13:08:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Automated cherry pick of #131623: kubelet: userns: Improve errors returned to the user</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131781</link>
+      <description>Merged by rata - Production-Grade Container Scheduling and Management</description>
+      <author>rata</author>
+      <pubDate>Thu, 05 Jun 2025 11:14:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gradute ResilientWatchCacheInitialization to GA</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131979</link>
+      <description>Merged by serathius - Production-Grade Container Scheduling and Management</description>
+      <author>serathius</author>
+      <pubDate>Thu, 05 Jun 2025 10:02:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Automated cherry pick of #131623: kubelet: userns: Improve errors returned to the user</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131783</link>
+      <description>Merged by rata - Production-Grade Container Scheduling and Management</description>
+      <author>rata</author>
+      <pubDate>Thu, 05 Jun 2025 01:48:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Preempt based based on allocated resources rather than desired</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/132105</link>
+      <description>Merged by tallclair - Production-Grade Container Scheduling and Management</description>
+      <author>tallclair</author>
+      <pubDate>Thu, 05 Jun 2025 01:26:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Automated cherry pick of #130800: Fix unit tests on windows</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131786</link>
+      <description>Merged by rata - Production-Grade Container Scheduling and Management</description>
+      <author>rata</author>
+      <pubDate>Wed, 04 Jun 2025 22:24:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Only set pod allocation if admission succeeds</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/132102</link>
+      <description>Merged by tallclair - Production-Grade Container Scheduling and Management</description>
+      <author>tallclair</author>
+      <pubDate>Wed, 04 Jun 2025 21:46:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>fix(metric): prevent data race in metric LabelValueAllowList initialization</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/132063</link>
+      <description>Merged by yongruilin - Production-Grade Container Scheduling and Management</description>
+      <author>yongruilin</author>
+      <pubDate>Wed, 04 Jun 2025 21:46:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>e2e_node: verify restart looping container correctly</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/132101</link>
+      <description>Merged by haircommander - Production-Grade Container Scheduling and Management</description>
+      <author>haircommander</author>
+      <pubDate>Wed, 04 Jun 2025 20:40:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Remove unecessary comment since podResizeMutex no longer exist.</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/132095</link>
+      <description>Merged by esotsal - Production-Grade Container Scheduling and Management</description>
+      <author>esotsal</author>
+      <pubDate>Wed, 04 Jun 2025 20:40:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>DRAAdminAccess: update label key</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131996</link>
+      <description>Merged by ritazh - Production-Grade Container Scheduling and Management</description>
+      <author>ritazh</author>
+      <pubDate>Wed, 04 Jun 2025 19:16:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>test: drop dependency on github.com/pkg/errors</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131969</link>
+      <description>Merged by skitt - Production-Grade Container Scheduling and Management</description>
+      <author>skitt</author>
+      <pubDate>Wed, 04 Jun 2025 19:16:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Automated cherry pick of #131844: DRA node: reject static pods which reference ResourceClaims</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131875</link>
+      <description>Merged by pohly - Production-Grade Container Scheduling and Management</description>
+      <author>pohly</author>
+      <pubDate>Wed, 04 Jun 2025 18:28:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Automated cherry pick of #131844: DRA node: reject static pods which reference ResourceClaims</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131876</link>
+      <description>Merged by pohly - Production-Grade Container Scheduling and Management</description>
+      <author>pohly</author>
+      <pubDate>Wed, 04 Jun 2025 18:02:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>agnhost: added server address for conntrack cleanup entries</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131924</link>
+      <description>Merged by yashsingh74 - Production-Grade Container Scheduling and Management</description>
+      <author>yashsingh74</author>
+      <pubDate>Wed, 04 Jun 2025 17:44:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>test/e2e/apimachinery/namespace.go: make OrderedNamespaceDeletion test serial</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131852</link>
+      <description>Merged by bertinatto - Production-Grade Container Scheduling and Management</description>
+      <author>bertinatto</author>
+      <pubDate>Wed, 04 Jun 2025 17:44:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Automated cherry pick of #130800: Fix unit tests on windows</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131787</link>
+      <description>Merged by rata - Production-Grade Container Scheduling and Management</description>
+      <author>rata</author>
+      <pubDate>Wed, 04 Jun 2025 16:32:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Automated cherry pick of #130800: Fix unit tests on windows</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131811</link>
+      <description>Merged by rata - Production-Grade Container Scheduling and Management</description>
+      <author>rata</author>
+      <pubDate>Wed, 04 Jun 2025 16:22:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>[KEP-2400] kubectl top: add a --show-swap option</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/129458</link>
+      <description>Merged by iholder101 - Production-Grade Container Scheduling and Management</description>
+      <author>iholder101</author>
+      <pubDate>Wed, 04 Jun 2025 14:10:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>e2e: node: always declare testcase CPU requirements</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131794</link>
+      <description>Merged by ffromani - Production-Grade Container Scheduling and Management</description>
+      <author>ffromani</author>
+      <pubDate>Wed, 28 May 2025 18:36:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>fix(kubelet): update lease duration when config changes</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131749</link>
+      <description>Merged by cartermckinnon - Production-Grade Container Scheduling and Management</description>
+      <author>cartermckinnon</author>
+      <pubDate>Wed, 21 May 2025 21:06:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>verify scripts: preserve exit code</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131777</link>
+      <description>Merged by BenTheElder - Production-Grade Container Scheduling and Management</description>
+      <author>BenTheElder</author>
+      <pubDate>Thu, 15 May 2025 16:57:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>datapol: compare types directly</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131773</link>
+      <description>Merged by BenTheElder - Production-Grade Container Scheduling and Management</description>
+      <author>BenTheElder</author>
+      <pubDate>Thu, 15 May 2025 09:15:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Move test cases from mounted_volume_resize into testsuites/volume_expand.go</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131686</link>
+      <description>Merged by carlory - Production-Grade Container Scheduling and Management</description>
+      <author>carlory</author>
+      <pubDate>Fri, 09 May 2025 18:59:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Remove warning about resizing failed for unknown reason</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/131408</link>
+      <description>Merged by gnufied - Production-Grade Container Scheduling and Management</description>
+      <author>gnufied</author>
+      <pubDate>Fri, 25 Apr 2025 16:41:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add probe triggered log and shift the periodics timer after manual run</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/119089</link>
+      <description>Merged by mochizuki875 - Production-Grade Container Scheduling and Management</description>
+      <author>mochizuki875</author>
+      <pubDate>Wed, 23 Oct 2024 01:20:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Promote StatefulSetStartOrdinal to stable in 1.31</title>
+      <link>https://github.com/kubernetes/kubernetes/pull/125374</link>
+      <description>Merged by pwschuurman - Production-Grade Container Scheduling and Management</description>
+      <author>pwschuurman</author>
+      <pubDate>Mon, 22 Jul 2024 21:25:49 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

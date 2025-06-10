@@ -88,6 +88,14 @@ type PRData struct {
 	Description string
 }
 
+// RepositoryStats represents statistics for a repository's RSS feed
+type RepositoryStats struct {
+	Repository  Repository
+	PRCount     int
+	Filename    string
+	LastUpdated time.Time
+}
+
 func main() {
 	// Load configuration
 	config, err := loadConfig("config.yaml")
@@ -95,8 +103,15 @@ func main() {
 		log.Fatalf("Failed to load configuration: %v", err)
 	}
 
-	// Fetch PRs from all repositories
-	var allPRs []PRData
+	// Create docs directory for GitHub Pages
+	err = os.MkdirAll("docs", 0755)
+	if err != nil {
+		log.Fatalf("Failed to create docs directory: %v", err)
+	}
+
+	var repositoryStats []RepositoryStats
+
+	// Process each repository separately
 	for _, repo := range config.Repositories {
 		prs, err := fetchMergedPRs(repo, config.GitHub.MaxPRs)
 		if err != nil {
@@ -104,8 +119,9 @@ func main() {
 			continue
 		}
 
+		var repoPRs []PRData
 		for _, pr := range prs {
-			allPRs = append(allPRs, PRData{
+			repoPRs = append(repoPRs, PRData{
 				Title:       pr.Title,
 				URL:         pr.HTMLURL,
 				MergedAt:    parseTime(*pr.MergedAt),
@@ -114,20 +130,37 @@ func main() {
 				Description: repo.Description,
 			})
 		}
+
+		// Sort by merged date (descending)
+		sort.Slice(repoPRs, func(i, j int) bool {
+			return repoPRs[i].MergedAt.After(repoPRs[j].MergedAt)
+		})
+
+		// Generate RSS feed for this repository
+		filename := fmt.Sprintf("%s-%s.xml", repo.Owner, repo.Name)
+		err = generateRepositoryRSSFeed(repoPRs, repo, config.RSS, filename)
+		if err != nil {
+			log.Printf("Failed to generate RSS feed for %s/%s: %v", repo.Owner, repo.Name, err)
+			continue
+		}
+
+		repositoryStats = append(repositoryStats, RepositoryStats{
+			Repository:  repo,
+			PRCount:     len(repoPRs),
+			Filename:    filename,
+			LastUpdated: time.Now(),
+		})
+
+		fmt.Printf("RSS feed generated for %s/%s: %d PRs\n", repo.Owner, repo.Name, len(repoPRs))
 	}
 
-	// Sort by merged date (descending)
-	sort.Slice(allPRs, func(i, j int) bool {
-		return allPRs[i].MergedAt.After(allPRs[j].MergedAt)
-	})
-
-	// Generate RSS feed
-	err = generateRSSFeed(allPRs, config.RSS)
+	// Generate index HTML page with links to all repository feeds
+	err = generateRepositoryIndexHTML(repositoryStats, config.RSS)
 	if err != nil {
-		log.Fatalf("Failed to generate RSS feed: %v", err)
+		log.Fatalf("Failed to generate index HTML: %v", err)
 	}
 
-	fmt.Println("RSS feed generated successfully!")
+	fmt.Printf("All RSS feeds generated successfully! Total repositories: %d\n", len(repositoryStats))
 }
 
 // loadConfig loads the configuration from a YAML file
@@ -206,23 +239,23 @@ func parseTime(timestamp string) time.Time {
 	return t
 }
 
-// generateRSSFeed generates an RSS feed from pull request data
-func generateRSSFeed(prs []PRData, config RSSConfig) error {
+// generateRepositoryRSSFeed generates an RSS feed for a specific repository
+func generateRepositoryRSSFeed(prs []PRData, repo Repository, config RSSConfig, filename string) error {
 	now := time.Now()
 
 	feed := &feeds.Feed{
-		Title:       config.Title,
-		Link:        &feeds.Link{Href: config.Link},
-		Description: config.Description,
+		Title:       fmt.Sprintf("%s - %s/%s Merged PRs", config.Title, repo.Owner, repo.Name),
+		Link:        &feeds.Link{Href: fmt.Sprintf("https://github.com/%s/%s", repo.Owner, repo.Name)},
+		Description: fmt.Sprintf("Recent merged pull requests from %s/%s - %s", repo.Owner, repo.Name, repo.Description),
 		Author:      &feeds.Author{Name: config.Author.Name, Email: config.Author.Email},
 		Created:     now,
 	}
 
 	for _, pr := range prs {
 		item := &feeds.Item{
-			Title:       fmt.Sprintf("[%s] %s", pr.Repository, pr.Title),
+			Title:       pr.Title,
 			Link:        &feeds.Link{Href: pr.URL},
-			Description: fmt.Sprintf("Merged by %s in %s - %s", pr.Author, pr.Repository, pr.Description),
+			Description: fmt.Sprintf("Merged by %s - %s", pr.Author, repo.Description),
 			Author:      &feeds.Author{Name: pr.Author},
 			Created:     pr.MergedAt,
 		}
@@ -235,21 +268,9 @@ func generateRSSFeed(prs []PRData, config RSSConfig) error {
 		return err
 	}
 
-	// Create docs directory for GitHub Pages
-	err = os.MkdirAll("docs", 0755)
-	if err != nil {
-		return err
-	}
-
 	// Write RSS feed to file
-	err = os.WriteFile("docs/feed.xml", []byte(rss), 0644)
-	if err != nil {
-		return err
-	}
-
-	// Generate simple HTML index
-	html := generateIndexHTML(config, len(prs))
-	err = os.WriteFile("docs/index.html", []byte(html), 0644)
+	filepath := fmt.Sprintf("docs/%s", filename)
+	err = os.WriteFile(filepath, []byte(rss), 0644)
 	if err != nil {
 		return err
 	}
@@ -257,8 +278,8 @@ func generateRSSFeed(prs []PRData, config RSSConfig) error {
 	return nil
 }
 
-// generateIndexHTML generates a simple HTML index page
-func generateIndexHTML(config RSSConfig, prCount int) string {
+// generateRepositoryIndexHTML generates an HTML index page with links to all repository feeds
+func generateRepositoryIndexHTML(stats []RepositoryStats, config RSSConfig) error {
 	html := fmt.Sprintf(`<!DOCTYPE html>
 <html lang="ja">
 <head>
@@ -266,36 +287,65 @@ func generateIndexHTML(config RSSConfig, prCount int) string {
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>%s</title>
     <style>
-        body { font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; }
+        body { font-family: Arial, sans-serif; max-width: 1000px; margin: 0 auto; padding: 20px; }
         .header { text-align: center; margin-bottom: 30px; }
-        .rss-link { display: inline-block; background: #ff6600; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; }
-        .stats { background: #f5f5f5; padding: 15px; border-radius: 5px; margin: 20px 0; }
-        .footer { text-align: center; margin-top: 30px; color: #666; }
+        .repository-list { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 30px 0; }
+        .repository-card { background: #f8f9fa; border: 1px solid #e9ecef; border-radius: 8px; padding: 20px; }
+        .repository-card h3 { margin: 0 0 10px 0; color: #333; }
+        .repository-card .description { color: #666; font-size: 14px; margin: 10px 0; }
+        .repository-card .stats { color: #888; font-size: 12px; margin: 10px 0; }
+        .rss-link { display: inline-block; background: #ff6600; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px; font-size: 14px; }
+        .rss-link:hover { background: #e55a00; }
+        .footer { text-align: center; margin-top: 40px; color: #666; border-top: 1px solid #eee; padding-top: 20px; }
+        .summary { background: #e3f2fd; padding: 20px; border-radius: 8px; margin: 20px 0; text-align: center; }
     </style>
 </head>
 <body>
     <div class="header">
         <h1>%s</h1>
         <p>%s</p>
-        <a href="feed.xml" class="rss-link">RSS Feed</a>
     </div>
     
-    <div class="stats">
-        <h3>統計情報</h3>
-        <p>現在 <strong>%d</strong> 件のマージされたPRが登録されています</p>
+    <div class="summary">
+        <h3>監視中のリポジトリ</h3>
+        <p><strong>%d</strong> 個のリポジトリから最新のマージされたPRを配信しています</p>
         <p>最終更新: %s</p>
     </div>
-    
-    <div class="footer">
-        <p>このフィードは毎日自動更新されます</p>
-    </div>
-</body>
-</html>`,
+
+    <div class="repository-list">`,
 		config.Title,
 		config.Title,
 		config.Description,
-		prCount,
+		len(stats),
 		time.Now().Format("2006-01-02 15:04:05 JST"))
 
-	return html
+	for _, stat := range stats {
+		totalPRs := stat.PRCount
+		html += fmt.Sprintf(`
+        <div class="repository-card">
+            <h3>%s/%s</h3>
+            <div class="description">%s</div>
+            <div class="stats">PRs: %d件 | 更新: %s</div>
+            <a href="%s" class="rss-link">RSS Feed</a>
+        </div>`,
+			stat.Repository.Owner,
+			stat.Repository.Name,
+			stat.Repository.Description,
+			totalPRs,
+			stat.LastUpdated.Format("01/02 15:04"),
+			stat.Filename)
+	}
+
+	html += `
+    </div>
+    
+    <div class="footer">
+        <p>各リポジトリのRSSフィードは毎日自動更新されます</p>
+        <p>GitHubの最新のマージされたPull Requestを確認できます</p>
+    </div>
+</body>
+</html>`
+
+	err := os.WriteFile("docs/index.html", []byte(html), 0644)
+	return err
 }

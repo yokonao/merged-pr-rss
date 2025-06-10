@@ -5,28 +5,67 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>OSS Merged PRs Feed</title>
     <style>
-        body { font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; }
+        body { font-family: Arial, sans-serif; max-width: 1000px; margin: 0 auto; padding: 20px; }
         .header { text-align: center; margin-bottom: 30px; }
-        .rss-link { display: inline-block; background: #ff6600; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; }
-        .stats { background: #f5f5f5; padding: 15px; border-radius: 5px; margin: 20px 0; }
-        .footer { text-align: center; margin-top: 30px; color: #666; }
+        .repository-list { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 30px 0; }
+        .repository-card { background: #f8f9fa; border: 1px solid #e9ecef; border-radius: 8px; padding: 20px; }
+        .repository-card h3 { margin: 0 0 10px 0; color: #333; }
+        .repository-card .description { color: #666; font-size: 14px; margin: 10px 0; }
+        .repository-card .stats { color: #888; font-size: 12px; margin: 10px 0; }
+        .rss-link { display: inline-block; background: #ff6600; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px; font-size: 14px; }
+        .rss-link:hover { background: #e55a00; }
+        .footer { text-align: center; margin-top: 40px; color: #666; border-top: 1px solid #eee; padding-top: 20px; }
+        .summary { background: #e3f2fd; padding: 20px; border-radius: 8px; margin: 20px 0; text-align: center; }
     </style>
 </head>
 <body>
     <div class="header">
         <h1>OSS Merged PRs Feed</h1>
         <p>Recent merged pull requests from popular open source projects</p>
-        <a href="feed.xml" class="rss-link">RSS Feed</a>
     </div>
     
-    <div class="stats">
-        <h3>統計情報</h3>
-        <p>現在 <strong>274</strong> 件のマージされたPRが登録されています</p>
-        <p>最終更新: 2025-06-11 06:27:30 JST</p>
+    <div class="summary">
+        <h3>監視中のリポジトリ</h3>
+        <p><strong>5</strong> 個のリポジトリから最新のマージされたPRを配信しています</p>
+        <p>最終更新: 2025-06-11 06:33:12 JST</p>
+    </div>
+
+    <div class="repository-list">
+        <div class="repository-card">
+            <h3>facebook/react</h3>
+            <div class="description">A declarative, efficient, and flexible JavaScript library for building user interfaces.</div>
+            <div class="stats">PRs: 32件 | 更新: 06/11 06:33</div>
+            <a href="facebook-react.xml" class="rss-link">RSS Feed</a>
+        </div>
+        <div class="repository-card">
+            <h3>microsoft/vscode</h3>
+            <div class="description">Visual Studio Code</div>
+            <div class="stats">PRs: 91件 | 更新: 06/11 06:33</div>
+            <a href="microsoft-vscode.xml" class="rss-link">RSS Feed</a>
+        </div>
+        <div class="repository-card">
+            <h3>golang/go</h3>
+            <div class="description">The Go programming language</div>
+            <div class="stats">PRs: 0件 | 更新: 06/11 06:33</div>
+            <a href="golang-go.xml" class="rss-link">RSS Feed</a>
+        </div>
+        <div class="repository-card">
+            <h3>kubernetes/kubernetes</h3>
+            <div class="description">Production-Grade Container Scheduling and Management</div>
+            <div class="stats">PRs: 74件 | 更新: 06/11 06:33</div>
+            <a href="kubernetes-kubernetes.xml" class="rss-link">RSS Feed</a>
+        </div>
+        <div class="repository-card">
+            <h3>nodejs/node</h3>
+            <div class="description">Node.js JavaScript runtime</div>
+            <div class="stats">PRs: 78件 | 更新: 06/11 06:33</div>
+            <a href="nodejs-node.xml" class="rss-link">RSS Feed</a>
+        </div>
     </div>
     
     <div class="footer">
-        <p>このフィードは毎日自動更新されます</p>
+        <p>各リポジトリのRSSフィードは毎日自動更新されます</p>
+        <p>GitHubの最新のマージされたPull Requestを確認できます</p>
     </div>
 </body>
 </html>
