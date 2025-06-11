@@ -4,7 +4,21 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Tue, 10 Jun 2025 21:52:53 +0000</pubDate>
+    <pubDate>Wed, 11 Jun 2025 02:07:34 +0000</pubDate>
+    <item>
+      <title>Fix typos</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/644</link>
+      <description>Merged by gameofby - Fix typos</description>
+      <author>gameofby</author>
+      <pubDate>Wed, 11 Jun 2025 01:56:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update guidance for use of Embedded Resources in CallToolResult</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/415</link>
+      <description>Merged by evalstate - Update guidance for use of Embedded Resources in CallToolResult</description>
+      <author>evalstate</author>
+      <pubDate>Tue, 10 Jun 2025 22:19:47 +0000</pubDate>
+    </item>
     <item>
       <title>added completions to the list of server capabilities (was missing)</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/680</link>
@@ -424,13 +438,6 @@
       <description>Merged by seanphan - Add AgenticFlow to the list of clients</description>
       <author>seanphan</author>
       <pubDate>Wed, 30 Apr 2025 21:27:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>[spec] Auth: consolidate security considerations into new section</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/387</link>
-      <description>Merged by pcarleton - [spec] Auth: consolidate security considerations into new section</description>
-      <author>pcarleton</author>
-      <pubDate>Wed, 30 Apr 2025 15:49:02 +0000</pubDate>
     </item>
     <item>
       <title>Remove batching requirement</title>
