@@ -4,7 +4,35 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Wed, 11 Jun 2025 02:07:34 +0000</pubDate>
+    <pubDate>Thu, 12 Jun 2025 02:06:10 +0000</pubDate>
+    <item>
+      <title>fix a typo</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/712</link>
+      <description>Merged by mntlty - fix a typo</description>
+      <author>mntlty</author>
+      <pubDate>Thu, 12 Jun 2025 01:30:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>docs(java-sdk): Fill in missing argument in `ServerCapabilities.builder().resources`</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/360</link>
+      <description>Merged by KacperFKorban - docs(java-sdk): Fill in missing argument in `ServerCapabilities.builder().resources`</description>
+      <author>KacperFKorban</author>
+      <pubDate>Wed, 11 Jun 2025 22:17:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Change content type in  ElicitResult</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/708</link>
+      <description>Merged by ihrpr - Change content type in  ElicitResult</description>
+      <author>ihrpr</author>
+      <pubDate>Wed, 11 Jun 2025 17:07:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Remove temporary warning and update missed line</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/703</link>
+      <description>Merged by olaservo - Remove temporary warning and update missed line</description>
+      <author>olaservo</author>
+      <pubDate>Wed, 11 Jun 2025 14:56:53 +0000</pubDate>
+    </item>
     <item>
       <title>Fix typos</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/644</link>
@@ -410,34 +438,6 @@
       <description>Merged by nick-merrill - add claude.ai to clients list</description>
       <author>nick-merrill</author>
       <pubDate>Fri, 02 May 2025 13:07:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs: update repo name</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/435</link>
-      <description>Merged by Hephaest - docs: update repo name</description>
-      <author>Hephaest</author>
-      <pubDate>Thu, 01 May 2025 12:57:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Update client list with AgentAI library</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/301</link>
-      <description>Merged by AdamStrojek - Update client list with AgentAI library</description>
-      <author>AdamStrojek</author>
-      <pubDate>Thu, 01 May 2025 07:56:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add mcp-use client</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/299</link>
-      <description>Merged by pietrozullo - Add mcp-use client</description>
-      <author>pietrozullo</author>
-      <pubDate>Thu, 01 May 2025 07:35:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add AgenticFlow to the list of clients</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/444</link>
-      <description>Merged by seanphan - Add AgenticFlow to the list of clients</description>
-      <author>seanphan</author>
-      <pubDate>Wed, 30 Apr 2025 21:27:01 +0000</pubDate>
     </item>
     <item>
       <title>Remove batching requirement</title>
