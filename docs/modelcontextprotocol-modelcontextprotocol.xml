@@ -4,7 +4,21 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Thu, 12 Jun 2025 02:06:10 +0000</pubDate>
+    <pubDate>Fri, 13 Jun 2025 02:07:43 +0000</pubDate>
+    <item>
+      <title>Fix broken links</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/719</link>
+      <description>Merged by ihrpr - Fix broken links</description>
+      <author>ihrpr</author>
+      <pubDate>Thu, 12 Jun 2025 14:15:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Consolidate check scripts</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/647</link>
+      <description>Merged by jonathanhefner - Consolidate check scripts</description>
+      <author>jonathanhefner</author>
+      <pubDate>Thu, 12 Jun 2025 10:18:47 +0000</pubDate>
+    </item>
     <item>
       <title>fix a typo</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/712</link>
@@ -403,41 +417,6 @@
       <description>Merged by pietrozullo - mcp-use supports prompts</description>
       <author>pietrozullo</author>
       <pubDate>Wed, 07 May 2025 17:55:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Various cleanups and standardizations to the authorization draft.</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/449</link>
-      <description>Merged by wdawson - Various cleanups and standardizations to the authorization draft.</description>
-      <author>wdawson</author>
-      <pubDate>Tue, 06 May 2025 17:05:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs(java-quickstart): update tool registration method in java client quickstart</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/465</link>
-      <description>Merged by tzolov - docs(java-quickstart): update tool registration method in java client quickstart</description>
-      <author>tzolov</author>
-      <pubDate>Mon, 05 May 2025 12:44:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>[docs] Add guidelines for specification proposals</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/455</link>
-      <description>Merged by pcarleton - [docs] Add guidelines for specification proposals</description>
-      <author>pcarleton</author>
-      <pubDate>Sun, 04 May 2025 16:30:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>chore: add msty client to mcp docs</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/458</link>
-      <description>Merged by armgitaar - chore: add msty client to mcp docs</description>
-      <author>armgitaar</author>
-      <pubDate>Fri, 02 May 2025 16:43:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>add claude.ai to clients list</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/456</link>
-      <description>Merged by nick-merrill - add claude.ai to clients list</description>
-      <author>nick-merrill</author>
-      <pubDate>Fri, 02 May 2025 13:07:46 +0000</pubDate>
     </item>
     <item>
       <title>Remove batching requirement</title>
