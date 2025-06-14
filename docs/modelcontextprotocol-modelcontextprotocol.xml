@@ -4,7 +4,77 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Fri, 13 Jun 2025 02:07:43 +0000</pubDate>
+    <pubDate>Sat, 14 Jun 2025 02:03:06 +0000</pubDate>
+    <item>
+      <title>Fix typos</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/724</link>
+      <description>Merged by jonathanhefner - Fix typos</description>
+      <author>jonathanhefner</author>
+      <pubDate>Sat, 14 Jun 2025 00:12:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Remove unused toolResults for TS Client Quickstart</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/501</link>
+      <description>Merged by myfancypants - Remove unused toolResults for TS Client Quickstart</description>
+      <author>myfancypants</author>
+      <pubDate>Fri, 13 Jun 2025 22:35:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fix C# client sample not building.</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/564</link>
+      <description>Merged by AustinWise - Fix C# client sample not building.</description>
+      <author>AustinWise</author>
+      <pubDate>Fri, 13 Jun 2025 22:30:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update VS Code capabilities on the client page</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/572</link>
+      <description>Merged by connor4312 - Update VS Code capabilities on the client page</description>
+      <author>connor4312</author>
+      <pubDate>Fri, 13 Jun 2025 21:47:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>docs(typescript-quickstart): ensure proper async handling in Node.js MCP client demo</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/482</link>
+      <description>Merged by DongHuiTiao - docs(typescript-quickstart): ensure proper async handling in Node.js MCP client demo</description>
+      <author>DongHuiTiao</author>
+      <pubDate>Fri, 13 Jun 2025 19:45:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>docs: Fix WhatsMCP typo</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/726</link>
+      <description>Merged by chr-hertel - docs: Fix WhatsMCP typo</description>
+      <author>chr-hertel</author>
+      <pubDate>Fri, 13 Jun 2025 13:39:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Remove SDK section while spec is being updated</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/716</link>
+      <description>Merged by ihrpr - Remove SDK section while spec is being updated</description>
+      <author>ihrpr</author>
+      <pubDate>Fri, 13 Jun 2025 13:35:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>improve wording for _meta field</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/728</link>
+      <description>Merged by dsp-ant - improve wording for _meta field</description>
+      <author>dsp-ant</author>
+      <pubDate>Fri, 13 Jun 2025 13:25:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>feat: Adds _meta to additional interface types.</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/710</link>
+      <description>Merged by mbleigh - feat: Adds _meta to additional interface types.</description>
+      <author>mbleigh</author>
+      <pubDate>Fri, 13 Jun 2025 12:01:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Encourage title properties/usage for objects/resources likely t…</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/663</link>
+      <description>Merged by ZachGerman - Encourage title properties/usage for objects/resources likely t…</description>
+      <author>ZachGerman</author>
+      <pubDate>Fri, 13 Jun 2025 11:36:05 +0000</pubDate>
+    </item>
     <item>
       <title>Fix broken links</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/719</link>
@@ -335,20 +405,6 @@
       <pubDate>Wed, 21 May 2025 14:42:14 +0000</pubDate>
     </item>
     <item>
-      <title>[spec] Auth: Token validation</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/408</link>
-      <description>Merged by pcarleton - [spec] Auth: Token validation</description>
-      <author>pcarleton</author>
-      <pubDate>Tue, 20 May 2025 23:15:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fix typo in draft authorization specification</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/529</link>
-      <description>Merged by deanyxu - Fix typo in draft authorization specification</description>
-      <author>deanyxu</author>
-      <pubDate>Tue, 20 May 2025 20:49:33 +0000</pubDate>
-    </item>
-    <item>
       <title>duplicated section numbers in draft authorization specification</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/539</link>
       <description>Merged by tnorimat - duplicated section numbers in draft authorization specification</description>
@@ -356,67 +412,11 @@
       <pubDate>Tue, 20 May 2025 20:42:29 +0000</pubDate>
     </item>
     <item>
-      <title>docs(spec): Add missing flow component</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/520</link>
-      <description>Merged by localden - docs(spec): Add missing flow component</description>
-      <author>localden</author>
-      <pubDate>Wed, 14 May 2025 00:31:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tighten Tool.outputSchema</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/519</link>
-      <description>Merged by bhosmer-ant - Tighten Tool.outputSchema</description>
-      <author>bhosmer-ant</author>
-      <pubDate>Tue, 13 May 2025 13:16:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>fast-agent support tool updates</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/514</link>
-      <description>Merged by evalstate - fast-agent support tool updates</description>
-      <author>evalstate</author>
-      <pubDate>Mon, 12 May 2025 21:51:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>doc: Added &#34;Discovery&#34; column to MCP clients to indicate which support `notifications/tools/list_changed`</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/473</link>
-      <description>Merged by jancurn - doc: Added &#34;Discovery&#34; column to MCP clients to indicate which support `notifications/tools/list_changed`</description>
-      <author>jancurn</author>
-      <pubDate>Mon, 12 May 2025 15:56:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>[doc] added Snyk official MCP to examples.mdx</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/511</link>
-      <description>Merged by bastiandoetsch - [doc] added Snyk official MCP to examples.mdx</description>
-      <author>bastiandoetsch</author>
-      <pubDate>Mon, 12 May 2025 09:37:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add link to official Swift SDK</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/498</link>
-      <description>Merged by mattt - Add link to official Swift SDK</description>
-      <author>mattt</author>
-      <pubDate>Fri, 09 May 2025 13:57:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Removed redundant section in Authorization spec</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/487</link>
-      <description>Merged by maia-iyer - Removed redundant section in Authorization spec</description>
-      <author>maia-iyer</author>
-      <pubDate>Thu, 08 May 2025 21:56:30 +0000</pubDate>
-    </item>
-    <item>
       <title>RFC: add `Tool.outputSchema` and `CallToolResult.structuredContent`</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/371</link>
       <description>Merged by bhosmer-ant - RFC: add `Tool.outputSchema` and `CallToolResult.structuredContent`</description>
       <author>bhosmer-ant</author>
       <pubDate>Thu, 08 May 2025 15:25:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>mcp-use supports prompts</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/481</link>
-      <description>Merged by pietrozullo - mcp-use supports prompts</description>
-      <author>pietrozullo</author>
-      <pubDate>Wed, 07 May 2025 17:55:19 +0000</pubDate>
     </item>
     <item>
       <title>Remove batching requirement</title>
