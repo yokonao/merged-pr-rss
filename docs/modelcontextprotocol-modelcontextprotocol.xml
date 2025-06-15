@@ -4,7 +4,14 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Sat, 14 Jun 2025 02:03:06 +0000</pubDate>
+    <pubDate>Sun, 15 Jun 2025 02:23:06 +0000</pubDate>
+    <item>
+      <title>Add JetBrains AI Assistant to the list of MCP clients</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/740</link>
+      <description>Merged by kaleev - Add JetBrains AI Assistant to the list of MCP clients</description>
+      <author>kaleev</author>
+      <pubDate>Sat, 14 Jun 2025 08:37:14 +0000</pubDate>
+    </item>
     <item>
       <title>Fix typos</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/724</link>
@@ -403,13 +410,6 @@
       <description>Merged by jasondotparse - Update docs images</description>
       <author>jasondotparse</author>
       <pubDate>Wed, 21 May 2025 14:42:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>duplicated section numbers in draft authorization specification</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/539</link>
-      <description>Merged by tnorimat - duplicated section numbers in draft authorization specification</description>
-      <author>tnorimat</author>
-      <pubDate>Tue, 20 May 2025 20:42:29 +0000</pubDate>
     </item>
     <item>
       <title>RFC: add `Tool.outputSchema` and `CallToolResult.structuredContent`</title>
