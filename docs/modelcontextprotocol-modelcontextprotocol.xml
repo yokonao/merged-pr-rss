@@ -4,7 +4,63 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Mon, 16 Jun 2025 02:11:26 +0000</pubDate>
+    <pubDate>Tue, 17 Jun 2025 02:08:18 +0000</pubDate>
+    <item>
+      <title>remove explicit section numbers from new content</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/760</link>
+      <description>Merged by bhosmer-ant - remove explicit section numbers from new content</description>
+      <author>bhosmer-ant</author>
+      <pubDate>Tue, 17 Jun 2025 02:04:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>chore: create a section on session hijack</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/641</link>
+      <description>Merged by SamMorrowDrums - chore: create a section on session hijack</description>
+      <author>SamMorrowDrums</author>
+      <pubDate>Mon, 16 Jun 2025 22:33:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>chore: Follow-up on `RFC8707` in authorization.mdx</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/758</link>
+      <description>Merged by localden - chore: Follow-up on `RFC8707` in authorization.mdx</description>
+      <author>localden</author>
+      <pubDate>Mon, 16 Jun 2025 20:29:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>chore: Add requirement for RFC8707</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/734</link>
+      <description>Merged by localden - chore: Add requirement for RFC8707</description>
+      <author>localden</author>
+      <pubDate>Mon, 16 Jun 2025 20:15:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>authorization: Fix endpoint path</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/750</link>
+      <description>Merged by dsp-ant - authorization: Fix endpoint path</description>
+      <author>dsp-ant</author>
+      <pubDate>Mon, 16 Jun 2025 16:06:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>relax completion order language</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/753</link>
+      <description>Merged by bhosmer-ant - relax completion order language</description>
+      <author>bhosmer-ant</author>
+      <pubDate>Mon, 16 Jun 2025 15:46:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>add _meta key format guidance to schema.ts</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/733</link>
+      <description>Merged by bhosmer-ant - add _meta key format guidance to schema.ts</description>
+      <author>bhosmer-ant</author>
+      <pubDate>Mon, 16 Jun 2025 13:33:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>docs(java): Update Java SDK documentation with improved navigation</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/741</link>
+      <description>Merged by tzolov - docs(java): Update Java SDK documentation with improved navigation</description>
+      <author>tzolov</author>
+      <pubDate>Mon, 16 Jun 2025 08:22:44 +0000</pubDate>
+    </item>
     <item>
       <title>Add JetBrains AI Assistant to the list of MCP clients</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/740</link>
@@ -354,62 +410,6 @@
       <description>Merged by siwachabhi - [feat] Introduce elcitation as new client capability</description>
       <author>siwachabhi</author>
       <pubDate>Wed, 28 May 2025 18:55:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>[spec] add changelog entries for auth spec changes</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/570</link>
-      <description>Merged by pcarleton - [spec] add changelog entries for auth spec changes</description>
-      <author>pcarleton</author>
-      <pubDate>Tue, 27 May 2025 08:46:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add whatsMCP to client list</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/479</link>
-      <description>Merged by jaw9c - Add whatsMCP to client list</description>
-      <author>jaw9c</author>
-      <pubDate>Mon, 26 May 2025 21:11:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add NVIDIA Agent Intelligence toolkit to the &#34;Feature Support Matrix&#34;</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/565</link>
-      <description>Merged by AnuradhaKaruppiah - Add NVIDIA Agent Intelligence toolkit to the &#34;Feature Support Matrix&#34;</description>
-      <author>AnuradhaKaruppiah</author>
-      <pubDate>Thu, 22 May 2025 22:19:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>add structured output to changelog, removed stale batching ref in docs</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/562</link>
-      <description>Merged by bhosmer-ant - add structured output to changelog, removed stale batching ref in docs</description>
-      <author>bhosmer-ant</author>
-      <pubDate>Thu, 22 May 2025 07:32:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs: Remove /servers README-redundant examples from /examples</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/560</link>
-      <description>Merged by tadasant - docs: Remove /servers README-redundant examples from /examples</description>
-      <author>tadasant</author>
-      <pubDate>Thu, 22 May 2025 00:09:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>make CallToolResult.content non-optional and relax output schema validation requirement</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/559</link>
-      <description>Merged by bhosmer-ant - make CallToolResult.content non-optional and relax output schema validation requirement</description>
-      <author>bhosmer-ant</author>
-      <pubDate>Wed, 21 May 2025 15:51:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs: Added Apify to integrations</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/557</link>
-      <description>Merged by jancurn - docs: Added Apify to integrations</description>
-      <author>jancurn</author>
-      <pubDate>Wed, 21 May 2025 14:50:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Update docs images</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/454</link>
-      <description>Merged by jasondotparse - Update docs images</description>
-      <author>jasondotparse</author>
-      <pubDate>Wed, 21 May 2025 14:42:14 +0000</pubDate>
     </item>
     <item>
       <title>RFC: add `Tool.outputSchema` and `CallToolResult.structuredContent`</title>
