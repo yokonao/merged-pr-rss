@@ -4,7 +4,98 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Tue, 17 Jun 2025 02:08:18 +0000</pubDate>
+    <pubDate>Wed, 18 Jun 2025 02:07:12 +0000</pubDate>
+    <item>
+      <title>changelog additions</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/768</link>
+      <description>Merged by bhosmer-ant - changelog additions</description>
+      <author>bhosmer-ant</author>
+      <pubDate>Tue, 17 Jun 2025 20:36:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>feat: enhance auth server discovery with OAuth2 and OIDC metadata support</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/677</link>
+      <description>Merged by xiaoyijun - feat: enhance auth server discovery with OAuth2 and OIDC metadata support</description>
+      <author>xiaoyijun</author>
+      <pubDate>Tue, 17 Jun 2025 20:09:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Refer to &#34;Token Passthrough&#34; section by name</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/769</link>
+      <description>Merged by jonathanhefner - Refer to &#34;Token Passthrough&#34; section by name</description>
+      <author>jonathanhefner</author>
+      <pubDate>Tue, 17 Jun 2025 18:05:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>doc(clients): add MooPoint</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/577</link>
+      <description>Merged by sakalys - doc(clients): add MooPoint</description>
+      <author>sakalys</author>
+      <pubDate>Tue, 17 Jun 2025 15:12:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add Authorization to key components list in overview</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/767</link>
+      <description>Merged by dsp-ant - Add Authorization to key components list in overview</description>
+      <author>dsp-ant</author>
+      <pubDate>Tue, 17 Jun 2025 14:25:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add note about RFC 8707 to changelog</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/766</link>
+      <description>Merged by dsp-ant - Add note about RFC 8707 to changelog</description>
+      <author>dsp-ant</author>
+      <pubDate>Tue, 17 Jun 2025 14:09:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>[spec] add roots to list of client features</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/765</link>
+      <description>Merged by dsp-ant - [spec] add roots to list of client features</description>
+      <author>dsp-ant</author>
+      <pubDate>Tue, 17 Jun 2025 14:08:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Make Prettier ignore the table of client features</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/709</link>
+      <description>Merged by jonathanhefner - Make Prettier ignore the table of client features</description>
+      <author>jonathanhefner</author>
+      <pubDate>Tue, 17 Jun 2025 12:55:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>docs: update mcp-agent entry to include support for prompts, resources and roots</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/720</link>
+      <description>Merged by StreetLamb - docs: update mcp-agent entry to include support for prompts, resources and roots</description>
+      <author>StreetLamb</author>
+      <pubDate>Tue, 17 Jun 2025 12:54:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update `npx` target for inspector command</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/736</link>
+      <description>Merged by jonathanhefner - Update `npx` target for inspector command</description>
+      <author>jonathanhefner</author>
+      <pubDate>Tue, 17 Jun 2025 12:53:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>docs: fix improper usage of the term &#34;endpoint&#34;</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/739</link>
+      <description>Merged by hesreallyhim - docs: fix improper usage of the term &#34;endpoint&#34;</description>
+      <author>hesreallyhim</author>
+      <pubDate>Tue, 17 Jun 2025 12:52:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>docs: improve favicon readibility</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/744</link>
+      <description>Merged by mattppal - docs: improve favicon readibility</description>
+      <author>mattppal</author>
+      <pubDate>Tue, 17 Jun 2025 12:51:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated the documentation for claude desktop</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/761</link>
+      <description>Merged by swathi-ant - Updated the documentation for claude desktop</description>
+      <author>swathi-ant</author>
+      <pubDate>Tue, 17 Jun 2025 07:20:58 +0000</pubDate>
+    </item>
     <item>
       <title>remove explicit section numbers from new content</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/760</link>
@@ -326,83 +417,6 @@
       <description>Merged by bhosmer-ant - update elicitation schema language</description>
       <author>bhosmer-ant</author>
       <pubDate>Thu, 05 Jun 2025 02:18:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Remove outdated note about Claude.ai MCP support</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/633</link>
-      <description>Merged by felixweinberger - Remove outdated note about Claude.ai MCP support</description>
-      <author>felixweinberger</author>
-      <pubDate>Tue, 03 Jun 2025 20:11:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs: remove updates.mdx as we don&#39;t maintain it well</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/636</link>
-      <description>Merged by dsp-ant - docs: remove updates.mdx as we don&#39;t maintain it well</description>
-      <author>dsp-ant</author>
-      <pubDate>Tue, 03 Jun 2025 12:52:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs: fix broken C# code sample for MCP Server</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/400</link>
-      <description>Merged by AntPolkanov - docs: fix broken C# code sample for MCP Server</description>
-      <author>AntPolkanov</author>
-      <pubDate>Tue, 03 Jun 2025 12:44:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add Superjoin to client list</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/580</link>
-      <description>Merged by buzo1234 - Add Superjoin to client list</description>
-      <author>buzo1234</author>
-      <pubDate>Tue, 03 Jun 2025 10:55:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs: example code should use latest protocol version</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/626</link>
-      <description>Merged by hesreallyhim - docs: example code should use latest protocol version</description>
-      <author>hesreallyhim</author>
-      <pubDate>Mon, 02 Jun 2025 21:28:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Update documentation to reflect server moves to servers-archived</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/623</link>
-      <description>Merged by dsp-ant - Update documentation to reflect server moves to servers-archived</description>
-      <author>dsp-ant</author>
-      <pubDate>Mon, 02 Jun 2025 21:28:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>[ez] Fix Ruby SDK icon in sidebar navigation</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/632</link>
-      <description>Merged by felixweinberger - [ez] Fix Ruby SDK icon in sidebar navigation</description>
-      <author>felixweinberger</author>
-      <pubDate>Mon, 02 Jun 2025 21:27:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Document `Resource.size` in `concepts/resources.mdx`</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/621</link>
-      <description>Merged by jonathanhefner - Document `Resource.size` in `concepts/resources.mdx`</description>
-      <author>jonathanhefner</author>
-      <pubDate>Sun, 01 Jun 2025 19:37:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>FIX: Fix broken links</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/601</link>
-      <description>Merged by hesreallyhim - FIX: Fix broken links</description>
-      <author>hesreallyhim</author>
-      <pubDate>Fri, 30 May 2025 14:56:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>better language for elicitation note</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/591</link>
-      <description>Merged by bhosmer-ant - better language for elicitation note</description>
-      <author>bhosmer-ant</author>
-      <pubDate>Wed, 28 May 2025 19:58:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>add experimental note to elicitation documentation</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/590</link>
-      <description>Merged by bhosmer-ant - add experimental note to elicitation documentation</description>
-      <author>bhosmer-ant</author>
-      <pubDate>Wed, 28 May 2025 19:45:17 +0000</pubDate>
     </item>
     <item>
       <title>[feat] Introduce elcitation as new client capability</title>
