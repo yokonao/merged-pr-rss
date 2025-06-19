@@ -4,7 +4,84 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Wed, 18 Jun 2025 02:07:12 +0000</pubDate>
+    <pubDate>Thu, 19 Jun 2025 02:07:53 +0000</pubDate>
+    <item>
+      <title>The Model Context Protocol - Revision 2025-06-18</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/783</link>
+      <description>Merged by dsp-ant - The Model Context Protocol - Revision 2025-06-18</description>
+      <author>dsp-ant</author>
+      <pubDate>Wed, 18 Jun 2025 20:07:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>chore: Update security considerations in authorization.mdx</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/787</link>
+      <description>Merged by localden - chore: Update security considerations in authorization.mdx</description>
+      <author>localden</author>
+      <pubDate>Wed, 18 Jun 2025 19:48:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Apply `h5` and `h6` styles to all content</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/786</link>
+      <description>Merged by jonathanhefner - Apply `h5` and `h6` styles to all content</description>
+      <author>jonathanhefner</author>
+      <pubDate>Wed, 18 Jun 2025 19:00:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Revert &#34;feat: enhance auth server discovery with OAuth2 and OpenID metadata support&#34;</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/788</link>
+      <description>Merged by dsp-ant - Revert &#34;feat: enhance auth server discovery with OAuth2 and OpenID metadata support&#34;</description>
+      <author>dsp-ant</author>
+      <pubDate>Wed, 18 Jun 2025 18:56:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rework docs navigation (part 2)</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/784</link>
+      <description>Merged by jonathanhefner - Rework docs navigation (part 2)</description>
+      <author>jonathanhefner</author>
+      <pubDate>Wed, 18 Jun 2025 17:15:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update `clients.mdx` table header links</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/773</link>
+      <description>Merged by jonathanhefner - Update `clients.mdx` table header links</description>
+      <author>jonathanhefner</author>
+      <pubDate>Wed, 18 Jun 2025 14:46:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>[spec] make user appear on the left side of the elicitation diagram</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/781</link>
+      <description>Merged by dsp-ant - [spec] make user appear on the left side of the elicitation diagram</description>
+      <author>dsp-ant</author>
+      <pubDate>Wed, 18 Jun 2025 13:43:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>davidsp/fix role order</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/780</link>
+      <description>Merged by dsp-ant - davidsp/fix role order</description>
+      <author>dsp-ant</author>
+      <pubDate>Wed, 18 Jun 2025 13:42:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>docs: Fix h5, h6 style</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/778</link>
+      <description>Merged by dsp-ant - docs: Fix h5, h6 style</description>
+      <author>dsp-ant</author>
+      <pubDate>Wed, 18 Jun 2025 11:24:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rework docs navigation</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/770</link>
+      <description>Merged by jonathanhefner - Rework docs navigation</description>
+      <author>jonathanhefner</author>
+      <pubDate>Wed, 18 Jun 2025 09:41:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>expand `_meta` name reservation</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/775</link>
+      <description>Merged by bhosmer-ant - expand `_meta` name reservation</description>
+      <author>bhosmer-ant</author>
+      <pubDate>Wed, 18 Jun 2025 08:31:33 +0000</pubDate>
+    </item>
     <item>
       <title>changelog additions</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/768</link>
@@ -349,27 +426,6 @@
       <pubDate>Fri, 06 Jun 2025 22:34:00 +0000</pubDate>
     </item>
     <item>
-      <title>move version header doc to transports</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/658</link>
-      <description>Merged by bhosmer-ant - move version header doc to transports</description>
-      <author>bhosmer-ant</author>
-      <pubDate>Fri, 06 Jun 2025 14:05:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add replacement warning about SSE to Streamable HTTP Transport in the User Guide</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/664</link>
-      <description>Merged by evalstate - Add replacement warning about SSE to Streamable HTTP Transport in the User Guide</description>
-      <author>evalstate</author>
-      <pubDate>Fri, 06 Jun 2025 12:12:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add Warp to the example clients list.</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/656</link>
-      <description>Merged by cliffhall - Add Warp to the example clients list.</description>
-      <author>cliffhall</author>
-      <pubDate>Fri, 06 Jun 2025 06:41:53 +0000</pubDate>
-    </item>
-    <item>
       <title>fix!: require negotiated version when using HTTP</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/548</link>
       <description>Merged by kurtisvg - fix!: require negotiated version when using HTTP</description>
@@ -377,46 +433,11 @@
       <pubDate>Thu, 05 Jun 2025 18:43:52 +0000</pubDate>
     </item>
     <item>
-      <title>fix: include previously-resolved variables in completions request</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/598</link>
-      <description>Merged by connor4312 - fix: include previously-resolved variables in completions request</description>
-      <author>connor4312</author>
-      <pubDate>Thu, 05 Jun 2025 18:42:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mark `schema.json` files as generated</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/645</link>
-      <description>Merged by jonathanhefner - Mark `schema.json` files as generated</description>
-      <author>jonathanhefner</author>
-      <pubDate>Thu, 05 Jun 2025 15:38:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fix CI for MDX files</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/624</link>
-      <description>Merged by jonathanhefner - Fix CI for MDX files</description>
-      <author>jonathanhefner</author>
-      <pubDate>Thu, 05 Jun 2025 15:37:27 +0000</pubDate>
-    </item>
-    <item>
       <title>Rename ResourceReference to ResourceTemplateReference in draft spec</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/639</link>
       <description>Merged by dsp-ant - Rename ResourceReference to ResourceTemplateReference in draft spec</description>
       <author>dsp-ant</author>
       <pubDate>Thu, 05 Jun 2025 11:53:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs: small fix to contributing doc</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/606</link>
-      <description>Merged by hesreallyhim - docs: small fix to contributing doc</description>
-      <author>hesreallyhim</author>
-      <pubDate>Thu, 05 Jun 2025 09:22:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>update elicitation schema language</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/625</link>
-      <description>Merged by bhosmer-ant - update elicitation schema language</description>
-      <author>bhosmer-ant</author>
-      <pubDate>Thu, 05 Jun 2025 02:18:39 +0000</pubDate>
     </item>
     <item>
       <title>[feat] Introduce elcitation as new client capability</title>
@@ -438,34 +459,6 @@
       <description>Merged by ihrpr - Remove batching requirement</description>
       <author>ihrpr</author>
       <pubDate>Mon, 28 Apr 2025 15:45:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Auth: MCP Servers are Resource Servers only. Add Protected Resource Metadata to discover Authorization Server</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/338</link>
-      <description>Merged by dsp-ant - Auth: MCP Servers are Resource Servers only. Add Protected Resource Metadata to discover Authorization Server</description>
-      <author>dsp-ant</author>
-      <pubDate>Wed, 23 Apr 2025 17:24:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Completions capability flag</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/173</link>
-      <description>Merged by PederHP - Completions capability flag</description>
-      <author>PederHP</author>
-      <pubDate>Wed, 26 Mar 2025 13:14:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>ToolAnnotations</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/185</link>
-      <description>Merged by bhosmer-ant - ToolAnnotations</description>
-      <author>bhosmer-ant</author>
-      <pubDate>Wed, 26 Mar 2025 13:11:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>[RFC] Replace HTTP+SSE with new &#34;Streamable HTTP&#34; transport</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/206</link>
-      <description>Merged by jspahrsummers - [RFC] Replace HTTP+SSE with new &#34;Streamable HTTP&#34; transport</description>
-      <author>jspahrsummers</author>
-      <pubDate>Mon, 24 Mar 2025 11:51:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
