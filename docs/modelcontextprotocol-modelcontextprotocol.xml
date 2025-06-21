@@ -4,7 +4,21 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Fri, 20 Jun 2025 02:07:01 +0000</pubDate>
+    <pubDate>Sat, 21 Jun 2025 02:04:42 +0000</pubDate>
+    <item>
+      <title>Add Augment Code to clients listing</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/756</link>
+      <description>Merged by amateurhuman - Add Augment Code to clients listing</description>
+      <author>amateurhuman</author>
+      <pubDate>Fri, 20 Jun 2025 19:21:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Docs: Add Memex to clients.mdx</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/791</link>
+      <description>Merged by memex-tech - Docs: Add Memex to clients.mdx</description>
+      <author>memex-tech</author>
+      <pubDate>Fri, 20 Jun 2025 11:49:43 +0000</pubDate>
+    </item>
     <item>
       <title>The Model Context Protocol - Revision 2025-06-18</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/783</link>
@@ -424,13 +438,6 @@
       <description>Merged by bhosmer-ant - add compatibility language to version header requirement</description>
       <author>bhosmer-ant</author>
       <pubDate>Fri, 06 Jun 2025 22:34:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>fix!: require negotiated version when using HTTP</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/548</link>
-      <description>Merged by kurtisvg - fix!: require negotiated version when using HTTP</description>
-      <author>kurtisvg</author>
-      <pubDate>Thu, 05 Jun 2025 18:43:52 +0000</pubDate>
     </item>
     <item>
       <title>Rename ResourceReference to ResourceTemplateReference in draft spec</title>
