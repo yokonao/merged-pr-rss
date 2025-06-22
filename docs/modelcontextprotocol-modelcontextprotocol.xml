@@ -4,7 +4,14 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Sat, 21 Jun 2025 02:04:42 +0000</pubDate>
+    <pubDate>Sun, 22 Jun 2025 02:22:52 +0000</pubDate>
+    <item>
+      <title>Fix missing parenthesis in documentation</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/815</link>
+      <description>Merged by BigStupideer - Fix missing parenthesis in documentation</description>
+      <author>BigStupideer</author>
+      <pubDate>Sat, 21 Jun 2025 13:28:18 +0000</pubDate>
+    </item>
     <item>
       <title>Add Augment Code to clients listing</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/756</link>
