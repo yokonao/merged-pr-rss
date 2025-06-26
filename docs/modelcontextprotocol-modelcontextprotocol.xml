@@ -4,7 +4,14 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Wed, 25 Jun 2025 02:09:05 +0000</pubDate>
+    <pubDate>Thu, 26 Jun 2025 02:08:15 +0000</pubDate>
+    <item>
+      <title>Remove unsupported pattern field and clarify supported format types</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/838</link>
+      <description>Merged by olaservo - Remove unsupported pattern field and clarify supported format types</description>
+      <author>olaservo</author>
+      <pubDate>Wed, 25 Jun 2025 14:52:09 +0000</pubDate>
+    </item>
     <item>
       <title>Fix missing parenthesis in documentation</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/815</link>
