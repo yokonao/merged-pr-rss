@@ -4,7 +4,21 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Fri, 27 Jun 2025 02:08:51 +0000</pubDate>
+    <pubDate>Sat, 28 Jun 2025 02:04:25 +0000</pubDate>
+    <item>
+      <title>Fix `MCP-Protocol-Version` fallback value</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/830</link>
+      <description>Merged by jonathanhefner - Fix `MCP-Protocol-Version` fallback value</description>
+      <author>jonathanhefner</author>
+      <pubDate>Fri, 27 Jun 2025 20:54:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Referred OAuth 2.1 spec version expired</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/851</link>
+      <description>Merged by tnorimat - Referred OAuth 2.1 spec version expired</description>
+      <author>tnorimat</author>
+      <pubDate>Fri, 27 Jun 2025 08:35:37 +0000</pubDate>
+    </item>
     <item>
       <title>Remove unsupported pattern field and clarify supported format types</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/838</link>
@@ -433,46 +447,11 @@
       <pubDate>Tue, 10 Jun 2025 07:34:58 +0000</pubDate>
     </item>
     <item>
-      <title>fix zencoder url</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/690</link>
-      <description>Merged by bhosmer-ant - fix zencoder url</description>
-      <author>bhosmer-ant</author>
-      <pubDate>Mon, 09 Jun 2025 23:22:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs: Add Zencoder to list of MCP clients</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/675</link>
-      <description>Merged by bhosmer-ant - docs: Add Zencoder to list of MCP clients</description>
-      <author>bhosmer-ant</author>
-      <pubDate>Mon, 09 Jun 2025 09:58:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>add compatibility language to version header requirement</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/668</link>
-      <description>Merged by bhosmer-ant - add compatibility language to version header requirement</description>
-      <author>bhosmer-ant</author>
-      <pubDate>Fri, 06 Jun 2025 22:34:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rename ResourceReference to ResourceTemplateReference in draft spec</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/639</link>
-      <description>Merged by dsp-ant - Rename ResourceReference to ResourceTemplateReference in draft spec</description>
-      <author>dsp-ant</author>
-      <pubDate>Thu, 05 Jun 2025 11:53:04 +0000</pubDate>
-    </item>
-    <item>
       <title>[feat] Introduce elcitation as new client capability</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/382</link>
       <description>Merged by siwachabhi - [feat] Introduce elcitation as new client capability</description>
       <author>siwachabhi</author>
       <pubDate>Wed, 28 May 2025 18:55:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>RFC: add `Tool.outputSchema` and `CallToolResult.structuredContent`</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/371</link>
-      <description>Merged by bhosmer-ant - RFC: add `Tool.outputSchema` and `CallToolResult.structuredContent`</description>
-      <author>bhosmer-ant</author>
-      <pubDate>Thu, 08 May 2025 15:25:42 +0000</pubDate>
     </item>
     <item>
       <title>Remove batching requirement</title>
