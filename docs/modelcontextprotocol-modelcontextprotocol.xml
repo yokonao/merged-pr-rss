@@ -4,7 +4,7 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Sun, 29 Jun 2025 02:25:23 +0000</pubDate>
+    <pubDate>Mon, 30 Jun 2025 02:20:12 +0000</pubDate>
     <item>
       <title>Fix `MCP-Protocol-Version` fallback value</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/830</link>
@@ -438,13 +438,6 @@
       <description>Merged by jonathanhefner - Add automatic section numbers via CSS</description>
       <author>jonathanhefner</author>
       <pubDate>Tue, 10 Jun 2025 07:57:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>remove vestigial batching language and datatypes</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/652</link>
-      <description>Merged by bhosmer-ant - remove vestigial batching language and datatypes</description>
-      <author>bhosmer-ant</author>
-      <pubDate>Tue, 10 Jun 2025 07:34:58 +0000</pubDate>
     </item>
     <item>
       <title>[feat] Introduce elcitation as new client capability</title>
