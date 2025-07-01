@@ -4,7 +4,14 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Mon, 30 Jun 2025 02:20:12 +0000</pubDate>
+    <pubDate>Tue, 01 Jul 2025 02:26:24 +0000</pubDate>
+    <item>
+      <title>docs(tools): discuss tool name conflicts and how to resolve them</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/701</link>
+      <description>Merged by LucaButBoring - docs(tools): discuss tool name conflicts and how to resolve them</description>
+      <author>LucaButBoring</author>
+      <pubDate>Mon, 30 Jun 2025 14:37:41 +0000</pubDate>
+    </item>
     <item>
       <title>Fix `MCP-Protocol-Version` fallback value</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/830</link>
