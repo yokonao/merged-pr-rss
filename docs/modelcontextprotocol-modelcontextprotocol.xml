@@ -4,7 +4,7 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Tue, 01 Jul 2025 02:26:24 +0000</pubDate>
+    <pubDate>Wed, 02 Jul 2025 02:08:47 +0000</pubDate>
     <item>
       <title>docs(tools): discuss tool name conflicts and how to resolve them</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/701</link>
@@ -431,13 +431,6 @@
       <description>Merged by bhosmer-ant - add ResourceLink to CallToolResult</description>
       <author>bhosmer-ant</author>
       <pubDate>Tue, 10 Jun 2025 19:17:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Update transports documentation from specification</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/665</link>
-      <description>Merged by dsp-ant - Update transports documentation from specification</description>
-      <author>dsp-ant</author>
-      <pubDate>Tue, 10 Jun 2025 13:54:48 +0000</pubDate>
     </item>
     <item>
       <title>Add automatic section numbers via CSS</title>
