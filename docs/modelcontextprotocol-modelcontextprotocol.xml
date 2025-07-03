@@ -4,7 +4,56 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Wed, 02 Jul 2025 02:08:47 +0000</pubDate>
+    <pubDate>Thu, 03 Jul 2025 02:08:56 +0000</pubDate>
+    <item>
+      <title>fix architecture diagram</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/873</link>
+      <description>Merged by kentcdodds - fix architecture diagram</description>
+      <author>kentcdodds</author>
+      <pubDate>Wed, 02 Jul 2025 14:42:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update Claude Code line in clients page</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/894</link>
+      <description>Merged by ashwin-ant - Update Claude Code line in clients page</description>
+      <author>ashwin-ant</author>
+      <pubDate>Wed, 02 Jul 2025 13:53:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add Amazon Q IDE to list of example clients</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/836</link>
+      <description>Merged by nairteashop - Add Amazon Q IDE to list of example clients</description>
+      <author>nairteashop</author>
+      <pubDate>Wed, 02 Jul 2025 13:52:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add Chorus to MCP clients list</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/755</link>
+      <description>Merged by cbh123 - Add Chorus to MCP clients list</description>
+      <author>cbh123</author>
+      <pubDate>Wed, 02 Jul 2025 13:51:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>docs: Add systemprompt native mobile client to clients.mdx</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/706</link>
+      <description>Merged by Ejb503 - docs: Add systemprompt native mobile client to clients.mdx</description>
+      <author>Ejb503</author>
+      <pubDate>Wed, 02 Jul 2025 13:50:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>docs: Add RecurseChat to MCP client list</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/631</link>
+      <description>Merged by xyc - docs: Add RecurseChat to MCP client list</description>
+      <author>xyc</author>
+      <pubDate>Wed, 02 Jul 2025 13:50:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>docs: Add AIQL MCP client to clients list</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/620</link>
+      <description>Merged by aiqlcom - docs: Add AIQL MCP client to clients list</description>
+      <author>aiqlcom</author>
+      <pubDate>Wed, 02 Jul 2025 13:49:29 +0000</pubDate>
+    </item>
     <item>
       <title>docs(tools): discuss tool name conflicts and how to resolve them</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/701</link>
@@ -410,27 +459,6 @@
       <description>Merged by evalstate - Update guidance for use of Embedded Resources in CallToolResult</description>
       <author>evalstate</author>
       <pubDate>Tue, 10 Jun 2025 22:19:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>added completions to the list of server capabilities (was missing)</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/680</link>
-      <description>Merged by evalstate - added completions to the list of server capabilities (was missing)</description>
-      <author>evalstate</author>
-      <pubDate>Tue, 10 Jun 2025 21:22:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>feat: add optional lastModified timestamp to Annotated</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/140</link>
-      <description>Merged by salman1993 - feat: add optional lastModified timestamp to Annotated</description>
-      <author>salman1993</author>
-      <pubDate>Tue, 10 Jun 2025 21:09:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>add ResourceLink to CallToolResult</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/603</link>
-      <description>Merged by bhosmer-ant - add ResourceLink to CallToolResult</description>
-      <author>bhosmer-ant</author>
-      <pubDate>Tue, 10 Jun 2025 19:17:16 +0000</pubDate>
     </item>
     <item>
       <title>Add automatic section numbers via CSS</title>
