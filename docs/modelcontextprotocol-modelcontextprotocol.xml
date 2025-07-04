@@ -4,7 +4,56 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Thu, 03 Jul 2025 02:08:56 +0000</pubDate>
+    <pubDate>Fri, 04 Jul 2025 02:08:13 +0000</pubDate>
+    <item>
+      <title>Create new docs structure on top of `docs` and purge `docs-v2`</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/909</link>
+      <description>Merged by felixweinberger - Create new docs structure on top of `docs` and purge `docs-v2`</description>
+      <author>felixweinberger</author>
+      <pubDate>Thu, 03 Jul 2025 20:10:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Documentation inconsistency: Elicitation action &#34;reject&#34; in docs should be &#34;decline&#34; per schema</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/897</link>
+      <description>Merged by nandsha - Documentation inconsistency: Elicitation action &#34;reject&#34; in docs should be &#34;decline&#34; per schema</description>
+      <author>nandsha</author>
+      <pubDate>Thu, 03 Jul 2025 16:33:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>feat: create docs-v2 structure with diataxis framework</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/906</link>
+      <description>Merged by felixweinberger - feat: create docs-v2 structure with diataxis framework</description>
+      <author>felixweinberger</author>
+      <pubDate>Thu, 03 Jul 2025 15:49:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add ChatWise to example MCP clients</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/421</link>
+      <description>Merged by egoist - Add ChatWise to example MCP clients</description>
+      <author>egoist</author>
+      <pubDate>Thu, 03 Jul 2025 14:29:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Docs] Add Kilo Code to list of clients since its the first OSS Client to support the latest streaming</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/552</link>
+      <description>Merged by Juice10 - [Docs] Add Kilo Code to list of clients since its the first OSS Client to support the latest streaming</description>
+      <author>Juice10</author>
+      <pubDate>Thu, 03 Jul 2025 14:29:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add Tambo to list of known clients</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/735</link>
+      <description>Merged by alecf - Add Tambo to list of known clients</description>
+      <author>alecf</author>
+      <pubDate>Thu, 03 Jul 2025 14:23:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Format `clients.mdx` with Prettier</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/898</link>
+      <description>Merged by jonathanhefner - Format `clients.mdx` with Prettier</description>
+      <author>jonathanhefner</author>
+      <pubDate>Thu, 03 Jul 2025 14:22:26 +0000</pubDate>
+    </item>
     <item>
       <title>fix architecture diagram</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/873</link>
@@ -431,41 +480,6 @@
       <description>Merged by KacperFKorban - docs(java-sdk): Fill in missing argument in `ServerCapabilities.builder().resources`</description>
       <author>KacperFKorban</author>
       <pubDate>Wed, 11 Jun 2025 22:17:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Change content type in  ElicitResult</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/708</link>
-      <description>Merged by ihrpr - Change content type in  ElicitResult</description>
-      <author>ihrpr</author>
-      <pubDate>Wed, 11 Jun 2025 17:07:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Remove temporary warning and update missed line</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/703</link>
-      <description>Merged by olaservo - Remove temporary warning and update missed line</description>
-      <author>olaservo</author>
-      <pubDate>Wed, 11 Jun 2025 14:56:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fix typos</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/644</link>
-      <description>Merged by gameofby - Fix typos</description>
-      <author>gameofby</author>
-      <pubDate>Wed, 11 Jun 2025 01:56:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Update guidance for use of Embedded Resources in CallToolResult</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/415</link>
-      <description>Merged by evalstate - Update guidance for use of Embedded Resources in CallToolResult</description>
-      <author>evalstate</author>
-      <pubDate>Tue, 10 Jun 2025 22:19:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add automatic section numbers via CSS</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/667</link>
-      <description>Merged by jonathanhefner - Add automatic section numbers via CSS</description>
-      <author>jonathanhefner</author>
-      <pubDate>Tue, 10 Jun 2025 07:57:41 +0000</pubDate>
     </item>
     <item>
       <title>[feat] Introduce elcitation as new client capability</title>
