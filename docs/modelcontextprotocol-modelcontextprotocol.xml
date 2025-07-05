@@ -4,7 +4,42 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Fri, 04 Jul 2025 02:08:13 +0000</pubDate>
+    <pubDate>Sat, 05 Jul 2025 02:04:12 +0000</pubDate>
+    <item>
+      <title>Add Tencent CloudBase AI DevKit to clients list</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/309</link>
+      <description>Merged by binggg - Add Tencent CloudBase AI DevKit to clients list</description>
+      <author>binggg</author>
+      <pubDate>Fri, 04 Jul 2025 14:59:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>fix: Add Shortwave MCP client</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/901</link>
+      <description>Merged by hiranya911 - fix: Add Shortwave MCP client</description>
+      <author>hiranya911</author>
+      <pubDate>Fri, 04 Jul 2025 14:58:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add CodeGPT to client list </title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/528</link>
+      <description>Merged by davila7 - Add CodeGPT to client list </description>
+      <author>davila7</author>
+      <pubDate>Fri, 04 Jul 2025 14:57:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>docs: re-submit mcp-client-chatbot example based on latest main branch</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/900</link>
+      <description>Merged by cgoinglove - docs: re-submit mcp-client-chatbot example based on latest main branch</description>
+      <author>cgoinglove</author>
+      <pubDate>Fri, 04 Jul 2025 14:57:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>fix: escape space in desktop config path</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/914</link>
+      <description>Merged by martinamps - fix: escape space in desktop config path</description>
+      <author>martinamps</author>
+      <pubDate>Fri, 04 Jul 2025 10:16:09 +0000</pubDate>
+    </item>
     <item>
       <title>Create new docs structure on top of `docs` and purge `docs-v2`</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/909</link>
@@ -13,9 +48,9 @@
       <pubDate>Thu, 03 Jul 2025 20:10:36 +0000</pubDate>
     </item>
     <item>
-      <title>Documentation inconsistency: Elicitation action &#34;reject&#34; in docs should be &#34;decline&#34; per schema</title>
+      <title>docs: Documentation inconsistency: Elicitation action &#34;reject&#34; in docs should be &#34;decline&#34; per schema</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/897</link>
-      <description>Merged by nandsha - Documentation inconsistency: Elicitation action &#34;reject&#34; in docs should be &#34;decline&#34; per schema</description>
+      <description>Merged by nandsha - docs: Documentation inconsistency: Elicitation action &#34;reject&#34; in docs should be &#34;decline&#34; per schema</description>
       <author>nandsha</author>
       <pubDate>Thu, 03 Jul 2025 16:33:29 +0000</pubDate>
     </item>
@@ -452,34 +487,6 @@
       <description>Merged by ZachGerman - Encourage title properties/usage for objects/resources likely t…</description>
       <author>ZachGerman</author>
       <pubDate>Fri, 13 Jun 2025 11:36:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fix broken links</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/719</link>
-      <description>Merged by ihrpr - Fix broken links</description>
-      <author>ihrpr</author>
-      <pubDate>Thu, 12 Jun 2025 14:15:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Consolidate check scripts</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/647</link>
-      <description>Merged by jonathanhefner - Consolidate check scripts</description>
-      <author>jonathanhefner</author>
-      <pubDate>Thu, 12 Jun 2025 10:18:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>fix a typo</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/712</link>
-      <description>Merged by mntlty - fix a typo</description>
-      <author>mntlty</author>
-      <pubDate>Thu, 12 Jun 2025 01:30:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs(java-sdk): Fill in missing argument in `ServerCapabilities.builder().resources`</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/360</link>
-      <description>Merged by KacperFKorban - docs(java-sdk): Fill in missing argument in `ServerCapabilities.builder().resources`</description>
-      <author>KacperFKorban</author>
-      <pubDate>Wed, 11 Jun 2025 22:17:10 +0000</pubDate>
     </item>
     <item>
       <title>[feat] Introduce elcitation as new client capability</title>
