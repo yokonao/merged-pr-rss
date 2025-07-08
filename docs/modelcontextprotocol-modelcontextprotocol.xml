@@ -4,7 +4,21 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Mon, 07 Jul 2025 02:20:42 +0000</pubDate>
+    <pubDate>Tue, 08 Jul 2025 02:09:35 +0000</pubDate>
+    <item>
+      <title>Format with Prettier</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/920</link>
+      <description>Merged by jonathanhefner - Format with Prettier</description>
+      <author>jonathanhefner</author>
+      <pubDate>Mon, 07 Jul 2025 17:36:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fix versioned URLs</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/924</link>
+      <description>Merged by jonathanhefner - Fix versioned URLs</description>
+      <author>jonathanhefner</author>
+      <pubDate>Mon, 07 Jul 2025 17:36:32 +0000</pubDate>
+    </item>
     <item>
       <title>Add Tencent CloudBase AI DevKit to clients list</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/309</link>
