@@ -4,7 +4,14 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Tue, 08 Jul 2025 02:09:35 +0000</pubDate>
+    <pubDate>Wed, 09 Jul 2025 02:10:55 +0000</pubDate>
+    <item>
+      <title>Add elicitation column for docs</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/890</link>
+      <description>Merged by saqadri - Add elicitation column for docs</description>
+      <author>saqadri</author>
+      <pubDate>Tue, 08 Jul 2025 22:29:25 +0000</pubDate>
+    </item>
     <item>
       <title>Format with Prettier</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/920</link>
@@ -501,13 +508,6 @@
       <description>Merged by ZachGerman - Encourage title properties/usage for objects/resources likely t…</description>
       <author>ZachGerman</author>
       <pubDate>Fri, 13 Jun 2025 11:36:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>[feat] Introduce elcitation as new client capability</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/382</link>
-      <description>Merged by siwachabhi - [feat] Introduce elcitation as new client capability</description>
-      <author>siwachabhi</author>
-      <pubDate>Wed, 28 May 2025 18:55:27 +0000</pubDate>
     </item>
     <item>
       <title>Remove batching requirement</title>
