@@ -4,7 +4,14 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Wed, 09 Jul 2025 02:10:55 +0000</pubDate>
+    <pubDate>Thu, 10 Jul 2025 02:11:27 +0000</pubDate>
+    <item>
+      <title>blog: implement a simple blog that we will ship via github pages</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/928</link>
+      <description>Merged by dsp-ant - blog: implement a simple blog that we will ship via github pages</description>
+      <author>dsp-ant</author>
+      <pubDate>Wed, 09 Jul 2025 14:59:00 +0000</pubDate>
+    </item>
     <item>
       <title>Add elicitation column for docs</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/890</link>
