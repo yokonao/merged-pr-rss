@@ -4,7 +4,14 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Thu, 10 Jul 2025 02:11:27 +0000</pubDate>
+    <pubDate>Fri, 11 Jul 2025 02:20:05 +0000</pubDate>
+    <item>
+      <title>Add FlowDown to MCP Clients</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/935</link>
+      <description>Merged by at-wr - Add FlowDown to MCP Clients</description>
+      <author>at-wr</author>
+      <pubDate>Thu, 10 Jul 2025 13:22:58 +0000</pubDate>
+    </item>
     <item>
       <title>blog: implement a simple blog that we will ship via github pages</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/928</link>
