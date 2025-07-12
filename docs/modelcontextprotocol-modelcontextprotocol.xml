@@ -4,7 +4,35 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Fri, 11 Jul 2025 02:20:05 +0000</pubDate>
+    <pubDate>Sat, 12 Jul 2025 02:20:27 +0000</pubDate>
+    <item>
+      <title>Add rust-sdk to list of SDKs</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/954</link>
+      <description>Merged by alexhancock - Add rust-sdk to list of SDKs</description>
+      <author>alexhancock</author>
+      <pubDate>Fri, 11 Jul 2025 20:32:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Progress notifications should not be a loop</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/953</link>
+      <description>Merged by mikekistler - Progress notifications should not be a loop</description>
+      <author>mikekistler</author>
+      <pubDate>Fri, 11 Jul 2025 20:26:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add SEP superseded state</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/949</link>
+      <description>Merged by Joffref - Add SEP superseded state</description>
+      <author>Joffref</author>
+      <pubDate>Fri, 11 Jul 2025 18:44:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Simplify backward compatibility wording for Structured Outputs</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/889</link>
+      <description>Merged by evalstate - Simplify backward compatibility wording for Structured Outputs</description>
+      <author>evalstate</author>
+      <pubDate>Fri, 11 Jul 2025 14:13:25 +0000</pubDate>
+    </item>
     <item>
       <title>Add FlowDown to MCP Clients</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/935</link>
@@ -487,41 +515,6 @@
       <description>Merged by DongHuiTiao - docs(typescript-quickstart): ensure proper async handling in Node.js MCP client demo</description>
       <author>DongHuiTiao</author>
       <pubDate>Fri, 13 Jun 2025 19:45:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs: Fix WhatsMCP typo</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/726</link>
-      <description>Merged by chr-hertel - docs: Fix WhatsMCP typo</description>
-      <author>chr-hertel</author>
-      <pubDate>Fri, 13 Jun 2025 13:39:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Remove SDK section while spec is being updated</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/716</link>
-      <description>Merged by ihrpr - Remove SDK section while spec is being updated</description>
-      <author>ihrpr</author>
-      <pubDate>Fri, 13 Jun 2025 13:35:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>improve wording for _meta field</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/728</link>
-      <description>Merged by dsp-ant - improve wording for _meta field</description>
-      <author>dsp-ant</author>
-      <pubDate>Fri, 13 Jun 2025 13:25:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>feat: Adds _meta to additional interface types.</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/710</link>
-      <description>Merged by mbleigh - feat: Adds _meta to additional interface types.</description>
-      <author>mbleigh</author>
-      <pubDate>Fri, 13 Jun 2025 12:01:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Encourage title properties/usage for objects/resources likely t…</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/663</link>
-      <description>Merged by ZachGerman - Encourage title properties/usage for objects/resources likely t…</description>
-      <author>ZachGerman</author>
-      <pubDate>Fri, 13 Jun 2025 11:36:05 +0000</pubDate>
     </item>
     <item>
       <title>Remove batching requirement</title>
