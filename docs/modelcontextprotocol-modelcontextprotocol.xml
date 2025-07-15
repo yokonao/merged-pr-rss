@@ -4,7 +4,35 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Mon, 14 Jul 2025 02:24:11 +0000</pubDate>
+    <pubDate>Tue, 15 Jul 2025 02:23:44 +0000</pubDate>
+    <item>
+      <title>Add schema reference page for version 2025-06-18</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/967</link>
+      <description>Merged by jonathanhefner - Add schema reference page for version 2025-06-18</description>
+      <author>jonathanhefner</author>
+      <pubDate>Mon, 14 Jul 2025 19:31:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Server concepts in learn</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/903</link>
+      <description>Merged by ihrpr - Server concepts in learn</description>
+      <author>ihrpr</author>
+      <pubDate>Mon, 14 Jul 2025 15:37:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add schema reference page</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/921</link>
+      <description>Merged by jonathanhefner - Add schema reference page</description>
+      <author>jonathanhefner</author>
+      <pubDate>Mon, 14 Jul 2025 15:35:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>SEP-001: Introduce Governance Model and SEP Process</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/931</link>
+      <description>Merged by dsp-ant - SEP-001: Introduce Governance Model and SEP Process</description>
+      <author>dsp-ant</author>
+      <pubDate>Mon, 14 Jul 2025 08:44:59 +0000</pubDate>
+    </item>
     <item>
       <title>Add rust-sdk to list of SDKs</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/954</link>
@@ -489,32 +517,11 @@
       <pubDate>Sat, 14 Jun 2025 00:12:13 +0000</pubDate>
     </item>
     <item>
-      <title>Remove unused toolResults for TS Client Quickstart</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/501</link>
-      <description>Merged by myfancypants - Remove unused toolResults for TS Client Quickstart</description>
-      <author>myfancypants</author>
-      <pubDate>Fri, 13 Jun 2025 22:35:21 +0000</pubDate>
-    </item>
-    <item>
       <title>Fix C# client sample not building.</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/564</link>
       <description>Merged by AustinWise - Fix C# client sample not building.</description>
       <author>AustinWise</author>
       <pubDate>Fri, 13 Jun 2025 22:30:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Update VS Code capabilities on the client page</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/572</link>
-      <description>Merged by connor4312 - Update VS Code capabilities on the client page</description>
-      <author>connor4312</author>
-      <pubDate>Fri, 13 Jun 2025 21:47:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs(typescript-quickstart): ensure proper async handling in Node.js MCP client demo</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/482</link>
-      <description>Merged by DongHuiTiao - docs(typescript-quickstart): ensure proper async handling in Node.js MCP client demo</description>
-      <author>DongHuiTiao</author>
-      <pubDate>Fri, 13 Jun 2025 19:45:53 +0000</pubDate>
     </item>
     <item>
       <title>Remove batching requirement</title>
