@@ -4,7 +4,56 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Tue, 15 Jul 2025 02:23:44 +0000</pubDate>
+    <pubDate>Wed, 16 Jul 2025 02:20:34 +0000</pubDate>
+    <item>
+      <title>Clarify reasoning for limited elicitation schema</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/892</link>
+      <description>Merged by LucaButBoring - Clarify reasoning for limited elicitation schema</description>
+      <author>LucaButBoring</author>
+      <pubDate>Tue, 15 Jul 2025 22:04:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Include Annotations for Content types and Resources in documentation</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/891</link>
+      <description>Merged by evalstate - Include Annotations for Content types and Resources in documentation</description>
+      <author>evalstate</author>
+      <pubDate>Tue, 15 Jul 2025 22:01:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add &#34;GitHub Copilot coding agent&#34; to &#34;Example Clients&#34;</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/947</link>
+      <description>Merged by timrogers - Add &#34;GitHub Copilot coding agent&#34; to &#34;Example Clients&#34;</description>
+      <author>timrogers</author>
+      <pubDate>Tue, 15 Jul 2025 21:52:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add Gemini CLI to clients.mdx</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/915</link>
+      <description>Merged by markmcd - Add Gemini CLI to clients.mdx</description>
+      <author>markmcd</author>
+      <pubDate>Tue, 15 Jul 2025 21:50:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Use relative URLs for links</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/937</link>
+      <description>Merged by jonathanhefner - Use relative URLs for links</description>
+      <author>jonathanhefner</author>
+      <pubDate>Tue, 15 Jul 2025 21:42:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>docs: modify the TypeScript server demo</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/296</link>
+      <description>Merged by cloudmoonocus - docs: modify the TypeScript server demo</description>
+      <author>cloudmoonocus</author>
+      <pubDate>Tue, 15 Jul 2025 20:34:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>docs: Add Qualification section to clarify when to use SEP vs PR</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/969</link>
+      <description>Merged by pwwpche - docs: Add Qualification section to clarify when to use SEP vs PR</description>
+      <author>pwwpche</author>
+      <pubDate>Tue, 15 Jul 2025 20:04:22 +0000</pubDate>
+    </item>
     <item>
       <title>Add schema reference page for version 2025-06-18</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/967</link>
@@ -473,55 +522,6 @@
       <description>Merged by localden - chore: Add requirement for RFC8707</description>
       <author>localden</author>
       <pubDate>Mon, 16 Jun 2025 20:15:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>authorization: Fix endpoint path</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/750</link>
-      <description>Merged by dsp-ant - authorization: Fix endpoint path</description>
-      <author>dsp-ant</author>
-      <pubDate>Mon, 16 Jun 2025 16:06:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>relax completion order language</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/753</link>
-      <description>Merged by bhosmer-ant - relax completion order language</description>
-      <author>bhosmer-ant</author>
-      <pubDate>Mon, 16 Jun 2025 15:46:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>add _meta key format guidance to schema.ts</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/733</link>
-      <description>Merged by bhosmer-ant - add _meta key format guidance to schema.ts</description>
-      <author>bhosmer-ant</author>
-      <pubDate>Mon, 16 Jun 2025 13:33:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs(java): Update Java SDK documentation with improved navigation</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/741</link>
-      <description>Merged by tzolov - docs(java): Update Java SDK documentation with improved navigation</description>
-      <author>tzolov</author>
-      <pubDate>Mon, 16 Jun 2025 08:22:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add JetBrains AI Assistant to the list of MCP clients</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/740</link>
-      <description>Merged by kaleev - Add JetBrains AI Assistant to the list of MCP clients</description>
-      <author>kaleev</author>
-      <pubDate>Sat, 14 Jun 2025 08:37:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fix typos</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/724</link>
-      <description>Merged by jonathanhefner - Fix typos</description>
-      <author>jonathanhefner</author>
-      <pubDate>Sat, 14 Jun 2025 00:12:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fix C# client sample not building.</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/564</link>
-      <description>Merged by AustinWise - Fix C# client sample not building.</description>
-      <author>AustinWise</author>
-      <pubDate>Fri, 13 Jun 2025 22:30:48 +0000</pubDate>
     </item>
     <item>
       <title>Remove batching requirement</title>
