@@ -4,7 +4,42 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Wed, 16 Jul 2025 02:20:34 +0000</pubDate>
+    <pubDate>Thu, 17 Jul 2025 02:21:16 +0000</pubDate>
+    <item>
+      <title>[2025-06-18 ver] Referred OAuth 2.1 spec version expired</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/852</link>
+      <description>Merged by tnorimat - [2025-06-18 ver] Referred OAuth 2.1 spec version expired</description>
+      <author>tnorimat</author>
+      <pubDate>Wed, 16 Jul 2025 20:21:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update architecture.mdx with comprehensive MCP overview</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/912</link>
+      <description>Merged by dsp-ant - Update architecture.mdx with comprehensive MCP overview</description>
+      <author>dsp-ant</author>
+      <pubDate>Wed, 16 Jul 2025 20:17:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add CODEOWNERS file for repository governance</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/981</link>
+      <description>Merged by dsp-ant - Add CODEOWNERS file for repository governance</description>
+      <author>dsp-ant</author>
+      <pubDate>Wed, 16 Jul 2025 20:08:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Replace reference to incorrect pypi.com with pypi.org</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/980</link>
+      <description>Merged by ddworken - Replace reference to incorrect pypi.com with pypi.org</description>
+      <author>ddworken</author>
+      <pubDate>Wed, 16 Jul 2025 18:44:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>docs: Update server.mdx to including MCP server logging best practices</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/888</link>
+      <description>Merged by izzymsft - docs: Update server.mdx to including MCP server logging best practices</description>
+      <author>izzymsft</author>
+      <pubDate>Wed, 16 Jul 2025 13:23:45 +0000</pubDate>
+    </item>
     <item>
       <title>Clarify reasoning for limited elicitation schema</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/892</link>
@@ -494,27 +529,6 @@
       <description>Merged by swathi-ant - Updated the documentation for claude desktop</description>
       <author>swathi-ant</author>
       <pubDate>Tue, 17 Jun 2025 07:20:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>remove explicit section numbers from new content</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/760</link>
-      <description>Merged by bhosmer-ant - remove explicit section numbers from new content</description>
-      <author>bhosmer-ant</author>
-      <pubDate>Tue, 17 Jun 2025 02:04:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>chore: create a section on session hijack</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/641</link>
-      <description>Merged by SamMorrowDrums - chore: create a section on session hijack</description>
-      <author>SamMorrowDrums</author>
-      <pubDate>Mon, 16 Jun 2025 22:33:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>chore: Follow-up on `RFC8707` in authorization.mdx</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/758</link>
-      <description>Merged by localden - chore: Follow-up on `RFC8707` in authorization.mdx</description>
-      <author>localden</author>
-      <pubDate>Mon, 16 Jun 2025 20:29:13 +0000</pubDate>
     </item>
     <item>
       <title>chore: Add requirement for RFC8707</title>
