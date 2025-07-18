@@ -4,7 +4,35 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Thu, 17 Jul 2025 02:21:16 +0000</pubDate>
+    <pubDate>Fri, 18 Jul 2025 02:22:36 +0000</pubDate>
+    <item>
+      <title>[blog] Governance for MCP</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/989</link>
+      <description>Merged by dsp-ant - [blog] Governance for MCP</description>
+      <author>dsp-ant</author>
+      <pubDate>Thu, 17 Jul 2025 19:53:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>feat: enhance auth server discovery with OAuth2 and OpenID metadata support</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/797</link>
+      <description>Merged by xiaoyijun - feat: enhance auth server discovery with OAuth2 and OpenID metadata support</description>
+      <author>xiaoyijun</author>
+      <pubDate>Thu, 17 Jul 2025 19:15:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>docs: Fix typos, update links</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/882</link>
+      <description>Merged by nbarbettini - docs: Fix typos, update links</description>
+      <author>nbarbettini</author>
+      <pubDate>Thu, 17 Jul 2025 18:04:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update CODEOWNERS: Add steering committee ownership for /docs</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/983</link>
+      <description>Merged by dsp-ant - Update CODEOWNERS: Add steering committee ownership for /docs</description>
+      <author>dsp-ant</author>
+      <pubDate>Thu, 17 Jul 2025 09:53:39 +0000</pubDate>
+    </item>
     <item>
       <title>[2025-06-18 ver] Referred OAuth 2.1 spec version expired</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/852</link>
@@ -503,20 +531,6 @@
       <pubDate>Tue, 17 Jun 2025 12:54:40 +0000</pubDate>
     </item>
     <item>
-      <title>Update `npx` target for inspector command</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/736</link>
-      <description>Merged by jonathanhefner - Update `npx` target for inspector command</description>
-      <author>jonathanhefner</author>
-      <pubDate>Tue, 17 Jun 2025 12:53:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs: fix improper usage of the term &#34;endpoint&#34;</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/739</link>
-      <description>Merged by hesreallyhim - docs: fix improper usage of the term &#34;endpoint&#34;</description>
-      <author>hesreallyhim</author>
-      <pubDate>Tue, 17 Jun 2025 12:52:32 +0000</pubDate>
-    </item>
-    <item>
       <title>docs: improve favicon readibility</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/744</link>
       <description>Merged by mattppal - docs: improve favicon readibility</description>
@@ -529,13 +543,6 @@
       <description>Merged by swathi-ant - Updated the documentation for claude desktop</description>
       <author>swathi-ant</author>
       <pubDate>Tue, 17 Jun 2025 07:20:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>chore: Add requirement for RFC8707</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/734</link>
-      <description>Merged by localden - chore: Add requirement for RFC8707</description>
-      <author>localden</author>
-      <pubDate>Mon, 16 Jun 2025 20:15:23 +0000</pubDate>
     </item>
     <item>
       <title>Remove batching requirement</title>
