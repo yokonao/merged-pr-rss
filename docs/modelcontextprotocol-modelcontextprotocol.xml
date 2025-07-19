@@ -4,7 +4,42 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Fri, 18 Jul 2025 02:22:36 +0000</pubDate>
+    <pubDate>Sat, 19 Jul 2025 02:10:40 +0000</pubDate>
+    <item>
+      <title>Backport changes to `lifecycle.mdx` from `2025-06-18` to `draft`.</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/997</link>
+      <description>Merged by blkt - Backport changes to `lifecycle.mdx` from `2025-06-18` to `draft`.</description>
+      <author>blkt</author>
+      <pubDate>Fri, 18 Jul 2025 21:19:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add LM Studio to client examples</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/999</link>
+      <description>Merged by ihrpr - Add LM Studio to client examples</description>
+      <author>ihrpr</author>
+      <pubDate>Fri, 18 Jul 2025 18:47:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>[docs/develop] Shorten introduction in architecture overview</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1000</link>
+      <description>Merged by jonathanhefner - [docs/develop] Shorten introduction in architecture overview</description>
+      <author>jonathanhefner</author>
+      <pubDate>Fri, 18 Jul 2025 16:30:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Further clarify SEP process</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/987</link>
+      <description>Merged by jonathanhefner - Further clarify SEP process</description>
+      <author>jonathanhefner</author>
+      <pubDate>Fri, 18 Jul 2025 11:03:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add client concepts</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/950</link>
+      <description>Merged by ihrpr - Add client concepts</description>
+      <author>ihrpr</author>
+      <pubDate>Fri, 18 Jul 2025 10:03:58 +0000</pubDate>
+    </item>
     <item>
       <title>[blog] Governance for MCP</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/989</link>
@@ -494,41 +529,6 @@
       <description>Merged by sakalys - doc(clients): add MooPoint</description>
       <author>sakalys</author>
       <pubDate>Tue, 17 Jun 2025 15:12:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add Authorization to key components list in overview</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/767</link>
-      <description>Merged by dsp-ant - Add Authorization to key components list in overview</description>
-      <author>dsp-ant</author>
-      <pubDate>Tue, 17 Jun 2025 14:25:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add note about RFC 8707 to changelog</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/766</link>
-      <description>Merged by dsp-ant - Add note about RFC 8707 to changelog</description>
-      <author>dsp-ant</author>
-      <pubDate>Tue, 17 Jun 2025 14:09:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>[spec] add roots to list of client features</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/765</link>
-      <description>Merged by dsp-ant - [spec] add roots to list of client features</description>
-      <author>dsp-ant</author>
-      <pubDate>Tue, 17 Jun 2025 14:08:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Make Prettier ignore the table of client features</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/709</link>
-      <description>Merged by jonathanhefner - Make Prettier ignore the table of client features</description>
-      <author>jonathanhefner</author>
-      <pubDate>Tue, 17 Jun 2025 12:55:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs: update mcp-agent entry to include support for prompts, resources and roots</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/720</link>
-      <description>Merged by StreetLamb - docs: update mcp-agent entry to include support for prompts, resources and roots</description>
-      <author>StreetLamb</author>
-      <pubDate>Tue, 17 Jun 2025 12:54:40 +0000</pubDate>
     </item>
     <item>
       <title>docs: improve favicon readibility</title>
