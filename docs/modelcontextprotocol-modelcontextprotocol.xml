@@ -4,7 +4,14 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Sun, 20 Jul 2025 02:31:41 +0000</pubDate>
+    <pubDate>Mon, 21 Jul 2025 02:27:59 +0000</pubDate>
+    <item>
+      <title>add chatgpt to the list of clients</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1010</link>
+      <description>Merged by ihrpr - add chatgpt to the list of clients</description>
+      <author>ihrpr</author>
+      <pubDate>Sun, 20 Jul 2025 12:46:15 +0000</pubDate>
+    </item>
     <item>
       <title>Backport changes to `lifecycle.mdx` from `2025-06-18` to `draft`.</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/997</link>
@@ -522,13 +529,6 @@
       <description>Merged by jonathanhefner - Refer to &#34;Token Passthrough&#34; section by name</description>
       <author>jonathanhefner</author>
       <pubDate>Tue, 17 Jun 2025 18:05:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs: improve favicon readibility</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/744</link>
-      <description>Merged by mattppal - docs: improve favicon readibility</description>
-      <author>mattppal</author>
-      <pubDate>Tue, 17 Jun 2025 12:51:18 +0000</pubDate>
     </item>
     <item>
       <title>Updated the documentation for claude desktop</title>
