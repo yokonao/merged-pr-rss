@@ -4,7 +4,28 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Mon, 21 Jul 2025 02:27:59 +0000</pubDate>
+    <pubDate>Tue, 22 Jul 2025 02:21:58 +0000</pubDate>
+    <item>
+      <title>fix client table - no scrolling</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1011</link>
+      <description>Merged by ihrpr - fix client table - no scrolling</description>
+      <author>ihrpr</author>
+      <pubDate>Mon, 21 Jul 2025 15:46:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>feat: add ModelContextChat client</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/919</link>
+      <description>Merged by vichudo - feat: add ModelContextChat client</description>
+      <author>vichudo</author>
+      <pubDate>Mon, 21 Jul 2025 06:32:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update Goose MCP support</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1015</link>
+      <description>Merged by blackgirlbytes - Update Goose MCP support</description>
+      <author>blackgirlbytes</author>
+      <pubDate>Mon, 21 Jul 2025 06:26:28 +0000</pubDate>
+    </item>
     <item>
       <title>add chatgpt to the list of clients</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1010</link>
@@ -522,20 +543,6 @@
       <description>Merged by xiaoyijun - feat: enhance auth server discovery with OAuth2 and OIDC metadata support</description>
       <author>xiaoyijun</author>
       <pubDate>Tue, 17 Jun 2025 20:09:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Refer to &#34;Token Passthrough&#34; section by name</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/769</link>
-      <description>Merged by jonathanhefner - Refer to &#34;Token Passthrough&#34; section by name</description>
-      <author>jonathanhefner</author>
-      <pubDate>Tue, 17 Jun 2025 18:05:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated the documentation for claude desktop</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/761</link>
-      <description>Merged by swathi-ant - Updated the documentation for claude desktop</description>
-      <author>swathi-ant</author>
-      <pubDate>Tue, 17 Jun 2025 07:20:58 +0000</pubDate>
     </item>
     <item>
       <title>Remove batching requirement</title>
