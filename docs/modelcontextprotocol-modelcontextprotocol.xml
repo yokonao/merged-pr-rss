@@ -4,7 +4,21 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Tue, 22 Jul 2025 02:21:58 +0000</pubDate>
+    <pubDate>Wed, 23 Jul 2025 02:23:23 +0000</pubDate>
+    <item>
+      <title>Use `&lt;CodeGroup&gt;` instead of `&lt;Tabs&gt;`</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1033</link>
+      <description>Merged by jonathanhefner - Use `&lt;CodeGroup&gt;` instead of `&lt;Tabs&gt;`</description>
+      <author>jonathanhefner</author>
+      <pubDate>Tue, 22 Jul 2025 17:04:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Remove notes column from clients table</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1022</link>
+      <description>Merged by ihrpr - Remove notes column from clients table</description>
+      <author>ihrpr</author>
+      <pubDate>Tue, 22 Jul 2025 09:18:30 +0000</pubDate>
+    </item>
     <item>
       <title>fix client table - no scrolling</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1011</link>
@@ -522,20 +536,6 @@
       <description>Merged by jonathanhefner - Rework docs navigation</description>
       <author>jonathanhefner</author>
       <pubDate>Wed, 18 Jun 2025 09:41:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>expand `_meta` name reservation</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/775</link>
-      <description>Merged by bhosmer-ant - expand `_meta` name reservation</description>
-      <author>bhosmer-ant</author>
-      <pubDate>Wed, 18 Jun 2025 08:31:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>changelog additions</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/768</link>
-      <description>Merged by bhosmer-ant - changelog additions</description>
-      <author>bhosmer-ant</author>
-      <pubDate>Tue, 17 Jun 2025 20:36:21 +0000</pubDate>
     </item>
     <item>
       <title>feat: enhance auth server discovery with OAuth2 and OIDC metadata support</title>
