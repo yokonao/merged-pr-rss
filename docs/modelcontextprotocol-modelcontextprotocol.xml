@@ -4,7 +4,35 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Wed, 23 Jul 2025 02:23:23 +0000</pubDate>
+    <pubDate>Thu, 24 Jul 2025 02:22:25 +0000</pubDate>
+    <item>
+      <title>[specification] Clarify SEP numbering</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1045</link>
+      <description>Merged by nickcoai - [specification] Clarify SEP numbering</description>
+      <author>nickcoai</author>
+      <pubDate>Wed, 23 Jul 2025 21:42:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add go-sdk link</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1041</link>
+      <description>Merged by miyadav - Add go-sdk link</description>
+      <author>miyadav</author>
+      <pubDate>Wed, 23 Jul 2025 09:53:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update roadmap</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1013</link>
+      <description>Merged by ihrpr - Update roadmap</description>
+      <author>ihrpr</author>
+      <pubDate>Wed, 23 Jul 2025 09:47:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update codeowners of docs to @modelcontextprotocol/docs-maintaners group</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1042</link>
+      <description>Merged by ihrpr - Update codeowners of docs to @modelcontextprotocol/docs-maintaners group</description>
+      <author>ihrpr</author>
+      <pubDate>Wed, 23 Jul 2025 09:25:33 +0000</pubDate>
+    </item>
     <item>
       <title>Use `&lt;CodeGroup&gt;` instead of `&lt;Tabs&gt;`</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1033</link>
@@ -501,41 +529,6 @@
       <description>Merged by jonathanhefner - Rework docs navigation (part 2)</description>
       <author>jonathanhefner</author>
       <pubDate>Wed, 18 Jun 2025 17:15:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Update `clients.mdx` table header links</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/773</link>
-      <description>Merged by jonathanhefner - Update `clients.mdx` table header links</description>
-      <author>jonathanhefner</author>
-      <pubDate>Wed, 18 Jun 2025 14:46:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>[spec] make user appear on the left side of the elicitation diagram</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/781</link>
-      <description>Merged by dsp-ant - [spec] make user appear on the left side of the elicitation diagram</description>
-      <author>dsp-ant</author>
-      <pubDate>Wed, 18 Jun 2025 13:43:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>davidsp/fix role order</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/780</link>
-      <description>Merged by dsp-ant - davidsp/fix role order</description>
-      <author>dsp-ant</author>
-      <pubDate>Wed, 18 Jun 2025 13:42:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs: Fix h5, h6 style</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/778</link>
-      <description>Merged by dsp-ant - docs: Fix h5, h6 style</description>
-      <author>dsp-ant</author>
-      <pubDate>Wed, 18 Jun 2025 11:24:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rework docs navigation</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/770</link>
-      <description>Merged by jonathanhefner - Rework docs navigation</description>
-      <author>jonathanhefner</author>
-      <pubDate>Wed, 18 Jun 2025 09:41:11 +0000</pubDate>
     </item>
     <item>
       <title>feat: enhance auth server discovery with OAuth2 and OIDC metadata support</title>
