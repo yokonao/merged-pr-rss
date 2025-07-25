@@ -4,7 +4,14 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Thu, 24 Jul 2025 02:22:25 +0000</pubDate>
+    <pubDate>Fri, 25 Jul 2025 02:21:48 +0000</pubDate>
+    <item>
+      <title>(chore) Create MAINTAINERS.md</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1001</link>
+      <description>Merged by localden - (chore) Create MAINTAINERS.md</description>
+      <author>localden</author>
+      <pubDate>Thu, 24 Jul 2025 08:51:10 +0000</pubDate>
+    </item>
     <item>
       <title>[specification] Clarify SEP numbering</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1045</link>
@@ -440,13 +447,6 @@
       <pubDate>Wed, 02 Jul 2025 13:50:02 +0000</pubDate>
     </item>
     <item>
-      <title>docs: Add AIQL MCP client to clients list</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/620</link>
-      <description>Merged by aiqlcom - docs: Add AIQL MCP client to clients list</description>
-      <author>aiqlcom</author>
-      <pubDate>Wed, 02 Jul 2025 13:49:29 +0000</pubDate>
-    </item>
-    <item>
       <title>docs(tools): discuss tool name conflicts and how to resolve them</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/701</link>
       <description>Merged by LucaButBoring - docs(tools): discuss tool name conflicts and how to resolve them</description>
@@ -522,20 +522,6 @@
       <description>Merged by dsp-ant - Revert &#34;feat: enhance auth server discovery with OAuth2 and OpenID metadata support&#34;</description>
       <author>dsp-ant</author>
       <pubDate>Wed, 18 Jun 2025 18:56:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rework docs navigation (part 2)</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/784</link>
-      <description>Merged by jonathanhefner - Rework docs navigation (part 2)</description>
-      <author>jonathanhefner</author>
-      <pubDate>Wed, 18 Jun 2025 17:15:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>feat: enhance auth server discovery with OAuth2 and OIDC metadata support</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/677</link>
-      <description>Merged by xiaoyijun - feat: enhance auth server discovery with OAuth2 and OIDC metadata support</description>
-      <author>xiaoyijun</author>
-      <pubDate>Tue, 17 Jun 2025 20:09:41 +0000</pubDate>
     </item>
     <item>
       <title>Remove batching requirement</title>
