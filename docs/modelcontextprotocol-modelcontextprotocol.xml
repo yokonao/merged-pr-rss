@@ -4,7 +4,21 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Fri, 25 Jul 2025 02:21:48 +0000</pubDate>
+    <pubDate>Sat, 26 Jul 2025 02:18:09 +0000</pubDate>
+    <item>
+      <title>Docs redesign </title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1044</link>
+      <description>Merged by ihrpr - Docs redesign </description>
+      <author>ihrpr</author>
+      <pubDate>Fri, 25 Jul 2025 17:58:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Doc] Fix GitHub capitalization in SEP guidelines</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1048</link>
+      <description>Merged by koic - [Doc] Fix GitHub capitalization in SEP guidelines</description>
+      <author>koic</author>
+      <pubDate>Fri, 25 Jul 2025 14:20:03 +0000</pubDate>
+    </item>
     <item>
       <title>(chore) Create MAINTAINERS.md</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1001</link>
@@ -447,6 +461,13 @@
       <pubDate>Wed, 02 Jul 2025 13:50:02 +0000</pubDate>
     </item>
     <item>
+      <title>docs: Add AIQL MCP client to clients list</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/620</link>
+      <description>Merged by aiqlcom - docs: Add AIQL MCP client to clients list</description>
+      <author>aiqlcom</author>
+      <pubDate>Wed, 02 Jul 2025 13:49:29 +0000</pubDate>
+    </item>
+    <item>
       <title>docs(tools): discuss tool name conflicts and how to resolve them</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/701</link>
       <description>Merged by LucaButBoring - docs(tools): discuss tool name conflicts and how to resolve them</description>
@@ -508,20 +529,6 @@
       <description>Merged by localden - chore: Update security considerations in authorization.mdx</description>
       <author>localden</author>
       <pubDate>Wed, 18 Jun 2025 19:48:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Apply `h5` and `h6` styles to all content</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/786</link>
-      <description>Merged by jonathanhefner - Apply `h5` and `h6` styles to all content</description>
-      <author>jonathanhefner</author>
-      <pubDate>Wed, 18 Jun 2025 19:00:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Revert &#34;feat: enhance auth server discovery with OAuth2 and OpenID metadata support&#34;</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/788</link>
-      <description>Merged by dsp-ant - Revert &#34;feat: enhance auth server discovery with OAuth2 and OpenID metadata support&#34;</description>
-      <author>dsp-ant</author>
-      <pubDate>Wed, 18 Jun 2025 18:56:51 +0000</pubDate>
     </item>
     <item>
       <title>Remove batching requirement</title>
