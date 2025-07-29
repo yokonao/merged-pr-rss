@@ -4,7 +4,35 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Mon, 28 Jul 2025 02:28:56 +0000</pubDate>
+    <pubDate>Tue, 29 Jul 2025 02:33:48 +0000</pubDate>
+    <item>
+      <title>Improve Server Quick Start Documentation</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1067</link>
+      <description>Merged by alexjdean - Improve Server Quick Start Documentation</description>
+      <author>alexjdean</author>
+      <pubDate>Mon, 28 Jul 2025 16:36:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Remove outdated SDK link files</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1069</link>
+      <description>Merged by koic - Remove outdated SDK link files</description>
+      <author>koic</author>
+      <pubDate>Mon, 28 Jul 2025 16:29:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add redirects for old paths</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1064</link>
+      <description>Merged by ihrpr - Add redirects for old paths</description>
+      <author>ihrpr</author>
+      <pubDate>Mon, 28 Jul 2025 10:09:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Indent nested type declaration in schema reference</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1018</link>
+      <description>Merged by jonathanhefner - Indent nested type declaration in schema reference</description>
+      <author>jonathanhefner</author>
+      <pubDate>Mon, 28 Jul 2025 09:32:41 +0000</pubDate>
+    </item>
     <item>
       <title>Docs redesign </title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1044</link>
@@ -494,34 +522,6 @@
       <description>Merged by olaservo - Remove unsupported pattern field and clarify supported format types</description>
       <author>olaservo</author>
       <pubDate>Wed, 25 Jun 2025 14:52:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fix missing parenthesis in documentation</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/815</link>
-      <description>Merged by BigStupideer - Fix missing parenthesis in documentation</description>
-      <author>BigStupideer</author>
-      <pubDate>Sat, 21 Jun 2025 13:28:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add Augment Code to clients listing</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/756</link>
-      <description>Merged by amateurhuman - Add Augment Code to clients listing</description>
-      <author>amateurhuman</author>
-      <pubDate>Fri, 20 Jun 2025 19:21:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Docs: Add Memex to clients.mdx</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/791</link>
-      <description>Merged by memex-tech - Docs: Add Memex to clients.mdx</description>
-      <author>memex-tech</author>
-      <pubDate>Fri, 20 Jun 2025 11:49:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Model Context Protocol - Revision 2025-06-18</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/783</link>
-      <description>Merged by dsp-ant - The Model Context Protocol - Revision 2025-06-18</description>
-      <author>dsp-ant</author>
-      <pubDate>Wed, 18 Jun 2025 20:07:38 +0000</pubDate>
     </item>
     <item>
       <title>Remove batching requirement</title>
