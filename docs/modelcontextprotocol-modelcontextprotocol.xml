@@ -4,7 +4,28 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Tue, 29 Jul 2025 02:33:48 +0000</pubDate>
+    <pubDate>Wed, 30 Jul 2025 02:25:21 +0000</pubDate>
+    <item>
+      <title>Restore `--font-mono` CSS variable</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1084</link>
+      <description>Merged by jonathanhefner - Restore `--font-mono` CSS variable</description>
+      <author>jonathanhefner</author>
+      <pubDate>Tue, 29 Jul 2025 16:52:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>fix doc, reported in #1068</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1081</link>
+      <description>Merged by md42 - fix doc, reported in #1068</description>
+      <author>md42</author>
+      <pubDate>Tue, 29 Jul 2025 10:04:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Restore schema reference page styles</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1074</link>
+      <description>Merged by jonathanhefner - Restore schema reference page styles</description>
+      <author>jonathanhefner</author>
+      <pubDate>Tue, 29 Jul 2025 04:46:52 +0000</pubDate>
+    </item>
     <item>
       <title>Improve Server Quick Start Documentation</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1067</link>
@@ -508,27 +529,6 @@
       <description>Merged by jonathanhefner - Fix `MCP-Protocol-Version` fallback value</description>
       <author>jonathanhefner</author>
       <pubDate>Fri, 27 Jun 2025 20:54:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Referred OAuth 2.1 spec version expired</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/851</link>
-      <description>Merged by tnorimat - Referred OAuth 2.1 spec version expired</description>
-      <author>tnorimat</author>
-      <pubDate>Fri, 27 Jun 2025 08:35:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Remove unsupported pattern field and clarify supported format types</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/838</link>
-      <description>Merged by olaservo - Remove unsupported pattern field and clarify supported format types</description>
-      <author>olaservo</author>
-      <pubDate>Wed, 25 Jun 2025 14:52:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Remove batching requirement</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/416</link>
-      <description>Merged by ihrpr - Remove batching requirement</description>
-      <author>ihrpr</author>
-      <pubDate>Mon, 28 Apr 2025 15:45:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
