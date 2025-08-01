@@ -4,7 +4,42 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Thu, 31 Jul 2025 02:24:37 +0000</pubDate>
+    <pubDate>Fri, 01 Aug 2025 02:36:22 +0000</pubDate>
+    <item>
+      <title>(blog) Governance change announcement</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1274</link>
+      <description>Merged by localden - (blog) Governance change announcement</description>
+      <author>localden</author>
+      <pubDate>Thu, 31 Jul 2025 18:38:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>SEP-994: Shared Communication Practices/Guidelines</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1002</link>
+      <description>Merged by localden - SEP-994: Shared Communication Practices/Guidelines</description>
+      <author>localden</author>
+      <pubDate>Thu, 31 Jul 2025 16:45:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>(blog) Update governance blog post</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/996</link>
+      <description>Merged by localden - (blog) Update governance blog post</description>
+      <author>localden</author>
+      <pubDate>Thu, 31 Jul 2025 16:43:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>docs: update Gemini CLI client to support prompts</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1270</link>
+      <description>Merged by jackwotherspoon - docs: update Gemini CLI client to support prompts</description>
+      <author>jackwotherspoon</author>
+      <pubDate>Thu, 31 Jul 2025 15:26:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add link to Nick Aldridge github</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1267</link>
+      <description>Merged by 000-000-000-000-000 - Add link to Nick Aldridge github</description>
+      <author>000-000-000-000-000</author>
+      <pubDate>Thu, 31 Jul 2025 05:08:03 +0000</pubDate>
+    </item>
     <item>
       <title>Restore `--font-mono` CSS variable</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1084</link>
@@ -508,20 +543,6 @@
       <description>Merged by xyc - docs: Add RecurseChat to MCP client list</description>
       <author>xyc</author>
       <pubDate>Wed, 02 Jul 2025 13:50:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs: Add AIQL MCP client to clients list</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/620</link>
-      <description>Merged by aiqlcom - docs: Add AIQL MCP client to clients list</description>
-      <author>aiqlcom</author>
-      <pubDate>Wed, 02 Jul 2025 13:49:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs(tools): discuss tool name conflicts and how to resolve them</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/701</link>
-      <description>Merged by LucaButBoring - docs(tools): discuss tool name conflicts and how to resolve them</description>
-      <author>LucaButBoring</author>
-      <pubDate>Mon, 30 Jun 2025 14:37:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
