@@ -4,7 +4,14 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Fri, 01 Aug 2025 02:36:22 +0000</pubDate>
+    <pubDate>Sat, 02 Aug 2025 02:18:59 +0000</pubDate>
+    <item>
+      <title>Add links to stats on home page</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1070</link>
+      <description>Merged by ihrpr - Add links to stats on home page</description>
+      <author>ihrpr</author>
+      <pubDate>Fri, 01 Aug 2025 12:43:12 +0000</pubDate>
+    </item>
     <item>
       <title>(blog) Governance change announcement</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1274</link>
@@ -536,13 +543,6 @@
       <description>Merged by Ejb503 - docs: Add systemprompt native mobile client to clients.mdx</description>
       <author>Ejb503</author>
       <pubDate>Wed, 02 Jul 2025 13:50:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs: Add RecurseChat to MCP client list</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/631</link>
-      <description>Merged by xyc - docs: Add RecurseChat to MCP client list</description>
-      <author>xyc</author>
-      <pubDate>Wed, 02 Jul 2025 13:50:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
