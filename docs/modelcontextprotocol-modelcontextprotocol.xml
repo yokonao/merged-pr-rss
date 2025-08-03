@@ -4,7 +4,7 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Sat, 02 Aug 2025 02:18:59 +0000</pubDate>
+    <pubDate>Sun, 03 Aug 2025 02:34:48 +0000</pubDate>
     <item>
       <title>Add links to stats on home page</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1070</link>
@@ -536,13 +536,6 @@
       <description>Merged by cbh123 - Add Chorus to MCP clients list</description>
       <author>cbh123</author>
       <pubDate>Wed, 02 Jul 2025 13:51:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs: Add systemprompt native mobile client to clients.mdx</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/706</link>
-      <description>Merged by Ejb503 - docs: Add systemprompt native mobile client to clients.mdx</description>
-      <author>Ejb503</author>
-      <pubDate>Wed, 02 Jul 2025 13:50:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
