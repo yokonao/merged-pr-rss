@@ -4,7 +4,49 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Mon, 04 Aug 2025 02:34:15 +0000</pubDate>
+    <pubDate>Tue, 05 Aug 2025 02:27:39 +0000</pubDate>
+    <item>
+      <title>Add Transports Working Group to MAINTAINERS.md</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1295</link>
+      <description>Merged by tadasant - Add Transports Working Group to MAINTAINERS.md</description>
+      <author>tadasant</author>
+      <pubDate>Mon, 04 Aug 2025 18:03:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>fix image link in prompts post</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1297</link>
+      <description>Merged by ihrpr - fix image link in prompts post</description>
+      <author>ihrpr</author>
+      <pubDate>Mon, 04 Aug 2025 15:57:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fixed some typos</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1079</link>
+      <description>Merged by sunyuhan1998 - Fixed some typos</description>
+      <author>sunyuhan1998</author>
+      <pubDate>Mon, 04 Aug 2025 14:58:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Blog post for Prompts with Resource temlates</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1089</link>
+      <description>Merged by ihrpr - Blog post for Prompts with Resource temlates</description>
+      <author>ihrpr</author>
+      <pubDate>Mon, 04 Aug 2025 14:38:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>docs: Fix grammar and typos in learn/architecture.mdx</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1285</link>
+      <description>Merged by fringewidth - docs: Fix grammar and typos in learn/architecture.mdx</description>
+      <author>fringewidth</author>
+      <pubDate>Mon, 04 Aug 2025 12:35:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Remove links to nonexistent schema reference pages</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1073</link>
+      <description>Merged by jonathanhefner - Remove links to nonexistent schema reference pages</description>
+      <author>jonathanhefner</author>
+      <pubDate>Mon, 04 Aug 2025 03:39:09 +0000</pubDate>
+    </item>
     <item>
       <title>Add links to stats on home page</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1070</link>
@@ -494,48 +536,6 @@
       <description>Merged by Juice10 - [Docs] Add Kilo Code to list of clients since its the first OSS Client to support the latest streaming</description>
       <author>Juice10</author>
       <pubDate>Thu, 03 Jul 2025 14:29:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add Tambo to list of known clients</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/735</link>
-      <description>Merged by alecf - Add Tambo to list of known clients</description>
-      <author>alecf</author>
-      <pubDate>Thu, 03 Jul 2025 14:23:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Format `clients.mdx` with Prettier</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/898</link>
-      <description>Merged by jonathanhefner - Format `clients.mdx` with Prettier</description>
-      <author>jonathanhefner</author>
-      <pubDate>Thu, 03 Jul 2025 14:22:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>fix architecture diagram</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/873</link>
-      <description>Merged by kentcdodds - fix architecture diagram</description>
-      <author>kentcdodds</author>
-      <pubDate>Wed, 02 Jul 2025 14:42:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Update Claude Code line in clients page</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/894</link>
-      <description>Merged by ashwin-ant - Update Claude Code line in clients page</description>
-      <author>ashwin-ant</author>
-      <pubDate>Wed, 02 Jul 2025 13:53:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add Amazon Q IDE to list of example clients</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/836</link>
-      <description>Merged by nairteashop - Add Amazon Q IDE to list of example clients</description>
-      <author>nairteashop</author>
-      <pubDate>Wed, 02 Jul 2025 13:52:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add Chorus to MCP clients list</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/755</link>
-      <description>Merged by cbh123 - Add Chorus to MCP clients list</description>
-      <author>cbh123</author>
-      <pubDate>Wed, 02 Jul 2025 13:51:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
