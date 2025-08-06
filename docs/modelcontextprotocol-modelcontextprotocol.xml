@@ -4,7 +4,28 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Tue, 05 Aug 2025 02:27:39 +0000</pubDate>
+    <pubDate>Wed, 06 Aug 2025 02:26:00 +0000</pubDate>
+    <item>
+      <title>chore: format docs/community/communication.mdx</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1305</link>
+      <description>Merged by nbarbettini - chore: format docs/community/communication.mdx</description>
+      <author>nbarbettini</author>
+      <pubDate>Tue, 05 Aug 2025 23:36:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add Discord invite link to communication docs</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1304</link>
+      <description>Merged by tadasant - Add Discord invite link to communication docs</description>
+      <author>tadasant</author>
+      <pubDate>Tue, 05 Aug 2025 19:56:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Correct spelling of &#34;macOS&#34;</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1298</link>
+      <description>Merged by koic - Correct spelling of &#34;macOS&#34;</description>
+      <author>koic</author>
+      <pubDate>Tue, 05 Aug 2025 13:53:21 +0000</pubDate>
+    </item>
     <item>
       <title>Add Transports Working Group to MAINTAINERS.md</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1295</link>
@@ -503,13 +524,6 @@
       <pubDate>Fri, 04 Jul 2025 10:16:09 +0000</pubDate>
     </item>
     <item>
-      <title>Create new docs structure on top of `docs` and purge `docs-v2`</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/909</link>
-      <description>Merged by felixweinberger - Create new docs structure on top of `docs` and purge `docs-v2`</description>
-      <author>felixweinberger</author>
-      <pubDate>Thu, 03 Jul 2025 20:10:36 +0000</pubDate>
-    </item>
-    <item>
       <title>docs: Documentation inconsistency: Elicitation action &#34;reject&#34; in docs should be &#34;decline&#34; per schema</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/897</link>
       <description>Merged by nandsha - docs: Documentation inconsistency: Elicitation action &#34;reject&#34; in docs should be &#34;decline&#34; per schema</description>
@@ -522,20 +536,6 @@
       <description>Merged by felixweinberger - feat: create docs-v2 structure with diataxis framework</description>
       <author>felixweinberger</author>
       <pubDate>Thu, 03 Jul 2025 15:49:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add ChatWise to example MCP clients</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/421</link>
-      <description>Merged by egoist - Add ChatWise to example MCP clients</description>
-      <author>egoist</author>
-      <pubDate>Thu, 03 Jul 2025 14:29:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Docs] Add Kilo Code to list of clients since its the first OSS Client to support the latest streaming</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/552</link>
-      <description>Merged by Juice10 - [Docs] Add Kilo Code to list of clients since its the first OSS Client to support the latest streaming</description>
-      <author>Juice10</author>
-      <pubDate>Thu, 03 Jul 2025 14:29:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
