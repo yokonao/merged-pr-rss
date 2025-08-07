@@ -4,7 +4,7 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Wed, 06 Aug 2025 02:26:00 +0000</pubDate>
+    <pubDate>Thu, 07 Aug 2025 02:26:13 +0000</pubDate>
     <item>
       <title>chore: format docs/community/communication.mdx</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1305</link>
@@ -529,13 +529,6 @@
       <description>Merged by nandsha - docs: Documentation inconsistency: Elicitation action &#34;reject&#34; in docs should be &#34;decline&#34; per schema</description>
       <author>nandsha</author>
       <pubDate>Thu, 03 Jul 2025 16:33:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>feat: create docs-v2 structure with diataxis framework</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/906</link>
-      <description>Merged by felixweinberger - feat: create docs-v2 structure with diataxis framework</description>
-      <author>felixweinberger</author>
-      <pubDate>Thu, 03 Jul 2025 15:49:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
