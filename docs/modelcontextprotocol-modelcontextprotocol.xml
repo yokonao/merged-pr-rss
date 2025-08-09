@@ -4,7 +4,49 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Fri, 08 Aug 2025 02:26:04 +0000</pubDate>
+    <pubDate>Sat, 09 Aug 2025 02:08:17 +0000</pubDate>
+    <item>
+      <title>docs: Add Call Chirp to clients list with voice AI support</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/922</link>
+      <description>Merged by Keoooo - docs: Add Call Chirp to clients list with voice AI support</description>
+      <author>Keoooo</author>
+      <pubDate>Sat, 09 Aug 2025 01:33:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Use markdown links in `schema.ts`</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1307</link>
+      <description>Merged by jonathanhefner - Use markdown links in `schema.ts`</description>
+      <author>jonathanhefner</author>
+      <pubDate>Fri, 08 Aug 2025 20:34:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Land on documentation and move current landing page to last tab (&#34;About MCP&#34;)</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1317</link>
+      <description>Merged by jerryhong1 - Land on documentation and move current landing page to last tab (&#34;About MCP&#34;)</description>
+      <author>jerryhong1</author>
+      <pubDate>Fri, 08 Aug 2025 18:58:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>docs: fix pluralization typo</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1316</link>
+      <description>Merged by KnorpelSenf - docs: fix pluralization typo</description>
+      <author>KnorpelSenf</author>
+      <pubDate>Fri, 08 Aug 2025 14:45:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>docs: clean up contributing guidelines and communication documentation</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1312</link>
+      <description>Merged by domdomegg - docs: clean up contributing guidelines and communication documentation</description>
+      <author>domdomegg</author>
+      <pubDate>Fri, 08 Aug 2025 14:43:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update clients.mdx to show Copilot Studio supports Discovery</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1038</link>
+      <description>Merged by zankar-desai - Update clients.mdx to show Copilot Studio supports Discovery</description>
+      <author>zankar-desai</author>
+      <pubDate>Fri, 08 Aug 2025 03:15:20 +0000</pubDate>
+    </item>
     <item>
       <title>chore: format docs/community/communication.mdx</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1305</link>
@@ -473,55 +515,6 @@
       <description>Merged by saqadri - Add elicitation column for docs</description>
       <author>saqadri</author>
       <pubDate>Tue, 08 Jul 2025 22:29:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Format with Prettier</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/920</link>
-      <description>Merged by jonathanhefner - Format with Prettier</description>
-      <author>jonathanhefner</author>
-      <pubDate>Mon, 07 Jul 2025 17:36:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fix versioned URLs</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/924</link>
-      <description>Merged by jonathanhefner - Fix versioned URLs</description>
-      <author>jonathanhefner</author>
-      <pubDate>Mon, 07 Jul 2025 17:36:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add Tencent CloudBase AI DevKit to clients list</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/309</link>
-      <description>Merged by binggg - Add Tencent CloudBase AI DevKit to clients list</description>
-      <author>binggg</author>
-      <pubDate>Fri, 04 Jul 2025 14:59:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>fix: Add Shortwave MCP client</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/901</link>
-      <description>Merged by hiranya911 - fix: Add Shortwave MCP client</description>
-      <author>hiranya911</author>
-      <pubDate>Fri, 04 Jul 2025 14:58:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add CodeGPT to client list </title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/528</link>
-      <description>Merged by davila7 - Add CodeGPT to client list </description>
-      <author>davila7</author>
-      <pubDate>Fri, 04 Jul 2025 14:57:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs: re-submit mcp-client-chatbot example based on latest main branch</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/900</link>
-      <description>Merged by cgoinglove - docs: re-submit mcp-client-chatbot example based on latest main branch</description>
-      <author>cgoinglove</author>
-      <pubDate>Fri, 04 Jul 2025 14:57:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>fix: escape space in desktop config path</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/914</link>
-      <description>Merged by martinamps - fix: escape space in desktop config path</description>
-      <author>martinamps</author>
-      <pubDate>Fri, 04 Jul 2025 10:16:09 +0000</pubDate>
     </item>
     <item>
       <title>docs: Documentation inconsistency: Elicitation action &#34;reject&#34; in docs should be &#34;decline&#34; per schema</title>
