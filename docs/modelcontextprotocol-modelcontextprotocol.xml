@@ -4,7 +4,21 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Sat, 09 Aug 2025 02:08:17 +0000</pubDate>
+    <pubDate>Sun, 10 Aug 2025 02:30:00 +0000</pubDate>
+    <item>
+      <title>[Doc] Sync reference servers</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1321</link>
+      <description>Merged by koic - [Doc] Sync reference servers</description>
+      <author>koic</author>
+      <pubDate>Sun, 10 Aug 2025 00:53:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update client capability example</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1320</link>
+      <description>Merged by eulegang - Update client capability example</description>
+      <author>eulegang</author>
+      <pubDate>Sat, 09 Aug 2025 17:43:59 +0000</pubDate>
+    </item>
     <item>
       <title>docs: Add Call Chirp to clients list with voice AI support</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/922</link>
@@ -503,25 +517,11 @@
       <pubDate>Thu, 10 Jul 2025 13:22:58 +0000</pubDate>
     </item>
     <item>
-      <title>blog: implement a simple blog that we will ship via github pages</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/928</link>
-      <description>Merged by dsp-ant - blog: implement a simple blog that we will ship via github pages</description>
-      <author>dsp-ant</author>
-      <pubDate>Wed, 09 Jul 2025 14:59:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add elicitation column for docs</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/890</link>
-      <description>Merged by saqadri - Add elicitation column for docs</description>
-      <author>saqadri</author>
-      <pubDate>Tue, 08 Jul 2025 22:29:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs: Documentation inconsistency: Elicitation action &#34;reject&#34; in docs should be &#34;decline&#34; per schema</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/897</link>
-      <description>Merged by nandsha - docs: Documentation inconsistency: Elicitation action &#34;reject&#34; in docs should be &#34;decline&#34; per schema</description>
-      <author>nandsha</author>
-      <pubDate>Thu, 03 Jul 2025 16:33:29 +0000</pubDate>
+      <title>Change pagination size requirements to conform to RFC2119 language</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/252</link>
+      <description>Merged by peaster - Change pagination size requirements to conform to RFC2119 language</description>
+      <author>peaster</author>
+      <pubDate>Mon, 07 Apr 2025 09:20:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
