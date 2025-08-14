@@ -4,7 +4,14 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Wed, 13 Aug 2025 02:09:19 +0000</pubDate>
+    <pubDate>Thu, 14 Aug 2025 02:10:13 +0000</pubDate>
+    <item>
+      <title>Add MCP client: Amp</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1338</link>
+      <description>Merged by agentcooper - Add MCP client: Amp</description>
+      <author>agentcooper</author>
+      <pubDate>Wed, 13 Aug 2025 14:25:00 +0000</pubDate>
+    </item>
     <item>
       <title>Update architecture.mdx to fix typo</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1327</link>
