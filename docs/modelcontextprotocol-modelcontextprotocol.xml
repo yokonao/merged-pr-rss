@@ -4,7 +4,14 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Fri, 15 Aug 2025 02:10:45 +0000</pubDate>
+    <pubDate>Sat, 16 Aug 2025 02:04:47 +0000</pubDate>
+    <item>
+      <title>Use correct article &#34;an&#34; before &#34;MCP&#34; in docs</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1347</link>
+      <description>Merged by koic - Use correct article &#34;an&#34; before &#34;MCP&#34; in docs</description>
+      <author>koic</author>
+      <pubDate>Sat, 16 Aug 2025 00:24:52 +0000</pubDate>
+    </item>
     <item>
       <title>Fix CI</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1328</link>
