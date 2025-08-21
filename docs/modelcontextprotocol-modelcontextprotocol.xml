@@ -4,7 +4,14 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Wed, 20 Aug 2025 02:01:31 +0000</pubDate>
+    <pubDate>Thu, 21 Aug 2025 02:00:12 +0000</pubDate>
+    <item>
+      <title>Add Adam (domdomegg) to Registry Maintainers</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1367</link>
+      <description>Merged by tadasant - Add Adam (domdomegg) to Registry Maintainers</description>
+      <author>tadasant</author>
+      <pubDate>Wed, 20 Aug 2025 21:21:43 +0000</pubDate>
+    </item>
     <item>
       <title>Use correct article &#34;an&#34; before &#34;MCP&#34; in docs</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1347</link>
@@ -494,13 +501,6 @@
       <description>Merged by pwwpche - docs: Add Qualification section to clarify when to use SEP vs PR</description>
       <author>pwwpche</author>
       <pubDate>Tue, 15 Jul 2025 20:04:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add schema reference page for version 2025-06-18</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/967</link>
-      <description>Merged by jonathanhefner - Add schema reference page for version 2025-06-18</description>
-      <author>jonathanhefner</author>
-      <pubDate>Mon, 14 Jul 2025 19:31:18 +0000</pubDate>
     </item>
     <item>
       <title>SEP-001: Introduce Governance Model and SEP Process</title>
