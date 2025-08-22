@@ -4,7 +4,7 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Thu, 21 Aug 2025 02:00:12 +0000</pubDate>
+    <pubDate>Fri, 22 Aug 2025 02:00:57 +0000</pubDate>
     <item>
       <title>Add Adam (domdomegg) to Registry Maintainers</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1367</link>
@@ -501,13 +501,6 @@
       <description>Merged by pwwpche - docs: Add Qualification section to clarify when to use SEP vs PR</description>
       <author>pwwpche</author>
       <pubDate>Tue, 15 Jul 2025 20:04:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>SEP-001: Introduce Governance Model and SEP Process</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/931</link>
-      <description>Merged by dsp-ant - SEP-001: Introduce Governance Model and SEP Process</description>
-      <author>dsp-ant</author>
-      <pubDate>Mon, 14 Jul 2025 08:44:59 +0000</pubDate>
     </item>
     <item>
       <title>Change pagination size requirements to conform to RFC2119 language</title>
