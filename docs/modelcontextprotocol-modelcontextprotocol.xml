@@ -4,7 +4,42 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Fri, 22 Aug 2025 02:00:57 +0000</pubDate>
+    <pubDate>Sat, 23 Aug 2025 01:56:32 +0000</pubDate>
+    <item>
+      <title>Add favicon to blog</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1379</link>
+      <description>Merged by jonathanhefner - Add favicon to blog</description>
+      <author>jonathanhefner</author>
+      <pubDate>Fri, 22 Aug 2025 22:08:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fix typos in client registration documentation</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1378</link>
+      <description>Merged by dend - Fix typos in client registration documentation</description>
+      <author>dend</author>
+      <pubDate>Fri, 22 Aug 2025 20:26:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Document process/guidelines for new Maintainer nominations</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1368</link>
+      <description>Merged by tadasant - Document process/guidelines for new Maintainer nominations</description>
+      <author>tadasant</author>
+      <pubDate>Fri, 22 Aug 2025 19:53:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>[blog] client registration options</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1027</link>
+      <description>Merged by pcarleton - [blog] client registration options</description>
+      <author>pcarleton</author>
+      <pubDate>Fri, 22 Aug 2025 18:38:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fixes duplicated wording in completion specification section</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1365</link>
+      <description>Merged by Scoopsies - Fixes duplicated wording in completion specification section</description>
+      <author>Scoopsies</author>
+      <pubDate>Fri, 22 Aug 2025 17:47:14 +0000</pubDate>
+    </item>
     <item>
       <title>Add Adam (domdomegg) to Registry Maintainers</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1367</link>
@@ -454,27 +489,6 @@
       <pubDate>Wed, 16 Jul 2025 13:23:45 +0000</pubDate>
     </item>
     <item>
-      <title>Clarify reasoning for limited elicitation schema</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/892</link>
-      <description>Merged by LucaButBoring - Clarify reasoning for limited elicitation schema</description>
-      <author>LucaButBoring</author>
-      <pubDate>Tue, 15 Jul 2025 22:04:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Include Annotations for Content types and Resources in documentation</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/891</link>
-      <description>Merged by evalstate - Include Annotations for Content types and Resources in documentation</description>
-      <author>evalstate</author>
-      <pubDate>Tue, 15 Jul 2025 22:01:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add &#34;GitHub Copilot coding agent&#34; to &#34;Example Clients&#34;</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/947</link>
-      <description>Merged by timrogers - Add &#34;GitHub Copilot coding agent&#34; to &#34;Example Clients&#34;</description>
-      <author>timrogers</author>
-      <pubDate>Tue, 15 Jul 2025 21:52:16 +0000</pubDate>
-    </item>
-    <item>
       <title>Add Gemini CLI to clients.mdx</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/915</link>
       <description>Merged by markmcd - Add Gemini CLI to clients.mdx</description>
@@ -482,25 +496,11 @@
       <pubDate>Tue, 15 Jul 2025 21:50:44 +0000</pubDate>
     </item>
     <item>
-      <title>Use relative URLs for links</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/937</link>
-      <description>Merged by jonathanhefner - Use relative URLs for links</description>
-      <author>jonathanhefner</author>
-      <pubDate>Tue, 15 Jul 2025 21:42:24 +0000</pubDate>
-    </item>
-    <item>
       <title>docs: modify the TypeScript server demo</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/296</link>
       <description>Merged by cloudmoonocus - docs: modify the TypeScript server demo</description>
       <author>cloudmoonocus</author>
       <pubDate>Tue, 15 Jul 2025 20:34:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs: Add Qualification section to clarify when to use SEP vs PR</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/969</link>
-      <description>Merged by pwwpche - docs: Add Qualification section to clarify when to use SEP vs PR</description>
-      <author>pwwpche</author>
-      <pubDate>Tue, 15 Jul 2025 20:04:22 +0000</pubDate>
     </item>
     <item>
       <title>Change pagination size requirements to conform to RFC2119 language</title>
