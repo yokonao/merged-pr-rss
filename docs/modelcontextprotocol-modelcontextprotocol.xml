@@ -4,7 +4,14 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Sat, 23 Aug 2025 01:56:32 +0000</pubDate>
+    <pubDate>Sun, 24 Aug 2025 02:11:55 +0000</pubDate>
+    <item>
+      <title>specify the version of zod</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1361</link>
+      <description>Merged by XiongLiding - specify the version of zod</description>
+      <author>XiongLiding</author>
+      <pubDate>Sat, 23 Aug 2025 19:41:55 +0000</pubDate>
+    </item>
     <item>
       <title>Add favicon to blog</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1379</link>
