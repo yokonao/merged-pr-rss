@@ -4,7 +4,14 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Tue, 26 Aug 2025 02:01:59 +0000</pubDate>
+    <pubDate>Wed, 27 Aug 2025 01:57:55 +0000</pubDate>
+    <item>
+      <title>Add .well-known/security.txt file</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1370</link>
+      <description>Merged by domdomegg - Add .well-known/security.txt file</description>
+      <author>domdomegg</author>
+      <pubDate>Wed, 27 Aug 2025 00:28:57 +0000</pubDate>
+    </item>
     <item>
       <title>specify the version of zod</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1361</link>
@@ -501,13 +508,6 @@
       <description>Merged by markmcd - Add Gemini CLI to clients.mdx</description>
       <author>markmcd</author>
       <pubDate>Tue, 15 Jul 2025 21:50:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs: modify the TypeScript server demo</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/296</link>
-      <description>Merged by cloudmoonocus - docs: modify the TypeScript server demo</description>
-      <author>cloudmoonocus</author>
-      <pubDate>Tue, 15 Jul 2025 20:34:49 +0000</pubDate>
     </item>
     <item>
       <title>Change pagination size requirements to conform to RFC2119 language</title>
