@@ -4,7 +4,7 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Wed, 27 Aug 2025 01:57:55 +0000</pubDate>
+    <pubDate>Thu, 28 Aug 2025 01:57:23 +0000</pubDate>
     <item>
       <title>Add .well-known/security.txt file</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1370</link>
@@ -501,13 +501,6 @@
       <description>Merged by izzymsft - docs: Update server.mdx to including MCP server logging best practices</description>
       <author>izzymsft</author>
       <pubDate>Wed, 16 Jul 2025 13:23:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add Gemini CLI to clients.mdx</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/915</link>
-      <description>Merged by markmcd - Add Gemini CLI to clients.mdx</description>
-      <author>markmcd</author>
-      <pubDate>Tue, 15 Jul 2025 21:50:44 +0000</pubDate>
     </item>
     <item>
       <title>Change pagination size requirements to conform to RFC2119 language</title>
