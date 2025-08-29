@@ -4,7 +4,14 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Thu, 28 Aug 2025 01:57:23 +0000</pubDate>
+    <pubDate>Fri, 29 Aug 2025 01:57:12 +0000</pubDate>
+    <item>
+      <title>Fix: Fix JSONRPC Types</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1026</link>
+      <description>Merged by hesreallyhim - Fix: Fix JSONRPC Types</description>
+      <author>hesreallyhim</author>
+      <pubDate>Thu, 28 Aug 2025 12:15:39 +0000</pubDate>
+    </item>
     <item>
       <title>Add .well-known/security.txt file</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1370</link>
@@ -494,13 +501,6 @@
       <description>Merged by ddworken - Replace reference to incorrect pypi.com with pypi.org</description>
       <author>ddworken</author>
       <pubDate>Wed, 16 Jul 2025 18:44:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs: Update server.mdx to including MCP server logging best practices</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/888</link>
-      <description>Merged by izzymsft - docs: Update server.mdx to including MCP server logging best practices</description>
-      <author>izzymsft</author>
-      <pubDate>Wed, 16 Jul 2025 13:23:45 +0000</pubDate>
     </item>
     <item>
       <title>Change pagination size requirements to conform to RFC2119 language</title>
