@@ -4,7 +4,21 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Wed, 03 Sep 2025 01:51:15 +0000</pubDate>
+    <pubDate>Thu, 04 Sep 2025 01:51:57 +0000</pubDate>
+    <item>
+      <title>SEP: 1034 Add default values for all primitive types in elicitation schemas</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1035</link>
+      <description>Merged by chughtapan - SEP: 1034 Add default values for all primitive types in elicitation schemas</description>
+      <author>chughtapan</author>
+      <pubDate>Wed, 03 Sep 2025 14:29:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fix issue 1406 - unique names for code tab in architecture.mdx to avoid scrolling</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1412</link>
+      <description>Merged by pja-ant - Fix issue 1406 - unique names for code tab in architecture.mdx to avoid scrolling</description>
+      <author>pja-ant</author>
+      <pubDate>Wed, 03 Sep 2025 14:12:25 +0000</pubDate>
+    </item>
     <item>
       <title>Fix: Fix JSONRPC Types</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1026</link>
@@ -487,20 +501,6 @@
       <description>Merged by dsp-ant - Update architecture.mdx with comprehensive MCP overview</description>
       <author>dsp-ant</author>
       <pubDate>Wed, 16 Jul 2025 20:17:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add CODEOWNERS file for repository governance</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/981</link>
-      <description>Merged by dsp-ant - Add CODEOWNERS file for repository governance</description>
-      <author>dsp-ant</author>
-      <pubDate>Wed, 16 Jul 2025 20:08:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Replace reference to incorrect pypi.com with pypi.org</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/980</link>
-      <description>Merged by ddworken - Replace reference to incorrect pypi.com with pypi.org</description>
-      <author>ddworken</author>
-      <pubDate>Wed, 16 Jul 2025 18:44:04 +0000</pubDate>
     </item>
     <item>
       <title>Change pagination size requirements to conform to RFC2119 language</title>
