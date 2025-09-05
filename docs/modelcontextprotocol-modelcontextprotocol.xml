@@ -4,7 +4,21 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Thu, 04 Sep 2025 01:51:57 +0000</pubDate>
+    <pubDate>Fri, 05 Sep 2025 01:54:34 +0000</pubDate>
+    <item>
+      <title>[Docs] Fix a typo</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1420</link>
+      <description>Merged by koic - [Docs] Fix a typo</description>
+      <author>koic</author>
+      <pubDate>Fri, 05 Sep 2025 01:44:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>docs(java): Update Java SDK documentation for v0.11.3</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1409</link>
+      <description>Merged by tzolov - docs(java): Update Java SDK documentation for v0.11.3</description>
+      <author>tzolov</author>
+      <pubDate>Thu, 04 Sep 2025 12:58:19 +0000</pubDate>
+    </item>
     <item>
       <title>SEP: 1034 Add default values for all primitive types in elicitation schemas</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1035</link>
@@ -480,27 +494,6 @@
       <description>Merged by nbarbettini - docs: Fix typos, update links</description>
       <author>nbarbettini</author>
       <pubDate>Thu, 17 Jul 2025 18:04:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Update CODEOWNERS: Add steering committee ownership for /docs</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/983</link>
-      <description>Merged by dsp-ant - Update CODEOWNERS: Add steering committee ownership for /docs</description>
-      <author>dsp-ant</author>
-      <pubDate>Thu, 17 Jul 2025 09:53:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>[2025-06-18 ver] Referred OAuth 2.1 spec version expired</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/852</link>
-      <description>Merged by tnorimat - [2025-06-18 ver] Referred OAuth 2.1 spec version expired</description>
-      <author>tnorimat</author>
-      <pubDate>Wed, 16 Jul 2025 20:21:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Update architecture.mdx with comprehensive MCP overview</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/912</link>
-      <description>Merged by dsp-ant - Update architecture.mdx with comprehensive MCP overview</description>
-      <author>dsp-ant</author>
-      <pubDate>Wed, 16 Jul 2025 20:17:49 +0000</pubDate>
     </item>
     <item>
       <title>Change pagination size requirements to conform to RFC2119 language</title>
