@@ -4,7 +4,14 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Fri, 05 Sep 2025 01:54:34 +0000</pubDate>
+    <pubDate>Sat, 06 Sep 2025 01:51:27 +0000</pubDate>
+    <item>
+      <title>Add PHP SDK to list</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1422</link>
+      <description>Merged by chr-hertel - Add PHP SDK to list</description>
+      <author>chr-hertel</author>
+      <pubDate>Fri, 05 Sep 2025 18:45:11 +0000</pubDate>
+    </item>
     <item>
       <title>[Docs] Fix a typo</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1420</link>
@@ -487,13 +494,6 @@
       <description>Merged by xiaoyijun - feat: enhance auth server discovery with OAuth2 and OpenID metadata support</description>
       <author>xiaoyijun</author>
       <pubDate>Thu, 17 Jul 2025 19:15:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs: Fix typos, update links</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/882</link>
-      <description>Merged by nbarbettini - docs: Fix typos, update links</description>
-      <author>nbarbettini</author>
-      <pubDate>Thu, 17 Jul 2025 18:04:52 +0000</pubDate>
     </item>
     <item>
       <title>Change pagination size requirements to conform to RFC2119 language</title>
