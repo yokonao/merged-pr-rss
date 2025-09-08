@@ -4,7 +4,14 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Sun, 07 Sep 2025 02:00:43 +0000</pubDate>
+    <pubDate>Mon, 08 Sep 2025 02:00:24 +0000</pubDate>
+    <item>
+      <title>Reorganize docs: move quickstart guides to develop section and update content</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1424</link>
+      <description>Merged by ericharmeling - Reorganize docs: move quickstart guides to develop section and update content</description>
+      <author>ericharmeling</author>
+      <pubDate>Sun, 07 Sep 2025 02:54:20 +0000</pubDate>
+    </item>
     <item>
       <title>Add PHP SDK to list</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1422</link>
@@ -487,13 +494,6 @@
       <description>Merged by dsp-ant - [blog] Governance for MCP</description>
       <author>dsp-ant</author>
       <pubDate>Thu, 17 Jul 2025 19:53:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>feat: enhance auth server discovery with OAuth2 and OpenID metadata support</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/797</link>
-      <description>Merged by xiaoyijun - feat: enhance auth server discovery with OAuth2 and OpenID metadata support</description>
-      <author>xiaoyijun</author>
-      <pubDate>Thu, 17 Jul 2025 19:15:34 +0000</pubDate>
     </item>
     <item>
       <title>Change pagination size requirements to conform to RFC2119 language</title>
