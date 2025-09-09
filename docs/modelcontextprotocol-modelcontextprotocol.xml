@@ -4,7 +4,35 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Mon, 08 Sep 2025 02:00:24 +0000</pubDate>
+    <pubDate>Tue, 09 Sep 2025 01:56:15 +0000</pubDate>
+    <item>
+      <title>Add Langflow as MCP Client example</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1346</link>
+      <description>Merged by royderks - Add Langflow as MCP Client example</description>
+      <author>royderks</author>
+      <pubDate>Mon, 08 Sep 2025 22:36:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Announcement blog for the MCP Registry</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1446</link>
+      <description>Merged by conorkel - Announcement blog for the MCP Registry</description>
+      <author>conorkel</author>
+      <pubDate>Mon, 08 Sep 2025 22:34:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Use list markdown for list</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1445</link>
+      <description>Merged by jonathanhefner - Use list markdown for list</description>
+      <author>jonathanhefner</author>
+      <pubDate>Mon, 08 Sep 2025 22:06:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>PHP SDK Announcement Blog</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1425</link>
+      <description>Merged by conorkel - PHP SDK Announcement Blog</description>
+      <author>conorkel</author>
+      <pubDate>Mon, 08 Sep 2025 21:10:54 +0000</pubDate>
+    </item>
     <item>
       <title>Reorganize docs: move quickstart guides to develop section and update content</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1424</link>
@@ -459,41 +487,6 @@
       <description>Merged by blkt - Backport changes to `lifecycle.mdx` from `2025-06-18` to `draft`.</description>
       <author>blkt</author>
       <pubDate>Fri, 18 Jul 2025 21:19:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add LM Studio to client examples</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/999</link>
-      <description>Merged by ihrpr - Add LM Studio to client examples</description>
-      <author>ihrpr</author>
-      <pubDate>Fri, 18 Jul 2025 18:47:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>[docs/develop] Shorten introduction in architecture overview</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1000</link>
-      <description>Merged by jonathanhefner - [docs/develop] Shorten introduction in architecture overview</description>
-      <author>jonathanhefner</author>
-      <pubDate>Fri, 18 Jul 2025 16:30:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Further clarify SEP process</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/987</link>
-      <description>Merged by jonathanhefner - Further clarify SEP process</description>
-      <author>jonathanhefner</author>
-      <pubDate>Fri, 18 Jul 2025 11:03:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add client concepts</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/950</link>
-      <description>Merged by ihrpr - Add client concepts</description>
-      <author>ihrpr</author>
-      <pubDate>Fri, 18 Jul 2025 10:03:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>[blog] Governance for MCP</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/989</link>
-      <description>Merged by dsp-ant - [blog] Governance for MCP</description>
-      <author>dsp-ant</author>
-      <pubDate>Thu, 17 Jul 2025 19:53:16 +0000</pubDate>
     </item>
     <item>
       <title>Change pagination size requirements to conform to RFC2119 language</title>
