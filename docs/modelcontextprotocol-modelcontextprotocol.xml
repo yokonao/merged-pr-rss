@@ -4,7 +4,35 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Tue, 09 Sep 2025 01:56:15 +0000</pubDate>
+    <pubDate>Wed, 10 Sep 2025 01:52:36 +0000</pubDate>
+    <item>
+      <title>Update the MCP Java SDK version to 0.12.1</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1447</link>
+      <description>Merged by tzolov - Update the MCP Java SDK version to 0.12.1</description>
+      <author>tzolov</author>
+      <pubDate>Tue, 09 Sep 2025 19:35:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add blog testing instructions to CONTRIBUTING.md</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1437</link>
+      <description>Merged by pja-ant - Add blog testing instructions to CONTRIBUTING.md</description>
+      <author>pja-ant</author>
+      <pubDate>Tue, 09 Sep 2025 19:01:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fix mermaid diagram contrast in dark mode</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1433</link>
+      <description>Merged by pja-ant - Fix mermaid diagram contrast in dark mode</description>
+      <author>pja-ant</author>
+      <pubDate>Tue, 09 Sep 2025 18:58:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>SEP-973: Expose additional metadata for Implementations, Resources, Tools and Prompts</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/955</link>
+      <description>Merged by jesselumarie - SEP-973: Expose additional metadata for Implementations, Resources, Tools and Prompts</description>
+      <author>jesselumarie</author>
+      <pubDate>Tue, 09 Sep 2025 11:25:46 +0000</pubDate>
+    </item>
     <item>
       <title>Add Langflow as MCP Client example</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1346</link>
@@ -461,32 +489,11 @@
       <pubDate>Mon, 21 Jul 2025 15:46:39 +0000</pubDate>
     </item>
     <item>
-      <title>feat: add ModelContextChat client</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/919</link>
-      <description>Merged by vichudo - feat: add ModelContextChat client</description>
-      <author>vichudo</author>
-      <pubDate>Mon, 21 Jul 2025 06:32:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Update Goose MCP support</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1015</link>
-      <description>Merged by blackgirlbytes - Update Goose MCP support</description>
-      <author>blackgirlbytes</author>
-      <pubDate>Mon, 21 Jul 2025 06:26:28 +0000</pubDate>
-    </item>
-    <item>
       <title>add chatgpt to the list of clients</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1010</link>
       <description>Merged by ihrpr - add chatgpt to the list of clients</description>
       <author>ihrpr</author>
       <pubDate>Sun, 20 Jul 2025 12:46:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Backport changes to `lifecycle.mdx` from `2025-06-18` to `draft`.</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/997</link>
-      <description>Merged by blkt - Backport changes to `lifecycle.mdx` from `2025-06-18` to `draft`.</description>
-      <author>blkt</author>
-      <pubDate>Fri, 18 Jul 2025 21:19:48 +0000</pubDate>
     </item>
     <item>
       <title>Change pagination size requirements to conform to RFC2119 language</title>
