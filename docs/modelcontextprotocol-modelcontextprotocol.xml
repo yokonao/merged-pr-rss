@@ -4,7 +4,7 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Wed, 10 Sep 2025 01:52:36 +0000</pubDate>
+    <pubDate>Thu, 11 Sep 2025 01:55:32 +0000</pubDate>
     <item>
       <title>Update the MCP Java SDK version to 0.12.1</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1447</link>
@@ -487,13 +487,6 @@
       <description>Merged by ihrpr - fix client table - no scrolling</description>
       <author>ihrpr</author>
       <pubDate>Mon, 21 Jul 2025 15:46:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>add chatgpt to the list of clients</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1010</link>
-      <description>Merged by ihrpr - add chatgpt to the list of clients</description>
-      <author>ihrpr</author>
-      <pubDate>Sun, 20 Jul 2025 12:46:15 +0000</pubDate>
     </item>
     <item>
       <title>Change pagination size requirements to conform to RFC2119 language</title>
