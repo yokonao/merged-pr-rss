@@ -4,7 +4,35 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Thu, 11 Sep 2025 01:55:32 +0000</pubDate>
+    <pubDate>Fri, 12 Sep 2025 01:51:00 +0000</pubDate>
+    <item>
+      <title>SEP-1024: MCP Client Security Requirements for Local Server Installation</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1025</link>
+      <description>Merged by localden - SEP-1024: MCP Client Security Requirements for Local Server Installation</description>
+      <author>localden</author>
+      <pubDate>Fri, 12 Sep 2025 01:13:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Factor out `Icons` interface and tweak type docs</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1451</link>
+      <description>Merged by jonathanhefner - Factor out `Icons` interface and tweak type docs</description>
+      <author>jonathanhefner</author>
+      <pubDate>Thu, 11 Sep 2025 14:28:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fix awkward wrapping in blog post metadata</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1458</link>
+      <description>Merged by domdomegg - Fix awkward wrapping in blog post metadata</description>
+      <author>domdomegg</author>
+      <pubDate>Thu, 11 Sep 2025 14:26:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Java SDK docs: document hooks for customizing HTTP requests</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1454</link>
+      <description>Merged by Kehrlann - Java SDK docs: document hooks for customizing HTTP requests</description>
+      <author>Kehrlann</author>
+      <pubDate>Thu, 11 Sep 2025 07:47:41 +0000</pubDate>
+    </item>
     <item>
       <title>Update the MCP Java SDK version to 0.12.1</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1447</link>
@@ -459,34 +487,6 @@
       <description>Merged by ihrpr - Update roadmap</description>
       <author>ihrpr</author>
       <pubDate>Wed, 23 Jul 2025 09:47:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Update codeowners of docs to @modelcontextprotocol/docs-maintaners group</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1042</link>
-      <description>Merged by ihrpr - Update codeowners of docs to @modelcontextprotocol/docs-maintaners group</description>
-      <author>ihrpr</author>
-      <pubDate>Wed, 23 Jul 2025 09:25:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Use `&lt;CodeGroup&gt;` instead of `&lt;Tabs&gt;`</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1033</link>
-      <description>Merged by jonathanhefner - Use `&lt;CodeGroup&gt;` instead of `&lt;Tabs&gt;`</description>
-      <author>jonathanhefner</author>
-      <pubDate>Tue, 22 Jul 2025 17:04:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Remove notes column from clients table</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1022</link>
-      <description>Merged by ihrpr - Remove notes column from clients table</description>
-      <author>ihrpr</author>
-      <pubDate>Tue, 22 Jul 2025 09:18:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>fix client table - no scrolling</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1011</link>
-      <description>Merged by ihrpr - fix client table - no scrolling</description>
-      <author>ihrpr</author>
-      <pubDate>Mon, 21 Jul 2025 15:46:39 +0000</pubDate>
     </item>
     <item>
       <title>Change pagination size requirements to conform to RFC2119 language</title>
