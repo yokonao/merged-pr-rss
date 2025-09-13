@@ -4,7 +4,14 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Fri, 12 Sep 2025 01:51:00 +0000</pubDate>
+    <pubDate>Sat, 13 Sep 2025 01:46:19 +0000</pubDate>
+    <item>
+      <title>Organize project maintainers by individual projects</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1467</link>
+      <description>Merged by domdomegg - Organize project maintainers by individual projects</description>
+      <author>domdomegg</author>
+      <pubDate>Fri, 12 Sep 2025 15:49:07 +0000</pubDate>
+    </item>
     <item>
       <title>SEP-1024: MCP Client Security Requirements for Local Server Installation</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1025</link>
@@ -480,13 +487,6 @@
       <description>Merged by miyadav - Add go-sdk link</description>
       <author>miyadav</author>
       <pubDate>Wed, 23 Jul 2025 09:53:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Update roadmap</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1013</link>
-      <description>Merged by ihrpr - Update roadmap</description>
-      <author>ihrpr</author>
-      <pubDate>Wed, 23 Jul 2025 09:47:09 +0000</pubDate>
     </item>
     <item>
       <title>Change pagination size requirements to conform to RFC2119 language</title>
