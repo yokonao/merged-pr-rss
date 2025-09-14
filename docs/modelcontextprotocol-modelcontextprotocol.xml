@@ -4,7 +4,14 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Sat, 13 Sep 2025 01:46:19 +0000</pubDate>
+    <pubDate>Sun, 14 Sep 2025 01:59:56 +0000</pubDate>
+    <item>
+      <title>Update counts of official SDKs and compatible clients</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1470</link>
+      <description>Merged by koic - Update counts of official SDKs and compatible clients</description>
+      <author>koic</author>
+      <pubDate>Sat, 13 Sep 2025 21:26:28 +0000</pubDate>
+    </item>
     <item>
       <title>Organize project maintainers by individual projects</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1467</link>
@@ -480,13 +487,6 @@
       <description>Merged by nickcoai - [specification] Clarify SEP numbering</description>
       <author>nickcoai</author>
       <pubDate>Wed, 23 Jul 2025 21:42:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add go-sdk link</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1041</link>
-      <description>Merged by miyadav - Add go-sdk link</description>
-      <author>miyadav</author>
-      <pubDate>Wed, 23 Jul 2025 09:53:29 +0000</pubDate>
     </item>
     <item>
       <title>Change pagination size requirements to conform to RFC2119 language</title>
