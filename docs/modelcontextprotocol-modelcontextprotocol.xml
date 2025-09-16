@@ -4,7 +4,7 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Mon, 15 Sep 2025 02:01:40 +0000</pubDate>
+    <pubDate>Tue, 16 Sep 2025 01:52:36 +0000</pubDate>
     <item>
       <title>Update counts of official SDKs and compatible clients</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1470</link>
@@ -473,20 +473,6 @@
       <description>Merged by koic - [Doc] Fix GitHub capitalization in SEP guidelines</description>
       <author>koic</author>
       <pubDate>Fri, 25 Jul 2025 14:20:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>(chore) Create MAINTAINERS.md</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1001</link>
-      <description>Merged by localden - (chore) Create MAINTAINERS.md</description>
-      <author>localden</author>
-      <pubDate>Thu, 24 Jul 2025 08:51:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>[specification] Clarify SEP numbering</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1045</link>
-      <description>Merged by nickcoai - [specification] Clarify SEP numbering</description>
-      <author>nickcoai</author>
-      <pubDate>Wed, 23 Jul 2025 21:42:16 +0000</pubDate>
     </item>
     <item>
       <title>Change pagination size requirements to conform to RFC2119 language</title>
