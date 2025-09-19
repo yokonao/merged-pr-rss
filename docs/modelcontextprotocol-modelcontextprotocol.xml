@@ -4,7 +4,14 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Thu, 18 Sep 2025 01:52:25 +0000</pubDate>
+    <pubDate>Fri, 19 Sep 2025 01:55:38 +0000</pubDate>
+    <item>
+      <title>docs: move inspector guide out of /legacy into /docs/tools</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1490</link>
+      <description>Merged by dsp-ant - docs: move inspector guide out of /legacy into /docs/tools</description>
+      <author>dsp-ant</author>
+      <pubDate>Thu, 18 Sep 2025 13:32:23 +0000</pubDate>
+    </item>
     <item>
       <title>Add missing id fields to next page requests</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1007</link>
@@ -447,25 +454,11 @@
       <pubDate>Tue, 29 Jul 2025 04:46:52 +0000</pubDate>
     </item>
     <item>
-      <title>Improve Server Quick Start Documentation</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1067</link>
-      <description>Merged by alexjdean - Improve Server Quick Start Documentation</description>
-      <author>alexjdean</author>
-      <pubDate>Mon, 28 Jul 2025 16:36:43 +0000</pubDate>
-    </item>
-    <item>
       <title>Remove outdated SDK link files</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1069</link>
       <description>Merged by koic - Remove outdated SDK link files</description>
       <author>koic</author>
       <pubDate>Mon, 28 Jul 2025 16:29:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add redirects for old paths</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1064</link>
-      <description>Merged by ihrpr - Add redirects for old paths</description>
-      <author>ihrpr</author>
-      <pubDate>Mon, 28 Jul 2025 10:09:37 +0000</pubDate>
     </item>
     <item>
       <title>Docs redesign </title>
