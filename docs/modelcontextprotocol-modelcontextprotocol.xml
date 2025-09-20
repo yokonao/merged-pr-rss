@@ -4,7 +4,56 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Fri, 19 Sep 2025 01:55:38 +0000</pubDate>
+    <pubDate>Sat, 20 Sep 2025 01:50:13 +0000</pubDate>
+    <item>
+      <title>Add Mistral AI to Clients</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1418</link>
+      <description>Merged by glinf - Add Mistral AI to Clients</description>
+      <author>glinf</author>
+      <pubDate>Fri, 19 Sep 2025 18:30:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Clarify HTTP 403 status for invalid Origin headers</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1439</link>
+      <description>Merged by pja-ant - Clarify HTTP 403 status for invalid Origin headers</description>
+      <author>pja-ant</author>
+      <pubDate>Fri, 19 Sep 2025 15:42:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>SEP-985: Updating the Authorization spec to fallback to WWW-Authenticate when Protected Resource Metadata is not found</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/971</link>
+      <description>Merged by sunishsheth2009 - SEP-985: Updating the Authorization spec to fallback to WWW-Authenticate when Protected Resource Metadata is not found</description>
+      <author>sunishsheth2009</author>
+      <pubDate>Fri, 19 Sep 2025 14:53:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fix incorrect name/title fields in ResourceContents documentation</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1500</link>
+      <description>Merged by dsp-ant - Fix incorrect name/title fields in ResourceContents documentation</description>
+      <author>dsp-ant</author>
+      <pubDate>Fri, 19 Sep 2025 13:36:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Landing page layout tweaks</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1479</link>
+      <description>Merged by jonathanhefner - Landing page layout tweaks</description>
+      <author>jonathanhefner</author>
+      <pubDate>Fri, 19 Sep 2025 12:37:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>HTML encode dollar sign in schema reference</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1485</link>
+      <description>Merged by jonathanhefner - HTML encode dollar sign in schema reference</description>
+      <author>jonathanhefner</author>
+      <pubDate>Fri, 19 Sep 2025 12:35:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Avoids redirecting URL for Claude Code</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1498</link>
+      <description>Merged by koic - Avoids redirecting URL for Claude Code</description>
+      <author>koic</author>
+      <pubDate>Fri, 19 Sep 2025 10:51:08 +0000</pubDate>
+    </item>
     <item>
       <title>docs: move inspector guide out of /legacy into /docs/tools</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1490</link>
@@ -431,34 +480,6 @@
       <description>Merged by 000-000-000-000-000 - Add link to Nick Aldridge github</description>
       <author>000-000-000-000-000</author>
       <pubDate>Thu, 31 Jul 2025 05:08:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Restore `--font-mono` CSS variable</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1084</link>
-      <description>Merged by jonathanhefner - Restore `--font-mono` CSS variable</description>
-      <author>jonathanhefner</author>
-      <pubDate>Tue, 29 Jul 2025 16:52:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>fix doc, reported in #1068</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1081</link>
-      <description>Merged by md42 - fix doc, reported in #1068</description>
-      <author>md42</author>
-      <pubDate>Tue, 29 Jul 2025 10:04:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Restore schema reference page styles</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1074</link>
-      <description>Merged by jonathanhefner - Restore schema reference page styles</description>
-      <author>jonathanhefner</author>
-      <pubDate>Tue, 29 Jul 2025 04:46:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Remove outdated SDK link files</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1069</link>
-      <description>Merged by koic - Remove outdated SDK link files</description>
-      <author>koic</author>
-      <pubDate>Mon, 28 Jul 2025 16:29:35 +0000</pubDate>
     </item>
     <item>
       <title>Docs redesign </title>
