@@ -4,7 +4,42 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Mon, 22 Sep 2025 02:03:20 +0000</pubDate>
+    <pubDate>Tue, 23 Sep 2025 01:53:02 +0000</pubDate>
+    <item>
+      <title>MCP Client Tutorial - Improve steps for Windows</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1508</link>
+      <description>Merged by a-akimov - MCP Client Tutorial - Improve steps for Windows</description>
+      <author>a-akimov</author>
+      <pubDate>Mon, 22 Sep 2025 19:47:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>docs(clients): Update feature support matrix for mcp-use client</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1293</link>
+      <description>Merged by pietrozullo - docs(clients): Update feature support matrix for mcp-use client</description>
+      <author>pietrozullo</author>
+      <pubDate>Mon, 22 Sep 2025 14:09:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update clients.mdx</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1517</link>
+      <description>Merged by boriswang01 - Update clients.mdx</description>
+      <author>boriswang01</author>
+      <pubDate>Mon, 22 Sep 2025 14:08:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add chatbox to client list</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1513</link>
+      <description>Merged by wong2 - Add chatbox to client list</description>
+      <author>wong2</author>
+      <pubDate>Mon, 22 Sep 2025 12:08:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fix redirect for `/quickstart/user`</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1512</link>
+      <description>Merged by jonathanhefner - Fix redirect for `/quickstart/user`</description>
+      <author>jonathanhefner</author>
+      <pubDate>Mon, 22 Sep 2025 10:59:55 +0000</pubDate>
+    </item>
     <item>
       <title>Add Mistral AI to Clients</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1418</link>
@@ -445,41 +480,6 @@
       <description>Merged by ihrpr - Add links to stats on home page</description>
       <author>ihrpr</author>
       <pubDate>Fri, 01 Aug 2025 12:43:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>(blog) Governance change announcement</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1274</link>
-      <description>Merged by localden - (blog) Governance change announcement</description>
-      <author>localden</author>
-      <pubDate>Thu, 31 Jul 2025 18:38:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>SEP-994: Shared Communication Practices/Guidelines</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1002</link>
-      <description>Merged by localden - SEP-994: Shared Communication Practices/Guidelines</description>
-      <author>localden</author>
-      <pubDate>Thu, 31 Jul 2025 16:45:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>(blog) Update governance blog post</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/996</link>
-      <description>Merged by localden - (blog) Update governance blog post</description>
-      <author>localden</author>
-      <pubDate>Thu, 31 Jul 2025 16:43:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs: update Gemini CLI client to support prompts</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1270</link>
-      <description>Merged by jackwotherspoon - docs: update Gemini CLI client to support prompts</description>
-      <author>jackwotherspoon</author>
-      <pubDate>Thu, 31 Jul 2025 15:26:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add link to Nick Aldridge github</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1267</link>
-      <description>Merged by 000-000-000-000-000 - Add link to Nick Aldridge github</description>
-      <author>000-000-000-000-000</author>
-      <pubDate>Thu, 31 Jul 2025 05:08:03 +0000</pubDate>
     </item>
     <item>
       <title>Docs redesign </title>
