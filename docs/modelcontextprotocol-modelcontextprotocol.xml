@@ -4,7 +4,42 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Tue, 23 Sep 2025 01:53:02 +0000</pubDate>
+    <pubDate>Wed, 24 Sep 2025 01:54:30 +0000</pubDate>
+    <item>
+      <title>Fix deprecated contributing page</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1480</link>
+      <description>Merged by vishaln15 - Fix deprecated contributing page</description>
+      <author>vishaln15</author>
+      <pubDate>Tue, 23 Sep 2025 20:55:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>(chore): Fix formatting in SBP doc</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1526</link>
+      <description>Merged by localden - (chore): Fix formatting in SBP doc</description>
+      <author>localden</author>
+      <pubDate>Tue, 23 Sep 2025 17:38:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mark myself as inactive/on hiatus</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1524</link>
+      <description>Merged by jspahrsummers - Mark myself as inactive/on hiatus</description>
+      <author>jspahrsummers</author>
+      <pubDate>Tue, 23 Sep 2025 12:22:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fix description punctuation in working-interest-groups.mdx</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1523</link>
+      <description>Merged by olaservo - Fix description punctuation in working-interest-groups.mdx</description>
+      <author>olaservo</author>
+      <pubDate>Tue, 23 Sep 2025 12:19:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>SEP-1302: Formalize Working Groups and Interest Groups in MCP Governance</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1350</link>
+      <description>Merged by tadasant - SEP-1302: Formalize Working Groups and Interest Groups in MCP Governance</description>
+      <author>tadasant</author>
+      <pubDate>Tue, 23 Sep 2025 11:49:52 +0000</pubDate>
+    </item>
     <item>
       <title>MCP Client Tutorial - Improve steps for Windows</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1508</link>
@@ -459,34 +494,6 @@
       <description>Merged by ihrpr - Blog post for Prompts with Resource temlates</description>
       <author>ihrpr</author>
       <pubDate>Mon, 04 Aug 2025 14:38:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs: Fix grammar and typos in learn/architecture.mdx</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1285</link>
-      <description>Merged by fringewidth - docs: Fix grammar and typos in learn/architecture.mdx</description>
-      <author>fringewidth</author>
-      <pubDate>Mon, 04 Aug 2025 12:35:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Remove links to nonexistent schema reference pages</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1073</link>
-      <description>Merged by jonathanhefner - Remove links to nonexistent schema reference pages</description>
-      <author>jonathanhefner</author>
-      <pubDate>Mon, 04 Aug 2025 03:39:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add links to stats on home page</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1070</link>
-      <description>Merged by ihrpr - Add links to stats on home page</description>
-      <author>ihrpr</author>
-      <pubDate>Fri, 01 Aug 2025 12:43:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Docs redesign </title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1044</link>
-      <description>Merged by ihrpr - Docs redesign </description>
-      <author>ihrpr</author>
-      <pubDate>Fri, 25 Jul 2025 17:58:42 +0000</pubDate>
     </item>
     <item>
       <title>Change pagination size requirements to conform to RFC2119 language</title>
