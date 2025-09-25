@@ -4,7 +4,77 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Wed, 24 Sep 2025 01:54:30 +0000</pubDate>
+    <pubDate>Thu, 25 Sep 2025 01:55:34 +0000</pubDate>
+    <item>
+      <title>Add Simtheory MCP client to client documentation</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1459</link>
+      <description>Merged by chrissharkey - Add Simtheory MCP client to client documentation</description>
+      <author>chrissharkey</author>
+      <pubDate>Wed, 24 Sep 2025 19:57:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add Jonathan and Sam to the Go SDK in MAINTAINERS.md</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1518</link>
+      <description>Merged by findleyr - Add Jonathan and Sam to the Go SDK in MAINTAINERS.md</description>
+      <author>findleyr</author>
+      <pubDate>Wed, 24 Sep 2025 19:56:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add missing Langflow link</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1537</link>
+      <description>Merged by jonathanhefner - Add missing Langflow link</description>
+      <author>jonathanhefner</author>
+      <pubDate>Wed, 24 Sep 2025 19:55:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Clarify purpose of `maxTokens` param for sampling</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1538</link>
+      <description>Merged by jonathanhefner - Clarify purpose of `maxTokens` param for sampling</description>
+      <author>jonathanhefner</author>
+      <pubDate>Wed, 24 Sep 2025 19:55:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update cursor MCP support</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1396</link>
+      <description>Merged by GTB3NW - Update cursor MCP support</description>
+      <author>GTB3NW</author>
+      <pubDate>Wed, 24 Sep 2025 15:43:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add blog post: Update on the Next MCP Protocol Release</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1514</link>
+      <description>Merged by dsp-ant - Add blog post: Update on the Next MCP Protocol Release</description>
+      <author>dsp-ant</author>
+      <pubDate>Wed, 24 Sep 2025 15:39:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fix format value for websiteUrl in draft schema.json</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1529</link>
+      <description>Merged by jake-danton - Fix format value for websiteUrl in draft schema.json</description>
+      <author>jake-danton</author>
+      <pubDate>Wed, 24 Sep 2025 15:28:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fix typos</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1521</link>
+      <description>Merged by koic - Fix typos</description>
+      <author>koic</author>
+      <pubDate>Wed, 24 Sep 2025 13:45:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Format with Prettier</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1530</link>
+      <description>Merged by jonathanhefner - Format with Prettier</description>
+      <author>jonathanhefner</author>
+      <pubDate>Wed, 24 Sep 2025 13:43:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Upgrade the deprecated 3-5-sonnet to 4-sonnet across docs</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1532</link>
+      <description>Merged by a-akimov - Upgrade the deprecated 3-5-sonnet to 4-sonnet across docs</description>
+      <author>a-akimov</author>
+      <pubDate>Wed, 24 Sep 2025 13:43:09 +0000</pubDate>
+    </item>
     <item>
       <title>Fix deprecated contributing page</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1480</link>
@@ -389,118 +459,6 @@
       <description>Merged by MichaelChirico - grammar: missing &#39;to&#39;</description>
       <author>MichaelChirico</author>
       <pubDate>Mon, 11 Aug 2025 12:41:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Doc] Sync reference servers</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1321</link>
-      <description>Merged by koic - [Doc] Sync reference servers</description>
-      <author>koic</author>
-      <pubDate>Sun, 10 Aug 2025 00:53:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Update client capability example</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1320</link>
-      <description>Merged by eulegang - Update client capability example</description>
-      <author>eulegang</author>
-      <pubDate>Sat, 09 Aug 2025 17:43:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs: Add Call Chirp to clients list with voice AI support</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/922</link>
-      <description>Merged by Keoooo - docs: Add Call Chirp to clients list with voice AI support</description>
-      <author>Keoooo</author>
-      <pubDate>Sat, 09 Aug 2025 01:33:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Use markdown links in `schema.ts`</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1307</link>
-      <description>Merged by jonathanhefner - Use markdown links in `schema.ts`</description>
-      <author>jonathanhefner</author>
-      <pubDate>Fri, 08 Aug 2025 20:34:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Land on documentation and move current landing page to last tab (&#34;About MCP&#34;)</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1317</link>
-      <description>Merged by jerryhong1 - Land on documentation and move current landing page to last tab (&#34;About MCP&#34;)</description>
-      <author>jerryhong1</author>
-      <pubDate>Fri, 08 Aug 2025 18:58:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs: fix pluralization typo</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1316</link>
-      <description>Merged by KnorpelSenf - docs: fix pluralization typo</description>
-      <author>KnorpelSenf</author>
-      <pubDate>Fri, 08 Aug 2025 14:45:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs: clean up contributing guidelines and communication documentation</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1312</link>
-      <description>Merged by domdomegg - docs: clean up contributing guidelines and communication documentation</description>
-      <author>domdomegg</author>
-      <pubDate>Fri, 08 Aug 2025 14:43:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Update clients.mdx to show Copilot Studio supports Discovery</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1038</link>
-      <description>Merged by zankar-desai - Update clients.mdx to show Copilot Studio supports Discovery</description>
-      <author>zankar-desai</author>
-      <pubDate>Fri, 08 Aug 2025 03:15:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>chore: format docs/community/communication.mdx</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1305</link>
-      <description>Merged by nbarbettini - chore: format docs/community/communication.mdx</description>
-      <author>nbarbettini</author>
-      <pubDate>Tue, 05 Aug 2025 23:36:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add Discord invite link to communication docs</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1304</link>
-      <description>Merged by tadasant - Add Discord invite link to communication docs</description>
-      <author>tadasant</author>
-      <pubDate>Tue, 05 Aug 2025 19:56:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Correct spelling of &#34;macOS&#34;</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1298</link>
-      <description>Merged by koic - Correct spelling of &#34;macOS&#34;</description>
-      <author>koic</author>
-      <pubDate>Tue, 05 Aug 2025 13:53:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add Transports Working Group to MAINTAINERS.md</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1295</link>
-      <description>Merged by tadasant - Add Transports Working Group to MAINTAINERS.md</description>
-      <author>tadasant</author>
-      <pubDate>Mon, 04 Aug 2025 18:03:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>fix image link in prompts post</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1297</link>
-      <description>Merged by ihrpr - fix image link in prompts post</description>
-      <author>ihrpr</author>
-      <pubDate>Mon, 04 Aug 2025 15:57:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fixed some typos</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1079</link>
-      <description>Merged by sunyuhan1998 - Fixed some typos</description>
-      <author>sunyuhan1998</author>
-      <pubDate>Mon, 04 Aug 2025 14:58:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Blog post for Prompts with Resource temlates</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1089</link>
-      <description>Merged by ihrpr - Blog post for Prompts with Resource temlates</description>
-      <author>ihrpr</author>
-      <pubDate>Mon, 04 Aug 2025 14:38:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Change pagination size requirements to conform to RFC2119 language</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/252</link>
-      <description>Merged by peaster - Change pagination size requirements to conform to RFC2119 language</description>
-      <author>peaster</author>
-      <pubDate>Mon, 07 Apr 2025 09:20:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
