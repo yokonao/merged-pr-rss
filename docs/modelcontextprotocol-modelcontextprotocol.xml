@@ -4,7 +4,28 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Fri, 26 Sep 2025 01:54:52 +0000</pubDate>
+    <pubDate>Sat, 27 Sep 2025 01:49:52 +0000</pubDate>
+    <item>
+      <title>Updated draft for MCP Spec Timeline</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1550</link>
+      <description>Merged by conorkel - Updated draft for MCP Spec Timeline</description>
+      <author>conorkel</author>
+      <pubDate>Fri, 26 Sep 2025 20:24:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add JetBrains Junie to example clients </title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1548</link>
+      <description>Merged by devcrocod - Add JetBrains Junie to example clients </description>
+      <author>devcrocod</author>
+      <pubDate>Fri, 26 Sep 2025 14:53:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Clean up deprecated contributing page file</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1547</link>
+      <description>Merged by Chesars - Clean up deprecated contributing page file</description>
+      <author>Chesars</author>
+      <pubDate>Fri, 26 Sep 2025 08:15:29 +0000</pubDate>
+    </item>
     <item>
       <title>Add ECA to MCP client documentation</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1543</link>
