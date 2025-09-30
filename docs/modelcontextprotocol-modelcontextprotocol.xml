@@ -4,7 +4,28 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Mon, 29 Sep 2025 01:58:03 +0000</pubDate>
+    <pubDate>Tue, 30 Sep 2025 01:52:26 +0000</pubDate>
+    <item>
+      <title>Antitrust Policy for MCP </title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1572</link>
+      <description>Merged by dsp-ant - Antitrust Policy for MCP </description>
+      <author>dsp-ant</author>
+      <pubDate>Mon, 29 Sep 2025 21:46:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Remove Cody client (replaced by Amp)</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1566</link>
+      <description>Merged by domdomegg - Remove Cody client (replaced by Amp)</description>
+      <author>domdomegg</author>
+      <pubDate>Mon, 29 Sep 2025 19:37:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Change Icon.sizes from string to string array</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1531</link>
+      <description>Merged by dsp-ant - Change Icon.sizes from string to string array</description>
+      <author>dsp-ant</author>
+      <pubDate>Mon, 29 Sep 2025 09:47:26 +0000</pubDate>
+    </item>
     <item>
       <title>Change gist URL to the official MCP quickstart repo</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1559</link>
@@ -466,27 +487,6 @@
       <description>Merged by tadasant - Add Adam (domdomegg) to Registry Maintainers</description>
       <author>tadasant</author>
       <pubDate>Wed, 20 Aug 2025 21:21:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Use correct article &#34;an&#34; before &#34;MCP&#34; in docs</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1347</link>
-      <description>Merged by koic - Use correct article &#34;an&#34; before &#34;MCP&#34; in docs</description>
-      <author>koic</author>
-      <pubDate>Sat, 16 Aug 2025 00:24:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fix CI</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1328</link>
-      <description>Merged by jonathanhefner - Fix CI</description>
-      <author>jonathanhefner</author>
-      <pubDate>Thu, 14 Aug 2025 18:58:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs: Mark Zed as supporting tools</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1340</link>
-      <description>Merged by maxdeviant - docs: Mark Zed as supporting tools</description>
-      <author>maxdeviant</author>
-      <pubDate>Thu, 14 Aug 2025 18:51:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
