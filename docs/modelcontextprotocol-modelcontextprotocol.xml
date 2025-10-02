@@ -4,7 +4,14 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Wed, 01 Oct 2025 02:05:22 +0000</pubDate>
+    <pubDate>Thu, 02 Oct 2025 01:52:58 +0000</pubDate>
+    <item>
+      <title>Add a `theme` to Icon</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1584</link>
+      <description>Merged by connor4312 - Add a `theme` to Icon</description>
+      <author>connor4312</author>
+      <pubDate>Wed, 01 Oct 2025 18:59:32 +0000</pubDate>
+    </item>
     <item>
       <title>Docs: Update Python server code to reflect the sample</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1568</link>
@@ -487,13 +494,6 @@
       <description>Merged by pcarleton - [blog] client registration options</description>
       <author>pcarleton</author>
       <pubDate>Fri, 22 Aug 2025 18:38:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fixes duplicated wording in completion specification section</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1365</link>
-      <description>Merged by Scoopsies - Fixes duplicated wording in completion specification section</description>
-      <author>Scoopsies</author>
-      <pubDate>Fri, 22 Aug 2025 17:47:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
