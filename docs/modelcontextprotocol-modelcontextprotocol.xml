@@ -4,7 +4,84 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Thu, 02 Oct 2025 01:52:58 +0000</pubDate>
+    <pubDate>Fri, 03 Oct 2025 01:52:53 +0000</pubDate>
+    <item>
+      <title>(docs) Update Completions introduction</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1552</link>
+      <description>Merged by evalstate - (docs) Update Completions introduction</description>
+      <author>evalstate</author>
+      <pubDate>Fri, 03 Oct 2025 01:03:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>(docs): Fix grammar mistake in idempotentHint description</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1593</link>
+      <description>Merged by habiblawal1 - (docs): Fix grammar mistake in idempotentHint description</description>
+      <author>habiblawal1</author>
+      <pubDate>Fri, 03 Oct 2025 00:51:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>feat: Needle client</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1333</link>
+      <description>Merged by JANHMS - feat: Needle client</description>
+      <author>JANHMS</author>
+      <pubDate>Thu, 02 Oct 2025 21:19:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mention support for MCP prompts for Amp</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1374</link>
+      <description>Merged by agentcooper - Mention support for MCP prompts for Amp</description>
+      <author>agentcooper</author>
+      <pubDate>Thu, 02 Oct 2025 20:36:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add Swarms framework to MCP clients documentation</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1469</link>
+      <description>Merged by jalateras - Add Swarms framework to MCP clients documentation</description>
+      <author>jalateras</author>
+      <pubDate>Thu, 02 Oct 2025 20:29:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update AIQL TUUI MCP support</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1471</link>
+      <description>Merged by aiqlcom - Update AIQL TUUI MCP support</description>
+      <author>aiqlcom</author>
+      <pubDate>Thu, 02 Oct 2025 20:27:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update contributing instructions for schema changes</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1588</link>
+      <description>Merged by jonathanhefner - Update contributing instructions for schema changes</description>
+      <author>jonathanhefner</author>
+      <pubDate>Thu, 02 Oct 2025 19:21:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update Copilot Studio clients table to show supports Resources</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1569</link>
+      <description>Merged by zankar-desai - Update Copilot Studio clients table to show supports Resources</description>
+      <author>zankar-desai</author>
+      <pubDate>Thu, 02 Oct 2025 18:30:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update Amp integrations</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1574</link>
+      <description>Merged by aulorbe - Update Amp integrations</description>
+      <author>aulorbe</author>
+      <pubDate>Thu, 02 Oct 2025 18:23:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add FSIG and myself to MAINTAINERS</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1585</link>
+      <description>Merged by sambhav - Add FSIG and myself to MAINTAINERS</description>
+      <author>sambhav</author>
+      <pubDate>Thu, 02 Oct 2025 07:45:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>add agents WG maintainers</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1586</link>
+      <description>Merged by ihrpr - add agents WG maintainers</description>
+      <author>ihrpr</author>
+      <pubDate>Thu, 02 Oct 2025 07:44:07 +0000</pubDate>
+    </item>
     <item>
       <title>Add a `theme` to Icon</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1584</link>
@@ -417,83 +494,6 @@
       <description>Merged by chr-hertel - Add PHP SDK to list</description>
       <author>chr-hertel</author>
       <pubDate>Fri, 05 Sep 2025 18:45:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Docs] Fix a typo</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1420</link>
-      <description>Merged by koic - [Docs] Fix a typo</description>
-      <author>koic</author>
-      <pubDate>Fri, 05 Sep 2025 01:44:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs(java): Update Java SDK documentation for v0.11.3</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1409</link>
-      <description>Merged by tzolov - docs(java): Update Java SDK documentation for v0.11.3</description>
-      <author>tzolov</author>
-      <pubDate>Thu, 04 Sep 2025 12:58:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>SEP: 1034 Add default values for all primitive types in elicitation schemas</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1035</link>
-      <description>Merged by chughtapan - SEP: 1034 Add default values for all primitive types in elicitation schemas</description>
-      <author>chughtapan</author>
-      <pubDate>Wed, 03 Sep 2025 14:29:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fix issue 1406 - unique names for code tab in architecture.mdx to avoid scrolling</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1412</link>
-      <description>Merged by pja-ant - Fix issue 1406 - unique names for code tab in architecture.mdx to avoid scrolling</description>
-      <author>pja-ant</author>
-      <pubDate>Wed, 03 Sep 2025 14:12:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fix: Fix JSONRPC Types</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1026</link>
-      <description>Merged by hesreallyhim - Fix: Fix JSONRPC Types</description>
-      <author>hesreallyhim</author>
-      <pubDate>Thu, 28 Aug 2025 12:15:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add .well-known/security.txt file</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1370</link>
-      <description>Merged by domdomegg - Add .well-known/security.txt file</description>
-      <author>domdomegg</author>
-      <pubDate>Wed, 27 Aug 2025 00:28:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>specify the version of zod</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1361</link>
-      <description>Merged by XiongLiding - specify the version of zod</description>
-      <author>XiongLiding</author>
-      <pubDate>Sat, 23 Aug 2025 19:41:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add favicon to blog</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1379</link>
-      <description>Merged by jonathanhefner - Add favicon to blog</description>
-      <author>jonathanhefner</author>
-      <pubDate>Fri, 22 Aug 2025 22:08:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fix typos in client registration documentation</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1378</link>
-      <description>Merged by dend - Fix typos in client registration documentation</description>
-      <author>dend</author>
-      <pubDate>Fri, 22 Aug 2025 20:26:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Document process/guidelines for new Maintainer nominations</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1368</link>
-      <description>Merged by tadasant - Document process/guidelines for new Maintainer nominations</description>
-      <author>tadasant</author>
-      <pubDate>Fri, 22 Aug 2025 19:53:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>[blog] client registration options</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1027</link>
-      <description>Merged by pcarleton - [blog] client registration options</description>
-      <author>pcarleton</author>
-      <pubDate>Fri, 22 Aug 2025 18:38:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
