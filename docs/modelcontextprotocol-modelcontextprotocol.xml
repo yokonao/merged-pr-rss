@@ -4,7 +4,7 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Sun, 05 Oct 2025 02:03:43 +0000</pubDate>
+    <pubDate>Mon, 06 Oct 2025 01:56:15 +0000</pubDate>
     <item>
       <title>SEP-835: Update authorization spec with default scopes definition</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/835</link>
@@ -522,13 +522,6 @@
       <description>Merged by tadasant - Add Discord invite link to communication docs</description>
       <author>tadasant</author>
       <pubDate>Tue, 05 Aug 2025 19:56:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Correct spelling of &#34;macOS&#34;</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1298</link>
-      <description>Merged by koic - Correct spelling of &#34;macOS&#34;</description>
-      <author>koic</author>
-      <pubDate>Tue, 05 Aug 2025 13:53:21 +0000</pubDate>
     </item>
     <item>
       <title>Remove notes column from clients table</title>
