@@ -4,13 +4,27 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Tue, 07 Oct 2025 01:53:54 +0000</pubDate>
+    <pubDate>Wed, 08 Oct 2025 01:53:25 +0000</pubDate>
     <item>
-      <title>SEP-835: Update authorization spec with default scopes definition</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/835</link>
-      <description>Merged by localden - SEP-835: Update authorization spec with default scopes definition</description>
-      <author>localden</author>
-      <pubDate>Fri, 03 Oct 2025 18:46:40 +0000</pubDate>
+      <title>MCPJam as a client</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1527</link>
+      <description>Merged by matteo8p - MCPJam as a client</description>
+      <author>matteo8p</author>
+      <pubDate>Tue, 07 Oct 2025 20:32:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Remove redirect rule causing 404</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1617</link>
+      <description>Merged by olaservo - Remove redirect rule causing 404</description>
+      <author>olaservo</author>
+      <pubDate>Tue, 07 Oct 2025 14:40:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>fix: remove trailing whitespace in clients Needle entry</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1618</link>
+      <description>Merged by evalstate - fix: remove trailing whitespace in clients Needle entry</description>
+      <author>evalstate</author>
+      <pubDate>Tue, 07 Oct 2025 14:35:23 +0000</pubDate>
     </item>
     <item>
       <title>(docs) Update Completions introduction</title>
@@ -279,20 +293,6 @@
       <pubDate>Fri, 19 Sep 2025 18:30:16 +0000</pubDate>
     </item>
     <item>
-      <title>Clarify HTTP 403 status for invalid Origin headers</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1439</link>
-      <description>Merged by pja-ant - Clarify HTTP 403 status for invalid Origin headers</description>
-      <author>pja-ant</author>
-      <pubDate>Fri, 19 Sep 2025 15:42:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fix incorrect name/title fields in ResourceContents documentation</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1500</link>
-      <description>Merged by dsp-ant - Fix incorrect name/title fields in ResourceContents documentation</description>
-      <author>dsp-ant</author>
-      <pubDate>Fri, 19 Sep 2025 13:36:48 +0000</pubDate>
-    </item>
-    <item>
       <title>Landing page layout tweaks</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1479</link>
       <description>Merged by jonathanhefner - Landing page layout tweaks</description>
@@ -426,13 +426,6 @@
       <pubDate>Fri, 22 Aug 2025 17:47:14 +0000</pubDate>
     </item>
     <item>
-      <title>Add Adam (domdomegg) to Registry Maintainers</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1367</link>
-      <description>Merged by tadasant - Add Adam (domdomegg) to Registry Maintainers</description>
-      <author>tadasant</author>
-      <pubDate>Wed, 20 Aug 2025 21:21:43 +0000</pubDate>
-    </item>
-    <item>
       <title>Use correct article &#34;an&#34; before &#34;MCP&#34; in docs</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1347</link>
       <description>Merged by koic - Use correct article &#34;an&#34; before &#34;MCP&#34; in docs</description>
@@ -508,27 +501,6 @@
       <description>Merged by domdomegg - docs: clean up contributing guidelines and communication documentation</description>
       <author>domdomegg</author>
       <pubDate>Fri, 08 Aug 2025 14:43:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>chore: format docs/community/communication.mdx</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1305</link>
-      <description>Merged by nbarbettini - chore: format docs/community/communication.mdx</description>
-      <author>nbarbettini</author>
-      <pubDate>Tue, 05 Aug 2025 23:36:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add Discord invite link to communication docs</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1304</link>
-      <description>Merged by tadasant - Add Discord invite link to communication docs</description>
-      <author>tadasant</author>
-      <pubDate>Tue, 05 Aug 2025 19:56:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs: Fix grammar and typos in learn/architecture.mdx</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1285</link>
-      <description>Merged by fringewidth - docs: Fix grammar and typos in learn/architecture.mdx</description>
-      <author>fringewidth</author>
-      <pubDate>Mon, 04 Aug 2025 12:35:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
