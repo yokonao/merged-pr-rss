@@ -4,7 +4,28 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Wed, 08 Oct 2025 01:53:25 +0000</pubDate>
+    <pubDate>Thu, 09 Oct 2025 01:54:29 +0000</pubDate>
+    <item>
+      <title>Fix dark mode diagram visibility and CSS syntax error</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1628</link>
+      <description>Merged by shah95rukh - Fix dark mode diagram visibility and CSS syntax error</description>
+      <author>shah95rukh</author>
+      <pubDate>Wed, 08 Oct 2025 21:33:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>docs: improve Claude Desktop restart instructions in troubleshooting</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1620</link>
+      <description>Merged by sdmcraft - docs: improve Claude Desktop restart instructions in troubleshooting</description>
+      <author>sdmcraft</author>
+      <pubDate>Wed, 08 Oct 2025 18:56:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Expand and refine Roots content in the Client Concepts doc</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1605</link>
+      <description>Merged by olaservo - Expand and refine Roots content in the Client Concepts doc</description>
+      <author>olaservo</author>
+      <pubDate>Wed, 08 Oct 2025 14:02:52 +0000</pubDate>
+    </item>
     <item>
       <title>MCPJam as a client</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1527</link>
@@ -328,13 +349,6 @@
       <pubDate>Sat, 13 Sep 2025 21:26:28 +0000</pubDate>
     </item>
     <item>
-      <title>Factor out `Icons` interface and tweak type docs</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1451</link>
-      <description>Merged by jonathanhefner - Factor out `Icons` interface and tweak type docs</description>
-      <author>jonathanhefner</author>
-      <pubDate>Thu, 11 Sep 2025 14:28:06 +0000</pubDate>
-    </item>
-    <item>
       <title>Java SDK docs: document hooks for customizing HTTP requests</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1454</link>
       <description>Merged by Kehrlann - Java SDK docs: document hooks for customizing HTTP requests</description>
@@ -475,13 +489,6 @@
       <pubDate>Sun, 10 Aug 2025 00:53:03 +0000</pubDate>
     </item>
     <item>
-      <title>Update client capability example</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1320</link>
-      <description>Merged by eulegang - Update client capability example</description>
-      <author>eulegang</author>
-      <pubDate>Sat, 09 Aug 2025 17:43:59 +0000</pubDate>
-    </item>
-    <item>
       <title>Land on documentation and move current landing page to last tab (&#34;About MCP&#34;)</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1317</link>
       <description>Merged by jerryhong1 - Land on documentation and move current landing page to last tab (&#34;About MCP&#34;)</description>
@@ -494,13 +501,6 @@
       <description>Merged by KnorpelSenf - docs: fix pluralization typo</description>
       <author>KnorpelSenf</author>
       <pubDate>Fri, 08 Aug 2025 14:45:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs: clean up contributing guidelines and communication documentation</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1312</link>
-      <description>Merged by domdomegg - docs: clean up contributing guidelines and communication documentation</description>
-      <author>domdomegg</author>
-      <pubDate>Fri, 08 Aug 2025 14:43:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
