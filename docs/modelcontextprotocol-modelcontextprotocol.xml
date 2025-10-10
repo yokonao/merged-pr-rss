@@ -4,7 +4,28 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Thu, 09 Oct 2025 01:54:29 +0000</pubDate>
+    <pubDate>Fri, 10 Oct 2025 01:55:16 +0000</pubDate>
+    <item>
+      <title>spec/docs: specify tool name format SEP-986</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1603</link>
+      <description>Merged by alexhancock - spec/docs: specify tool name format SEP-986</description>
+      <author>alexhancock</author>
+      <pubDate>Thu, 09 Oct 2025 20:07:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>docs: add ChatFrame client details and features to the overview</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1630</link>
+      <description>Merged by razertory - docs: add ChatFrame client details and features to the overview</description>
+      <author>razertory</author>
+      <pubDate>Thu, 09 Oct 2025 19:03:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add Smithery Playground to clients.mdx</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1625</link>
+      <description>Merged by calclavia - Add Smithery Playground to clients.mdx</description>
+      <author>calclavia</author>
+      <pubDate>Thu, 09 Oct 2025 18:59:24 +0000</pubDate>
+    </item>
     <item>
       <title>Fix dark mode diagram visibility and CSS syntax error</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1628</link>
@@ -314,6 +335,13 @@
       <pubDate>Fri, 19 Sep 2025 18:30:16 +0000</pubDate>
     </item>
     <item>
+      <title>Fix incorrect name/title fields in ResourceContents documentation</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1500</link>
+      <description>Merged by dsp-ant - Fix incorrect name/title fields in ResourceContents documentation</description>
+      <author>dsp-ant</author>
+      <pubDate>Fri, 19 Sep 2025 13:36:48 +0000</pubDate>
+    </item>
+    <item>
       <title>Landing page layout tweaks</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1479</link>
       <description>Merged by jonathanhefner - Landing page layout tweaks</description>
@@ -347,6 +375,13 @@
       <description>Merged by koic - Update counts of official SDKs and compatible clients</description>
       <author>koic</author>
       <pubDate>Sat, 13 Sep 2025 21:26:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Factor out `Icons` interface and tweak type docs</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1451</link>
+      <description>Merged by jonathanhefner - Factor out `Icons` interface and tweak type docs</description>
+      <author>jonathanhefner</author>
+      <pubDate>Thu, 11 Sep 2025 14:28:06 +0000</pubDate>
     </item>
     <item>
       <title>Java SDK docs: document hooks for customizing HTTP requests</title>
@@ -475,32 +510,11 @@
       <pubDate>Mon, 11 Aug 2025 19:56:54 +0000</pubDate>
     </item>
     <item>
-      <title>grammar: missing &#39;to&#39;</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1324</link>
-      <description>Merged by MichaelChirico - grammar: missing &#39;to&#39;</description>
-      <author>MichaelChirico</author>
-      <pubDate>Mon, 11 Aug 2025 12:41:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Doc] Sync reference servers</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1321</link>
-      <description>Merged by koic - [Doc] Sync reference servers</description>
-      <author>koic</author>
-      <pubDate>Sun, 10 Aug 2025 00:53:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Land on documentation and move current landing page to last tab (&#34;About MCP&#34;)</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1317</link>
-      <description>Merged by jerryhong1 - Land on documentation and move current landing page to last tab (&#34;About MCP&#34;)</description>
-      <author>jerryhong1</author>
-      <pubDate>Fri, 08 Aug 2025 18:58:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs: fix pluralization typo</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1316</link>
-      <description>Merged by KnorpelSenf - docs: fix pluralization typo</description>
-      <author>KnorpelSenf</author>
-      <pubDate>Fri, 08 Aug 2025 14:45:01 +0000</pubDate>
+      <title>Update client capability example</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1320</link>
+      <description>Merged by eulegang - Update client capability example</description>
+      <author>eulegang</author>
+      <pubDate>Sat, 09 Aug 2025 17:43:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
