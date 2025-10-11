@@ -4,7 +4,21 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Fri, 10 Oct 2025 01:55:16 +0000</pubDate>
+    <pubDate>Sat, 11 Oct 2025 01:50:14 +0000</pubDate>
+    <item>
+      <title>chore: update changelog with info about SEP-986</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1633</link>
+      <description>Merged by alexhancock - chore: update changelog with info about SEP-986</description>
+      <author>alexhancock</author>
+      <pubDate>Fri, 10 Oct 2025 15:38:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>docs: Add Meeting Calendar information for Interest and Working Groups</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1608</link>
+      <description>Merged by olaservo - docs: Add Meeting Calendar information for Interest and Working Groups</description>
+      <author>olaservo</author>
+      <pubDate>Fri, 10 Oct 2025 08:17:52 +0000</pubDate>
+    </item>
     <item>
       <title>spec/docs: specify tool name format SEP-986</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1603</link>
@@ -335,13 +349,6 @@
       <pubDate>Fri, 19 Sep 2025 18:30:16 +0000</pubDate>
     </item>
     <item>
-      <title>Fix incorrect name/title fields in ResourceContents documentation</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1500</link>
-      <description>Merged by dsp-ant - Fix incorrect name/title fields in ResourceContents documentation</description>
-      <author>dsp-ant</author>
-      <pubDate>Fri, 19 Sep 2025 13:36:48 +0000</pubDate>
-    </item>
-    <item>
       <title>Landing page layout tweaks</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1479</link>
       <description>Merged by jonathanhefner - Landing page layout tweaks</description>
@@ -375,13 +382,6 @@
       <description>Merged by koic - Update counts of official SDKs and compatible clients</description>
       <author>koic</author>
       <pubDate>Sat, 13 Sep 2025 21:26:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Factor out `Icons` interface and tweak type docs</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1451</link>
-      <description>Merged by jonathanhefner - Factor out `Icons` interface and tweak type docs</description>
-      <author>jonathanhefner</author>
-      <pubDate>Thu, 11 Sep 2025 14:28:06 +0000</pubDate>
     </item>
     <item>
       <title>Java SDK docs: document hooks for customizing HTTP requests</title>
@@ -510,11 +510,11 @@
       <pubDate>Mon, 11 Aug 2025 19:56:54 +0000</pubDate>
     </item>
     <item>
-      <title>Update client capability example</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1320</link>
-      <description>Merged by eulegang - Update client capability example</description>
-      <author>eulegang</author>
-      <pubDate>Sat, 09 Aug 2025 17:43:59 +0000</pubDate>
+      <title>Land on documentation and move current landing page to last tab (&#34;About MCP&#34;)</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1317</link>
+      <description>Merged by jerryhong1 - Land on documentation and move current landing page to last tab (&#34;About MCP&#34;)</description>
+      <author>jerryhong1</author>
+      <pubDate>Fri, 08 Aug 2025 18:58:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
