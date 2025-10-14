@@ -4,7 +4,14 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Mon, 13 Oct 2025 02:02:41 +0000</pubDate>
+    <pubDate>Tue, 14 Oct 2025 01:55:29 +0000</pubDate>
+    <item>
+      <title>Futher roots security clarifications</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1639</link>
+      <description>Merged by cliffhall - Futher roots security clarifications</description>
+      <author>cliffhall</author>
+      <pubDate>Mon, 13 Oct 2025 14:49:31 +0000</pubDate>
+    </item>
     <item>
       <title>(docs) Authorization guide</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1326</link>
@@ -501,13 +508,6 @@
       <description>Merged by maxdeviant - docs: Mark Zed as supporting tools</description>
       <author>maxdeviant</author>
       <pubDate>Thu, 14 Aug 2025 18:51:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add MCP client: Amp</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1338</link>
-      <description>Merged by agentcooper - Add MCP client: Amp</description>
-      <author>agentcooper</author>
-      <pubDate>Wed, 13 Aug 2025 14:25:00 +0000</pubDate>
     </item>
     <item>
       <title>Update architecture.mdx to fix typo</title>
