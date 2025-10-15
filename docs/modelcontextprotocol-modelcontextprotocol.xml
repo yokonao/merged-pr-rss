@@ -4,7 +4,14 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Tue, 14 Oct 2025 01:55:29 +0000</pubDate>
+    <pubDate>Wed, 15 Oct 2025 01:58:19 +0000</pubDate>
+    <item>
+      <title>(docs): Update consent prompt guidelines for MCP servers</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1587</link>
+      <description>Merged by localden - (docs): Update consent prompt guidelines for MCP servers</description>
+      <author>localden</author>
+      <pubDate>Tue, 14 Oct 2025 09:47:57 +0000</pubDate>
+    </item>
     <item>
       <title>Futher roots security clarifications</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1639</link>
@@ -186,13 +193,6 @@
       <description>Merged by domdomegg - Remove Cody client (replaced by Amp)</description>
       <author>domdomegg</author>
       <pubDate>Mon, 29 Sep 2025 19:37:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Change Icon.sizes from string to string array</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1531</link>
-      <description>Merged by dsp-ant - Change Icon.sizes from string to string array</description>
-      <author>dsp-ant</author>
-      <pubDate>Mon, 29 Sep 2025 09:47:26 +0000</pubDate>
     </item>
     <item>
       <title>Change gist URL to the official MCP quickstart repo</title>
@@ -501,13 +501,6 @@
       <description>Merged by jonathanhefner - Fix CI</description>
       <author>jonathanhefner</author>
       <pubDate>Thu, 14 Aug 2025 18:58:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs: Mark Zed as supporting tools</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1340</link>
-      <description>Merged by maxdeviant - docs: Mark Zed as supporting tools</description>
-      <author>maxdeviant</author>
-      <pubDate>Thu, 14 Aug 2025 18:51:35 +0000</pubDate>
     </item>
     <item>
       <title>Update architecture.mdx to fix typo</title>
