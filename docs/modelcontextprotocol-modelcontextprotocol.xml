@@ -4,7 +4,21 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Wed, 15 Oct 2025 01:58:19 +0000</pubDate>
+    <pubDate>Thu, 16 Oct 2025 01:57:06 +0000</pubDate>
+    <item>
+      <title>Update connect-local-servers.mdx</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1663</link>
+      <description>Merged by np-anthropic - Update connect-local-servers.mdx</description>
+      <author>np-anthropic</author>
+      <pubDate>Wed, 15 Oct 2025 22:00:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fix a typo in the mcp-simple-diagram image</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1652</link>
+      <description>Merged by koic - Fix a typo in the mcp-simple-diagram image</description>
+      <author>koic</author>
+      <pubDate>Wed, 15 Oct 2025 11:11:47 +0000</pubDate>
+    </item>
     <item>
       <title>(docs): Update consent prompt guidelines for MCP servers</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1587</link>
@@ -118,13 +132,6 @@
       <pubDate>Fri, 03 Oct 2025 00:51:05 +0000</pubDate>
     </item>
     <item>
-      <title>feat: Needle client</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1333</link>
-      <description>Merged by JANHMS - feat: Needle client</description>
-      <author>JANHMS</author>
-      <pubDate>Thu, 02 Oct 2025 21:19:09 +0000</pubDate>
-    </item>
-    <item>
       <title>Mention support for MCP prompts for Amp</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1374</link>
       <description>Merged by agentcooper - Mention support for MCP prompts for Amp</description>
@@ -193,6 +200,13 @@
       <description>Merged by domdomegg - Remove Cody client (replaced by Amp)</description>
       <author>domdomegg</author>
       <pubDate>Mon, 29 Sep 2025 19:37:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Change Icon.sizes from string to string array</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1531</link>
+      <description>Merged by dsp-ant - Change Icon.sizes from string to string array</description>
+      <author>dsp-ant</author>
+      <pubDate>Mon, 29 Sep 2025 09:47:26 +0000</pubDate>
     </item>
     <item>
       <title>Change gist URL to the official MCP quickstart repo</title>
@@ -272,13 +286,6 @@
       <pubDate>Wed, 24 Sep 2025 15:39:55 +0000</pubDate>
     </item>
     <item>
-      <title>Fix format value for websiteUrl in draft schema.json</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1529</link>
-      <description>Merged by jake-danton - Fix format value for websiteUrl in draft schema.json</description>
-      <author>jake-danton</author>
-      <pubDate>Wed, 24 Sep 2025 15:28:50 +0000</pubDate>
-    </item>
-    <item>
       <title>Fix typos</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1521</link>
       <description>Merged by koic - Fix typos</description>
@@ -305,13 +312,6 @@
       <description>Merged by vishaln15 - Fix deprecated contributing page</description>
       <author>vishaln15</author>
       <pubDate>Tue, 23 Sep 2025 20:55:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>(chore): Fix formatting in SBP doc</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1526</link>
-      <description>Merged by localden - (chore): Fix formatting in SBP doc</description>
-      <author>localden</author>
-      <pubDate>Tue, 23 Sep 2025 17:38:58 +0000</pubDate>
     </item>
     <item>
       <title>Fix description punctuation in working-interest-groups.mdx</title>
@@ -412,13 +412,6 @@
       <pubDate>Tue, 09 Sep 2025 19:35:59 +0000</pubDate>
     </item>
     <item>
-      <title>Add Langflow as MCP Client example</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1346</link>
-      <description>Merged by royderks - Add Langflow as MCP Client example</description>
-      <author>royderks</author>
-      <pubDate>Mon, 08 Sep 2025 22:36:23 +0000</pubDate>
-    </item>
-    <item>
       <title>Use list markdown for list</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1445</link>
       <description>Merged by jonathanhefner - Use list markdown for list</description>
@@ -494,13 +487,6 @@
       <description>Merged by koic - Use correct article &#34;an&#34; before &#34;MCP&#34; in docs</description>
       <author>koic</author>
       <pubDate>Sat, 16 Aug 2025 00:24:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fix CI</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1328</link>
-      <description>Merged by jonathanhefner - Fix CI</description>
-      <author>jonathanhefner</author>
-      <pubDate>Thu, 14 Aug 2025 18:58:20 +0000</pubDate>
     </item>
     <item>
       <title>Update architecture.mdx to fix typo</title>
