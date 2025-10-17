@@ -4,7 +4,14 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Thu, 16 Oct 2025 01:57:06 +0000</pubDate>
+    <pubDate>Fri, 17 Oct 2025 01:56:03 +0000</pubDate>
+    <item>
+      <title>Add Additional Client Representatives to Client Implementors Interest Group Maintainers</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1657</link>
+      <description>Merged by olaservo - Add Additional Client Representatives to Client Implementors Interest Group Maintainers</description>
+      <author>olaservo</author>
+      <pubDate>Thu, 16 Oct 2025 14:12:36 +0000</pubDate>
+    </item>
     <item>
       <title>Update connect-local-servers.mdx</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1663</link>
@@ -130,6 +137,13 @@
       <description>Merged by habiblawal1 - (docs): Fix grammar mistake in idempotentHint description</description>
       <author>habiblawal1</author>
       <pubDate>Fri, 03 Oct 2025 00:51:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>feat: Needle client</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1333</link>
+      <description>Merged by JANHMS - feat: Needle client</description>
+      <author>JANHMS</author>
+      <pubDate>Thu, 02 Oct 2025 21:19:09 +0000</pubDate>
     </item>
     <item>
       <title>Mention support for MCP prompts for Amp</title>
@@ -480,13 +494,6 @@
       <description>Merged by Scoopsies - Fixes duplicated wording in completion specification section</description>
       <author>Scoopsies</author>
       <pubDate>Fri, 22 Aug 2025 17:47:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Use correct article &#34;an&#34; before &#34;MCP&#34; in docs</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1347</link>
-      <description>Merged by koic - Use correct article &#34;an&#34; before &#34;MCP&#34; in docs</description>
-      <author>koic</author>
-      <pubDate>Sat, 16 Aug 2025 00:24:52 +0000</pubDate>
     </item>
     <item>
       <title>Update architecture.mdx to fix typo</title>
