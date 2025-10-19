@@ -4,7 +4,14 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Sat, 18 Oct 2025 01:51:25 +0000</pubDate>
+    <pubDate>Sun, 19 Oct 2025 02:08:56 +0000</pubDate>
+    <item>
+      <title>Fix CTA button color on landing page</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1646</link>
+      <description>Merged by jonathanhefner - Fix CTA button color on landing page</description>
+      <author>jonathanhefner</author>
+      <pubDate>Sat, 18 Oct 2025 12:25:42 +0000</pubDate>
+    </item>
     <item>
       <title>Add Additional Client Representatives to Client Implementors Interest Group Maintainers</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1657</link>
@@ -137,13 +144,6 @@
       <description>Merged by habiblawal1 - (docs): Fix grammar mistake in idempotentHint description</description>
       <author>habiblawal1</author>
       <pubDate>Fri, 03 Oct 2025 00:51:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>feat: Needle client</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1333</link>
-      <description>Merged by JANHMS - feat: Needle client</description>
-      <author>JANHMS</author>
-      <pubDate>Thu, 02 Oct 2025 21:19:09 +0000</pubDate>
     </item>
     <item>
       <title>Mention support for MCP prompts for Amp</title>
@@ -496,11 +496,11 @@
       <pubDate>Fri, 22 Aug 2025 17:47:14 +0000</pubDate>
     </item>
     <item>
-      <title>Update architecture.mdx to fix typo</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1327</link>
-      <description>Merged by virtualdom - Update architecture.mdx to fix typo</description>
-      <author>virtualdom</author>
-      <pubDate>Mon, 11 Aug 2025 19:56:54 +0000</pubDate>
+      <title>Add MCP client: Amp</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1338</link>
+      <description>Merged by agentcooper - Add MCP client: Amp</description>
+      <author>agentcooper</author>
+      <pubDate>Wed, 13 Aug 2025 14:25:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
