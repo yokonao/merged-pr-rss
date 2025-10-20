@@ -4,7 +4,14 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Sun, 19 Oct 2025 02:08:56 +0000</pubDate>
+    <pubDate>Mon, 20 Oct 2025 02:05:59 +0000</pubDate>
+    <item>
+      <title>Add myself to the Registry maintainers list</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1678</link>
+      <description>Merged by rdimitrov - Add myself to the Registry maintainers list</description>
+      <author>rdimitrov</author>
+      <pubDate>Sun, 19 Oct 2025 17:19:14 +0000</pubDate>
+    </item>
     <item>
       <title>Fix CTA button color on landing page</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1646</link>
@@ -305,13 +312,6 @@
       <description>Merged by koic - Fix typos</description>
       <author>koic</author>
       <pubDate>Wed, 24 Sep 2025 13:45:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Format with Prettier</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1530</link>
-      <description>Merged by jonathanhefner - Format with Prettier</description>
-      <author>jonathanhefner</author>
-      <pubDate>Wed, 24 Sep 2025 13:43:55 +0000</pubDate>
     </item>
     <item>
       <title>Upgrade the deprecated 3-5-sonnet to 4-sonnet across docs</title>
