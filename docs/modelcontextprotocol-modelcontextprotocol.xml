@@ -4,7 +4,21 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Mon, 20 Oct 2025 02:05:59 +0000</pubDate>
+    <pubDate>Tue, 21 Oct 2025 01:59:19 +0000</pubDate>
+    <item>
+      <title>docs: Add MCP Bundler to the clients list</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1640</link>
+      <description>Merged by eugenepyvovarov - docs: Add MCP Bundler to the clients list</description>
+      <author>eugenepyvovarov</author>
+      <pubDate>Mon, 20 Oct 2025 14:14:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>docs: fix API key format guidance to prevent common errors</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1673</link>
+      <description>Merged by YogeshK34 - docs: fix API key format guidance to prevent common errors</description>
+      <author>YogeshK34</author>
+      <pubDate>Mon, 20 Oct 2025 14:05:22 +0000</pubDate>
+    </item>
     <item>
       <title>Add myself to the Registry maintainers list</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1678</link>
@@ -221,13 +235,6 @@
       <description>Merged by domdomegg - Remove Cody client (replaced by Amp)</description>
       <author>domdomegg</author>
       <pubDate>Mon, 29 Sep 2025 19:37:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Change Icon.sizes from string to string array</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1531</link>
-      <description>Merged by dsp-ant - Change Icon.sizes from string to string array</description>
-      <author>dsp-ant</author>
-      <pubDate>Mon, 29 Sep 2025 09:47:26 +0000</pubDate>
     </item>
     <item>
       <title>Change gist URL to the official MCP quickstart repo</title>
@@ -494,13 +501,6 @@
       <description>Merged by Scoopsies - Fixes duplicated wording in completion specification section</description>
       <author>Scoopsies</author>
       <pubDate>Fri, 22 Aug 2025 17:47:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add MCP client: Amp</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1338</link>
-      <description>Merged by agentcooper - Add MCP client: Amp</description>
-      <author>agentcooper</author>
-      <pubDate>Wed, 13 Aug 2025 14:25:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
