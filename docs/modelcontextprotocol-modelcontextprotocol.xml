@@ -4,7 +4,21 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Tue, 21 Oct 2025 01:59:19 +0000</pubDate>
+    <pubDate>Wed, 22 Oct 2025 02:02:44 +0000</pubDate>
+    <item>
+      <title>Fix typo: &#34;RFC 9278&#34; =&gt; &#34;RFC 9728&#34;</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1680</link>
+      <description>Merged by jonathanhefner - Fix typo: &#34;RFC 9278&#34; =&gt; &#34;RFC 9728&#34;</description>
+      <author>jonathanhefner</author>
+      <pubDate>Tue, 21 Oct 2025 21:42:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Docs] Fix typos</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1689</link>
+      <description>Merged by koic - [Docs] Fix typos</description>
+      <author>koic</author>
+      <pubDate>Tue, 21 Oct 2025 20:30:00 +0000</pubDate>
+    </item>
     <item>
       <title>docs: Add MCP Bundler to the clients list</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1640</link>
@@ -300,13 +314,6 @@
       <pubDate>Wed, 24 Sep 2025 19:55:19 +0000</pubDate>
     </item>
     <item>
-      <title>Update cursor MCP support</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1396</link>
-      <description>Merged by GTB3NW - Update cursor MCP support</description>
-      <author>GTB3NW</author>
-      <pubDate>Wed, 24 Sep 2025 15:43:10 +0000</pubDate>
-    </item>
-    <item>
       <title>Add blog post: Update on the Next MCP Protocol Release</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1514</link>
       <description>Merged by dsp-ant - Add blog post: Update on the Next MCP Protocol Release</description>
@@ -340,13 +347,6 @@
       <description>Merged by olaservo - Fix description punctuation in working-interest-groups.mdx</description>
       <author>olaservo</author>
       <pubDate>Tue, 23 Sep 2025 12:19:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>SEP-1302: Formalize Working Groups and Interest Groups in MCP Governance</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1350</link>
-      <description>Merged by tadasant - SEP-1302: Formalize Working Groups and Interest Groups in MCP Governance</description>
-      <author>tadasant</author>
-      <pubDate>Tue, 23 Sep 2025 11:49:52 +0000</pubDate>
     </item>
     <item>
       <title>MCP Client Tutorial - Improve steps for Windows</title>
