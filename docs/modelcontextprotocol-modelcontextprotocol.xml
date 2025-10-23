@@ -4,7 +4,21 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Wed, 22 Oct 2025 02:02:44 +0000</pubDate>
+    <pubDate>Thu, 23 Oct 2025 01:57:48 +0000</pubDate>
+    <item>
+      <title>Add LM-Kit.NET client details to documentation</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1691</link>
+      <description>Merged by lcarrere - Add LM-Kit.NET client details to documentation</description>
+      <author>lcarrere</author>
+      <pubDate>Wed, 22 Oct 2025 16:55:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fix dead links in clients list</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1353</link>
+      <description>Merged by koic - Fix dead links in clients list</description>
+      <author>koic</author>
+      <pubDate>Wed, 22 Oct 2025 11:48:10 +0000</pubDate>
+    </item>
     <item>
       <title>Fix typo: &#34;RFC 9278&#34; =&gt; &#34;RFC 9728&#34;</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1680</link>
@@ -181,13 +195,6 @@
       <pubDate>Fri, 03 Oct 2025 00:51:05 +0000</pubDate>
     </item>
     <item>
-      <title>Mention support for MCP prompts for Amp</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1374</link>
-      <description>Merged by agentcooper - Mention support for MCP prompts for Amp</description>
-      <author>agentcooper</author>
-      <pubDate>Thu, 02 Oct 2025 20:36:50 +0000</pubDate>
-    </item>
-    <item>
       <title>Add Swarms framework to MCP clients documentation</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1469</link>
       <description>Merged by jalateras - Add Swarms framework to MCP clients documentation</description>
@@ -349,6 +356,13 @@
       <pubDate>Tue, 23 Sep 2025 12:19:05 +0000</pubDate>
     </item>
     <item>
+      <title>SEP-1302: Formalize Working Groups and Interest Groups in MCP Governance</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1350</link>
+      <description>Merged by tadasant - SEP-1302: Formalize Working Groups and Interest Groups in MCP Governance</description>
+      <author>tadasant</author>
+      <pubDate>Tue, 23 Sep 2025 11:49:52 +0000</pubDate>
+    </item>
+    <item>
       <title>MCP Client Tutorial - Improve steps for Windows</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1508</link>
       <description>Merged by a-akimov - MCP Client Tutorial - Improve steps for Windows</description>
@@ -475,32 +489,11 @@
       <pubDate>Wed, 03 Sep 2025 14:12:25 +0000</pubDate>
     </item>
     <item>
-      <title>Add .well-known/security.txt file</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1370</link>
-      <description>Merged by domdomegg - Add .well-known/security.txt file</description>
-      <author>domdomegg</author>
-      <pubDate>Wed, 27 Aug 2025 00:28:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>specify the version of zod</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1361</link>
-      <description>Merged by XiongLiding - specify the version of zod</description>
-      <author>XiongLiding</author>
-      <pubDate>Sat, 23 Aug 2025 19:41:55 +0000</pubDate>
-    </item>
-    <item>
       <title>Document process/guidelines for new Maintainer nominations</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1368</link>
       <description>Merged by tadasant - Document process/guidelines for new Maintainer nominations</description>
       <author>tadasant</author>
       <pubDate>Fri, 22 Aug 2025 19:53:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fixes duplicated wording in completion specification section</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1365</link>
-      <description>Merged by Scoopsies - Fixes duplicated wording in completion specification section</description>
-      <author>Scoopsies</author>
-      <pubDate>Fri, 22 Aug 2025 17:47:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
