@@ -4,7 +4,28 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Thu, 23 Oct 2025 01:57:48 +0000</pubDate>
+    <pubDate>Fri, 24 Oct 2025 01:53:57 +0000</pubDate>
+    <item>
+      <title>Docs: cursor doesn&#39;t support sampling</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1705</link>
+      <description>Merged by Imgodmaoyouknow - Docs: cursor doesn&#39;t support sampling</description>
+      <author>Imgodmaoyouknow</author>
+      <pubDate>Thu, 23 Oct 2025 21:52:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add VT Code client information to documentation</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1690</link>
+      <description>Merged by vinhnx - Add VT Code client information to documentation</description>
+      <author>vinhnx</author>
+      <pubDate>Thu, 23 Oct 2025 21:44:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>docs: Add sampling to Tambo MCP support</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1706</link>
+      <description>Merged by MichaelMilstead - docs: Add sampling to Tambo MCP support</description>
+      <author>MichaelMilstead</author>
+      <pubDate>Thu, 23 Oct 2025 21:27:56 +0000</pubDate>
+    </item>
     <item>
       <title>Add LM-Kit.NET client details to documentation</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1691</link>
@@ -356,13 +377,6 @@
       <pubDate>Tue, 23 Sep 2025 12:19:05 +0000</pubDate>
     </item>
     <item>
-      <title>SEP-1302: Formalize Working Groups and Interest Groups in MCP Governance</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1350</link>
-      <description>Merged by tadasant - SEP-1302: Formalize Working Groups and Interest Groups in MCP Governance</description>
-      <author>tadasant</author>
-      <pubDate>Tue, 23 Sep 2025 11:49:52 +0000</pubDate>
-    </item>
-    <item>
       <title>MCP Client Tutorial - Improve steps for Windows</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1508</link>
       <description>Merged by a-akimov - MCP Client Tutorial - Improve steps for Windows</description>
@@ -461,13 +475,6 @@
       <pubDate>Sun, 07 Sep 2025 02:54:20 +0000</pubDate>
     </item>
     <item>
-      <title>Add PHP SDK to list</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1422</link>
-      <description>Merged by chr-hertel - Add PHP SDK to list</description>
-      <author>chr-hertel</author>
-      <pubDate>Fri, 05 Sep 2025 18:45:11 +0000</pubDate>
-    </item>
-    <item>
       <title>[Docs] Fix a typo</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1420</link>
       <description>Merged by koic - [Docs] Fix a typo</description>
@@ -487,13 +494,6 @@
       <description>Merged by pja-ant - Fix issue 1406 - unique names for code tab in architecture.mdx to avoid scrolling</description>
       <author>pja-ant</author>
       <pubDate>Wed, 03 Sep 2025 14:12:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Document process/guidelines for new Maintainer nominations</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1368</link>
-      <description>Merged by tadasant - Document process/guidelines for new Maintainer nominations</description>
-      <author>tadasant</author>
-      <pubDate>Fri, 22 Aug 2025 19:53:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
