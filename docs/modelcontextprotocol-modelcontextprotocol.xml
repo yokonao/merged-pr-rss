@@ -4,7 +4,21 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Fri, 24 Oct 2025 01:53:57 +0000</pubDate>
+    <pubDate>Sat, 25 Oct 2025 01:55:45 +0000</pubDate>
+    <item>
+      <title>Community/docs: update supported capabilities for Postman client</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1714</link>
+      <description>Merged by david-davidson - Community/docs: update supported capabilities for Postman client</description>
+      <author>david-davidson</author>
+      <pubDate>Fri, 24 Oct 2025 21:08:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Correct package manager notations</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1712</link>
+      <description>Merged by koic - Correct package manager notations</description>
+      <author>koic</author>
+      <pubDate>Fri, 24 Oct 2025 11:48:31 +0000</pubDate>
+    </item>
     <item>
       <title>Docs: cursor doesn&#39;t support sampling</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1705</link>
@@ -314,13 +328,6 @@
       <pubDate>Thu, 25 Sep 2025 19:44:32 +0000</pubDate>
     </item>
     <item>
-      <title>Fix dark mode styling for About page</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1438</link>
-      <description>Merged by pja-ant - Fix dark mode styling for About page</description>
-      <author>pja-ant</author>
-      <pubDate>Thu, 25 Sep 2025 19:30:40 +0000</pubDate>
-    </item>
-    <item>
       <title>Add Simtheory MCP client to client documentation</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1459</link>
       <description>Merged by chrissharkey - Add Simtheory MCP client to client documentation</description>
@@ -461,18 +468,11 @@
       <pubDate>Tue, 09 Sep 2025 19:35:59 +0000</pubDate>
     </item>
     <item>
-      <title>Use list markdown for list</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1445</link>
-      <description>Merged by jonathanhefner - Use list markdown for list</description>
-      <author>jonathanhefner</author>
-      <pubDate>Mon, 08 Sep 2025 22:06:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Reorganize docs: move quickstart guides to develop section and update content</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1424</link>
-      <description>Merged by ericharmeling - Reorganize docs: move quickstart guides to develop section and update content</description>
-      <author>ericharmeling</author>
-      <pubDate>Sun, 07 Sep 2025 02:54:20 +0000</pubDate>
+      <title>Add PHP SDK to list</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1422</link>
+      <description>Merged by chr-hertel - Add PHP SDK to list</description>
+      <author>chr-hertel</author>
+      <pubDate>Fri, 05 Sep 2025 18:45:11 +0000</pubDate>
     </item>
     <item>
       <title>[Docs] Fix a typo</title>
