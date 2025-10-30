@@ -4,7 +4,21 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Wed, 29 Oct 2025 02:06:00 +0000</pubDate>
+    <pubDate>Thu, 30 Oct 2025 02:04:25 +0000</pubDate>
+    <item>
+      <title>Add Konstantin Konstantinov to maintainers and alphabetize</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1672</link>
+      <description>Merged by olaservo - Add Konstantin Konstantinov to maintainers and alphabetize</description>
+      <author>olaservo</author>
+      <pubDate>Wed, 29 Oct 2025 15:27:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Use `npx` for Mintlify commands</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1727</link>
+      <description>Merged by jonathanhefner - Use `npx` for Mintlify commands</description>
+      <author>jonathanhefner</author>
+      <pubDate>Wed, 29 Oct 2025 03:36:58 +0000</pubDate>
+    </item>
     <item>
       <title>docs: clean up Resources section to remove repetition</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1713</link>
@@ -454,13 +468,6 @@
       <pubDate>Sat, 13 Sep 2025 21:26:28 +0000</pubDate>
     </item>
     <item>
-      <title>Java SDK docs: document hooks for customizing HTTP requests</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1454</link>
-      <description>Merged by Kehrlann - Java SDK docs: document hooks for customizing HTTP requests</description>
-      <author>Kehrlann</author>
-      <pubDate>Thu, 11 Sep 2025 07:47:41 +0000</pubDate>
-    </item>
-    <item>
       <title>Update the MCP Java SDK version to 0.12.1</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1447</link>
       <description>Merged by tzolov - Update the MCP Java SDK version to 0.12.1</description>
@@ -468,18 +475,11 @@
       <pubDate>Tue, 09 Sep 2025 19:35:59 +0000</pubDate>
     </item>
     <item>
-      <title>Use list markdown for list</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1445</link>
-      <description>Merged by jonathanhefner - Use list markdown for list</description>
-      <author>jonathanhefner</author>
-      <pubDate>Mon, 08 Sep 2025 22:06:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add PHP SDK to list</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1422</link>
-      <description>Merged by chr-hertel - Add PHP SDK to list</description>
-      <author>chr-hertel</author>
-      <pubDate>Fri, 05 Sep 2025 18:45:11 +0000</pubDate>
+      <title>Reorganize docs: move quickstart guides to develop section and update content</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1424</link>
+      <description>Merged by ericharmeling - Reorganize docs: move quickstart guides to develop section and update content</description>
+      <author>ericharmeling</author>
+      <pubDate>Sun, 07 Sep 2025 02:54:20 +0000</pubDate>
     </item>
     <item>
       <title>[Docs] Fix a typo</title>
