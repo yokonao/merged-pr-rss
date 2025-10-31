@@ -4,7 +4,7 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Thu, 30 Oct 2025 02:04:25 +0000</pubDate>
+    <pubDate>Fri, 31 Oct 2025 02:01:32 +0000</pubDate>
     <item>
       <title>Add Konstantin Konstantinov to maintainers and alphabetize</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1672</link>
@@ -468,11 +468,11 @@
       <pubDate>Sat, 13 Sep 2025 21:26:28 +0000</pubDate>
     </item>
     <item>
-      <title>Update the MCP Java SDK version to 0.12.1</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1447</link>
-      <description>Merged by tzolov - Update the MCP Java SDK version to 0.12.1</description>
-      <author>tzolov</author>
-      <pubDate>Tue, 09 Sep 2025 19:35:59 +0000</pubDate>
+      <title>Java SDK docs: document hooks for customizing HTTP requests</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1454</link>
+      <description>Merged by Kehrlann - Java SDK docs: document hooks for customizing HTTP requests</description>
+      <author>Kehrlann</author>
+      <pubDate>Thu, 11 Sep 2025 07:47:41 +0000</pubDate>
     </item>
     <item>
       <title>Reorganize docs: move quickstart guides to develop section and update content</title>
