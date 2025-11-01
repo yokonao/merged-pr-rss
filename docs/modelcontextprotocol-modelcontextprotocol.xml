@@ -4,7 +4,14 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Fri, 31 Oct 2025 02:01:32 +0000</pubDate>
+    <pubDate>Sat, 01 Nov 2025 02:05:25 +0000</pubDate>
+    <item>
+      <title>Update roadmap to reflect November 2025 release priorities</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1570</link>
+      <description>Merged by dsp-ant - Update roadmap to reflect November 2025 release priorities</description>
+      <author>dsp-ant</author>
+      <pubDate>Fri, 31 Oct 2025 20:06:55 +0000</pubDate>
+    </item>
     <item>
       <title>Add Konstantin Konstantinov to maintainers and alphabetize</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1672</link>
@@ -473,13 +480,6 @@
       <description>Merged by Kehrlann - Java SDK docs: document hooks for customizing HTTP requests</description>
       <author>Kehrlann</author>
       <pubDate>Thu, 11 Sep 2025 07:47:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Reorganize docs: move quickstart guides to develop section and update content</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1424</link>
-      <description>Merged by ericharmeling - Reorganize docs: move quickstart guides to develop section and update content</description>
-      <author>ericharmeling</author>
-      <pubDate>Sun, 07 Sep 2025 02:54:20 +0000</pubDate>
     </item>
     <item>
       <title>[Docs] Fix a typo</title>
