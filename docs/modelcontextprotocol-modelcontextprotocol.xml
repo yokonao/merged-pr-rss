@@ -4,7 +4,28 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Sun, 02 Nov 2025 02:08:03 +0000</pubDate>
+    <pubDate>Mon, 03 Nov 2025 02:07:04 +0000</pubDate>
+    <item>
+      <title>Add community MCP client Avatar-Shell</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1729</link>
+      <description>Merged by mfukushim - Add community MCP client Avatar-Shell</description>
+      <author>mfukushim</author>
+      <pubDate>Sun, 02 Nov 2025 22:13:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>docs: Add prompts, discovery, and elicitations to Tambo MCP support</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1736</link>
+      <description>Merged by MichaelMilstead - docs: Add prompts, discovery, and elicitations to Tambo MCP support</description>
+      <author>MichaelMilstead</author>
+      <pubDate>Sun, 02 Nov 2025 21:50:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update count of compatible clients</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1759</link>
+      <description>Merged by koic - Update count of compatible clients</description>
+      <author>koic</author>
+      <pubDate>Sun, 02 Nov 2025 21:49:21 +0000</pubDate>
+    </item>
     <item>
       <title>Update roadmap to reflect November 2025 release priorities</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1570</link>
@@ -370,13 +391,6 @@
       <pubDate>Wed, 24 Sep 2025 19:55:38 +0000</pubDate>
     </item>
     <item>
-      <title>Clarify purpose of `maxTokens` param for sampling</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1538</link>
-      <description>Merged by jonathanhefner - Clarify purpose of `maxTokens` param for sampling</description>
-      <author>jonathanhefner</author>
-      <pubDate>Wed, 24 Sep 2025 19:55:19 +0000</pubDate>
-    </item>
-    <item>
       <title>Add blog post: Update on the Next MCP Protocol Release</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1514</link>
       <description>Merged by dsp-ant - Add blog post: Update on the Next MCP Protocol Release</description>
@@ -473,20 +487,6 @@
       <description>Merged by koic - Update counts of official SDKs and compatible clients</description>
       <author>koic</author>
       <pubDate>Sat, 13 Sep 2025 21:26:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Java SDK docs: document hooks for customizing HTTP requests</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1454</link>
-      <description>Merged by Kehrlann - Java SDK docs: document hooks for customizing HTTP requests</description>
-      <author>Kehrlann</author>
-      <pubDate>Thu, 11 Sep 2025 07:47:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Docs] Fix a typo</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1420</link>
-      <description>Merged by koic - [Docs] Fix a typo</description>
-      <author>koic</author>
-      <pubDate>Fri, 05 Sep 2025 01:44:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
