@@ -4,7 +4,14 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Mon, 03 Nov 2025 02:07:04 +0000</pubDate>
+    <pubDate>Tue, 04 Nov 2025 02:02:02 +0000</pubDate>
+    <item>
+      <title>Remove unsupported fields from samples</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1623</link>
+      <description>Merged by kant2002 - Remove unsupported fields from samples</description>
+      <author>kant2002</author>
+      <pubDate>Mon, 03 Nov 2025 12:56:16 +0000</pubDate>
+    </item>
     <item>
       <title>Add community MCP client Avatar-Shell</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1729</link>
@@ -277,13 +284,6 @@
       <description>Merged by habiblawal1 - (docs): Fix grammar mistake in idempotentHint description</description>
       <author>habiblawal1</author>
       <pubDate>Fri, 03 Oct 2025 00:51:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add Swarms framework to MCP clients documentation</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1469</link>
-      <description>Merged by jalateras - Add Swarms framework to MCP clients documentation</description>
-      <author>jalateras</author>
-      <pubDate>Thu, 02 Oct 2025 20:29:54 +0000</pubDate>
     </item>
     <item>
       <title>Update AIQL TUUI MCP support</title>
