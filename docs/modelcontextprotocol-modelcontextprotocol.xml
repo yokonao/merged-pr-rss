@@ -4,7 +4,28 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Tue, 04 Nov 2025 02:02:02 +0000</pubDate>
+    <pubDate>Wed, 05 Nov 2025 02:03:29 +0000</pubDate>
+    <item>
+      <title>SEP-1319: Decouple Request Payloads + _meta erasure fix (#1284) + &#34;breaking&#34; arbitrary params fix</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1692</link>
+      <description>Merged by ccreighton-apptio - SEP-1319: Decouple Request Payloads + _meta erasure fix (#1284) + &#34;breaking&#34; arbitrary params fix</description>
+      <author>ccreighton-apptio</author>
+      <pubDate>Tue, 04 Nov 2025 21:49:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Remove lorem ispum placeholder</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1719</link>
+      <description>Merged by platypii - Remove lorem ispum placeholder</description>
+      <author>platypii</author>
+      <pubDate>Tue, 04 Nov 2025 19:36:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add Server Instructions blog post and update clients table</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1482</link>
+      <description>Merged by olaservo - Add Server Instructions blog post and update clients table</description>
+      <author>olaservo</author>
+      <pubDate>Tue, 04 Nov 2025 04:29:21 +0000</pubDate>
+    </item>
     <item>
       <title>Remove unsupported fields from samples</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1623</link>
@@ -286,13 +307,6 @@
       <pubDate>Fri, 03 Oct 2025 00:51:05 +0000</pubDate>
     </item>
     <item>
-      <title>Update AIQL TUUI MCP support</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1471</link>
-      <description>Merged by aiqlcom - Update AIQL TUUI MCP support</description>
-      <author>aiqlcom</author>
-      <pubDate>Thu, 02 Oct 2025 20:27:44 +0000</pubDate>
-    </item>
-    <item>
       <title>Update Copilot Studio clients table to show supports Resources</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1569</link>
       <description>Merged by zankar-desai - Update Copilot Studio clients table to show supports Resources</description>
@@ -454,13 +468,6 @@
       <pubDate>Mon, 22 Sep 2025 10:59:55 +0000</pubDate>
     </item>
     <item>
-      <title>Landing page layout tweaks</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1479</link>
-      <description>Merged by jonathanhefner - Landing page layout tweaks</description>
-      <author>jonathanhefner</author>
-      <pubDate>Fri, 19 Sep 2025 12:37:26 +0000</pubDate>
-    </item>
-    <item>
       <title>Avoids redirecting URL for Claude Code</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1498</link>
       <description>Merged by koic - Avoids redirecting URL for Claude Code</description>
@@ -473,13 +480,6 @@
       <description>Merged by dsp-ant - docs: move inspector guide out of /legacy into /docs/tools</description>
       <author>dsp-ant</author>
       <pubDate>Thu, 18 Sep 2025 13:32:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fix typo</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1477</link>
-      <description>Merged by JTOne123 - Fix typo</description>
-      <author>JTOne123</author>
-      <pubDate>Tue, 16 Sep 2025 02:39:26 +0000</pubDate>
     </item>
     <item>
       <title>Update counts of official SDKs and compatible clients</title>
