@@ -4,7 +4,14 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Wed, 05 Nov 2025 02:03:29 +0000</pubDate>
+    <pubDate>Thu, 06 Nov 2025 02:03:43 +0000</pubDate>
+    <item>
+      <title>(docs): Update contribution guidelines around AI usage for PRs/issues</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1598</link>
+      <description>Merged by localden - (docs): Update contribution guidelines around AI usage for PRs/issues</description>
+      <author>localden</author>
+      <pubDate>Wed, 05 Nov 2025 06:49:02 +0000</pubDate>
+    </item>
     <item>
       <title>SEP-1319: Decouple Request Payloads + _meta erasure fix (#1284) + &#34;breaking&#34; arbitrary params fix</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1692</link>
@@ -293,6 +300,13 @@
       <pubDate>Tue, 07 Oct 2025 14:35:23 +0000</pubDate>
     </item>
     <item>
+      <title>SEP-835: Update authorization spec with default scopes definition</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/835</link>
+      <description>Merged by localden - SEP-835: Update authorization spec with default scopes definition</description>
+      <author>localden</author>
+      <pubDate>Fri, 03 Oct 2025 18:46:40 +0000</pubDate>
+    </item>
+    <item>
       <title>(docs) Update Completions introduction</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1552</link>
       <description>Merged by evalstate - (docs) Update Completions introduction</description>
@@ -391,13 +405,6 @@
       <pubDate>Thu, 25 Sep 2025 19:44:32 +0000</pubDate>
     </item>
     <item>
-      <title>Add Simtheory MCP client to client documentation</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1459</link>
-      <description>Merged by chrissharkey - Add Simtheory MCP client to client documentation</description>
-      <author>chrissharkey</author>
-      <pubDate>Wed, 24 Sep 2025 19:57:04 +0000</pubDate>
-    </item>
-    <item>
       <title>Add missing Langflow link</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1537</link>
       <description>Merged by jonathanhefner - Add missing Langflow link</description>
@@ -424,13 +431,6 @@
       <description>Merged by a-akimov - Upgrade the deprecated 3-5-sonnet to 4-sonnet across docs</description>
       <author>a-akimov</author>
       <pubDate>Wed, 24 Sep 2025 13:43:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fix deprecated contributing page</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1480</link>
-      <description>Merged by vishaln15 - Fix deprecated contributing page</description>
-      <author>vishaln15</author>
-      <pubDate>Tue, 23 Sep 2025 20:55:57 +0000</pubDate>
     </item>
     <item>
       <title>Fix description punctuation in working-interest-groups.mdx</title>
@@ -480,13 +480,6 @@
       <description>Merged by dsp-ant - docs: move inspector guide out of /legacy into /docs/tools</description>
       <author>dsp-ant</author>
       <pubDate>Thu, 18 Sep 2025 13:32:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Update counts of official SDKs and compatible clients</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1470</link>
-      <description>Merged by koic - Update counts of official SDKs and compatible clients</description>
-      <author>koic</author>
-      <pubDate>Sat, 13 Sep 2025 21:26:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
