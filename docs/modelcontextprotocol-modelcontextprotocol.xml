@@ -4,7 +4,7 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Thu, 06 Nov 2025 02:03:43 +0000</pubDate>
+    <pubDate>Fri, 07 Nov 2025 02:02:08 +0000</pubDate>
     <item>
       <title>(docs): Update contribution guidelines around AI usage for PRs/issues</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1598</link>
@@ -349,13 +349,6 @@
       <pubDate>Tue, 30 Sep 2025 16:07:38 +0000</pubDate>
     </item>
     <item>
-      <title>Add Icons metadata to ResourceTemplate</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1565</link>
-      <description>Merged by pja-ant - Add Icons metadata to ResourceTemplate</description>
-      <author>pja-ant</author>
-      <pubDate>Tue, 30 Sep 2025 14:46:35 +0000</pubDate>
-    </item>
-    <item>
       <title>Antitrust Policy for MCP </title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1572</link>
       <description>Merged by dsp-ant - Antitrust Policy for MCP </description>
@@ -431,13 +424,6 @@
       <description>Merged by a-akimov - Upgrade the deprecated 3-5-sonnet to 4-sonnet across docs</description>
       <author>a-akimov</author>
       <pubDate>Wed, 24 Sep 2025 13:43:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fix description punctuation in working-interest-groups.mdx</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1523</link>
-      <description>Merged by olaservo - Fix description punctuation in working-interest-groups.mdx</description>
-      <author>olaservo</author>
-      <pubDate>Tue, 23 Sep 2025 12:19:05 +0000</pubDate>
     </item>
     <item>
       <title>MCP Client Tutorial - Improve steps for Windows</title>
