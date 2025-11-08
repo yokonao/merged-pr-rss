@@ -4,7 +4,21 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Fri, 07 Nov 2025 02:02:08 +0000</pubDate>
+    <pubDate>Sat, 08 Nov 2025 01:56:17 +0000</pubDate>
+    <item>
+      <title>feat: add eslint and format typescript with prettier</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1782</link>
+      <description>Merged by mattzcarey - feat: add eslint and format typescript with prettier</description>
+      <author>mattzcarey</author>
+      <pubDate>Fri, 07 Nov 2025 18:58:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fix `arguments` tightening in `CallToolRequestParams`</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1770</link>
+      <description>Merged by ccreighton-apptio - Fix `arguments` tightening in `CallToolRequestParams`</description>
+      <author>ccreighton-apptio</author>
+      <pubDate>Fri, 07 Nov 2025 09:59:26 +0000</pubDate>
+    </item>
     <item>
       <title>(docs): Update contribution guidelines around AI usage for PRs/issues</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1598</link>
@@ -412,13 +426,6 @@
       <pubDate>Wed, 24 Sep 2025 15:39:55 +0000</pubDate>
     </item>
     <item>
-      <title>Fix typos</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1521</link>
-      <description>Merged by koic - Fix typos</description>
-      <author>koic</author>
-      <pubDate>Wed, 24 Sep 2025 13:45:50 +0000</pubDate>
-    </item>
-    <item>
       <title>Upgrade the deprecated 3-5-sonnet to 4-sonnet across docs</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1532</link>
       <description>Merged by a-akimov - Upgrade the deprecated 3-5-sonnet to 4-sonnet across docs</description>
@@ -426,18 +433,11 @@
       <pubDate>Wed, 24 Sep 2025 13:43:09 +0000</pubDate>
     </item>
     <item>
-      <title>MCP Client Tutorial - Improve steps for Windows</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1508</link>
-      <description>Merged by a-akimov - MCP Client Tutorial - Improve steps for Windows</description>
-      <author>a-akimov</author>
-      <pubDate>Mon, 22 Sep 2025 19:47:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Update clients.mdx</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1517</link>
-      <description>Merged by boriswang01 - Update clients.mdx</description>
-      <author>boriswang01</author>
-      <pubDate>Mon, 22 Sep 2025 14:08:12 +0000</pubDate>
+      <title>Fix description punctuation in working-interest-groups.mdx</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1523</link>
+      <description>Merged by olaservo - Fix description punctuation in working-interest-groups.mdx</description>
+      <author>olaservo</author>
+      <pubDate>Tue, 23 Sep 2025 12:19:05 +0000</pubDate>
     </item>
     <item>
       <title>Add chatbox to client list</title>
