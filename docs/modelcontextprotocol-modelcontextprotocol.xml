@@ -4,7 +4,21 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Sat, 08 Nov 2025 01:56:17 +0000</pubDate>
+    <pubDate>Sun, 09 Nov 2025 02:06:51 +0000</pubDate>
+    <item>
+      <title>Add spec link to server instructions blog post</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1784</link>
+      <description>Merged by olaservo - Add spec link to server instructions blog post</description>
+      <author>olaservo</author>
+      <pubDate>Sat, 08 Nov 2025 16:47:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fix `scroll-margin-top` for schema reference page</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1775</link>
+      <description>Merged by jonathanhefner - Fix `scroll-margin-top` for schema reference page</description>
+      <author>jonathanhefner</author>
+      <pubDate>Sat, 08 Nov 2025 16:12:27 +0000</pubDate>
+    </item>
     <item>
       <title>feat: add eslint and format typescript with prettier</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1782</link>
@@ -328,13 +342,6 @@
       <pubDate>Fri, 03 Oct 2025 01:03:23 +0000</pubDate>
     </item>
     <item>
-      <title>(docs): Fix grammar mistake in idempotentHint description</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1593</link>
-      <description>Merged by habiblawal1 - (docs): Fix grammar mistake in idempotentHint description</description>
-      <author>habiblawal1</author>
-      <pubDate>Fri, 03 Oct 2025 00:51:05 +0000</pubDate>
-    </item>
-    <item>
       <title>Update Copilot Studio clients table to show supports Resources</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1569</link>
       <description>Merged by zankar-desai - Update Copilot Studio clients table to show supports Resources</description>
@@ -347,13 +354,6 @@
       <description>Merged by aulorbe - Update Amp integrations</description>
       <author>aulorbe</author>
       <pubDate>Thu, 02 Oct 2025 18:23:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add a `theme` to Icon</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1584</link>
-      <description>Merged by connor4312 - Add a `theme` to Icon</description>
-      <author>connor4312</author>
-      <pubDate>Wed, 01 Oct 2025 18:59:32 +0000</pubDate>
     </item>
     <item>
       <title>Docs: Update Python server code to reflect the sample</title>
@@ -433,25 +433,11 @@
       <pubDate>Wed, 24 Sep 2025 13:43:09 +0000</pubDate>
     </item>
     <item>
-      <title>Fix description punctuation in working-interest-groups.mdx</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1523</link>
-      <description>Merged by olaservo - Fix description punctuation in working-interest-groups.mdx</description>
-      <author>olaservo</author>
-      <pubDate>Tue, 23 Sep 2025 12:19:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add chatbox to client list</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1513</link>
-      <description>Merged by wong2 - Add chatbox to client list</description>
-      <author>wong2</author>
-      <pubDate>Mon, 22 Sep 2025 12:08:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fix redirect for `/quickstart/user`</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1512</link>
-      <description>Merged by jonathanhefner - Fix redirect for `/quickstart/user`</description>
-      <author>jonathanhefner</author>
-      <pubDate>Mon, 22 Sep 2025 10:59:55 +0000</pubDate>
+      <title>Update clients.mdx</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1517</link>
+      <description>Merged by boriswang01 - Update clients.mdx</description>
+      <author>boriswang01</author>
+      <pubDate>Mon, 22 Sep 2025 14:08:12 +0000</pubDate>
     </item>
     <item>
       <title>Avoids redirecting URL for Claude Code</title>
