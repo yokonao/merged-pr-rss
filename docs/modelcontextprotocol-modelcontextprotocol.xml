@@ -4,7 +4,14 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Mon, 10 Nov 2025 02:08:03 +0000</pubDate>
+    <pubDate>Tue, 11 Nov 2025 02:04:17 +0000</pubDate>
+    <item>
+      <title>[SEP-1303] Input validation errors as tool execution errors</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1611</link>
+      <description>Merged by fredericbarthelet - [SEP-1303] Input validation errors as tool execution errors</description>
+      <author>fredericbarthelet</author>
+      <pubDate>Mon, 10 Nov 2025 14:28:06 +0000</pubDate>
+    </item>
     <item>
       <title>Add spec link to server instructions blog post</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1784</link>
@@ -431,13 +438,6 @@
       <description>Merged by a-akimov - Upgrade the deprecated 3-5-sonnet to 4-sonnet across docs</description>
       <author>a-akimov</author>
       <pubDate>Wed, 24 Sep 2025 13:43:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Update clients.mdx</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1517</link>
-      <description>Merged by boriswang01 - Update clients.mdx</description>
-      <author>boriswang01</author>
-      <pubDate>Mon, 22 Sep 2025 14:08:12 +0000</pubDate>
     </item>
     <item>
       <title>Avoids redirecting URL for Claude Code</title>
