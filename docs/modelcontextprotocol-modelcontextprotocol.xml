@@ -4,7 +4,14 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Tue, 11 Nov 2025 02:04:17 +0000</pubDate>
+    <pubDate>Wed, 12 Nov 2025 02:03:23 +0000</pubDate>
+    <item>
+      <title>SEP-1330 Elicitation Enum Schema Improvements and Standards Compliance</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1148</link>
+      <description>Merged by chughtapan - SEP-1330 Elicitation Enum Schema Improvements and Standards Compliance</description>
+      <author>chughtapan</author>
+      <pubDate>Tue, 11 Nov 2025 15:37:03 +0000</pubDate>
+    </item>
     <item>
       <title>[SEP-1303] Input validation errors as tool execution errors</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1611</link>
@@ -433,18 +440,11 @@
       <pubDate>Wed, 24 Sep 2025 15:39:55 +0000</pubDate>
     </item>
     <item>
-      <title>Upgrade the deprecated 3-5-sonnet to 4-sonnet across docs</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1532</link>
-      <description>Merged by a-akimov - Upgrade the deprecated 3-5-sonnet to 4-sonnet across docs</description>
+      <title>MCP Client Tutorial - Improve steps for Windows</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1508</link>
+      <description>Merged by a-akimov - MCP Client Tutorial - Improve steps for Windows</description>
       <author>a-akimov</author>
-      <pubDate>Wed, 24 Sep 2025 13:43:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Avoids redirecting URL for Claude Code</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1498</link>
-      <description>Merged by koic - Avoids redirecting URL for Claude Code</description>
-      <author>koic</author>
-      <pubDate>Fri, 19 Sep 2025 10:51:08 +0000</pubDate>
+      <pubDate>Mon, 22 Sep 2025 19:47:56 +0000</pubDate>
     </item>
     <item>
       <title>docs: move inspector guide out of /legacy into /docs/tools</title>
