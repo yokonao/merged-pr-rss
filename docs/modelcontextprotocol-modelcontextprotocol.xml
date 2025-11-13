@@ -4,7 +4,21 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Wed, 12 Nov 2025 02:03:23 +0000</pubDate>
+    <pubDate>Thu, 13 Nov 2025 02:05:27 +0000</pubDate>
+    <item>
+      <title>SEP-1699: Support SSE polling via server-side disconnect</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1783</link>
+      <description>Merged by jonathanhefner - SEP-1699: Support SSE polling via server-side disconnect</description>
+      <author>jonathanhefner</author>
+      <pubDate>Wed, 12 Nov 2025 13:49:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Generate schema reference page based on template</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1085</link>
+      <description>Merged by jonathanhefner - Generate schema reference page based on template</description>
+      <author>jonathanhefner</author>
+      <pubDate>Wed, 12 Nov 2025 11:50:20 +0000</pubDate>
+    </item>
     <item>
       <title>SEP-1330 Elicitation Enum Schema Improvements and Standards Compliance</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1148</link>
@@ -438,13 +452,6 @@
       <description>Merged by dsp-ant - Add blog post: Update on the Next MCP Protocol Release</description>
       <author>dsp-ant</author>
       <pubDate>Wed, 24 Sep 2025 15:39:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>MCP Client Tutorial - Improve steps for Windows</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1508</link>
-      <description>Merged by a-akimov - MCP Client Tutorial - Improve steps for Windows</description>
-      <author>a-akimov</author>
-      <pubDate>Mon, 22 Sep 2025 19:47:56 +0000</pubDate>
     </item>
     <item>
       <title>docs: move inspector guide out of /legacy into /docs/tools</title>
