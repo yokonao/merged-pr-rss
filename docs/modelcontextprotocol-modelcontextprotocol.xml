@@ -4,7 +4,35 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Thu, 13 Nov 2025 02:05:27 +0000</pubDate>
+    <pubDate>Fri, 14 Nov 2025 02:03:48 +0000</pubDate>
+    <item>
+      <title>Add MCPB maintainers section</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1813</link>
+      <description>Merged by domdomegg - Add MCPB maintainers section</description>
+      <author>domdomegg</author>
+      <pubDate>Fri, 14 Nov 2025 00:48:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Elicitation: clarify auth URL language in external OAuth guidance</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1812</link>
+      <description>Merged by nbarbettini - Elicitation: clarify auth URL language in external OAuth guidance</description>
+      <author>nbarbettini</author>
+      <pubDate>Thu, 13 Nov 2025 15:49:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Elicitation: clarify clickable URL language</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1811</link>
+      <description>Merged by nbarbettini - Elicitation: clarify clickable URL language</description>
+      <author>nbarbettini</author>
+      <pubDate>Thu, 13 Nov 2025 15:11:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>SEP-1036: URL Mode Elicitation for secure out-of-band interactions</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/887</link>
+      <description>Merged by nbarbettini - SEP-1036: URL Mode Elicitation for secure out-of-band interactions</description>
+      <author>nbarbettini</author>
+      <pubDate>Thu, 13 Nov 2025 14:48:07 +0000</pubDate>
+    </item>
     <item>
       <title>SEP-1699: Support SSE polling via server-side disconnect</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1783</link>
