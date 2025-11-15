@@ -4,7 +4,56 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Fri, 14 Nov 2025 02:03:48 +0000</pubDate>
+    <pubDate>Sat, 15 Nov 2025 01:59:54 +0000</pubDate>
+    <item>
+      <title>add description of authorization extensions to main authorization spec page</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1707</link>
+      <description>Merged by aaronpk - add description of authorization extensions to main authorization spec page</description>
+      <author>aaronpk</author>
+      <pubDate>Sat, 15 Nov 2025 00:13:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>SEP-1613: Establish JSON Schema 2020-12 as Default Dialect for MCP</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/655</link>
+      <description>Merged by olaservo - SEP-1613: Establish JSON Schema 2020-12 as Default Dialect for MCP</description>
+      <author>olaservo</author>
+      <pubDate>Fri, 14 Nov 2025 23:37:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add description field to Implementation interface</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1817</link>
+      <description>Merged by dsp-ant - Add description field to Implementation interface</description>
+      <author>dsp-ant</author>
+      <pubDate>Fri, 14 Nov 2025 23:00:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>SEP-1686: Tasks</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1732</link>
+      <description>Merged by LucaButBoring - SEP-1686: Tasks</description>
+      <author>LucaButBoring</author>
+      <pubDate>Fri, 14 Nov 2025 22:45:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>address 1796 comments (SEP-1577 Sampling with tools)</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1816</link>
+      <description>Merged by bhosmer-ant - address 1796 comments (SEP-1577 Sampling with tools)</description>
+      <author>bhosmer-ant</author>
+      <pubDate>Fri, 14 Nov 2025 20:13:03 +0000</pubDate>
+    </item>
+    <item>
+      <title> SEP-1577 - Sampling With Tools</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1796</link>
+      <description>Merged by ochafik -  SEP-1577 - Sampling With Tools</description>
+      <author>ochafik</author>
+      <pubDate>Fri, 14 Nov 2025 16:29:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>SEP-991 specification changes; OAuth client id metadata document</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1296</link>
+      <description>Merged by pcarleton - SEP-991 specification changes; OAuth client id metadata document</description>
+      <author>pcarleton</author>
+      <pubDate>Fri, 14 Nov 2025 16:12:25 +0000</pubDate>
+    </item>
     <item>
       <title>Add MCPB maintainers section</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1813</link>
@@ -438,34 +487,6 @@
       <description>Merged by a-akimov - Change gist URL to the official MCP quickstart repo</description>
       <author>a-akimov</author>
       <pubDate>Sun, 28 Sep 2025 16:09:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Docs: Fix oudated server path on &#39;Build an MCP client&#39; guide</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1556</link>
-      <description>Merged by juanfiguera - Docs: Fix oudated server path on &#39;Build an MCP client&#39; guide</description>
-      <author>juanfiguera</author>
-      <pubDate>Sun, 28 Sep 2025 14:15:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add JetBrains Junie to example clients </title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1548</link>
-      <description>Merged by devcrocod - Add JetBrains Junie to example clients </description>
-      <author>devcrocod</author>
-      <pubDate>Fri, 26 Sep 2025 14:53:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Clean up deprecated contributing page file</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1547</link>
-      <description>Merged by Chesars - Clean up deprecated contributing page file</description>
-      <author>Chesars</author>
-      <pubDate>Fri, 26 Sep 2025 08:15:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add ECA to MCP client documentation</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1543</link>
-      <description>Merged by ericdallo - Add ECA to MCP client documentation</description>
-      <author>ericdallo</author>
-      <pubDate>Thu, 25 Sep 2025 19:44:32 +0000</pubDate>
     </item>
     <item>
       <title>Add missing Langflow link</title>
