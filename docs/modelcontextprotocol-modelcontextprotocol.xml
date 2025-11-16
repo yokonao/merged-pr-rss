@@ -4,7 +4,7 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Sat, 15 Nov 2025 01:59:54 +0000</pubDate>
+    <pubDate>Sun, 16 Nov 2025 02:10:00 +0000</pubDate>
     <item>
       <title>add description of authorization extensions to main authorization spec page</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1707</link>
@@ -482,11 +482,11 @@
       <pubDate>Mon, 29 Sep 2025 19:37:13 +0000</pubDate>
     </item>
     <item>
-      <title>Change gist URL to the official MCP quickstart repo</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1559</link>
-      <description>Merged by a-akimov - Change gist URL to the official MCP quickstart repo</description>
-      <author>a-akimov</author>
-      <pubDate>Sun, 28 Sep 2025 16:09:33 +0000</pubDate>
+      <title>Clean up deprecated contributing page file</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1547</link>
+      <description>Merged by Chesars - Clean up deprecated contributing page file</description>
+      <author>Chesars</author>
+      <pubDate>Fri, 26 Sep 2025 08:15:29 +0000</pubDate>
     </item>
     <item>
       <title>Add missing Langflow link</title>
