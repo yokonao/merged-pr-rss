@@ -4,7 +4,7 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Sun, 16 Nov 2025 02:10:00 +0000</pubDate>
+    <pubDate>Mon, 17 Nov 2025 02:04:52 +0000</pubDate>
     <item>
       <title>add description of authorization extensions to main authorization spec page</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1707</link>
@@ -440,13 +440,6 @@
       <pubDate>Fri, 03 Oct 2025 18:46:40 +0000</pubDate>
     </item>
     <item>
-      <title>(docs) Update Completions introduction</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1552</link>
-      <description>Merged by evalstate - (docs) Update Completions introduction</description>
-      <author>evalstate</author>
-      <pubDate>Fri, 03 Oct 2025 01:03:23 +0000</pubDate>
-    </item>
-    <item>
       <title>Update Copilot Studio clients table to show supports Resources</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1569</link>
       <description>Merged by zankar-desai - Update Copilot Studio clients table to show supports Resources</description>
@@ -487,20 +480,6 @@
       <description>Merged by Chesars - Clean up deprecated contributing page file</description>
       <author>Chesars</author>
       <pubDate>Fri, 26 Sep 2025 08:15:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add missing Langflow link</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1537</link>
-      <description>Merged by jonathanhefner - Add missing Langflow link</description>
-      <author>jonathanhefner</author>
-      <pubDate>Wed, 24 Sep 2025 19:55:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add blog post: Update on the Next MCP Protocol Release</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1514</link>
-      <description>Merged by dsp-ant - Add blog post: Update on the Next MCP Protocol Release</description>
-      <author>dsp-ant</author>
-      <pubDate>Wed, 24 Sep 2025 15:39:55 +0000</pubDate>
     </item>
     <item>
       <title>docs: move inspector guide out of /legacy into /docs/tools</title>
