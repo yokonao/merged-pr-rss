@@ -4,7 +4,28 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Mon, 17 Nov 2025 02:04:52 +0000</pubDate>
+    <pubDate>Tue, 18 Nov 2025 02:03:11 +0000</pubDate>
+    <item>
+      <title>Update goose MCP support with accurate feature coverage</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1823</link>
+      <description>Merged by blackgirlbytes - Update goose MCP support with accurate feature coverage</description>
+      <author>blackgirlbytes</author>
+      <pubDate>Mon, 17 Nov 2025 18:52:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>docs: fix elicitation enum schema multiselect example</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1795</link>
+      <description>Merged by pbezglasny - docs: fix elicitation enum schema multiselect example</description>
+      <author>pbezglasny</author>
+      <pubDate>Mon, 17 Nov 2025 15:53:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update build-client.mdx</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1810</link>
+      <description>Merged by piotr-gawron - Update build-client.mdx</description>
+      <author>piotr-gawron</author>
+      <pubDate>Mon, 17 Nov 2025 14:10:22 +0000</pubDate>
+    </item>
     <item>
       <title>add description of authorization extensions to main authorization spec page</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1707</link>
@@ -454,13 +475,6 @@
       <pubDate>Thu, 02 Oct 2025 18:23:20 +0000</pubDate>
     </item>
     <item>
-      <title>Docs: Update Python server code to reflect the sample</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1568</link>
-      <description>Merged by a-akimov - Docs: Update Python server code to reflect the sample</description>
-      <author>a-akimov</author>
-      <pubDate>Tue, 30 Sep 2025 16:07:38 +0000</pubDate>
-    </item>
-    <item>
       <title>Antitrust Policy for MCP </title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1572</link>
       <description>Merged by dsp-ant - Antitrust Policy for MCP </description>
@@ -473,13 +487,6 @@
       <description>Merged by domdomegg - Remove Cody client (replaced by Amp)</description>
       <author>domdomegg</author>
       <pubDate>Mon, 29 Sep 2025 19:37:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Clean up deprecated contributing page file</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1547</link>
-      <description>Merged by Chesars - Clean up deprecated contributing page file</description>
-      <author>Chesars</author>
-      <pubDate>Fri, 26 Sep 2025 08:15:29 +0000</pubDate>
     </item>
     <item>
       <title>docs: move inspector guide out of /legacy into /docs/tools</title>
