@@ -4,7 +4,42 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Wed, 19 Nov 2025 02:02:59 +0000</pubDate>
+    <pubDate>Thu, 20 Nov 2025 02:01:25 +0000</pubDate>
+    <item>
+      <title>Update changelog with additional SEPs and governance updates</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1807</link>
+      <description>Merged by dsp-ant - Update changelog with additional SEPs and governance updates</description>
+      <author>dsp-ant</author>
+      <pubDate>Wed, 19 Nov 2025 22:04:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Specify HTTP status codes for SSE downgrade</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1844</link>
+      <description>Merged by crondinini-ant - Specify HTTP status codes for SSE downgrade</description>
+      <author>crondinini-ant</author>
+      <pubDate>Wed, 19 Nov 2025 19:41:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>fix schema signatures of ToolUseContent.input and ToolResultContent.structuredContent</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1842</link>
+      <description>Merged by ochafik - fix schema signatures of ToolUseContent.input and ToolResultContent.structuredContent</description>
+      <author>ochafik</author>
+      <pubDate>Wed, 19 Nov 2025 18:16:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fix links in MCP Registry launch blog post</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1837</link>
+      <description>Merged by jonathanhefner - Fix links in MCP Registry launch blog post</description>
+      <author>jonathanhefner</author>
+      <pubDate>Wed, 19 Nov 2025 12:52:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fix a typo</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1838</link>
+      <description>Merged by koic - Fix a typo</description>
+      <author>koic</author>
+      <pubDate>Wed, 19 Nov 2025 12:20:37 +0000</pubDate>
+    </item>
     <item>
       <title>Update goose MCP support with accurate feature coverage</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1823</link>
@@ -461,39 +496,18 @@
       <pubDate>Fri, 03 Oct 2025 18:46:40 +0000</pubDate>
     </item>
     <item>
-      <title>Update Copilot Studio clients table to show supports Resources</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1569</link>
-      <description>Merged by zankar-desai - Update Copilot Studio clients table to show supports Resources</description>
-      <author>zankar-desai</author>
-      <pubDate>Thu, 02 Oct 2025 18:30:56 +0000</pubDate>
+      <title>Backport changes to `lifecycle.mdx` from `2025-06-18` to `draft`.</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/997</link>
+      <description>Merged by blkt - Backport changes to `lifecycle.mdx` from `2025-06-18` to `draft`.</description>
+      <author>blkt</author>
+      <pubDate>Fri, 18 Jul 2025 21:19:48 +0000</pubDate>
     </item>
     <item>
-      <title>Update Amp integrations</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1574</link>
-      <description>Merged by aulorbe - Update Amp integrations</description>
-      <author>aulorbe</author>
-      <pubDate>Thu, 02 Oct 2025 18:23:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Antitrust Policy for MCP </title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1572</link>
-      <description>Merged by dsp-ant - Antitrust Policy for MCP </description>
+      <title>The Model Context Protocol - Revision 2025-06-18</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/783</link>
+      <description>Merged by dsp-ant - The Model Context Protocol - Revision 2025-06-18</description>
       <author>dsp-ant</author>
-      <pubDate>Mon, 29 Sep 2025 21:46:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Remove Cody client (replaced by Amp)</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1566</link>
-      <description>Merged by domdomegg - Remove Cody client (replaced by Amp)</description>
-      <author>domdomegg</author>
-      <pubDate>Mon, 29 Sep 2025 19:37:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs: move inspector guide out of /legacy into /docs/tools</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1490</link>
-      <description>Merged by dsp-ant - docs: move inspector guide out of /legacy into /docs/tools</description>
-      <author>dsp-ant</author>
-      <pubDate>Thu, 18 Sep 2025 13:32:23 +0000</pubDate>
+      <pubDate>Wed, 18 Jun 2025 20:07:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
