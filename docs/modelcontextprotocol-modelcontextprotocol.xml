@@ -4,7 +4,112 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Thu, 20 Nov 2025 02:01:25 +0000</pubDate>
+    <pubDate>Fri, 21 Nov 2025 02:02:08 +0000</pubDate>
+    <item>
+      <title>Docs: Tools - Fix the formatting issue</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1696</link>
+      <description>Merged by a-akimov - Docs: Tools - Fix the formatting issue</description>
+      <author>a-akimov</author>
+      <pubDate>Fri, 21 Nov 2025 00:27:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Docs: Add catch block to prevent silent failure in example TypeScript MCP client (mcp-client-typescript)</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/499</link>
+      <description>Merged by thisistonydang - Docs: Add catch block to prevent silent failure in example TypeScript MCP client (mcp-client-typescript)</description>
+      <author>thisistonydang</author>
+      <pubDate>Fri, 21 Nov 2025 00:15:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Docs: Changed &#34;dash&#34; to &#34;hyphen&#34; as we expect a hyphen character here (&#34;-&#34;)</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1697</link>
+      <description>Merged by a-akimov - Docs: Changed &#34;dash&#34; to &#34;hyphen&#34; as we expect a hyphen character here (&#34;-&#34;)</description>
+      <author>a-akimov</author>
+      <pubDate>Fri, 21 Nov 2025 00:06:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Make SSE stream management slightly more explicit for tasks</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1857</link>
+      <description>Merged by LucaButBoring - Make SSE stream management slightly more explicit for tasks</description>
+      <author>LucaButBoring</author>
+      <pubDate>Thu, 20 Nov 2025 23:42:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Clarify that requestors may continue polling after calling tasks/result</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1855</link>
+      <description>Merged by LucaButBoring - Clarify that requestors may continue polling after calling tasks/result</description>
+      <author>LucaButBoring</author>
+      <pubDate>Thu, 20 Nov 2025 23:41:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Move taskHint to top-level Tool.execution.task</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1854</link>
+      <description>Merged by LucaButBoring - Move taskHint to top-level Tool.execution.task</description>
+      <author>LucaButBoring</author>
+      <pubDate>Thu, 20 Nov 2025 23:41:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>chore: Add TaskAugmentedRequestParams to schema</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1845</link>
+      <description>Merged by He-Pin - chore: Add TaskAugmentedRequestParams to schema</description>
+      <author>He-Pin</author>
+      <pubDate>Thu, 20 Nov 2025 23:22:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Remove deprecated taskId from cancellation notification</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1833</link>
+      <description>Merged by LucaButBoring - Remove deprecated taskId from cancellation notification</description>
+      <author>LucaButBoring</author>
+      <pubDate>Thu, 20 Nov 2025 23:21:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>chore: fix tasks.requests.tools.call from boolean to simple words</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1830</link>
+      <description>Merged by He-Pin - chore: fix tasks.requests.tools.call from boolean to simple words</description>
+      <author>He-Pin</author>
+      <pubDate>Thu, 20 Nov 2025 23:21:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Clarify request lifetimes in task diagrams</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1826</link>
+      <description>Merged by LucaButBoring - Clarify request lifetimes in task diagrams</description>
+      <author>LucaButBoring</author>
+      <pubDate>Thu, 20 Nov 2025 23:20:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fix SSE `retry` field documentation link</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1856</link>
+      <description>Merged by jonathanhefner - Fix SSE `retry` field documentation link</description>
+      <author>jonathanhefner</author>
+      <pubDate>Thu, 20 Nov 2025 18:51:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Clarify SEP-1699: SSE stream resumption and polling</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1852</link>
+      <description>Merged by felixweinberger - Clarify SEP-1699: SSE stream resumption and polling</description>
+      <author>felixweinberger</author>
+      <pubDate>Thu, 20 Nov 2025 17:44:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>update genaiscript with resources support</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/343</link>
+      <description>Merged by pelikhan - update genaiscript with resources support</description>
+      <author>pelikhan</author>
+      <pubDate>Thu, 20 Nov 2025 15:23:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>[auth] swap CIMD SSRF wording for IETF draft reference</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1840</link>
+      <description>Merged by pcarleton - [auth] swap CIMD SSRF wording for IETF draft reference</description>
+      <author>pcarleton</author>
+      <pubDate>Thu, 20 Nov 2025 10:11:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>[auth] Add client priority list for client registration methods</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1839</link>
+      <description>Merged by pcarleton - [auth] Add client priority list for client registration methods</description>
+      <author>pcarleton</author>
+      <pubDate>Thu, 20 Nov 2025 10:11:45 +0000</pubDate>
+    </item>
     <item>
       <title>Update changelog with additional SEPs and governance updates</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1807</link>
@@ -319,174 +424,6 @@
       <description>Merged by lcarrere - Add LM-Kit.NET client details to documentation</description>
       <author>lcarrere</author>
       <pubDate>Wed, 22 Oct 2025 16:55:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fix dead links in clients list</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1353</link>
-      <description>Merged by koic - Fix dead links in clients list</description>
-      <author>koic</author>
-      <pubDate>Wed, 22 Oct 2025 11:48:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fix typo: &#34;RFC 9278&#34; =&gt; &#34;RFC 9728&#34;</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1680</link>
-      <description>Merged by jonathanhefner - Fix typo: &#34;RFC 9278&#34; =&gt; &#34;RFC 9728&#34;</description>
-      <author>jonathanhefner</author>
-      <pubDate>Tue, 21 Oct 2025 21:42:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Docs] Fix typos</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1689</link>
-      <description>Merged by koic - [Docs] Fix typos</description>
-      <author>koic</author>
-      <pubDate>Tue, 21 Oct 2025 20:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs: Add MCP Bundler to the clients list</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1640</link>
-      <description>Merged by eugenepyvovarov - docs: Add MCP Bundler to the clients list</description>
-      <author>eugenepyvovarov</author>
-      <pubDate>Mon, 20 Oct 2025 14:14:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs: fix API key format guidance to prevent common errors</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1673</link>
-      <description>Merged by YogeshK34 - docs: fix API key format guidance to prevent common errors</description>
-      <author>YogeshK34</author>
-      <pubDate>Mon, 20 Oct 2025 14:05:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add myself to the Registry maintainers list</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1678</link>
-      <description>Merged by rdimitrov - Add myself to the Registry maintainers list</description>
-      <author>rdimitrov</author>
-      <pubDate>Sun, 19 Oct 2025 17:19:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fix CTA button color on landing page</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1646</link>
-      <description>Merged by jonathanhefner - Fix CTA button color on landing page</description>
-      <author>jonathanhefner</author>
-      <pubDate>Sat, 18 Oct 2025 12:25:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add Additional Client Representatives to Client Implementors Interest Group Maintainers</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1657</link>
-      <description>Merged by olaservo - Add Additional Client Representatives to Client Implementors Interest Group Maintainers</description>
-      <author>olaservo</author>
-      <pubDate>Thu, 16 Oct 2025 14:12:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Update connect-local-servers.mdx</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1663</link>
-      <description>Merged by np-anthropic - Update connect-local-servers.mdx</description>
-      <author>np-anthropic</author>
-      <pubDate>Wed, 15 Oct 2025 22:00:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fix a typo in the mcp-simple-diagram image</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1652</link>
-      <description>Merged by koic - Fix a typo in the mcp-simple-diagram image</description>
-      <author>koic</author>
-      <pubDate>Wed, 15 Oct 2025 11:11:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>(docs): Update consent prompt guidelines for MCP servers</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1587</link>
-      <description>Merged by localden - (docs): Update consent prompt guidelines for MCP servers</description>
-      <author>localden</author>
-      <pubDate>Tue, 14 Oct 2025 09:47:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Futher roots security clarifications</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1639</link>
-      <description>Merged by cliffhall - Futher roots security clarifications</description>
-      <author>cliffhall</author>
-      <pubDate>Mon, 13 Oct 2025 14:49:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>(docs) Authorization guide</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1326</link>
-      <description>Merged by localden - (docs) Authorization guide</description>
-      <author>localden</author>
-      <pubDate>Sat, 11 Oct 2025 19:12:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>chore: update changelog with info about SEP-986</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1633</link>
-      <description>Merged by alexhancock - chore: update changelog with info about SEP-986</description>
-      <author>alexhancock</author>
-      <pubDate>Fri, 10 Oct 2025 15:38:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs: Add Meeting Calendar information for Interest and Working Groups</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1608</link>
-      <description>Merged by olaservo - docs: Add Meeting Calendar information for Interest and Working Groups</description>
-      <author>olaservo</author>
-      <pubDate>Fri, 10 Oct 2025 08:17:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>spec/docs: specify tool name format SEP-986</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1603</link>
-      <description>Merged by alexhancock - spec/docs: specify tool name format SEP-986</description>
-      <author>alexhancock</author>
-      <pubDate>Thu, 09 Oct 2025 20:07:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs: add ChatFrame client details and features to the overview</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1630</link>
-      <description>Merged by razertory - docs: add ChatFrame client details and features to the overview</description>
-      <author>razertory</author>
-      <pubDate>Thu, 09 Oct 2025 19:03:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add Smithery Playground to clients.mdx</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1625</link>
-      <description>Merged by calclavia - Add Smithery Playground to clients.mdx</description>
-      <author>calclavia</author>
-      <pubDate>Thu, 09 Oct 2025 18:59:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fix dark mode diagram visibility and CSS syntax error</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1628</link>
-      <description>Merged by shah95rukh - Fix dark mode diagram visibility and CSS syntax error</description>
-      <author>shah95rukh</author>
-      <pubDate>Wed, 08 Oct 2025 21:33:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs: improve Claude Desktop restart instructions in troubleshooting</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1620</link>
-      <description>Merged by sdmcraft - docs: improve Claude Desktop restart instructions in troubleshooting</description>
-      <author>sdmcraft</author>
-      <pubDate>Wed, 08 Oct 2025 18:56:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Expand and refine Roots content in the Client Concepts doc</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1605</link>
-      <description>Merged by olaservo - Expand and refine Roots content in the Client Concepts doc</description>
-      <author>olaservo</author>
-      <pubDate>Wed, 08 Oct 2025 14:02:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>MCPJam as a client</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1527</link>
-      <description>Merged by matteo8p - MCPJam as a client</description>
-      <author>matteo8p</author>
-      <pubDate>Tue, 07 Oct 2025 20:32:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Remove redirect rule causing 404</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1617</link>
-      <description>Merged by olaservo - Remove redirect rule causing 404</description>
-      <author>olaservo</author>
-      <pubDate>Tue, 07 Oct 2025 14:40:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>fix: remove trailing whitespace in clients Needle entry</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1618</link>
-      <description>Merged by evalstate - fix: remove trailing whitespace in clients Needle entry</description>
-      <author>evalstate</author>
-      <pubDate>Tue, 07 Oct 2025 14:35:23 +0000</pubDate>
     </item>
     <item>
       <title>SEP-835: Update authorization spec with default scopes definition</title>
