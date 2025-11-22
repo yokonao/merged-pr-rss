@@ -4,7 +4,77 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Fri, 21 Nov 2025 02:02:08 +0000</pubDate>
+    <pubDate>Sat, 22 Nov 2025 01:58:06 +0000</pubDate>
+    <item>
+      <title>(chore): Revise MCPB adoption blog post for clarity and links</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1873</link>
+      <description>Merged by localden - (chore): Revise MCPB adoption blog post for clarity and links</description>
+      <author>localden</author>
+      <pubDate>Sat, 22 Nov 2025 00:56:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>blog: fix typo in co-author name</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1872</link>
+      <description>Merged by ochafik - blog: fix typo in co-author name</description>
+      <author>ochafik</author>
+      <pubDate>Fri, 21 Nov 2025 23:41:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>blog: add images to mcp apps post</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1870</link>
+      <description>Merged by ochafik - blog: add images to mcp apps post</description>
+      <author>ochafik</author>
+      <pubDate>Fri, 21 Nov 2025 23:02:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mcp apps blog</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1868</link>
+      <description>Merged by ochafik - Mcp apps blog</description>
+      <author>ochafik</author>
+      <pubDate>Fri, 21 Nov 2025 22:14:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>MCPB announcement blog</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1866</link>
+      <description>Merged by conorkel - MCPB announcement blog</description>
+      <author>conorkel</author>
+      <pubDate>Fri, 21 Nov 2025 19:43:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>chore: Rename `execution.task` to `execution.taskSupport`</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1860</link>
+      <description>Merged by He-Pin - chore: Rename `execution.task` to `execution.taskSupport`</description>
+      <author>He-Pin</author>
+      <pubDate>Fri, 21 Nov 2025 19:13:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update _meta prefix reservation to recommend reverse DNS</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1771</link>
+      <description>Merged by pja-ant - Update _meta prefix reservation to recommend reverse DNS</description>
+      <author>pja-ant</author>
+      <pubDate>Fri, 21 Nov 2025 19:11:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>fix: Clearer language around new feature status of URL elicitation</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1825</link>
+      <description>Merged by nbarbettini - fix: Clearer language around new feature status of URL elicitation</description>
+      <author>nbarbettini</author>
+      <pubDate>Fri, 21 Nov 2025 19:08:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Make mode in elicitation backwards compatible</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1863</link>
+      <description>Merged by pcarleton - Make mode in elicitation backwards compatible</description>
+      <author>pcarleton</author>
+      <pubDate>Fri, 21 Nov 2025 18:08:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add .idea/ to .gitignore</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1864</link>
+      <description>Merged by maxisbey - Add .idea/ to .gitignore</description>
+      <author>maxisbey</author>
+      <pubDate>Fri, 21 Nov 2025 17:55:02 +0000</pubDate>
+    </item>
     <item>
       <title>Docs: Tools - Fix the formatting issue</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1696</link>
@@ -368,62 +438,6 @@
       <description>Merged by olaservo - Add Konstantin Konstantinov to maintainers and alphabetize</description>
       <author>olaservo</author>
       <pubDate>Wed, 29 Oct 2025 15:27:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Use `npx` for Mintlify commands</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1727</link>
-      <description>Merged by jonathanhefner - Use `npx` for Mintlify commands</description>
-      <author>jonathanhefner</author>
-      <pubDate>Wed, 29 Oct 2025 03:36:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs: clean up Resources section to remove repetition</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1713</link>
-      <description>Merged by mst2k - docs: clean up Resources section to remove repetition</description>
-      <author>mst2k</author>
-      <pubDate>Mon, 27 Oct 2025 11:56:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Community/docs: update supported capabilities for Postman client</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1714</link>
-      <description>Merged by david-davidson - Community/docs: update supported capabilities for Postman client</description>
-      <author>david-davidson</author>
-      <pubDate>Fri, 24 Oct 2025 21:08:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Correct package manager notations</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1712</link>
-      <description>Merged by koic - Correct package manager notations</description>
-      <author>koic</author>
-      <pubDate>Fri, 24 Oct 2025 11:48:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Docs: cursor doesn&#39;t support sampling</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1705</link>
-      <description>Merged by Imgodmaoyouknow - Docs: cursor doesn&#39;t support sampling</description>
-      <author>Imgodmaoyouknow</author>
-      <pubDate>Thu, 23 Oct 2025 21:52:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add VT Code client information to documentation</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1690</link>
-      <description>Merged by vinhnx - Add VT Code client information to documentation</description>
-      <author>vinhnx</author>
-      <pubDate>Thu, 23 Oct 2025 21:44:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs: Add sampling to Tambo MCP support</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1706</link>
-      <description>Merged by MichaelMilstead - docs: Add sampling to Tambo MCP support</description>
-      <author>MichaelMilstead</author>
-      <pubDate>Thu, 23 Oct 2025 21:27:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add LM-Kit.NET client details to documentation</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1691</link>
-      <description>Merged by lcarrere - Add LM-Kit.NET client details to documentation</description>
-      <author>lcarrere</author>
-      <pubDate>Wed, 22 Oct 2025 16:55:37 +0000</pubDate>
     </item>
     <item>
       <title>SEP-835: Update authorization spec with default scopes definition</title>
