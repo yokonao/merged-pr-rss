@@ -4,7 +4,14 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Sat, 22 Nov 2025 01:58:06 +0000</pubDate>
+    <pubDate>Sun, 23 Nov 2025 02:23:16 +0000</pubDate>
+    <item>
+      <title>(chore): Revise MCP Apps extension proposal blog post</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1874</link>
+      <description>Merged by localden - (chore): Revise MCP Apps extension proposal blog post</description>
+      <author>localden</author>
+      <pubDate>Sat, 22 Nov 2025 07:42:15 +0000</pubDate>
+    </item>
     <item>
       <title>(chore): Revise MCPB adoption blog post for clarity and links</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1873</link>
@@ -433,18 +440,18 @@
       <pubDate>Fri, 31 Oct 2025 20:06:55 +0000</pubDate>
     </item>
     <item>
-      <title>Add Konstantin Konstantinov to maintainers and alphabetize</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1672</link>
-      <description>Merged by olaservo - Add Konstantin Konstantinov to maintainers and alphabetize</description>
-      <author>olaservo</author>
-      <pubDate>Wed, 29 Oct 2025 15:27:36 +0000</pubDate>
-    </item>
-    <item>
       <title>SEP-835: Update authorization spec with default scopes definition</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/835</link>
       <description>Merged by localden - SEP-835: Update authorization spec with default scopes definition</description>
       <author>localden</author>
       <pubDate>Fri, 03 Oct 2025 18:46:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Clarify HTTP 403 status for invalid Origin headers</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1439</link>
+      <description>Merged by pja-ant - Clarify HTTP 403 status for invalid Origin headers</description>
+      <author>pja-ant</author>
+      <pubDate>Fri, 19 Sep 2025 15:42:14 +0000</pubDate>
     </item>
     <item>
       <title>Backport changes to `lifecycle.mdx` from `2025-06-18` to `draft`.</title>
