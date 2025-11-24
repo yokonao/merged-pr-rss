@@ -4,7 +4,14 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Sun, 23 Nov 2025 02:23:16 +0000</pubDate>
+    <pubDate>Mon, 24 Nov 2025 02:11:16 +0000</pubDate>
+    <item>
+      <title>Remove elicitation response from URL Mode Elicitation Required Error Flow sequence diagram</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1871</link>
+      <description>Merged by halter73 - Remove elicitation response from URL Mode Elicitation Required Error Flow sequence diagram</description>
+      <author>halter73</author>
+      <pubDate>Sun, 23 Nov 2025 09:03:06 +0000</pubDate>
+    </item>
     <item>
       <title>(chore): Revise MCP Apps extension proposal blog post</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1874</link>
@@ -431,13 +438,6 @@
       <description>Merged by koic - Update count of compatible clients</description>
       <author>koic</author>
       <pubDate>Sun, 02 Nov 2025 21:49:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Update roadmap to reflect November 2025 release priorities</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1570</link>
-      <description>Merged by dsp-ant - Update roadmap to reflect November 2025 release priorities</description>
-      <author>dsp-ant</author>
-      <pubDate>Fri, 31 Oct 2025 20:06:55 +0000</pubDate>
     </item>
     <item>
       <title>SEP-835: Update authorization spec with default scopes definition</title>
