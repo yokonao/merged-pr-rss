@@ -4,7 +4,77 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Mon, 24 Nov 2025 02:11:16 +0000</pubDate>
+    <pubDate>Tue, 25 Nov 2025 02:04:33 +0000</pubDate>
+    <item>
+      <title>docs: small docs change + bundled schema formatting script</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1078</link>
+      <description>Merged by jesselumarie - docs: small docs change + bundled schema formatting script</description>
+      <author>jesselumarie</author>
+      <pubDate>Mon, 24 Nov 2025 22:55:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Small Documentation Tweak for Resource Template Lists</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/816</link>
+      <description>Merged by patwhite - Small Documentation Tweak for Resource Template Lists</description>
+      <author>patwhite</author>
+      <pubDate>Mon, 24 Nov 2025 22:13:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>docs: stdio transport - explicit use of stderr for logging</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/670</link>
+      <description>Merged by dwmkerr - docs: stdio transport - explicit use of stderr for logging</description>
+      <author>dwmkerr</author>
+      <pubDate>Mon, 24 Nov 2025 22:11:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update the concepts docs with the changes from PR #663</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/869</link>
+      <description>Merged by YunKuiLu - Update the concepts docs with the changes from PR #663</description>
+      <author>YunKuiLu</author>
+      <pubDate>Mon, 24 Nov 2025 22:04:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sync changes to pre-release</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1890</link>
+      <description>Merged by localden - Sync changes to pre-release</description>
+      <author>localden</author>
+      <pubDate>Mon, 24 Nov 2025 21:48:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>fix: mention state code to avoid wrong arguments</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/847</link>
+      <description>Merged by jiimaho - fix: mention state code to avoid wrong arguments</description>
+      <author>jiimaho</author>
+      <pubDate>Mon, 24 Nov 2025 21:39:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>chore: add a note about client session ID handling</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/648</link>
+      <description>Merged by SamMorrowDrums - chore: add a note about client session ID handling</description>
+      <author>SamMorrowDrums</author>
+      <pubDate>Mon, 24 Nov 2025 21:33:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Clarify Token Handling section description</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/558</link>
+      <description>Merged by tnorimat - Clarify Token Handling section description</description>
+      <author>tnorimat</author>
+      <pubDate>Mon, 24 Nov 2025 21:27:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add &#39;extensions&#39; to community contributions list</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1883</link>
+      <description>Merged by thoorp - Add &#39;extensions&#39; to community contributions list</description>
+      <author>thoorp</author>
+      <pubDate>Mon, 24 Nov 2025 20:50:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>chore: Add lastUpdatedAt to Task</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1875</link>
+      <description>Merged by He-Pin - chore: Add lastUpdatedAt to Task</description>
+      <author>He-Pin</author>
+      <pubDate>Mon, 24 Nov 2025 16:12:33 +0000</pubDate>
+    </item>
     <item>
       <title>Remove elicitation response from URL Mode Elicitation Required Error Flow sequence diagram</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1871</link>
@@ -258,193 +328,11 @@
       <pubDate>Sat, 15 Nov 2025 00:13:55 +0000</pubDate>
     </item>
     <item>
-      <title>SEP-1613: Establish JSON Schema 2020-12 as Default Dialect for MCP</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/655</link>
-      <description>Merged by olaservo - SEP-1613: Establish JSON Schema 2020-12 as Default Dialect for MCP</description>
-      <author>olaservo</author>
-      <pubDate>Fri, 14 Nov 2025 23:37:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add description field to Implementation interface</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1817</link>
-      <description>Merged by dsp-ant - Add description field to Implementation interface</description>
-      <author>dsp-ant</author>
-      <pubDate>Fri, 14 Nov 2025 23:00:49 +0000</pubDate>
-    </item>
-    <item>
       <title>SEP-1686: Tasks</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1732</link>
       <description>Merged by LucaButBoring - SEP-1686: Tasks</description>
       <author>LucaButBoring</author>
       <pubDate>Fri, 14 Nov 2025 22:45:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>address 1796 comments (SEP-1577 Sampling with tools)</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1816</link>
-      <description>Merged by bhosmer-ant - address 1796 comments (SEP-1577 Sampling with tools)</description>
-      <author>bhosmer-ant</author>
-      <pubDate>Fri, 14 Nov 2025 20:13:03 +0000</pubDate>
-    </item>
-    <item>
-      <title> SEP-1577 - Sampling With Tools</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1796</link>
-      <description>Merged by ochafik -  SEP-1577 - Sampling With Tools</description>
-      <author>ochafik</author>
-      <pubDate>Fri, 14 Nov 2025 16:29:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>SEP-991 specification changes; OAuth client id metadata document</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1296</link>
-      <description>Merged by pcarleton - SEP-991 specification changes; OAuth client id metadata document</description>
-      <author>pcarleton</author>
-      <pubDate>Fri, 14 Nov 2025 16:12:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add MCPB maintainers section</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1813</link>
-      <description>Merged by domdomegg - Add MCPB maintainers section</description>
-      <author>domdomegg</author>
-      <pubDate>Fri, 14 Nov 2025 00:48:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Elicitation: clarify auth URL language in external OAuth guidance</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1812</link>
-      <description>Merged by nbarbettini - Elicitation: clarify auth URL language in external OAuth guidance</description>
-      <author>nbarbettini</author>
-      <pubDate>Thu, 13 Nov 2025 15:49:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Elicitation: clarify clickable URL language</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1811</link>
-      <description>Merged by nbarbettini - Elicitation: clarify clickable URL language</description>
-      <author>nbarbettini</author>
-      <pubDate>Thu, 13 Nov 2025 15:11:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>SEP-1036: URL Mode Elicitation for secure out-of-band interactions</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/887</link>
-      <description>Merged by nbarbettini - SEP-1036: URL Mode Elicitation for secure out-of-band interactions</description>
-      <author>nbarbettini</author>
-      <pubDate>Thu, 13 Nov 2025 14:48:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>SEP-1699: Support SSE polling via server-side disconnect</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1783</link>
-      <description>Merged by jonathanhefner - SEP-1699: Support SSE polling via server-side disconnect</description>
-      <author>jonathanhefner</author>
-      <pubDate>Wed, 12 Nov 2025 13:49:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Generate schema reference page based on template</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1085</link>
-      <description>Merged by jonathanhefner - Generate schema reference page based on template</description>
-      <author>jonathanhefner</author>
-      <pubDate>Wed, 12 Nov 2025 11:50:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>SEP-1330 Elicitation Enum Schema Improvements and Standards Compliance</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1148</link>
-      <description>Merged by chughtapan - SEP-1330 Elicitation Enum Schema Improvements and Standards Compliance</description>
-      <author>chughtapan</author>
-      <pubDate>Tue, 11 Nov 2025 15:37:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>[SEP-1303] Input validation errors as tool execution errors</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1611</link>
-      <description>Merged by fredericbarthelet - [SEP-1303] Input validation errors as tool execution errors</description>
-      <author>fredericbarthelet</author>
-      <pubDate>Mon, 10 Nov 2025 14:28:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add spec link to server instructions blog post</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1784</link>
-      <description>Merged by olaservo - Add spec link to server instructions blog post</description>
-      <author>olaservo</author>
-      <pubDate>Sat, 08 Nov 2025 16:47:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fix `scroll-margin-top` for schema reference page</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1775</link>
-      <description>Merged by jonathanhefner - Fix `scroll-margin-top` for schema reference page</description>
-      <author>jonathanhefner</author>
-      <pubDate>Sat, 08 Nov 2025 16:12:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>feat: add eslint and format typescript with prettier</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1782</link>
-      <description>Merged by mattzcarey - feat: add eslint and format typescript with prettier</description>
-      <author>mattzcarey</author>
-      <pubDate>Fri, 07 Nov 2025 18:58:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fix `arguments` tightening in `CallToolRequestParams`</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1770</link>
-      <description>Merged by ccreighton-apptio - Fix `arguments` tightening in `CallToolRequestParams`</description>
-      <author>ccreighton-apptio</author>
-      <pubDate>Fri, 07 Nov 2025 09:59:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>(docs): Update contribution guidelines around AI usage for PRs/issues</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1598</link>
-      <description>Merged by localden - (docs): Update contribution guidelines around AI usage for PRs/issues</description>
-      <author>localden</author>
-      <pubDate>Wed, 05 Nov 2025 06:49:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>SEP-1319: Decouple Request Payloads + _meta erasure fix (#1284) + &#34;breaking&#34; arbitrary params fix</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1692</link>
-      <description>Merged by ccreighton-apptio - SEP-1319: Decouple Request Payloads + _meta erasure fix (#1284) + &#34;breaking&#34; arbitrary params fix</description>
-      <author>ccreighton-apptio</author>
-      <pubDate>Tue, 04 Nov 2025 21:49:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Remove lorem ispum placeholder</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1719</link>
-      <description>Merged by platypii - Remove lorem ispum placeholder</description>
-      <author>platypii</author>
-      <pubDate>Tue, 04 Nov 2025 19:36:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add Server Instructions blog post and update clients table</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1482</link>
-      <description>Merged by olaservo - Add Server Instructions blog post and update clients table</description>
-      <author>olaservo</author>
-      <pubDate>Tue, 04 Nov 2025 04:29:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Remove unsupported fields from samples</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1623</link>
-      <description>Merged by kant2002 - Remove unsupported fields from samples</description>
-      <author>kant2002</author>
-      <pubDate>Mon, 03 Nov 2025 12:56:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add community MCP client Avatar-Shell</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1729</link>
-      <description>Merged by mfukushim - Add community MCP client Avatar-Shell</description>
-      <author>mfukushim</author>
-      <pubDate>Sun, 02 Nov 2025 22:13:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs: Add prompts, discovery, and elicitations to Tambo MCP support</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1736</link>
-      <description>Merged by MichaelMilstead - docs: Add prompts, discovery, and elicitations to Tambo MCP support</description>
-      <author>MichaelMilstead</author>
-      <pubDate>Sun, 02 Nov 2025 21:50:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Update count of compatible clients</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1759</link>
-      <description>Merged by koic - Update count of compatible clients</description>
-      <author>koic</author>
-      <pubDate>Sun, 02 Nov 2025 21:49:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>SEP-835: Update authorization spec with default scopes definition</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/835</link>
-      <description>Merged by localden - SEP-835: Update authorization spec with default scopes definition</description>
-      <author>localden</author>
-      <pubDate>Fri, 03 Oct 2025 18:46:40 +0000</pubDate>
     </item>
     <item>
       <title>Clarify HTTP 403 status for invalid Origin headers</title>
