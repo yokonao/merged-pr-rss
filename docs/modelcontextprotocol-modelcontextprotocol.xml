@@ -4,7 +4,70 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Tue, 25 Nov 2025 02:04:33 +0000</pubDate>
+    <pubDate>Wed, 26 Nov 2025 02:04:59 +0000</pubDate>
+    <item>
+      <title>(chore): Add post for MCP first anniversary and Nov 2025 release</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1808</link>
+      <description>Merged by localden - (chore): Add post for MCP first anniversary and Nov 2025 release</description>
+      <author>localden</author>
+      <pubDate>Tue, 25 Nov 2025 21:14:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add 2025-11-25 MCP specification</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1887</link>
+      <description>Merged by localden - Add 2025-11-25 MCP specification</description>
+      <author>localden</author>
+      <pubDate>Tue, 25 Nov 2025 21:06:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rename &#39;Node&#39; tab to &#39;TypeScript&#39; in quickstart docs</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1900</link>
+      <description>Merged by domdomegg - Rename &#39;Node&#39; tab to &#39;TypeScript&#39; in quickstart docs</description>
+      <author>domdomegg</author>
+      <pubDate>Tue, 25 Nov 2025 19:49:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fix TypeScript server example: remove invalid capabilities option</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1901</link>
+      <description>Merged by domdomegg - Fix TypeScript server example: remove invalid capabilities option</description>
+      <author>domdomegg</author>
+      <pubDate>Tue, 25 Nov 2025 19:48:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sync changes to release PR</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1897</link>
+      <description>Merged by localden - Sync changes to release PR</description>
+      <author>localden</author>
+      <pubDate>Tue, 25 Nov 2025 15:49:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Split responses and errors into separate message categories</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1441</link>
+      <description>Merged by pja-ant - Split responses and errors into separate message categories</description>
+      <author>pja-ant</author>
+      <pubDate>Tue, 25 Nov 2025 15:42:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fix capitalization of session id header</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1325</link>
+      <description>Merged by ben221199 - Fix capitalization of session id header</description>
+      <author>ben221199</author>
+      <pubDate>Tue, 25 Nov 2025 14:44:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sync changes into spec</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1894</link>
+      <description>Merged by localden - Sync changes into spec</description>
+      <author>localden</author>
+      <pubDate>Tue, 25 Nov 2025 06:16:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>editorial auth language edits</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1892</link>
+      <description>Merged by aaronpk - editorial auth language edits</description>
+      <author>aaronpk</author>
+      <pubDate>Tue, 25 Nov 2025 06:12:02 +0000</pubDate>
+    </item>
     <item>
       <title>docs: small docs change + bundled schema formatting script</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1078</link>
@@ -277,55 +340,6 @@
       <description>Merged by crondinini-ant - Specify HTTP status codes for SSE downgrade</description>
       <author>crondinini-ant</author>
       <pubDate>Wed, 19 Nov 2025 19:41:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>fix schema signatures of ToolUseContent.input and ToolResultContent.structuredContent</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1842</link>
-      <description>Merged by ochafik - fix schema signatures of ToolUseContent.input and ToolResultContent.structuredContent</description>
-      <author>ochafik</author>
-      <pubDate>Wed, 19 Nov 2025 18:16:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fix links in MCP Registry launch blog post</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1837</link>
-      <description>Merged by jonathanhefner - Fix links in MCP Registry launch blog post</description>
-      <author>jonathanhefner</author>
-      <pubDate>Wed, 19 Nov 2025 12:52:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fix a typo</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1838</link>
-      <description>Merged by koic - Fix a typo</description>
-      <author>koic</author>
-      <pubDate>Wed, 19 Nov 2025 12:20:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Update goose MCP support with accurate feature coverage</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1823</link>
-      <description>Merged by blackgirlbytes - Update goose MCP support with accurate feature coverage</description>
-      <author>blackgirlbytes</author>
-      <pubDate>Mon, 17 Nov 2025 18:52:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs: fix elicitation enum schema multiselect example</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1795</link>
-      <description>Merged by pbezglasny - docs: fix elicitation enum schema multiselect example</description>
-      <author>pbezglasny</author>
-      <pubDate>Mon, 17 Nov 2025 15:53:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Update build-client.mdx</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1810</link>
-      <description>Merged by piotr-gawron - Update build-client.mdx</description>
-      <author>piotr-gawron</author>
-      <pubDate>Mon, 17 Nov 2025 14:10:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>add description of authorization extensions to main authorization spec page</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1707</link>
-      <description>Merged by aaronpk - add description of authorization extensions to main authorization spec page</description>
-      <author>aaronpk</author>
-      <pubDate>Sat, 15 Nov 2025 00:13:55 +0000</pubDate>
     </item>
     <item>
       <title>SEP-1686: Tasks</title>
