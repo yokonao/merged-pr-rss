@@ -4,7 +4,49 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Wed, 26 Nov 2025 02:04:59 +0000</pubDate>
+    <pubDate>Thu, 27 Nov 2025 02:02:22 +0000</pubDate>
+    <item>
+      <title>Use wildcard for `specification/latest` redirect</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1091</link>
+      <description>Merged by jonathanhefner - Use wildcard for `specification/latest` redirect</description>
+      <author>jonathanhefner</author>
+      <pubDate>Wed, 26 Nov 2025 15:42:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bump the npm_and_yarn group across 1 directory with 2 updates</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1891</link>
+      <description>Merged by dependabot[bot] - Bump the npm_and_yarn group across 1 directory with 2 updates</description>
+      <author>dependabot[bot]</author>
+      <pubDate>Wed, 26 Nov 2025 13:08:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>docs: Update specification page to point to latest version</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1903</link>
+      <description>Merged by sover02 - docs: Update specification page to point to latest version</description>
+      <author>sover02</author>
+      <pubDate>Wed, 26 Nov 2025 13:07:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fix Prettier formatting in prompts.mdx</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1907</link>
+      <description>Merged by domdomegg - Fix Prettier formatting in prompts.mdx</description>
+      <author>domdomegg</author>
+      <pubDate>Wed, 26 Nov 2025 13:07:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add follow_redirects=True to NWS httpx example</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1829</link>
+      <description>Merged by metamath1 - Add follow_redirects=True to NWS httpx example</description>
+      <author>metamath1</author>
+      <pubDate>Wed, 26 Nov 2025 12:57:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>docs: Remove incorrect `Resources` support for Cursor MCP client.</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1902</link>
+      <description>Merged by pattobrien - docs: Remove incorrect `Resources` support for Cursor MCP client.</description>
+      <author>pattobrien</author>
+      <pubDate>Wed, 26 Nov 2025 12:55:38 +0000</pubDate>
+    </item>
     <item>
       <title>(chore): Add post for MCP first anniversary and Nov 2025 release</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1808</link>
@@ -314,34 +356,6 @@
       <pubDate>Thu, 20 Nov 2025 15:23:35 +0000</pubDate>
     </item>
     <item>
-      <title>[auth] swap CIMD SSRF wording for IETF draft reference</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1840</link>
-      <description>Merged by pcarleton - [auth] swap CIMD SSRF wording for IETF draft reference</description>
-      <author>pcarleton</author>
-      <pubDate>Thu, 20 Nov 2025 10:11:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>[auth] Add client priority list for client registration methods</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1839</link>
-      <description>Merged by pcarleton - [auth] Add client priority list for client registration methods</description>
-      <author>pcarleton</author>
-      <pubDate>Thu, 20 Nov 2025 10:11:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Update changelog with additional SEPs and governance updates</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1807</link>
-      <description>Merged by dsp-ant - Update changelog with additional SEPs and governance updates</description>
-      <author>dsp-ant</author>
-      <pubDate>Wed, 19 Nov 2025 22:04:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Specify HTTP status codes for SSE downgrade</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1844</link>
-      <description>Merged by crondinini-ant - Specify HTTP status codes for SSE downgrade</description>
-      <author>crondinini-ant</author>
-      <pubDate>Wed, 19 Nov 2025 19:41:51 +0000</pubDate>
-    </item>
-    <item>
       <title>SEP-1686: Tasks</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1732</link>
       <description>Merged by LucaButBoring - SEP-1686: Tasks</description>
@@ -354,20 +368,6 @@
       <description>Merged by pja-ant - Clarify HTTP 403 status for invalid Origin headers</description>
       <author>pja-ant</author>
       <pubDate>Fri, 19 Sep 2025 15:42:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Backport changes to `lifecycle.mdx` from `2025-06-18` to `draft`.</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/997</link>
-      <description>Merged by blkt - Backport changes to `lifecycle.mdx` from `2025-06-18` to `draft`.</description>
-      <author>blkt</author>
-      <pubDate>Fri, 18 Jul 2025 21:19:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>The Model Context Protocol - Revision 2025-06-18</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/783</link>
-      <description>Merged by dsp-ant - The Model Context Protocol - Revision 2025-06-18</description>
-      <author>dsp-ant</author>
-      <pubDate>Wed, 18 Jun 2025 20:07:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
