@@ -4,7 +4,28 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Fri, 28 Nov 2025 02:02:03 +0000</pubDate>
+    <pubDate>Sat, 29 Nov 2025 02:01:34 +0000</pubDate>
+    <item>
+      <title>Add blog post announcing SEP process migration to PRs</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1851</link>
+      <description>Merged by dsp-ant - Add blog post announcing SEP process migration to PRs</description>
+      <author>dsp-ant</author>
+      <pubDate>Fri, 28 Nov 2025 15:11:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>SEP-1850: Migrate SEP process from issues to pull requests</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1850</link>
+      <description>Merged by dsp-ant - SEP-1850: Migrate SEP process from issues to pull requests</description>
+      <author>dsp-ant</author>
+      <pubDate>Fri, 28 Nov 2025 14:33:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>The order of features in the table should be the same as on the rest of the page</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1912</link>
+      <description>Merged by a-akimov - The order of features in the table should be the same as on the rest of the page</description>
+      <author>a-akimov</author>
+      <pubDate>Fri, 28 Nov 2025 13:28:20 +0000</pubDate>
+    </item>
     <item>
       <title>Use wildcard for `specification/latest` redirect</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1091</link>
@@ -347,13 +368,6 @@
       <description>Merged by felixweinberger - Clarify SEP-1699: SSE stream resumption and polling</description>
       <author>felixweinberger</author>
       <pubDate>Thu, 20 Nov 2025 17:44:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>update genaiscript with resources support</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/343</link>
-      <description>Merged by pelikhan - update genaiscript with resources support</description>
-      <author>pelikhan</author>
-      <pubDate>Thu, 20 Nov 2025 15:23:35 +0000</pubDate>
     </item>
     <item>
       <title>SEP-1686: Tasks</title>
