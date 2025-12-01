@@ -4,7 +4,14 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Sun, 30 Nov 2025 02:22:07 +0000</pubDate>
+    <pubDate>Mon, 01 Dec 2025 02:30:58 +0000</pubDate>
+    <item>
+      <title>feat: add Langdock to the MCP clients community documentation</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1083</link>
+      <description>Merged by matsjfunke - feat: add Langdock to the MCP clients community documentation</description>
+      <author>matsjfunke</author>
+      <pubDate>Sun, 30 Nov 2025 13:37:54 +0000</pubDate>
+    </item>
     <item>
       <title>Add blog post announcing SEP process migration to PRs</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1851</link>
@@ -361,13 +368,6 @@
       <description>Merged by jonathanhefner - Fix SSE `retry` field documentation link</description>
       <author>jonathanhefner</author>
       <pubDate>Thu, 20 Nov 2025 18:51:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Clarify SEP-1699: SSE stream resumption and polling</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1852</link>
-      <description>Merged by felixweinberger - Clarify SEP-1699: SSE stream resumption and polling</description>
-      <author>felixweinberger</author>
-      <pubDate>Thu, 20 Nov 2025 17:44:26 +0000</pubDate>
     </item>
     <item>
       <title>SEP-1686: Tasks</title>
