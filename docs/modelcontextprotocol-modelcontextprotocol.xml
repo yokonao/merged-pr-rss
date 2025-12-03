@@ -4,7 +4,21 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Tue, 02 Dec 2025 02:06:48 +0000</pubDate>
+    <pubDate>Wed, 03 Dec 2025 02:06:26 +0000</pubDate>
+    <item>
+      <title>docs: update version references to 2025-11-25</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1922</link>
+      <description>Merged by felixweinberger - docs: update version references to 2025-11-25</description>
+      <author>felixweinberger</author>
+      <pubDate>Tue, 02 Dec 2025 18:49:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add rust example in Build an MCP server page</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1717</link>
+      <description>Merged by amikai - Add rust example in Build an MCP server page</description>
+      <author>amikai</author>
+      <pubDate>Tue, 02 Dec 2025 04:19:48 +0000</pubDate>
+    </item>
     <item>
       <title>docs: change heading level for &#39;icons&#39; section</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1914</link>
@@ -342,25 +356,11 @@
       <pubDate>Thu, 20 Nov 2025 23:41:25 +0000</pubDate>
     </item>
     <item>
-      <title>Move taskHint to top-level Tool.execution.task</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1854</link>
-      <description>Merged by LucaButBoring - Move taskHint to top-level Tool.execution.task</description>
-      <author>LucaButBoring</author>
-      <pubDate>Thu, 20 Nov 2025 23:41:13 +0000</pubDate>
-    </item>
-    <item>
       <title>chore: Add TaskAugmentedRequestParams to schema</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1845</link>
       <description>Merged by He-Pin - chore: Add TaskAugmentedRequestParams to schema</description>
       <author>He-Pin</author>
       <pubDate>Thu, 20 Nov 2025 23:22:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Remove deprecated taskId from cancellation notification</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1833</link>
-      <description>Merged by LucaButBoring - Remove deprecated taskId from cancellation notification</description>
-      <author>LucaButBoring</author>
-      <pubDate>Thu, 20 Nov 2025 23:21:41 +0000</pubDate>
     </item>
     <item>
       <title>chore: fix tasks.requests.tools.call from boolean to simple words</title>
