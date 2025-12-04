@@ -4,7 +4,14 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Wed, 03 Dec 2025 02:06:26 +0000</pubDate>
+    <pubDate>Thu, 04 Dec 2025 02:07:30 +0000</pubDate>
+    <item>
+      <title>Fix protocol version in Versioning page</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1910</link>
+      <description>Merged by jonathanhefner - Fix protocol version in Versioning page</description>
+      <author>jonathanhefner</author>
+      <pubDate>Wed, 03 Dec 2025 23:00:44 +0000</pubDate>
+    </item>
     <item>
       <title>docs: update version references to 2025-11-25</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1922</link>
@@ -333,27 +340,6 @@
       <description>Merged by thisistonydang - Docs: Add catch block to prevent silent failure in example TypeScript MCP client (mcp-client-typescript)</description>
       <author>thisistonydang</author>
       <pubDate>Fri, 21 Nov 2025 00:15:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Docs: Changed &#34;dash&#34; to &#34;hyphen&#34; as we expect a hyphen character here (&#34;-&#34;)</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1697</link>
-      <description>Merged by a-akimov - Docs: Changed &#34;dash&#34; to &#34;hyphen&#34; as we expect a hyphen character here (&#34;-&#34;)</description>
-      <author>a-akimov</author>
-      <pubDate>Fri, 21 Nov 2025 00:06:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Make SSE stream management slightly more explicit for tasks</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1857</link>
-      <description>Merged by LucaButBoring - Make SSE stream management slightly more explicit for tasks</description>
-      <author>LucaButBoring</author>
-      <pubDate>Thu, 20 Nov 2025 23:42:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Clarify that requestors may continue polling after calling tasks/result</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1855</link>
-      <description>Merged by LucaButBoring - Clarify that requestors may continue polling after calling tasks/result</description>
-      <author>LucaButBoring</author>
-      <pubDate>Thu, 20 Nov 2025 23:41:25 +0000</pubDate>
     </item>
     <item>
       <title>chore: Add TaskAugmentedRequestParams to schema</title>
