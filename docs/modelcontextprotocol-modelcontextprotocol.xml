@@ -4,7 +4,21 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Sat, 06 Dec 2025 02:01:02 +0000</pubDate>
+    <pubDate>Sun, 07 Dec 2025 02:22:56 +0000</pubDate>
+    <item>
+      <title>Change the detailed list of archived examples servers to a link.</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1935</link>
+      <description>Merged by a-akimov - Change the detailed list of archived examples servers to a link.</description>
+      <author>a-akimov</author>
+      <pubDate>Sat, 06 Dec 2025 15:52:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Doc: Python best practices for stdout, make consistent with other languages</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1937</link>
+      <description>Merged by a-akimov - Doc: Python best practices for stdout, make consistent with other languages</description>
+      <author>a-akimov</author>
+      <pubDate>Sat, 06 Dec 2025 15:51:16 +0000</pubDate>
+    </item>
     <item>
       <title>Fix protocol version in Versioning page</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1910</link>
