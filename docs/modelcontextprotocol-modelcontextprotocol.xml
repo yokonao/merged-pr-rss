@@ -4,7 +4,42 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Tue, 09 Dec 2025 02:07:31 +0000</pubDate>
+    <pubDate>Wed, 10 Dec 2025 02:09:44 +0000</pubDate>
+    <item>
+      <title>Remove unused landing page CSS</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1952</link>
+      <description>Merged by jonathanhefner - Remove unused landing page CSS</description>
+      <author>jonathanhefner</author>
+      <pubDate>Tue, 09 Dec 2025 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update Gemini CLI feature support matrix for instructions</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1953</link>
+      <description>Merged by chrstnb - Update Gemini CLI feature support matrix for instructions</description>
+      <author>chrstnb</author>
+      <pubDate>Tue, 09 Dec 2025 21:22:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Removed &#34;about page&#34; and</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1951</link>
+      <description>Merged by conorkel - Removed &#34;about page&#34; and</description>
+      <author>conorkel</author>
+      <pubDate>Tue, 09 Dec 2025 13:14:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>feat: add replit</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1949</link>
+      <description>Merged by darshkpatel - feat: add replit</description>
+      <author>darshkpatel</author>
+      <pubDate>Tue, 09 Dec 2025 05:47:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add MCP Apps Working Group maintainers</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1944</link>
+      <description>Merged by olaservo - Add MCP Apps Working Group maintainers</description>
+      <author>olaservo</author>
+      <pubDate>Tue, 09 Dec 2025 05:24:27 +0000</pubDate>
+    </item>
     <item>
       <title>Change the detailed list of archived examples servers to a link.</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1935</link>
@@ -347,13 +382,6 @@
       <description>Merged by a-akimov - Docs: Tools - Fix the formatting issue</description>
       <author>a-akimov</author>
       <pubDate>Fri, 21 Nov 2025 00:27:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Docs: Add catch block to prevent silent failure in example TypeScript MCP client (mcp-client-typescript)</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/499</link>
-      <description>Merged by thisistonydang - Docs: Add catch block to prevent silent failure in example TypeScript MCP client (mcp-client-typescript)</description>
-      <author>thisistonydang</author>
-      <pubDate>Fri, 21 Nov 2025 00:15:29 +0000</pubDate>
     </item>
     <item>
       <title>chore: Add TaskAugmentedRequestParams to schema</title>
