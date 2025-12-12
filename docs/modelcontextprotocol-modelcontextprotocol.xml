@@ -4,7 +4,7 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Thu, 11 Dec 2025 02:11:07 +0000</pubDate>
+    <pubDate>Fri, 12 Dec 2025 02:11:26 +0000</pubDate>
     <item>
       <title>Add Peder Holdgaard Pedersen to Financial Services Interest Group</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1954</link>
@@ -410,6 +410,13 @@
       <description>Merged by LucaButBoring - SEP-1686: Tasks</description>
       <author>LucaButBoring</author>
       <pubDate>Fri, 14 Nov 2025 22:45:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Remove unsupported fields from samples</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1623</link>
+      <description>Merged by kant2002 - Remove unsupported fields from samples</description>
+      <author>kant2002</author>
+      <pubDate>Mon, 03 Nov 2025 12:56:16 +0000</pubDate>
     </item>
     <item>
       <title>Clarify HTTP 403 status for invalid Origin headers</title>
