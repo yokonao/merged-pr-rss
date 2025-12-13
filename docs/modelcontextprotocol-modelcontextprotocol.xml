@@ -4,7 +4,56 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Fri, 12 Dec 2025 02:11:26 +0000</pubDate>
+    <pubDate>Sat, 13 Dec 2025 02:04:06 +0000</pubDate>
+    <item>
+      <title>Format tool name examples as inline code</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1971</link>
+      <description>Merged by jonathanhefner - Format tool name examples as inline code</description>
+      <author>jonathanhefner</author>
+      <pubDate>Fri, 12 Dec 2025 20:27:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>fix: GH-933 fixed the error code in the Java MCP Server documentation.</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/962</link>
+      <description>Merged by sunyuhan1998 - fix: GH-933 fixed the error code in the Java MCP Server documentation.</description>
+      <author>sunyuhan1998</author>
+      <pubDate>Fri, 12 Dec 2025 20:26:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add icons property to Data Types sections in specification docs</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1968</link>
+      <description>Merged by jonathanhefner - Add icons property to Data Types sections in specification docs</description>
+      <author>jonathanhefner</author>
+      <pubDate>Fri, 12 Dec 2025 20:07:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>fix: grammar correction in resources documentation</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1958</link>
+      <description>Merged by seuros - fix: grammar correction in resources documentation</description>
+      <author>seuros</author>
+      <pubDate>Fri, 12 Dec 2025 20:06:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Docs] Add `theme` to `icons` in Base Protocol Overview</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1965</link>
+      <description>Merged by koic - [Docs] Add `theme` to `icons` in Base Protocol Overview</description>
+      <author>koic</author>
+      <pubDate>Fri, 12 Dec 2025 20:05:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>[docs] add v0 to MCP client examples list</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1926</link>
+      <description>Merged by allenzhou101 - [docs] add v0 to MCP client examples list</description>
+      <author>allenzhou101</author>
+      <pubDate>Fri, 12 Dec 2025 16:30:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Replace deprecated server.tool() initialization snippet in getting started with server.registerTool() for TS sdk</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1950</link>
+      <description>Merged by narengogi - Replace deprecated server.tool() initialization snippet in getting started with server.registerTool() for TS sdk</description>
+      <author>narengogi</author>
+      <pubDate>Fri, 12 Dec 2025 15:49:08 +0000</pubDate>
+    </item>
     <item>
       <title>Add Peder Holdgaard Pedersen to Financial Services Interest Group</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1954</link>
@@ -384,18 +433,11 @@
       <pubDate>Fri, 21 Nov 2025 17:55:02 +0000</pubDate>
     </item>
     <item>
-      <title>Docs: Tools - Fix the formatting issue</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1696</link>
-      <description>Merged by a-akimov - Docs: Tools - Fix the formatting issue</description>
-      <author>a-akimov</author>
-      <pubDate>Fri, 21 Nov 2025 00:27:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>chore: Add TaskAugmentedRequestParams to schema</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1845</link>
-      <description>Merged by He-Pin - chore: Add TaskAugmentedRequestParams to schema</description>
-      <author>He-Pin</author>
-      <pubDate>Thu, 20 Nov 2025 23:22:15 +0000</pubDate>
+      <title>Docs: Add catch block to prevent silent failure in example TypeScript MCP client (mcp-client-typescript)</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/499</link>
+      <description>Merged by thisistonydang - Docs: Add catch block to prevent silent failure in example TypeScript MCP client (mcp-client-typescript)</description>
+      <author>thisistonydang</author>
+      <pubDate>Fri, 21 Nov 2025 00:15:29 +0000</pubDate>
     </item>
     <item>
       <title>chore: fix tasks.requests.tools.call from boolean to simple words</title>
