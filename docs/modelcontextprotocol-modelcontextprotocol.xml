@@ -4,7 +4,21 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Mon, 15 Dec 2025 02:20:57 +0000</pubDate>
+    <pubDate>Tue, 16 Dec 2025 02:11:49 +0000</pubDate>
+    <item>
+      <title>chore: update Replit client capabilities</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1974</link>
+      <description>Merged by darshkpatel - chore: update Replit client capabilities</description>
+      <author>darshkpatel</author>
+      <pubDate>Mon, 15 Dec 2025 15:12:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Docs: Build a server - Python - make in sync with a repo</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1977</link>
+      <description>Merged by a-akimov - Docs: Build a server - Python - make in sync with a repo</description>
+      <author>a-akimov</author>
+      <pubDate>Mon, 15 Dec 2025 15:08:51 +0000</pubDate>
+    </item>
     <item>
       <title>Format tool name examples as inline code</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1971</link>
@@ -419,32 +433,11 @@
       <pubDate>Fri, 21 Nov 2025 19:08:44 +0000</pubDate>
     </item>
     <item>
-      <title>Make mode in elicitation backwards compatible</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1863</link>
-      <description>Merged by pcarleton - Make mode in elicitation backwards compatible</description>
-      <author>pcarleton</author>
-      <pubDate>Fri, 21 Nov 2025 18:08:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add .idea/ to .gitignore</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1864</link>
-      <description>Merged by maxisbey - Add .idea/ to .gitignore</description>
-      <author>maxisbey</author>
-      <pubDate>Fri, 21 Nov 2025 17:55:02 +0000</pubDate>
-    </item>
-    <item>
       <title>Docs: Add catch block to prevent silent failure in example TypeScript MCP client (mcp-client-typescript)</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/499</link>
       <description>Merged by thisistonydang - Docs: Add catch block to prevent silent failure in example TypeScript MCP client (mcp-client-typescript)</description>
       <author>thisistonydang</author>
       <pubDate>Fri, 21 Nov 2025 00:15:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>chore: fix tasks.requests.tools.call from boolean to simple words</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1830</link>
-      <description>Merged by He-Pin - chore: fix tasks.requests.tools.call from boolean to simple words</description>
-      <author>He-Pin</author>
-      <pubDate>Thu, 20 Nov 2025 23:21:20 +0000</pubDate>
     </item>
     <item>
       <title>SEP-1686: Tasks</title>
