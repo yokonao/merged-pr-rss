@@ -4,7 +4,14 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Fri, 19 Dec 2025 02:10:34 +0000</pubDate>
+    <pubDate>Sat, 20 Dec 2025 02:03:35 +0000</pubDate>
+    <item>
+      <title>Draft Transport WG Blog Post (Roadmap) </title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1985</link>
+      <description>Merged by evalstate - Draft Transport WG Blog Post (Roadmap) </description>
+      <author>evalstate</author>
+      <pubDate>Fri, 19 Dec 2025 19:37:03 +0000</pubDate>
+    </item>
     <item>
       <title>docs: Clarify server-client relationship</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1631</link>
@@ -417,13 +424,6 @@
       <description>Merged by ochafik - Mcp apps blog</description>
       <author>ochafik</author>
       <pubDate>Fri, 21 Nov 2025 22:14:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>MCPB announcement blog</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1866</link>
-      <description>Merged by conorkel - MCPB announcement blog</description>
-      <author>conorkel</author>
-      <pubDate>Fri, 21 Nov 2025 19:43:36 +0000</pubDate>
     </item>
     <item>
       <title>chore: Rename `execution.task` to `execution.taskSupport`</title>
