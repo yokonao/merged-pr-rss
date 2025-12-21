@@ -4,7 +4,14 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Sat, 20 Dec 2025 02:03:35 +0000</pubDate>
+    <pubDate>Sun, 21 Dec 2025 02:23:37 +0000</pubDate>
+    <item>
+      <title>Fix MCP spec links</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1999</link>
+      <description>Merged by iqdoctor - Fix MCP spec links</description>
+      <author>iqdoctor</author>
+      <pubDate>Sat, 20 Dec 2025 16:53:46 +0000</pubDate>
+    </item>
     <item>
       <title>Draft Transport WG Blog Post (Roadmap) </title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1985</link>
@@ -417,13 +424,6 @@
       <description>Merged by ochafik - blog: add images to mcp apps post</description>
       <author>ochafik</author>
       <pubDate>Fri, 21 Nov 2025 23:02:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mcp apps blog</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1868</link>
-      <description>Merged by ochafik - Mcp apps blog</description>
-      <author>ochafik</author>
-      <pubDate>Fri, 21 Nov 2025 22:14:28 +0000</pubDate>
     </item>
     <item>
       <title>chore: Rename `execution.task` to `execution.taskSupport`</title>
