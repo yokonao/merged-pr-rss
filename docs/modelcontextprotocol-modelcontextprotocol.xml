@@ -4,7 +4,35 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Sun, 21 Dec 2025 02:23:37 +0000</pubDate>
+    <pubDate>Mon, 22 Dec 2025 02:22:35 +0000</pubDate>
+    <item>
+      <title>Add exception to nomination process to allow Group maintainers to grow maintainer pools</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1645</link>
+      <description>Merged by tadasant - Add exception to nomination process to allow Group maintainers to grow maintainer pools</description>
+      <author>tadasant</author>
+      <pubDate>Sun, 21 Dec 2025 14:45:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Clarify that empty cursors are valid cursors</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1942</link>
+      <description>Merged by stephentoub - Clarify that empty cursors are valid cursors</description>
+      <author>stephentoub</author>
+      <pubDate>Sun, 21 Dec 2025 03:11:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add `{AGENTS,CLAUDE}.md` with documentation structure overview</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1973</link>
+      <description>Merged by jonathanhefner - Add `{AGENTS,CLAUDE}.md` with documentation structure overview</description>
+      <author>jonathanhefner</author>
+      <pubDate>Sun, 21 Dec 2025 03:10:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rework clients page</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1991</link>
+      <description>Merged by jonathanhefner - Rework clients page</description>
+      <author>jonathanhefner</author>
+      <pubDate>Sun, 21 Dec 2025 02:51:46 +0000</pubDate>
+    </item>
     <item>
       <title>Fix MCP spec links</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1999</link>
@@ -396,34 +424,6 @@
       <description>Merged by halter73 - Remove elicitation response from URL Mode Elicitation Required Error Flow sequence diagram</description>
       <author>halter73</author>
       <pubDate>Sun, 23 Nov 2025 09:03:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>(chore): Revise MCP Apps extension proposal blog post</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1874</link>
-      <description>Merged by localden - (chore): Revise MCP Apps extension proposal blog post</description>
-      <author>localden</author>
-      <pubDate>Sat, 22 Nov 2025 07:42:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>(chore): Revise MCPB adoption blog post for clarity and links</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1873</link>
-      <description>Merged by localden - (chore): Revise MCPB adoption blog post for clarity and links</description>
-      <author>localden</author>
-      <pubDate>Sat, 22 Nov 2025 00:56:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>blog: fix typo in co-author name</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1872</link>
-      <description>Merged by ochafik - blog: fix typo in co-author name</description>
-      <author>ochafik</author>
-      <pubDate>Fri, 21 Nov 2025 23:41:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>blog: add images to mcp apps post</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1870</link>
-      <description>Merged by ochafik - blog: add images to mcp apps post</description>
-      <author>ochafik</author>
-      <pubDate>Fri, 21 Nov 2025 23:02:11 +0000</pubDate>
     </item>
     <item>
       <title>chore: Rename `execution.task` to `execution.taskSupport`</title>
