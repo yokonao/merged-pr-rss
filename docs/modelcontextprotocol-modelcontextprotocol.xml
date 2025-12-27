@@ -4,7 +4,21 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Fri, 26 Dec 2025 02:11:02 +0000</pubDate>
+    <pubDate>Sat, 27 Dec 2025 02:08:48 +0000</pubDate>
+    <item>
+      <title>Add Memgraph Lab as MCP client</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2013</link>
+      <description>Merged by olaservo - Add Memgraph Lab as MCP client</description>
+      <author>olaservo</author>
+      <pubDate>Fri, 26 Dec 2025 23:37:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add capability search and filter to clients page</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2002</link>
+      <description>Merged by olaservo - Add capability search and filter to clients page</description>
+      <author>olaservo</author>
+      <pubDate>Fri, 26 Dec 2025 23:30:20 +0000</pubDate>
+    </item>
     <item>
       <title>chore(clients): update goose support section</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2010</link>
@@ -431,13 +445,6 @@
       <description>Merged by He-Pin - chore: Add lastUpdatedAt to Task</description>
       <author>He-Pin</author>
       <pubDate>Mon, 24 Nov 2025 16:12:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>chore: Rename `execution.task` to `execution.taskSupport`</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1860</link>
-      <description>Merged by He-Pin - chore: Rename `execution.task` to `execution.taskSupport`</description>
-      <author>He-Pin</author>
-      <pubDate>Fri, 21 Nov 2025 19:13:37 +0000</pubDate>
     </item>
     <item>
       <title>Docs: Add catch block to prevent silent failure in example TypeScript MCP client (mcp-client-typescript)</title>
