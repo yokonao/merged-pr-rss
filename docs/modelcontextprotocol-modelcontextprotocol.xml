@@ -4,7 +4,21 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Sat, 27 Dec 2025 02:08:48 +0000</pubDate>
+    <pubDate>Sun, 28 Dec 2025 02:29:46 +0000</pubDate>
+    <item>
+      <title>Revert &#34;Add capability search and filter to clients page (#2002)&#34;</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2016</link>
+      <description>Merged by jonathanhefner - Revert &#34;Add capability search and filter to clients page (#2002)&#34;</description>
+      <author>jonathanhefner</author>
+      <pubDate>Sat, 27 Dec 2025 02:32:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update client filter UI layout</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2015</link>
+      <description>Merged by jonathanhefner - Update client filter UI layout</description>
+      <author>jonathanhefner</author>
+      <pubDate>Sat, 27 Dec 2025 02:21:50 +0000</pubDate>
+    </item>
     <item>
       <title>Add Memgraph Lab as MCP client</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2013</link>
@@ -431,20 +445,6 @@
       <description>Merged by tnorimat - Clarify Token Handling section description</description>
       <author>tnorimat</author>
       <pubDate>Mon, 24 Nov 2025 21:27:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add &#39;extensions&#39; to community contributions list</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1883</link>
-      <description>Merged by thoorp - Add &#39;extensions&#39; to community contributions list</description>
-      <author>thoorp</author>
-      <pubDate>Mon, 24 Nov 2025 20:50:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>chore: Add lastUpdatedAt to Task</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1875</link>
-      <description>Merged by He-Pin - chore: Add lastUpdatedAt to Task</description>
-      <author>He-Pin</author>
-      <pubDate>Mon, 24 Nov 2025 16:12:33 +0000</pubDate>
     </item>
     <item>
       <title>Docs: Add catch block to prevent silent failure in example TypeScript MCP client (mcp-client-typescript)</title>
