@@ -4,7 +4,35 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Mon, 29 Dec 2025 02:27:21 +0000</pubDate>
+    <pubDate>Tue, 30 Dec 2025 02:18:32 +0000</pubDate>
+    <item>
+      <title>Adding rtrvr.ai as listed MCP Client</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1889</link>
+      <description>Merged by arjunchint - Adding rtrvr.ai as listed MCP Client</description>
+      <author>arjunchint</author>
+      <pubDate>Mon, 29 Dec 2025 23:22:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add Firebender to clients list</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2027</link>
+      <description>Merged by jonathanhefner - Add Firebender to clients list</description>
+      <author>jonathanhefner</author>
+      <pubDate>Mon, 29 Dec 2025 21:33:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>docs(build-server): updating test with commands section</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2024</link>
+      <description>Merged by Ofsen - docs(build-server): updating test with commands section</description>
+      <author>Ofsen</author>
+      <pubDate>Mon, 29 Dec 2025 18:07:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add capability search and filter to clients page</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2020</link>
+      <description>Merged by olaservo - Add capability search and filter to clients page</description>
+      <author>olaservo</author>
+      <pubDate>Mon, 29 Dec 2025 16:48:32 +0000</pubDate>
+    </item>
     <item>
       <title>Revert &#34;Add capability search and filter to clients page (#2002)&#34;</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2016</link>
