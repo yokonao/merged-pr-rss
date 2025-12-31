@@ -4,7 +4,14 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Tue, 30 Dec 2025 02:18:32 +0000</pubDate>
+    <pubDate>Wed, 31 Dec 2025 02:18:40 +0000</pubDate>
+    <item>
+      <title>Use MDX parser for comment detection in `check-mdx-comments` script</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2026</link>
+      <description>Merged by jonathanhefner - Use MDX parser for comment detection in `check-mdx-comments` script</description>
+      <author>jonathanhefner</author>
+      <pubDate>Tue, 30 Dec 2025 02:28:18 +0000</pubDate>
+    </item>
     <item>
       <title>Adding rtrvr.ai as listed MCP Client</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1889</link>
