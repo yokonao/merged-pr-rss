@@ -4,7 +4,14 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Fri, 02 Jan 2026 02:20:47 +0000</pubDate>
+    <pubDate>Sat, 03 Jan 2026 02:07:55 +0000</pubDate>
+    <item>
+      <title>docs: Updated Example clients - added new `mcpc` client, fixed link to Apify MCP server</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2041</link>
+      <description>Merged by jancurn - docs: Updated Example clients - added new `mcpc` client, fixed link to Apify MCP server</description>
+      <author>jancurn</author>
+      <pubDate>Sat, 03 Jan 2026 00:24:52 +0000</pubDate>
+    </item>
     <item>
       <title>Add Codex to clients page</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2037</link>
@@ -466,13 +473,6 @@
       <description>Merged by YunKuiLu - Update the concepts docs with the changes from PR #663</description>
       <author>YunKuiLu</author>
       <pubDate>Mon, 24 Nov 2025 22:04:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sync changes to pre-release</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1890</link>
-      <description>Merged by localden - Sync changes to pre-release</description>
-      <author>localden</author>
-      <pubDate>Mon, 24 Nov 2025 21:48:05 +0000</pubDate>
     </item>
     <item>
       <title>Docs: Add catch block to prevent silent failure in example TypeScript MCP client (mcp-client-typescript)</title>
