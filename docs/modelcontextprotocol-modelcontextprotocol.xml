@@ -4,7 +4,14 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Sun, 04 Jan 2026 02:31:47 +0000</pubDate>
+    <pubDate>Mon, 05 Jan 2026 02:31:11 +0000</pubDate>
+    <item>
+      <title>Upgrade Schema Reference page</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2038</link>
+      <description>Merged by jonathanhefner - Upgrade Schema Reference page</description>
+      <author>jonathanhefner</author>
+      <pubDate>Sun, 04 Jan 2026 18:58:20 +0000</pubDate>
+    </item>
     <item>
       <title>docs: Updated Example clients - added new `mcpc` client, fixed link to Apify MCP server</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2041</link>
