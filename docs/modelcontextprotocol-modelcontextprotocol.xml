@@ -4,7 +4,42 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Mon, 05 Jan 2026 02:31:11 +0000</pubDate>
+    <pubDate>Tue, 06 Jan 2026 02:20:19 +0000</pubDate>
+    <item>
+      <title>Add Jonathan Hefner to Ruby SDK maintainers</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1992</link>
+      <description>Merged by atesgoral - Add Jonathan Hefner to Ruby SDK maintainers</description>
+      <author>atesgoral</author>
+      <pubDate>Mon, 05 Jan 2026 23:43:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add MCPBundles to MCP client list</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1882</link>
+      <description>Merged by TonyLLondon - Add MCPBundles to MCP client list</description>
+      <author>TonyLLondon</author>
+      <pubDate>Mon, 05 Jan 2026 22:36:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>chore: update licensing to Apache 2.0 for new contributions</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1994</link>
+      <description>Merged by domdomegg - chore: update licensing to Apache 2.0 for new contributions</description>
+      <author>domdomegg</author>
+      <pubDate>Mon, 05 Jan 2026 18:57:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Doc] Fix dead links for Claude Code in clients list</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2052</link>
+      <description>Merged by koic - [Doc] Fix dead links for Claude Code in clients list</description>
+      <author>koic</author>
+      <pubDate>Mon, 05 Jan 2026 18:17:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Clarify HTTP POST vs JSON-RPC request terminology</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2034</link>
+      <description>Merged by DaleSeo - Clarify HTTP POST vs JSON-RPC request terminology</description>
+      <author>DaleSeo</author>
+      <pubDate>Mon, 05 Jan 2026 11:31:34 +0000</pubDate>
+    </item>
     <item>
       <title>Upgrade Schema Reference page</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2038</link>
@@ -459,20 +494,6 @@
       <description>Merged by jesselumarie - docs: small docs change + bundled schema formatting script</description>
       <author>jesselumarie</author>
       <pubDate>Mon, 24 Nov 2025 22:55:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Small Documentation Tweak for Resource Template Lists</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/816</link>
-      <description>Merged by patwhite - Small Documentation Tweak for Resource Template Lists</description>
-      <author>patwhite</author>
-      <pubDate>Mon, 24 Nov 2025 22:13:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs: stdio transport - explicit use of stderr for logging</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/670</link>
-      <description>Merged by dwmkerr - docs: stdio transport - explicit use of stderr for logging</description>
-      <author>dwmkerr</author>
-      <pubDate>Mon, 24 Nov 2025 22:11:05 +0000</pubDate>
     </item>
     <item>
       <title>Update the concepts docs with the changes from PR #663</title>
