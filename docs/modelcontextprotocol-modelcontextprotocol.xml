@@ -4,7 +4,14 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Tue, 06 Jan 2026 02:20:19 +0000</pubDate>
+    <pubDate>Wed, 07 Jan 2026 02:20:01 +0000</pubDate>
+    <item>
+      <title>feat: add opencode to available clients</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2049</link>
+      <description>Merged by paoloricciuti - feat: add opencode to available clients</description>
+      <author>paoloricciuti</author>
+      <pubDate>Tue, 06 Jan 2026 13:15:53 +0000</pubDate>
+    </item>
     <item>
       <title>Add Jonathan Hefner to Ruby SDK maintainers</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1992</link>
