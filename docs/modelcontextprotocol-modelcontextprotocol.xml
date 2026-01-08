@@ -4,7 +4,21 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Wed, 07 Jan 2026 02:20:01 +0000</pubDate>
+    <pubDate>Thu, 08 Jan 2026 02:20:43 +0000</pubDate>
+    <item>
+      <title>Add &#39;Discovery&#39; support to Claude Code client</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2063</link>
+      <description>Merged by olaservo - Add &#39;Discovery&#39; support to Claude Code client</description>
+      <author>olaservo</author>
+      <pubDate>Wed, 07 Jan 2026 23:00:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Keep TOC section numbers aligned</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2057</link>
+      <description>Merged by tomdai - Keep TOC section numbers aligned</description>
+      <author>tomdai</author>
+      <pubDate>Wed, 07 Jan 2026 15:33:59 +0000</pubDate>
+    </item>
     <item>
       <title>feat: add opencode to available clients</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2049</link>
