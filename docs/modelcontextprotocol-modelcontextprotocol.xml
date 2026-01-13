@@ -4,7 +4,7 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Mon, 12 Jan 2026 02:27:11 +0000</pubDate>
+    <pubDate>Tue, 13 Jan 2026 02:18:41 +0000</pubDate>
     <item>
       <title>Add &#39;Discovery&#39; support to Claude Code client</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2063</link>
@@ -543,6 +543,13 @@
       <description>Merged by kant2002 - Remove unsupported fields from samples</description>
       <author>kant2002</author>
       <pubDate>Mon, 03 Nov 2025 12:56:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>docs: fix API key format guidance to prevent common errors</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1673</link>
+      <description>Merged by YogeshK34 - docs: fix API key format guidance to prevent common errors</description>
+      <author>YogeshK34</author>
+      <pubDate>Mon, 20 Oct 2025 14:05:22 +0000</pubDate>
     </item>
     <item>
       <title>feat: enhance auth server discovery with OAuth2 and OpenID metadata support</title>
