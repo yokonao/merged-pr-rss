@@ -4,7 +4,21 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Wed, 14 Jan 2026 02:25:39 +0000</pubDate>
+    <pubDate>Thu, 15 Jan 2026 02:20:17 +0000</pubDate>
+    <item>
+      <title>Fix protocolVersion values in initialize messages</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2035</link>
+      <description>Merged by mikekistler - Fix protocolVersion values in initialize messages</description>
+      <author>mikekistler</author>
+      <pubDate>Wed, 14 Jan 2026 21:12:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Revise sampling specification to define all valid request and response fields</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/531</link>
+      <description>Merged by LucaButBoring - Revise sampling specification to define all valid request and response fields</description>
+      <author>LucaButBoring</author>
+      <pubDate>Wed, 14 Jan 2026 19:46:09 +0000</pubDate>
+    </item>
     <item>
       <title>Add &#39;Discovery&#39; support to Claude Code client</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2063</link>
@@ -391,13 +405,6 @@
       <pubDate>Fri, 14 Nov 2025 22:45:05 +0000</pubDate>
     </item>
     <item>
-      <title>SEP-1036: URL Mode Elicitation for secure out-of-band interactions</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/887</link>
-      <description>Merged by nbarbettini - SEP-1036: URL Mode Elicitation for secure out-of-band interactions</description>
-      <author>nbarbettini</author>
-      <pubDate>Thu, 13 Nov 2025 14:48:07 +0000</pubDate>
-    </item>
-    <item>
       <title>Add spec link to server instructions blog post</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1784</link>
       <description>Merged by olaservo - Add spec link to server instructions blog post</description>
@@ -566,13 +573,6 @@
       <pubDate>Wed, 15 Oct 2025 11:11:47 +0000</pubDate>
     </item>
     <item>
-      <title>Futher roots security clarifications</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1639</link>
-      <description>Merged by cliffhall - Futher roots security clarifications</description>
-      <author>cliffhall</author>
-      <pubDate>Mon, 13 Oct 2025 14:49:31 +0000</pubDate>
-    </item>
-    <item>
       <title>(docs) Authorization guide</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1326</link>
       <description>Merged by localden - (docs) Authorization guide</description>
@@ -585,20 +585,6 @@
       <description>Merged by olaservo - docs: Add Meeting Calendar information for Interest and Working Groups</description>
       <author>olaservo</author>
       <pubDate>Fri, 10 Oct 2025 08:17:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs: improve Claude Desktop restart instructions in troubleshooting</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1620</link>
-      <description>Merged by sdmcraft - docs: improve Claude Desktop restart instructions in troubleshooting</description>
-      <author>sdmcraft</author>
-      <pubDate>Wed, 08 Oct 2025 18:56:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>fix: remove trailing whitespace in clients Needle entry</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1618</link>
-      <description>Merged by evalstate - fix: remove trailing whitespace in clients Needle entry</description>
-      <author>evalstate</author>
-      <pubDate>Tue, 07 Oct 2025 14:35:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
