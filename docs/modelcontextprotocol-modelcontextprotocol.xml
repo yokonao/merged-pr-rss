@@ -4,7 +4,14 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Fri, 16 Jan 2026 02:22:08 +0000</pubDate>
+    <pubDate>Sat, 17 Jan 2026 02:09:22 +0000</pubDate>
+    <item>
+      <title>(chore): Update the security reporting guidelines</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2098</link>
+      <description>Merged by localden - (chore): Update the security reporting guidelines</description>
+      <author>localden</author>
+      <pubDate>Fri, 16 Jan 2026 21:23:05 +0000</pubDate>
+    </item>
     <item>
       <title>(chore): Documentation updates</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2097</link>
@@ -496,13 +503,6 @@
       <pubDate>Fri, 31 Oct 2025 20:06:55 +0000</pubDate>
     </item>
     <item>
-      <title>docs: clean up Resources section to remove repetition</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1713</link>
-      <description>Merged by mst2k - docs: clean up Resources section to remove repetition</description>
-      <author>mst2k</author>
-      <pubDate>Mon, 27 Oct 2025 11:56:07 +0000</pubDate>
-    </item>
-    <item>
       <title>Community/docs: update supported capabilities for Postman client</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1714</link>
       <description>Merged by david-davidson - Community/docs: update supported capabilities for Postman client</description>
@@ -566,25 +566,11 @@
       <pubDate>Tue, 21 Oct 2025 20:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>docs: Add MCP Bundler to the clients list</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1640</link>
-      <description>Merged by eugenepyvovarov - docs: Add MCP Bundler to the clients list</description>
-      <author>eugenepyvovarov</author>
-      <pubDate>Mon, 20 Oct 2025 14:14:39 +0000</pubDate>
-    </item>
-    <item>
       <title>docs: fix API key format guidance to prevent common errors</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1673</link>
       <description>Merged by YogeshK34 - docs: fix API key format guidance to prevent common errors</description>
       <author>YogeshK34</author>
       <pubDate>Mon, 20 Oct 2025 14:05:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add Additional Client Representatives to Client Implementors Interest Group Maintainers</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1657</link>
-      <description>Merged by olaservo - Add Additional Client Representatives to Client Implementors Interest Group Maintainers</description>
-      <author>olaservo</author>
-      <pubDate>Thu, 16 Oct 2025 14:12:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
