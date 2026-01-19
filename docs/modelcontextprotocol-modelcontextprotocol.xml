@@ -4,7 +4,14 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Sun, 18 Jan 2026 02:30:02 +0000</pubDate>
+    <pubDate>Mon, 19 Jan 2026 02:27:24 +0000</pubDate>
+    <item>
+      <title>Fix a typo</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2114</link>
+      <description>Merged by koic - Fix a typo</description>
+      <author>koic</author>
+      <pubDate>Sun, 18 Jan 2026 18:24:49 +0000</pubDate>
+    </item>
     <item>
       <title>(chore): Update the security reporting guidelines</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2098</link>
@@ -503,6 +510,13 @@
       <pubDate>Fri, 31 Oct 2025 20:06:55 +0000</pubDate>
     </item>
     <item>
+      <title>docs: clean up Resources section to remove repetition</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1713</link>
+      <description>Merged by mst2k - docs: clean up Resources section to remove repetition</description>
+      <author>mst2k</author>
+      <pubDate>Mon, 27 Oct 2025 11:56:07 +0000</pubDate>
+    </item>
+    <item>
       <title>Community/docs: update supported capabilities for Postman client</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1714</link>
       <description>Merged by david-davidson - Community/docs: update supported capabilities for Postman client</description>
@@ -550,20 +564,6 @@
       <description>Merged by koic - Fix dead links in clients list</description>
       <author>koic</author>
       <pubDate>Wed, 22 Oct 2025 11:48:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fix typo: &#34;RFC 9278&#34; =&gt; &#34;RFC 9728&#34;</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1680</link>
-      <description>Merged by jonathanhefner - Fix typo: &#34;RFC 9278&#34; =&gt; &#34;RFC 9728&#34;</description>
-      <author>jonathanhefner</author>
-      <pubDate>Tue, 21 Oct 2025 21:42:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Docs] Fix typos</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1689</link>
-      <description>Merged by koic - [Docs] Fix typos</description>
-      <author>koic</author>
-      <pubDate>Tue, 21 Oct 2025 20:30:00 +0000</pubDate>
     </item>
     <item>
       <title>docs: fix API key format guidance to prevent common errors</title>
