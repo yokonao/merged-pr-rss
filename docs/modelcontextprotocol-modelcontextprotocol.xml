@@ -4,7 +4,7 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Tue, 20 Jan 2026 02:22:14 +0000</pubDate>
+    <pubDate>Wed, 21 Jan 2026 02:25:15 +0000</pubDate>
     <item>
       <title>Fix a typo</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2114</link>
@@ -510,13 +510,6 @@
       <pubDate>Fri, 31 Oct 2025 20:06:55 +0000</pubDate>
     </item>
     <item>
-      <title>docs: clean up Resources section to remove repetition</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1713</link>
-      <description>Merged by mst2k - docs: clean up Resources section to remove repetition</description>
-      <author>mst2k</author>
-      <pubDate>Mon, 27 Oct 2025 11:56:07 +0000</pubDate>
-    </item>
-    <item>
       <title>Community/docs: update supported capabilities for Postman client</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1714</link>
       <description>Merged by david-davidson - Community/docs: update supported capabilities for Postman client</description>
@@ -566,11 +559,11 @@
       <pubDate>Wed, 22 Oct 2025 11:48:10 +0000</pubDate>
     </item>
     <item>
-      <title>docs: fix API key format guidance to prevent common errors</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1673</link>
-      <description>Merged by YogeshK34 - docs: fix API key format guidance to prevent common errors</description>
-      <author>YogeshK34</author>
-      <pubDate>Mon, 20 Oct 2025 14:05:22 +0000</pubDate>
+      <title>Fix typo: &#34;RFC 9278&#34; =&gt; &#34;RFC 9728&#34;</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1680</link>
+      <description>Merged by jonathanhefner - Fix typo: &#34;RFC 9278&#34; =&gt; &#34;RFC 9728&#34;</description>
+      <author>jonathanhefner</author>
+      <pubDate>Tue, 21 Oct 2025 21:42:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
