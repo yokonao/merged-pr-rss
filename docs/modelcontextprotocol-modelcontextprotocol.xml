@@ -4,7 +4,49 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Thu, 22 Jan 2026 02:26:29 +0000</pubDate>
+    <pubDate>Fri, 23 Jan 2026 02:22:39 +0000</pubDate>
+    <item>
+      <title>Add Sarah Novotny as co-author on Working Group Charter Template SEP</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2130</link>
+      <description>Merged by sarahnovotny - Add Sarah Novotny as co-author on Working Group Charter Template SEP</description>
+      <author>sarahnovotny</author>
+      <pubDate>Thu, 22 Jan 2026 23:05:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>MCP Apps documentation tweaks</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2135</link>
+      <description>Merged by jonathanhefner - MCP Apps documentation tweaks</description>
+      <author>jonathanhefner</author>
+      <pubDate>Thu, 22 Jan 2026 23:04:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Migrate remaining SEPs missed in PR #1804</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2136</link>
+      <description>Merged by dsp-ant - Migrate remaining SEPs missed in PR #1804</description>
+      <author>dsp-ant</author>
+      <pubDate>Thu, 22 Jan 2026 22:00:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>SEP-2085: Governance Succession and Amendment Procedures</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2085</link>
+      <description>Merged by dsp-ant - SEP-2085: Governance Succession and Amendment Procedures</description>
+      <author>dsp-ant</author>
+      <pubDate>Thu, 22 Jan 2026 15:27:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Migrate final and closed SEPs to seps/ directory</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1804</link>
+      <description>Merged by dsp-ant - Migrate final and closed SEPs to seps/ directory</description>
+      <author>dsp-ant</author>
+      <pubDate>Thu, 22 Jan 2026 14:31:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>feat: add script and workflow to render SEPs as documentation</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2087</link>
+      <description>Merged by dsp-ant - feat: add script and workflow to render SEPs as documentation</description>
+      <author>dsp-ant</author>
+      <pubDate>Thu, 22 Jan 2026 14:11:56 +0000</pubDate>
+    </item>
     <item>
       <title>Fix a typo</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2114</link>
@@ -461,13 +503,6 @@
       <pubDate>Sat, 08 Nov 2025 16:47:41 +0000</pubDate>
     </item>
     <item>
-      <title>Fix `scroll-margin-top` for schema reference page</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1775</link>
-      <description>Merged by jonathanhefner - Fix `scroll-margin-top` for schema reference page</description>
-      <author>jonathanhefner</author>
-      <pubDate>Sat, 08 Nov 2025 16:12:27 +0000</pubDate>
-    </item>
-    <item>
       <title>Remove lorem ispum placeholder</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1719</link>
       <description>Merged by platypii - Remove lorem ispum placeholder</description>
@@ -496,53 +531,11 @@
       <pubDate>Sun, 02 Nov 2025 21:50:54 +0000</pubDate>
     </item>
     <item>
-      <title>Update count of compatible clients</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1759</link>
-      <description>Merged by koic - Update count of compatible clients</description>
-      <author>koic</author>
-      <pubDate>Sun, 02 Nov 2025 21:49:21 +0000</pubDate>
-    </item>
-    <item>
       <title>Update roadmap to reflect November 2025 release priorities</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1570</link>
       <description>Merged by dsp-ant - Update roadmap to reflect November 2025 release priorities</description>
       <author>dsp-ant</author>
       <pubDate>Fri, 31 Oct 2025 20:06:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs: clean up Resources section to remove repetition</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1713</link>
-      <description>Merged by mst2k - docs: clean up Resources section to remove repetition</description>
-      <author>mst2k</author>
-      <pubDate>Mon, 27 Oct 2025 11:56:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Community/docs: update supported capabilities for Postman client</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1714</link>
-      <description>Merged by david-davidson - Community/docs: update supported capabilities for Postman client</description>
-      <author>david-davidson</author>
-      <pubDate>Fri, 24 Oct 2025 21:08:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Docs: cursor doesn&#39;t support sampling</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1705</link>
-      <description>Merged by Imgodmaoyouknow - Docs: cursor doesn&#39;t support sampling</description>
-      <author>Imgodmaoyouknow</author>
-      <pubDate>Thu, 23 Oct 2025 21:52:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add LM-Kit.NET client details to documentation</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1691</link>
-      <description>Merged by lcarrere - Add LM-Kit.NET client details to documentation</description>
-      <author>lcarrere</author>
-      <pubDate>Wed, 22 Oct 2025 16:55:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fix dead links in clients list</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1353</link>
-      <description>Merged by koic - Fix dead links in clients list</description>
-      <author>koic</author>
-      <pubDate>Wed, 22 Oct 2025 11:48:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
