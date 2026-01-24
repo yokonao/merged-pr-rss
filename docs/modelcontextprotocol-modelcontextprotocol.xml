@@ -4,7 +4,35 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Fri, 23 Jan 2026 02:22:39 +0000</pubDate>
+    <pubDate>Sat, 24 Jan 2026 02:12:25 +0000</pubDate>
+    <item>
+      <title>Add note on updating sandbox technologies</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2011</link>
+      <description>Merged by loganaden - Add note on updating sandbox technologies</description>
+      <author>loganaden</author>
+      <pubDate>Sat, 24 Jan 2026 01:41:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add Sarah Novotny as co-author on SEP-0000</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2129</link>
+      <description>Merged by sarahnovotny - Add Sarah Novotny as co-author on SEP-0000</description>
+      <author>sarahnovotny</author>
+      <pubDate>Sat, 24 Jan 2026 01:40:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>(blog): Core Maintainer Update</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2137</link>
+      <description>Merged by localden - (blog): Core Maintainer Update</description>
+      <author>localden</author>
+      <pubDate>Fri, 23 Jan 2026 17:53:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update Glama listing + add Tasks</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2125</link>
+      <description>Merged by punkpeye - Update Glama listing + add Tasks</description>
+      <author>punkpeye</author>
+      <pubDate>Fri, 23 Jan 2026 15:34:03 +0000</pubDate>
+    </item>
     <item>
       <title>Add Sarah Novotny as co-author on Working Group Charter Template SEP</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2130</link>
@@ -349,13 +377,6 @@
       <pubDate>Tue, 02 Dec 2025 18:49:20 +0000</pubDate>
     </item>
     <item>
-      <title>Add rust example in Build an MCP server page</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1717</link>
-      <description>Merged by amikai - Add rust example in Build an MCP server page</description>
-      <author>amikai</author>
-      <pubDate>Tue, 02 Dec 2025 04:19:48 +0000</pubDate>
-    </item>
-    <item>
       <title>[Doc] Update redirect source URL for the latest protocol version in &#34;Architecture overview&#34;</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1919</link>
       <description>Merged by koic - [Doc] Update redirect source URL for the latest protocol version in &#34;Architecture overview&#34;</description>
@@ -489,53 +510,11 @@
       <pubDate>Mon, 17 Nov 2025 14:10:22 +0000</pubDate>
     </item>
     <item>
-      <title>SEP-1686: Tasks</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1732</link>
-      <description>Merged by LucaButBoring - SEP-1686: Tasks</description>
-      <author>LucaButBoring</author>
-      <pubDate>Fri, 14 Nov 2025 22:45:05 +0000</pubDate>
-    </item>
-    <item>
       <title>Add spec link to server instructions blog post</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1784</link>
       <description>Merged by olaservo - Add spec link to server instructions blog post</description>
       <author>olaservo</author>
       <pubDate>Sat, 08 Nov 2025 16:47:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Remove lorem ispum placeholder</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1719</link>
-      <description>Merged by platypii - Remove lorem ispum placeholder</description>
-      <author>platypii</author>
-      <pubDate>Tue, 04 Nov 2025 19:36:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add Server Instructions blog post and update clients table</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1482</link>
-      <description>Merged by olaservo - Add Server Instructions blog post and update clients table</description>
-      <author>olaservo</author>
-      <pubDate>Tue, 04 Nov 2025 04:29:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add community MCP client Avatar-Shell</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1729</link>
-      <description>Merged by mfukushim - Add community MCP client Avatar-Shell</description>
-      <author>mfukushim</author>
-      <pubDate>Sun, 02 Nov 2025 22:13:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs: Add prompts, discovery, and elicitations to Tambo MCP support</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1736</link>
-      <description>Merged by MichaelMilstead - docs: Add prompts, discovery, and elicitations to Tambo MCP support</description>
-      <author>MichaelMilstead</author>
-      <pubDate>Sun, 02 Nov 2025 21:50:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Update roadmap to reflect November 2025 release priorities</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1570</link>
-      <description>Merged by dsp-ant - Update roadmap to reflect November 2025 release priorities</description>
-      <author>dsp-ant</author>
-      <pubDate>Fri, 31 Oct 2025 20:06:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
