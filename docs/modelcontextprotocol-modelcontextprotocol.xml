@@ -4,7 +4,14 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Sun, 25 Jan 2026 02:33:48 +0000</pubDate>
+    <pubDate>Mon, 26 Jan 2026 02:32:47 +0000</pubDate>
+    <item>
+      <title>Added the description for the version field</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1609</link>
+      <description>Merged by a-akimov - Added the description for the version field</description>
+      <author>a-akimov</author>
+      <pubDate>Mon, 26 Jan 2026 01:32:29 +0000</pubDate>
+    </item>
     <item>
       <title>Add note on updating sandbox technologies</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2011</link>
@@ -419,13 +426,6 @@
       <pubDate>Wed, 26 Nov 2025 15:42:31 +0000</pubDate>
     </item>
     <item>
-      <title>Add follow_redirects=True to NWS httpx example</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1829</link>
-      <description>Merged by metamath1 - Add follow_redirects=True to NWS httpx example</description>
-      <author>metamath1</author>
-      <pubDate>Wed, 26 Nov 2025 12:57:42 +0000</pubDate>
-    </item>
-    <item>
       <title>docs: Remove incorrect `Resources` support for Cursor MCP client.</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1902</link>
       <description>Merged by pattobrien - docs: Remove incorrect `Resources` support for Cursor MCP client.</description>
@@ -496,13 +496,6 @@
       <pubDate>Wed, 19 Nov 2025 12:20:37 +0000</pubDate>
     </item>
     <item>
-      <title>Update goose MCP support with accurate feature coverage</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1823</link>
-      <description>Merged by blackgirlbytes - Update goose MCP support with accurate feature coverage</description>
-      <author>blackgirlbytes</author>
-      <pubDate>Mon, 17 Nov 2025 18:52:34 +0000</pubDate>
-    </item>
-    <item>
       <title>Update build-client.mdx</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1810</link>
       <description>Merged by piotr-gawron - Update build-client.mdx</description>
@@ -510,11 +503,11 @@
       <pubDate>Mon, 17 Nov 2025 14:10:22 +0000</pubDate>
     </item>
     <item>
-      <title>Add spec link to server instructions blog post</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1784</link>
-      <description>Merged by olaservo - Add spec link to server instructions blog post</description>
-      <author>olaservo</author>
-      <pubDate>Sat, 08 Nov 2025 16:47:41 +0000</pubDate>
+      <title>SEP-1686: Tasks</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1732</link>
+      <description>Merged by LucaButBoring - SEP-1686: Tasks</description>
+      <author>LucaButBoring</author>
+      <pubDate>Fri, 14 Nov 2025 22:45:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
