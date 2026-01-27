@@ -4,7 +4,56 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Mon, 26 Jan 2026 02:32:47 +0000</pubDate>
+    <pubDate>Tue, 27 Jan 2026 02:28:33 +0000</pubDate>
+    <item>
+      <title>SEP-2133: Extensions framework for MCP</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2133</link>
+      <description>Merged by pja-ant - SEP-2133: Extensions framework for MCP</description>
+      <author>pja-ant</author>
+      <pubDate>Mon, 26 Jan 2026 23:57:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add JSONRPCResponse and SamplingMessageContentBlock to generated schema</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2055</link>
+      <description>Merged by halter73 - Add JSONRPCResponse and SamplingMessageContentBlock to generated schema</description>
+      <author>halter73</author>
+      <pubDate>Mon, 26 Jan 2026 23:37:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Regenerate SEP documentation</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2153</link>
+      <description>Merged by pja-ant - Regenerate SEP documentation</description>
+      <author>pja-ant</author>
+      <pubDate>Mon, 26 Jan 2026 23:18:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update with feedback link</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2150</link>
+      <description>Merged by localden - Update with feedback link</description>
+      <author>localden</author>
+      <pubDate>Mon, 26 Jan 2026 17:59:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>(blog): MCP Apps</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2138</link>
+      <description>Merged by localden - (blog): MCP Apps</description>
+      <author>localden</author>
+      <pubDate>Mon, 26 Jan 2026 17:47:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>(docs): MCP Apps documentation</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2105</link>
+      <description>Merged by localden - (docs): MCP Apps documentation</description>
+      <author>localden</author>
+      <pubDate>Mon, 26 Jan 2026 17:35:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>docs(spec): clarify Allow header requirement for 405 responses</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2132</link>
+      <description>Merged by SamMorrowDrums - docs(spec): clarify Allow header requirement for 405 responses</description>
+      <author>SamMorrowDrums</author>
+      <pubDate>Mon, 26 Jan 2026 15:58:41 +0000</pubDate>
+    </item>
     <item>
       <title>Added the description for the version field</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1609</link>
@@ -405,13 +454,6 @@
       <pubDate>Fri, 28 Nov 2025 15:11:43 +0000</pubDate>
     </item>
     <item>
-      <title>SEP-1850: Migrate SEP process from issues to pull requests</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1850</link>
-      <description>Merged by dsp-ant - SEP-1850: Migrate SEP process from issues to pull requests</description>
-      <author>dsp-ant</author>
-      <pubDate>Fri, 28 Nov 2025 14:33:09 +0000</pubDate>
-    </item>
-    <item>
       <title>The order of features in the table should be the same as on the rest of the page</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1912</link>
       <description>Merged by a-akimov - The order of features in the table should be the same as on the rest of the page</description>
@@ -431,13 +473,6 @@
       <description>Merged by pattobrien - docs: Remove incorrect `Resources` support for Cursor MCP client.</description>
       <author>pattobrien</author>
       <pubDate>Wed, 26 Nov 2025 12:55:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add 2025-11-25 MCP specification</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1887</link>
-      <description>Merged by localden - Add 2025-11-25 MCP specification</description>
-      <author>localden</author>
-      <pubDate>Tue, 25 Nov 2025 21:06:46 +0000</pubDate>
     </item>
     <item>
       <title>Rename &#39;Node&#39; tab to &#39;TypeScript&#39; in quickstart docs</title>
@@ -487,27 +522,6 @@
       <description>Merged by pelikhan - update genaiscript with resources support</description>
       <author>pelikhan</author>
       <pubDate>Thu, 20 Nov 2025 15:23:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fix a typo</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1838</link>
-      <description>Merged by koic - Fix a typo</description>
-      <author>koic</author>
-      <pubDate>Wed, 19 Nov 2025 12:20:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Update build-client.mdx</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1810</link>
-      <description>Merged by piotr-gawron - Update build-client.mdx</description>
-      <author>piotr-gawron</author>
-      <pubDate>Mon, 17 Nov 2025 14:10:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>SEP-1686: Tasks</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1732</link>
-      <description>Merged by LucaButBoring - SEP-1686: Tasks</description>
-      <author>LucaButBoring</author>
-      <pubDate>Fri, 14 Nov 2025 22:45:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
