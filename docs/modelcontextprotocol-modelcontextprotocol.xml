@@ -4,7 +4,21 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Wed, 28 Jan 2026 02:24:41 +0000</pubDate>
+    <pubDate>Thu, 29 Jan 2026 02:41:46 +0000</pubDate>
+    <item>
+      <title>SEP-1865: MCP Apps - Interactive User Interfaces for MCP</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1865</link>
+      <description>Merged by idosal - SEP-1865: MCP Apps - Interactive User Interfaces for MCP</description>
+      <author>idosal</author>
+      <pubDate>Wed, 28 Jan 2026 18:08:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Doc] Rename &#34;capabilities&#34; to &#34;features&#34; on clients page</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2161</link>
+      <description>Merged by koic - [Doc] Rename &#34;capabilities&#34; to &#34;features&#34; on clients page</description>
+      <author>koic</author>
+      <pubDate>Wed, 28 Jan 2026 10:29:31 +0000</pubDate>
+    </item>
     <item>
       <title>SEP-2133 Amendment: Add Experimental Extensions Framework</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2158</link>
@@ -489,13 +503,6 @@
       <pubDate>Mon, 01 Dec 2025 13:00:28 +0000</pubDate>
     </item>
     <item>
-      <title>feat: add Langdock to the MCP clients community documentation</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1083</link>
-      <description>Merged by matsjfunke - feat: add Langdock to the MCP clients community documentation</description>
-      <author>matsjfunke</author>
-      <pubDate>Sun, 30 Nov 2025 13:37:54 +0000</pubDate>
-    </item>
-    <item>
       <title>The order of features in the table should be the same as on the rest of the page</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1912</link>
       <description>Merged by a-akimov - The order of features in the table should be the same as on the rest of the page</description>
@@ -515,20 +522,6 @@
       <description>Merged by pattobrien - docs: Remove incorrect `Resources` support for Cursor MCP client.</description>
       <author>pattobrien</author>
       <pubDate>Wed, 26 Nov 2025 12:55:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fix TypeScript server example: remove invalid capabilities option</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1901</link>
-      <description>Merged by domdomegg - Fix TypeScript server example: remove invalid capabilities option</description>
-      <author>domdomegg</author>
-      <pubDate>Tue, 25 Nov 2025 19:48:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Update the concepts docs with the changes from PR #663</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/869</link>
-      <description>Merged by YunKuiLu - Update the concepts docs with the changes from PR #663</description>
-      <author>YunKuiLu</author>
-      <pubDate>Mon, 24 Nov 2025 22:04:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
