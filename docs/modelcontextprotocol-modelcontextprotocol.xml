@@ -4,7 +4,14 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Thu, 29 Jan 2026 02:41:46 +0000</pubDate>
+    <pubDate>Fri, 30 Jan 2026 02:42:23 +0000</pubDate>
+    <item>
+      <title>docs(extensions): Fix MCP server endpoint path in apps guide</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2172</link>
+      <description>Merged by moritalous - docs(extensions): Fix MCP server endpoint path in apps guide</description>
+      <author>moritalous</author>
+      <pubDate>Thu, 29 Jan 2026 14:46:33 +0000</pubDate>
+    </item>
     <item>
       <title>SEP-1865: MCP Apps - Interactive User Interfaces for MCP</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1865</link>
