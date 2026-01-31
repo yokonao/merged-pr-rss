@@ -4,7 +4,84 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Fri, 30 Jan 2026 02:42:23 +0000</pubDate>
+    <pubDate>Sat, 31 Jan 2026 02:37:47 +0000</pubDate>
+    <item>
+      <title>Add guidance for `instructions` field in `InitializeResult`</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2184</link>
+      <description>Merged by jonathanhefner - Add guidance for `instructions` field in `InitializeResult`</description>
+      <author>jonathanhefner</author>
+      <pubDate>Sat, 31 Jan 2026 00:02:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add Apigene MCP Client to client list</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2160</link>
+      <description>Merged by yaniv-apigene - Add Apigene MCP Client to client list</description>
+      <author>yaniv-apigene</author>
+      <pubDate>Fri, 30 Jan 2026 23:03:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update nicknotfun to nickcoai</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2183</link>
+      <description>Merged by nickcoai - Update nicknotfun to nickcoai</description>
+      <author>nickcoai</author>
+      <pubDate>Fri, 30 Jan 2026 21:41:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add Apps capability to client documentation</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2142</link>
+      <description>Merged by Copilot - Add Apps capability to client documentation</description>
+      <author>Copilot</author>
+      <pubDate>Fri, 30 Jan 2026 20:09:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bump actions/upload-pages-artifact from 3 to 4</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2181</link>
+      <description>Merged by dependabot[bot] - Bump actions/upload-pages-artifact from 3 to 4</description>
+      <author>dependabot[bot]</author>
+      <pubDate>Fri, 30 Jan 2026 16:23:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Community feedback iteration (rev 1) on SEP-1649 (MCP Server Cards)</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2152</link>
+      <description>Merged by tadasant - Community feedback iteration (rev 1) on SEP-1649 (MCP Server Cards)</description>
+      <author>tadasant</author>
+      <pubDate>Fri, 30 Jan 2026 16:23:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bump actions/setup-node from 4 to 6</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2182</link>
+      <description>Merged by dependabot[bot] - Bump actions/setup-node from 4 to 6</description>
+      <author>dependabot[bot]</author>
+      <pubDate>Fri, 30 Jan 2026 12:12:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bump actions/checkout from 4 to 6</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2180</link>
+      <description>Merged by dependabot[bot] - Bump actions/checkout from 4 to 6</description>
+      <author>dependabot[bot]</author>
+      <pubDate>Fri, 30 Jan 2026 11:58:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bump actions/upload-artifact from 4 to 6</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2179</link>
+      <description>Merged by dependabot[bot] - Bump actions/upload-artifact from 4 to 6</description>
+      <author>dependabot[bot]</author>
+      <pubDate>Fri, 30 Jan 2026 11:56:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>docs: Add contributing guide and improve community documentation</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2162</link>
+      <description>Merged by dsp-ant - docs: Add contributing guide and improve community documentation</description>
+      <author>dsp-ant</author>
+      <pubDate>Fri, 30 Jan 2026 11:53:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Enable Dependabot for GitHub Actions</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2168</link>
+      <description>Merged by koic - Enable Dependabot for GitHub Actions</description>
+      <author>koic</author>
+      <pubDate>Fri, 30 Jan 2026 11:48:19 +0000</pubDate>
+    </item>
     <item>
       <title>docs(extensions): Fix MCP server endpoint path in apps guide</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2172</link>
@@ -426,13 +503,6 @@
       <pubDate>Sat, 20 Dec 2025 16:53:46 +0000</pubDate>
     </item>
     <item>
-      <title>chore: update Replit client capabilities</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1974</link>
-      <description>Merged by darshkpatel - chore: update Replit client capabilities</description>
-      <author>darshkpatel</author>
-      <pubDate>Mon, 15 Dec 2025 15:12:57 +0000</pubDate>
-    </item>
-    <item>
       <title>Docs: Build a server - Python - make in sync with a repo</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1977</link>
       <description>Merged by a-akimov - Docs: Build a server - Python - make in sync with a repo</description>
@@ -440,46 +510,11 @@
       <pubDate>Mon, 15 Dec 2025 15:08:51 +0000</pubDate>
     </item>
     <item>
-      <title>[docs] add v0 to MCP client examples list</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1926</link>
-      <description>Merged by allenzhou101 - [docs] add v0 to MCP client examples list</description>
-      <author>allenzhou101</author>
-      <pubDate>Fri, 12 Dec 2025 16:30:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Replace deprecated server.tool() initialization snippet in getting started with server.registerTool() for TS sdk</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1950</link>
-      <description>Merged by narengogi - Replace deprecated server.tool() initialization snippet in getting started with server.registerTool() for TS sdk</description>
-      <author>narengogi</author>
-      <pubDate>Fri, 12 Dec 2025 15:49:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Remove unused landing page CSS</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1952</link>
-      <description>Merged by jonathanhefner - Remove unused landing page CSS</description>
-      <author>jonathanhefner</author>
-      <pubDate>Tue, 09 Dec 2025 22:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Update Gemini CLI feature support matrix for instructions</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1953</link>
       <description>Merged by chrstnb - Update Gemini CLI feature support matrix for instructions</description>
       <author>chrstnb</author>
       <pubDate>Tue, 09 Dec 2025 21:22:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Removed &#34;about page&#34; and</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1951</link>
-      <description>Merged by conorkel - Removed &#34;about page&#34; and</description>
-      <author>conorkel</author>
-      <pubDate>Tue, 09 Dec 2025 13:14:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>feat: add replit</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1949</link>
-      <description>Merged by darshkpatel - feat: add replit</description>
-      <author>darshkpatel</author>
-      <pubDate>Tue, 09 Dec 2025 05:47:15 +0000</pubDate>
     </item>
     <item>
       <title>Change the detailed list of archived examples servers to a link.</title>
@@ -494,41 +529,6 @@
       <description>Merged by a-akimov - Doc: Python best practices for stdout, make consistent with other languages</description>
       <author>a-akimov</author>
       <pubDate>Sat, 06 Dec 2025 15:51:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs: update version references to 2025-11-25</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1922</link>
-      <description>Merged by felixweinberger - docs: update version references to 2025-11-25</description>
-      <author>felixweinberger</author>
-      <pubDate>Tue, 02 Dec 2025 18:49:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Doc] Update redirect source URL for the latest protocol version in &#34;Architecture overview&#34;</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1919</link>
-      <description>Merged by koic - [Doc] Update redirect source URL for the latest protocol version in &#34;Architecture overview&#34;</description>
-      <author>koic</author>
-      <pubDate>Mon, 01 Dec 2025 13:00:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>The order of features in the table should be the same as on the rest of the page</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1912</link>
-      <description>Merged by a-akimov - The order of features in the table should be the same as on the rest of the page</description>
-      <author>a-akimov</author>
-      <pubDate>Fri, 28 Nov 2025 13:28:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Use wildcard for `specification/latest` redirect</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1091</link>
-      <description>Merged by jonathanhefner - Use wildcard for `specification/latest` redirect</description>
-      <author>jonathanhefner</author>
-      <pubDate>Wed, 26 Nov 2025 15:42:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs: Remove incorrect `Resources` support for Cursor MCP client.</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1902</link>
-      <description>Merged by pattobrien - docs: Remove incorrect `Resources` support for Cursor MCP client.</description>
-      <author>pattobrien</author>
-      <pubDate>Wed, 26 Nov 2025 12:55:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
