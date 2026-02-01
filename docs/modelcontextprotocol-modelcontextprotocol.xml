@@ -4,7 +4,7 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Sat, 31 Jan 2026 02:37:47 +0000</pubDate>
+    <pubDate>Sun, 01 Feb 2026 03:19:52 +0000</pubDate>
     <item>
       <title>Add guidance for `instructions` field in `InitializeResult`</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2184</link>
