@@ -4,7 +4,21 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Mon, 02 Feb 2026 02:52:34 +0000</pubDate>
+    <pubDate>Tue, 03 Feb 2026 02:48:42 +0000</pubDate>
+    <item>
+      <title>SEP-1730: SDK tiers definition</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1777</link>
+      <description>Merged by ihrpr - SEP-1730: SDK tiers definition</description>
+      <author>ihrpr</author>
+      <pubDate>Mon, 02 Feb 2026 23:56:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fix broken PR links in SEP documents</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2195</link>
+      <description>Merged by jonathanhefner - Fix broken PR links in SEP documents</description>
+      <author>jonathanhefner</author>
+      <pubDate>Mon, 02 Feb 2026 23:46:40 +0000</pubDate>
+    </item>
     <item>
       <title>Add guidance for `instructions` field in `InitializeResult`</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2184</link>
@@ -391,6 +405,13 @@
       <pubDate>Tue, 06 Jan 2026 13:15:53 +0000</pubDate>
     </item>
     <item>
+      <title>chore: update licensing to Apache 2.0 for new contributions</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1994</link>
+      <description>Merged by domdomegg - chore: update licensing to Apache 2.0 for new contributions</description>
+      <author>domdomegg</author>
+      <pubDate>Mon, 05 Jan 2026 18:57:17 +0000</pubDate>
+    </item>
+    <item>
       <title>[Doc] Fix dead links for Claude Code in clients list</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2052</link>
       <description>Merged by koic - [Doc] Fix dead links for Claude Code in clients list</description>
@@ -461,13 +482,6 @@
       <pubDate>Sat, 27 Dec 2025 02:21:50 +0000</pubDate>
     </item>
     <item>
-      <title>Add Memgraph Lab as MCP client</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2013</link>
-      <description>Merged by olaservo - Add Memgraph Lab as MCP client</description>
-      <author>olaservo</author>
-      <pubDate>Fri, 26 Dec 2025 23:37:26 +0000</pubDate>
-    </item>
-    <item>
       <title>Add capability search and filter to clients page</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2002</link>
       <description>Merged by olaservo - Add capability search and filter to clients page</description>
@@ -489,39 +503,11 @@
       <pubDate>Thu, 25 Dec 2025 02:09:12 +0000</pubDate>
     </item>
     <item>
-      <title>Rework clients page</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1991</link>
-      <description>Merged by jonathanhefner - Rework clients page</description>
-      <author>jonathanhefner</author>
-      <pubDate>Sun, 21 Dec 2025 02:51:46 +0000</pubDate>
-    </item>
-    <item>
       <title>Fix MCP spec links</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1999</link>
       <description>Merged by iqdoctor - Fix MCP spec links</description>
       <author>iqdoctor</author>
       <pubDate>Sat, 20 Dec 2025 16:53:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Docs: Build a server - Python - make in sync with a repo</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1977</link>
-      <description>Merged by a-akimov - Docs: Build a server - Python - make in sync with a repo</description>
-      <author>a-akimov</author>
-      <pubDate>Mon, 15 Dec 2025 15:08:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Update Gemini CLI feature support matrix for instructions</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1953</link>
-      <description>Merged by chrstnb - Update Gemini CLI feature support matrix for instructions</description>
-      <author>chrstnb</author>
-      <pubDate>Tue, 09 Dec 2025 21:22:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Doc: Python best practices for stdout, make consistent with other languages</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1937</link>
-      <description>Merged by a-akimov - Doc: Python best practices for stdout, make consistent with other languages</description>
-      <author>a-akimov</author>
-      <pubDate>Sat, 06 Dec 2025 15:51:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
