@@ -4,7 +4,35 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Tue, 03 Feb 2026 02:48:42 +0000</pubDate>
+    <pubDate>Wed, 04 Feb 2026 02:43:22 +0000</pubDate>
+    <item>
+      <title>Add weekly SEP review reminder workflow</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2192</link>
+      <description>Merged by dsp-ant - Add weekly SEP review reminder workflow</description>
+      <author>dsp-ant</author>
+      <pubDate>Tue, 03 Feb 2026 15:46:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Display MCP features as color-coded badges on clients page</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2193</link>
+      <description>Merged by jonathanhefner - Display MCP features as color-coded badges on clients page</description>
+      <author>jonathanhefner</author>
+      <pubDate>Tue, 03 Feb 2026 15:42:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Use Mintlify&#39;s built-in `&lt;Badge&gt;` component for SEP pages</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2194</link>
+      <description>Merged by jonathanhefner - Use Mintlify&#39;s built-in `&lt;Badge&gt;` component for SEP pages</description>
+      <author>jonathanhefner</author>
+      <pubDate>Tue, 03 Feb 2026 04:13:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update Core Maintainers list to sync with governance.mdx</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2198</link>
+      <description>Merged by olaservo - Update Core Maintainers list to sync with governance.mdx</description>
+      <author>olaservo</author>
+      <pubDate>Tue, 03 Feb 2026 04:12:39 +0000</pubDate>
+    </item>
     <item>
       <title>SEP-1730: SDK tiers definition</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1777</link>
@@ -384,25 +412,11 @@
       <pubDate>Wed, 14 Jan 2026 19:46:09 +0000</pubDate>
     </item>
     <item>
-      <title>Add &#39;Discovery&#39; support to Claude Code client</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2063</link>
-      <description>Merged by olaservo - Add &#39;Discovery&#39; support to Claude Code client</description>
-      <author>olaservo</author>
-      <pubDate>Wed, 07 Jan 2026 23:00:16 +0000</pubDate>
-    </item>
-    <item>
       <title>Keep TOC section numbers aligned</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2057</link>
       <description>Merged by tomdai - Keep TOC section numbers aligned</description>
       <author>tomdai</author>
       <pubDate>Wed, 07 Jan 2026 15:33:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>feat: add opencode to available clients</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2049</link>
-      <description>Merged by paoloricciuti - feat: add opencode to available clients</description>
-      <author>paoloricciuti</author>
-      <pubDate>Tue, 06 Jan 2026 13:15:53 +0000</pubDate>
     </item>
     <item>
       <title>chore: update licensing to Apache 2.0 for new contributions</title>
@@ -412,102 +426,81 @@
       <pubDate>Mon, 05 Jan 2026 18:57:17 +0000</pubDate>
     </item>
     <item>
-      <title>[Doc] Fix dead links for Claude Code in clients list</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2052</link>
-      <description>Merged by koic - [Doc] Fix dead links for Claude Code in clients list</description>
+      <title>Fix link to MCP Authorization specification</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1979</link>
+      <description>Merged by pamelafox - Fix link to MCP Authorization specification</description>
+      <author>pamelafox</author>
+      <pubDate>Wed, 17 Dec 2025 04:19:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add 2025-11-25 MCP specification</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1887</link>
+      <description>Merged by localden - Add 2025-11-25 MCP specification</description>
+      <author>localden</author>
+      <pubDate>Tue, 25 Nov 2025 21:06:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sync changes into spec</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1894</link>
+      <description>Merged by localden - Sync changes into spec</description>
+      <author>localden</author>
+      <pubDate>Tue, 25 Nov 2025 06:16:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>editorial auth language edits</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1892</link>
+      <description>Merged by aaronpk - editorial auth language edits</description>
+      <author>aaronpk</author>
+      <pubDate>Tue, 25 Nov 2025 06:12:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sync changes to pre-release</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1890</link>
+      <description>Merged by localden - Sync changes to pre-release</description>
+      <author>localden</author>
+      <pubDate>Mon, 24 Nov 2025 21:48:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>[auth] swap CIMD SSRF wording for IETF draft reference</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1840</link>
+      <description>Merged by pcarleton - [auth] swap CIMD SSRF wording for IETF draft reference</description>
+      <author>pcarleton</author>
+      <pubDate>Thu, 20 Nov 2025 10:11:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>[auth] Add client priority list for client registration methods</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1839</link>
+      <description>Merged by pcarleton - [auth] Add client priority list for client registration methods</description>
+      <author>pcarleton</author>
+      <pubDate>Thu, 20 Nov 2025 10:11:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>add description of authorization extensions to main authorization spec page</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1707</link>
+      <description>Merged by aaronpk - add description of authorization extensions to main authorization spec page</description>
+      <author>aaronpk</author>
+      <pubDate>Sat, 15 Nov 2025 00:13:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>SEP-991 specification changes; OAuth client id metadata document</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1296</link>
+      <description>Merged by pcarleton - SEP-991 specification changes; OAuth client id metadata document</description>
+      <author>pcarleton</author>
+      <pubDate>Fri, 14 Nov 2025 16:12:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Docs] Fix typos</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1689</link>
+      <description>Merged by koic - [Docs] Fix typos</description>
       <author>koic</author>
-      <pubDate>Mon, 05 Jan 2026 18:17:05 +0000</pubDate>
+      <pubDate>Tue, 21 Oct 2025 20:30:00 +0000</pubDate>
     </item>
     <item>
-      <title>Upgrade Schema Reference page</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2038</link>
-      <description>Merged by jonathanhefner - Upgrade Schema Reference page</description>
-      <author>jonathanhefner</author>
-      <pubDate>Sun, 04 Jan 2026 18:58:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs: Updated Example clients - added new `mcpc` client, fixed link to Apify MCP server</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2041</link>
-      <description>Merged by jancurn - docs: Updated Example clients - added new `mcpc` client, fixed link to Apify MCP server</description>
-      <author>jancurn</author>
-      <pubDate>Sat, 03 Jan 2026 00:24:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add Codex to clients page</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2037</link>
-      <description>Merged by olaservo - Add Codex to clients page</description>
-      <author>olaservo</author>
-      <pubDate>Thu, 01 Jan 2026 01:03:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Migrate Shadow plugin id</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2031</link>
-      <description>Merged by Goooler - Migrate Shadow plugin id</description>
-      <author>Goooler</author>
-      <pubDate>Wed, 31 Dec 2025 17:26:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add Firebender to clients list</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2027</link>
-      <description>Merged by jonathanhefner - Add Firebender to clients list</description>
-      <author>jonathanhefner</author>
-      <pubDate>Mon, 29 Dec 2025 21:33:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs(build-server): updating test with commands section</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2024</link>
-      <description>Merged by Ofsen - docs(build-server): updating test with commands section</description>
-      <author>Ofsen</author>
-      <pubDate>Mon, 29 Dec 2025 18:07:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add capability search and filter to clients page</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2020</link>
-      <description>Merged by olaservo - Add capability search and filter to clients page</description>
-      <author>olaservo</author>
-      <pubDate>Mon, 29 Dec 2025 16:48:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Revert &#34;Add capability search and filter to clients page (#2002)&#34;</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2016</link>
-      <description>Merged by jonathanhefner - Revert &#34;Add capability search and filter to clients page (#2002)&#34;</description>
-      <author>jonathanhefner</author>
-      <pubDate>Sat, 27 Dec 2025 02:32:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Update client filter UI layout</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2015</link>
-      <description>Merged by jonathanhefner - Update client filter UI layout</description>
-      <author>jonathanhefner</author>
-      <pubDate>Sat, 27 Dec 2025 02:21:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add capability search and filter to clients page</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2002</link>
-      <description>Merged by olaservo - Add capability search and filter to clients page</description>
-      <author>olaservo</author>
-      <pubDate>Fri, 26 Dec 2025 23:30:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>chore(clients): update goose support section</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2010</link>
-      <description>Merged by alexhancock - chore(clients): update goose support section</description>
-      <author>alexhancock</author>
-      <pubDate>Thu, 25 Dec 2025 02:10:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Update instructions for creating MCP Host/Client in C#</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2012</link>
-      <description>Merged by mikekistler - Update instructions for creating MCP Host/Client in C#</description>
-      <author>mikekistler</author>
-      <pubDate>Thu, 25 Dec 2025 02:09:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fix MCP spec links</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1999</link>
-      <description>Merged by iqdoctor - Fix MCP spec links</description>
-      <author>iqdoctor</author>
-      <pubDate>Sat, 20 Dec 2025 16:53:46 +0000</pubDate>
+      <title>(docs): Update consent prompt guidelines for MCP servers</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1587</link>
+      <description>Merged by localden - (docs): Update consent prompt guidelines for MCP servers</description>
+      <author>localden</author>
+      <pubDate>Tue, 14 Oct 2025 09:47:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
