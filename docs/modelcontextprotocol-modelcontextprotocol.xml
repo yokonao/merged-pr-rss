@@ -4,7 +4,14 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Thu, 05 Feb 2026 02:45:26 +0000</pubDate>
+    <pubDate>Fri, 06 Feb 2026 02:45:49 +0000</pubDate>
+    <item>
+      <title>[Doc] Fix Prettier format check failure</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2213</link>
+      <description>Merged by koic - [Doc] Fix Prettier format check failure</description>
+      <author>koic</author>
+      <pubDate>Thu, 05 Feb 2026 21:20:36 +0000</pubDate>
+    </item>
     <item>
       <title>Add weekly SEP review reminder workflow</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2192</link>
@@ -410,13 +417,6 @@
       <description>Merged by LucaButBoring - Revise sampling specification to define all valid request and response fields</description>
       <author>LucaButBoring</author>
       <pubDate>Wed, 14 Jan 2026 19:46:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Keep TOC section numbers aligned</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2057</link>
-      <description>Merged by tomdai - Keep TOC section numbers aligned</description>
-      <author>tomdai</author>
-      <pubDate>Wed, 07 Jan 2026 15:33:59 +0000</pubDate>
     </item>
     <item>
       <title>chore: update licensing to Apache 2.0 for new contributions</title>
