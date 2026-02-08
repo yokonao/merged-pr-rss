@@ -4,7 +4,14 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Sat, 07 Feb 2026 02:41:06 +0000</pubDate>
+    <pubDate>Sun, 08 Feb 2026 03:25:13 +0000</pubDate>
+    <item>
+      <title>(docs): Extensions doc refactor</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2197</link>
+      <description>Merged by localden - (docs): Extensions doc refactor</description>
+      <author>localden</author>
+      <pubDate>Sat, 07 Feb 2026 05:25:21 +0000</pubDate>
+    </item>
     <item>
       <title>[Doc] Fix Prettier format check failure</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2213</link>
@@ -403,13 +410,6 @@
       <description>Merged by pja-ant - fix(schema): move annotations to correct location in EmbeddedResource example</description>
       <author>pja-ant</author>
       <pubDate>Thu, 15 Jan 2026 15:39:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fix protocolVersion values in initialize messages</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2035</link>
-      <description>Merged by mikekistler - Fix protocolVersion values in initialize messages</description>
-      <author>mikekistler</author>
-      <pubDate>Wed, 14 Jan 2026 21:12:37 +0000</pubDate>
     </item>
     <item>
       <title>Revise sampling specification to define all valid request and response fields</title>
