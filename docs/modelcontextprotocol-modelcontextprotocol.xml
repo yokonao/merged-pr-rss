@@ -4,7 +4,42 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Mon, 09 Feb 2026 02:53:23 +0000</pubDate>
+    <pubDate>Tue, 10 Feb 2026 03:18:09 +0000</pubDate>
+    <item>
+      <title>(docs): Update SBP with SSRF protection note</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2196</link>
+      <description>Merged by localden - (docs): Update SBP with SSRF protection note</description>
+      <author>localden</author>
+      <pubDate>Mon, 09 Feb 2026 20:18:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Document CSP requirements for MCP App UI resources</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2228</link>
+      <description>Merged by jonathanhefner - Document CSP requirements for MCP App UI resources</description>
+      <author>jonathanhefner</author>
+      <pubDate>Mon, 09 Feb 2026 20:04:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Clarify that sampling `tools` are scoped to the request</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2217</link>
+      <description>Merged by jonathanhefner - Clarify that sampling `tools` are scoped to the request</description>
+      <author>jonathanhefner</author>
+      <pubDate>Mon, 09 Feb 2026 14:33:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>(docs): MCP Apps clarificaton</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2221</link>
+      <description>Merged by localden - (docs): MCP Apps clarificaton</description>
+      <author>localden</author>
+      <pubDate>Mon, 09 Feb 2026 14:29:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add Tapan Chugh as maintainer for Primitive Grouping Interest Group</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2225</link>
+      <description>Merged by cliffhall - Add Tapan Chugh as maintainer for Primitive Grouping Interest Group</description>
+      <author>cliffhall</author>
+      <pubDate>Mon, 09 Feb 2026 14:28:41 +0000</pubDate>
+    </item>
     <item>
       <title>(docs): Extensions doc refactor</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2197</link>
@@ -370,53 +405,11 @@
       <pubDate>Fri, 16 Jan 2026 21:23:05 +0000</pubDate>
     </item>
     <item>
-      <title>(chore): Documentation updates</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2097</link>
-      <description>Merged by localden - (chore): Documentation updates</description>
-      <author>localden</author>
-      <pubDate>Fri, 16 Jan 2026 01:18:46 +0000</pubDate>
-    </item>
-    <item>
       <title>Fix typos in specification</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2095</link>
       <description>Merged by pja-ant - Fix typos in specification</description>
       <author>pja-ant</author>
       <pubDate>Thu, 15 Jan 2026 23:45:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fix blog theme toggle button</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2096</link>
-      <description>Merged by pja-ant - Fix blog theme toggle button</description>
-      <author>pja-ant</author>
-      <pubDate>Thu, 15 Jan 2026 23:44:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>fix: Correct the link to 2020-12 schema dialect</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2089</link>
-      <description>Merged by bilaloumehdi - fix: Correct the link to 2020-12 schema dialect</description>
-      <author>bilaloumehdi</author>
-      <pubDate>Thu, 15 Jan 2026 15:56:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fix broken CallToolRequest schema link in tools.mdx</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2073</link>
-      <description>Merged by faridjaff - Fix broken CallToolRequest schema link in tools.mdx</description>
-      <author>faridjaff</author>
-      <pubDate>Thu, 15 Jan 2026 15:55:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>fix(schema): move annotations to correct location in EmbeddedResource example</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2092</link>
-      <description>Merged by pja-ant - fix(schema): move annotations to correct location in EmbeddedResource example</description>
-      <author>pja-ant</author>
-      <pubDate>Thu, 15 Jan 2026 15:39:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Revise sampling specification to define all valid request and response fields</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/531</link>
-      <description>Merged by LucaButBoring - Revise sampling specification to define all valid request and response fields</description>
-      <author>LucaButBoring</author>
-      <pubDate>Wed, 14 Jan 2026 19:46:09 +0000</pubDate>
     </item>
     <item>
       <title>chore: update licensing to Apache 2.0 for new contributions</title>
