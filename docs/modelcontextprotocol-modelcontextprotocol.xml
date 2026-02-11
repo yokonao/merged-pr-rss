@@ -4,7 +4,28 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Tue, 10 Feb 2026 03:18:09 +0000</pubDate>
+    <pubDate>Wed, 11 Feb 2026 03:16:01 +0000</pubDate>
+    <item>
+      <title>Tailor logging guidance to each language in `build-server` docs</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1970</link>
+      <description>Merged by jonathanhefner - Tailor logging guidance to each language in `build-server` docs</description>
+      <author>jonathanhefner</author>
+      <pubDate>Tue, 10 Feb 2026 03:42:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Style Schema Reference index-property-only types</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2215</link>
+      <description>Merged by jonathanhefner - Style Schema Reference index-property-only types</description>
+      <author>jonathanhefner</author>
+      <pubDate>Tue, 10 Feb 2026 03:39:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add Apidog MCP Client to client list</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2169</link>
+      <description>Merged by Winkyky - Add Apidog MCP Client to client list</description>
+      <author>Winkyky</author>
+      <pubDate>Tue, 10 Feb 2026 03:37:04 +0000</pubDate>
+    </item>
     <item>
       <title>(docs): Update SBP with SSRF protection note</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2196</link>
@@ -389,20 +410,6 @@
       <description>Merged by dsp-ant - feat: add script and workflow to render SEPs as documentation</description>
       <author>dsp-ant</author>
       <pubDate>Thu, 22 Jan 2026 14:11:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fix a typo</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2114</link>
-      <description>Merged by koic - Fix a typo</description>
-      <author>koic</author>
-      <pubDate>Sun, 18 Jan 2026 18:24:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>(chore): Update the security reporting guidelines</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2098</link>
-      <description>Merged by localden - (chore): Update the security reporting guidelines</description>
-      <author>localden</author>
-      <pubDate>Fri, 16 Jan 2026 21:23:05 +0000</pubDate>
     </item>
     <item>
       <title>Fix typos in specification</title>
