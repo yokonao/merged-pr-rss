@@ -4,7 +4,21 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Wed, 11 Feb 2026 03:16:01 +0000</pubDate>
+    <pubDate>Thu, 12 Feb 2026 02:55:24 +0000</pubDate>
+    <item>
+      <title>chore: skip SEP reminder job on forks</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2233</link>
+      <description>Merged by LucaButBoring - chore: skip SEP reminder job on forks</description>
+      <author>LucaButBoring</author>
+      <pubDate>Wed, 11 Feb 2026 20:40:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add DCR/CIMD filter for Example Clients</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2079</link>
+      <description>Merged by rohit-ganguly - Add DCR/CIMD filter for Example Clients</description>
+      <author>rohit-ganguly</author>
+      <pubDate>Wed, 11 Feb 2026 16:04:30 +0000</pubDate>
+    </item>
     <item>
       <title>Tailor logging guidance to each language in `build-server` docs</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1970</link>
