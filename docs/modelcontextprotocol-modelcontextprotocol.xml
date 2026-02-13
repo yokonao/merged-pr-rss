@@ -4,7 +4,14 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Thu, 12 Feb 2026 02:55:24 +0000</pubDate>
+    <pubDate>Fri, 13 Feb 2026 02:55:43 +0000</pubDate>
+    <item>
+      <title>Add resources and prompts to supported features for Memgraph Lab</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2241</link>
+      <description>Merged by tonilastre - Add resources and prompts to supported features for Memgraph Lab</description>
+      <author>tonilastre</author>
+      <pubDate>Fri, 13 Feb 2026 00:34:27 +0000</pubDate>
+    </item>
     <item>
       <title>chore: skip SEP reminder job on forks</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2233</link>
