@@ -4,7 +4,7 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Fri, 13 Feb 2026 02:55:43 +0000</pubDate>
+    <pubDate>Sat, 14 Feb 2026 02:43:03 +0000</pubDate>
     <item>
       <title>Add resources and prompts to supported features for Memgraph Lab</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2241</link>
@@ -424,13 +424,6 @@
       <description>Merged by dsp-ant - Migrate final and closed SEPs to seps/ directory</description>
       <author>dsp-ant</author>
       <pubDate>Thu, 22 Jan 2026 14:31:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>feat: add script and workflow to render SEPs as documentation</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2087</link>
-      <description>Merged by dsp-ant - feat: add script and workflow to render SEPs as documentation</description>
-      <author>dsp-ant</author>
-      <pubDate>Thu, 22 Jan 2026 14:11:56 +0000</pubDate>
     </item>
     <item>
       <title>Fix typos in specification</title>
