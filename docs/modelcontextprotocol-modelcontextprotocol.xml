@@ -4,7 +4,21 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Sat, 14 Feb 2026 02:43:03 +0000</pubDate>
+    <pubDate>Sun, 15 Feb 2026 02:56:39 +0000</pubDate>
+    <item>
+      <title>Add npm ecosystem to Dependabot configuration</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2236</link>
+      <description>Merged by koic - Add npm ecosystem to Dependabot configuration</description>
+      <author>koic</author>
+      <pubDate>Sat, 14 Feb 2026 18:25:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Clarify relationship between `server.json` and MCP Server Cards</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2186</link>
+      <description>Merged by tadasant - Clarify relationship between `server.json` and MCP Server Cards</description>
+      <author>tadasant</author>
+      <pubDate>Sat, 14 Feb 2026 13:38:05 +0000</pubDate>
+    </item>
     <item>
       <title>Add resources and prompts to supported features for Memgraph Lab</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2241</link>
@@ -417,13 +431,6 @@
       <description>Merged by dsp-ant - SEP-2085: Governance Succession and Amendment Procedures</description>
       <author>dsp-ant</author>
       <pubDate>Thu, 22 Jan 2026 15:27:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Migrate final and closed SEPs to seps/ directory</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1804</link>
-      <description>Merged by dsp-ant - Migrate final and closed SEPs to seps/ directory</description>
-      <author>dsp-ant</author>
-      <pubDate>Thu, 22 Jan 2026 14:31:44 +0000</pubDate>
     </item>
     <item>
       <title>Fix typos in specification</title>
