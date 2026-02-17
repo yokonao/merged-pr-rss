@@ -4,7 +4,35 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Mon, 16 Feb 2026 02:51:59 +0000</pubDate>
+    <pubDate>Tue, 17 Feb 2026 02:48:31 +0000</pubDate>
+    <item>
+      <title>Bump glob from 11.1.0 to 13.0.3</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2251</link>
+      <description>Merged by dependabot[bot] - Bump glob from 11.1.0 to 13.0.3</description>
+      <author>dependabot[bot]</author>
+      <pubDate>Mon, 16 Feb 2026 16:47:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bump typedoc from 0.28.16 to 0.28.17</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2252</link>
+      <description>Merged by dependabot[bot] - Bump typedoc from 0.28.16 to 0.28.17</description>
+      <author>dependabot[bot]</author>
+      <pubDate>Mon, 16 Feb 2026 16:45:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bump ajv from 8.17.1 to 8.18.0</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2253</link>
+      <description>Merged by dependabot[bot] - Bump ajv from 8.17.1 to 8.18.0</description>
+      <author>dependabot[bot]</author>
+      <pubDate>Mon, 16 Feb 2026 16:42:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mark rendered SEP docs as `linguist-generated`</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2258</link>
+      <description>Merged by jonathanhefner - Mark rendered SEP docs as `linguist-generated`</description>
+      <author>jonathanhefner</author>
+      <pubDate>Mon, 16 Feb 2026 12:26:29 +0000</pubDate>
+    </item>
     <item>
       <title>Add npm ecosystem to Dependabot configuration</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2236</link>
@@ -403,27 +431,6 @@
       <description>Merged by punkpeye - Update Glama listing + add Tasks</description>
       <author>punkpeye</author>
       <pubDate>Fri, 23 Jan 2026 15:34:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add Sarah Novotny as co-author on Working Group Charter Template SEP</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2130</link>
-      <description>Merged by sarahnovotny - Add Sarah Novotny as co-author on Working Group Charter Template SEP</description>
-      <author>sarahnovotny</author>
-      <pubDate>Thu, 22 Jan 2026 23:05:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>MCP Apps documentation tweaks</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2135</link>
-      <description>Merged by jonathanhefner - MCP Apps documentation tweaks</description>
-      <author>jonathanhefner</author>
-      <pubDate>Thu, 22 Jan 2026 23:04:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Migrate remaining SEPs missed in PR #1804</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2136</link>
-      <description>Merged by dsp-ant - Migrate remaining SEPs missed in PR #1804</description>
-      <author>dsp-ant</author>
-      <pubDate>Thu, 22 Jan 2026 22:00:57 +0000</pubDate>
     </item>
     <item>
       <title>SEP-2085: Governance Succession and Amendment Procedures</title>
