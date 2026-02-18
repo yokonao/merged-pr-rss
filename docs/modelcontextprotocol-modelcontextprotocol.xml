@@ -4,7 +4,14 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Tue, 17 Feb 2026 02:48:31 +0000</pubDate>
+    <pubDate>Wed, 18 Feb 2026 02:51:16 +0000</pubDate>
+    <item>
+      <title>Track user activity instead of `updated_at` for `daysSinceActivity`</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2262</link>
+      <description>Merged by jonathanhefner - Track user activity instead of `updated_at` for `daysSinceActivity`</description>
+      <author>jonathanhefner</author>
+      <pubDate>Tue, 17 Feb 2026 22:44:15 +0000</pubDate>
+    </item>
     <item>
       <title>Bump glob from 11.1.0 to 13.0.3</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2251</link>
@@ -424,13 +431,6 @@
       <description>Merged by localden - (blog): Core Maintainer Update</description>
       <author>localden</author>
       <pubDate>Fri, 23 Jan 2026 17:53:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Update Glama listing + add Tasks</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2125</link>
-      <description>Merged by punkpeye - Update Glama listing + add Tasks</description>
-      <author>punkpeye</author>
-      <pubDate>Fri, 23 Jan 2026 15:34:03 +0000</pubDate>
     </item>
     <item>
       <title>SEP-2085: Governance Succession and Amendment Procedures</title>
