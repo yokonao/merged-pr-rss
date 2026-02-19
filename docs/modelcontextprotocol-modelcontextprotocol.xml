@@ -4,7 +4,14 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Wed, 18 Feb 2026 02:51:16 +0000</pubDate>
+    <pubDate>Thu, 19 Feb 2026 02:50:38 +0000</pubDate>
+    <item>
+      <title>Add SDK tier column to SDK listing page</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2270</link>
+      <description>Merged by felixweinberger - Add SDK tier column to SDK listing page</description>
+      <author>felixweinberger</author>
+      <pubDate>Wed, 18 Feb 2026 19:14:30 +0000</pubDate>
+    </item>
     <item>
       <title>Track user activity instead of `updated_at` for `daysSinceActivity`</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2262</link>
@@ -419,20 +426,6 @@
       <pubDate>Sat, 24 Jan 2026 01:41:11 +0000</pubDate>
     </item>
     <item>
-      <title>Add Sarah Novotny as co-author on SEP-0000</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2129</link>
-      <description>Merged by sarahnovotny - Add Sarah Novotny as co-author on SEP-0000</description>
-      <author>sarahnovotny</author>
-      <pubDate>Sat, 24 Jan 2026 01:40:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>(blog): Core Maintainer Update</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2137</link>
-      <description>Merged by localden - (blog): Core Maintainer Update</description>
-      <author>localden</author>
-      <pubDate>Fri, 23 Jan 2026 17:53:07 +0000</pubDate>
-    </item>
-    <item>
       <title>SEP-2085: Governance Succession and Amendment Procedures</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2085</link>
       <description>Merged by dsp-ant - SEP-2085: Governance Succession and Amendment Procedures</description>
@@ -459,6 +452,13 @@
       <description>Merged by pamelafox - Fix link to MCP Authorization specification</description>
       <author>pamelafox</author>
       <pubDate>Wed, 17 Dec 2025 04:19:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>(chore): Add post for MCP first anniversary and Nov 2025 release</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1808</link>
+      <description>Merged by localden - (chore): Add post for MCP first anniversary and Nov 2025 release</description>
+      <author>localden</author>
+      <pubDate>Tue, 25 Nov 2025 21:14:08 +0000</pubDate>
     </item>
     <item>
       <title>Add 2025-11-25 MCP specification</title>
