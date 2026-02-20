@@ -4,7 +4,28 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Thu, 19 Feb 2026 02:50:38 +0000</pubDate>
+    <pubDate>Fri, 20 Feb 2026 02:45:18 +0000</pubDate>
+    <item>
+      <title>Add Bob Dickinson as maintainer for Inspector &amp; Registry</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2277</link>
+      <description>Merged by cliffhall - Add Bob Dickinson as maintainer for Inspector &amp; Registry</description>
+      <author>cliffhall</author>
+      <pubDate>Fri, 20 Feb 2026 00:47:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>TypeScript SDK: Tier 1 assessment</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2272</link>
+      <description>Merged by felixweinberger - TypeScript SDK: Tier 1 assessment</description>
+      <author>felixweinberger</author>
+      <pubDate>Thu, 19 Feb 2026 11:13:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update SECURITY.md to use GitHub Security Advisories</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2273</link>
+      <description>Merged by localden - Update SECURITY.md to use GitHub Security Advisories</description>
+      <author>localden</author>
+      <pubDate>Thu, 19 Feb 2026 02:58:25 +0000</pubDate>
+    </item>
     <item>
       <title>Add SDK tier column to SDK listing page</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2270</link>
@@ -403,20 +424,6 @@
       <description>Merged by localden - (docs): MCP Apps documentation</description>
       <author>localden</author>
       <pubDate>Mon, 26 Jan 2026 17:35:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs(spec): clarify Allow header requirement for 405 responses</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2132</link>
-      <description>Merged by SamMorrowDrums - docs(spec): clarify Allow header requirement for 405 responses</description>
-      <author>SamMorrowDrums</author>
-      <pubDate>Mon, 26 Jan 2026 15:58:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Added the description for the version field</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1609</link>
-      <description>Merged by a-akimov - Added the description for the version field</description>
-      <author>a-akimov</author>
-      <pubDate>Mon, 26 Jan 2026 01:32:29 +0000</pubDate>
     </item>
     <item>
       <title>Add note on updating sandbox technologies</title>
