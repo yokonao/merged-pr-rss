@@ -4,7 +4,7 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Sun, 22 Feb 2026 02:52:12 +0000</pubDate>
+    <pubDate>Mon, 23 Feb 2026 02:52:07 +0000</pubDate>
     <item>
       <title>docs: Extensions as a top-level tab with dedicated pages</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2263</link>
@@ -396,13 +396,6 @@
       <description>Merged by pja-ant - SEP-2133: Extensions framework for MCP</description>
       <author>pja-ant</author>
       <pubDate>Mon, 26 Jan 2026 23:57:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add JSONRPCResponse and SamplingMessageContentBlock to generated schema</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2055</link>
-      <description>Merged by halter73 - Add JSONRPCResponse and SamplingMessageContentBlock to generated schema</description>
-      <author>halter73</author>
-      <pubDate>Mon, 26 Jan 2026 23:37:37 +0000</pubDate>
     </item>
     <item>
       <title>Add note on updating sandbox technologies</title>
