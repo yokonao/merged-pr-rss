@@ -4,7 +4,42 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Mon, 23 Feb 2026 02:52:07 +0000</pubDate>
+    <pubDate>Tue, 24 Feb 2026 02:49:22 +0000</pubDate>
+    <item>
+      <title>add chatgpt in ext-app support matrix</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2294</link>
+      <description>Merged by yannj-fr - add chatgpt in ext-app support matrix</description>
+      <author>yannj-fr</author>
+      <pubDate>Tue, 24 Feb 2026 01:55:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add MCP Apps support to ChatGPT client entry</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2296</link>
+      <description>Merged by Copilot - Add MCP Apps support to ChatGPT client entry</description>
+      <author>Copilot</author>
+      <pubDate>Tue, 24 Feb 2026 01:52:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bump cheerio from 1.1.2 to 1.2.0</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2300</link>
+      <description>Merged by dependabot[bot] - Bump cheerio from 1.1.2 to 1.2.0</description>
+      <author>dependabot[bot]</author>
+      <pubDate>Mon, 23 Feb 2026 15:38:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bump typescript-eslint from 8.53.1 to 8.56.0</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2298</link>
+      <description>Merged by dependabot[bot] - Bump typescript-eslint from 8.53.1 to 8.56.0</description>
+      <author>dependabot[bot]</author>
+      <pubDate>Mon, 23 Feb 2026 15:38:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bump glob from 13.0.3 to 13.0.6</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2297</link>
+      <description>Merged by dependabot[bot] - Bump glob from 13.0.3 to 13.0.6</description>
+      <author>dependabot[bot]</author>
+      <pubDate>Mon, 23 Feb 2026 15:37:47 +0000</pubDate>
+    </item>
     <item>
       <title>docs: Extensions as a top-level tab with dedicated pages</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2263</link>
@@ -349,53 +384,11 @@
       <pubDate>Tue, 27 Jan 2026 04:18:10 +0000</pubDate>
     </item>
     <item>
-      <title>Add MCP Registry documentation</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1725</link>
-      <description>Merged by jonathanhefner - Add MCP Registry documentation</description>
-      <author>jonathanhefner</author>
-      <pubDate>Tue, 27 Jan 2026 04:11:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mention fetching `https://` resources</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/802</link>
-      <description>Merged by jonathanhefner - Mention fetching `https://` resources</description>
-      <author>jonathanhefner</author>
-      <pubDate>Tue, 27 Jan 2026 04:10:34 +0000</pubDate>
-    </item>
-    <item>
       <title>chore: Add CreateTaskResult to ServerResult</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2004</link>
       <description>Merged by He-Pin - chore: Add CreateTaskResult to ServerResult</description>
       <author>He-Pin</author>
       <pubDate>Tue, 27 Jan 2026 04:00:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add Proxyman to client list</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2119</link>
-      <description>Merged by NghiaTranUIT - Add Proxyman to client list</description>
-      <author>NghiaTranUIT</author>
-      <pubDate>Tue, 27 Jan 2026 03:54:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Update MCPJam in the MCP docs</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2151</link>
-      <description>Merged by matteo8p - Update MCPJam in the MCP docs</description>
-      <author>matteo8p</author>
-      <pubDate>Tue, 27 Jan 2026 03:40:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Update SEP-2133 Extensions status to Final</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2154</link>
-      <description>Merged by pja-ant - Update SEP-2133 Extensions status to Final</description>
-      <author>pja-ant</author>
-      <pubDate>Tue, 27 Jan 2026 02:50:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SEP-2133: Extensions framework for MCP</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2133</link>
-      <description>Merged by pja-ant - SEP-2133: Extensions framework for MCP</description>
-      <author>pja-ant</author>
-      <pubDate>Mon, 26 Jan 2026 23:57:49 +0000</pubDate>
     </item>
     <item>
       <title>Add note on updating sandbox technologies</title>
