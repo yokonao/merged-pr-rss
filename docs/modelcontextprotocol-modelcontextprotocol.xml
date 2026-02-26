@@ -4,7 +4,35 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Wed, 25 Feb 2026 02:50:15 +0000</pubDate>
+    <pubDate>Thu, 26 Feb 2026 02:45:32 +0000</pubDate>
+    <item>
+      <title>Add C# SDK Tier 1 assessment to SDK listing</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2308</link>
+      <description>Merged by jeffhandley - Add C# SDK Tier 1 assessment to SDK listing</description>
+      <author>jeffhandley</author>
+      <pubDate>Wed, 25 Feb 2026 14:02:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add Python SDK Tier 1 assessment to SDK listing</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2307</link>
+      <description>Merged by felixweinberger - Add Python SDK Tier 1 assessment to SDK listing</description>
+      <author>felixweinberger</author>
+      <pubDate>Wed, 25 Feb 2026 13:43:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add mcp-spec Claude plugin with GitHub search skill</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2214</link>
+      <description>Merged by olaservo - Add mcp-spec Claude plugin with GitHub search skill</description>
+      <author>olaservo</author>
+      <pubDate>Wed, 25 Feb 2026 13:04:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add Java SDK Tier 2 Assessment to SDK listing</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2302</link>
+      <description>Merged by chemicL - Add Java SDK Tier 2 Assessment to SDK listing</description>
+      <author>chemicL</author>
+      <pubDate>Wed, 25 Feb 2026 12:54:42 +0000</pubDate>
+    </item>
     <item>
       <title>Update ext-apps docs URLs to new subdomain</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2312</link>
@@ -361,20 +389,6 @@
       <description>Merged by idosal - SEP-1865: MCP Apps - Interactive User Interfaces for MCP</description>
       <author>idosal</author>
       <pubDate>Wed, 28 Jan 2026 18:08:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Doc] Rename &#34;capabilities&#34; to &#34;features&#34; on clients page</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2161</link>
-      <description>Merged by koic - [Doc] Rename &#34;capabilities&#34; to &#34;features&#34; on clients page</description>
-      <author>koic</author>
-      <pubDate>Wed, 28 Jan 2026 10:29:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>SEP-2133 Amendment: Add Experimental Extensions Framework</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2158</link>
-      <description>Merged by sambhav - SEP-2133 Amendment: Add Experimental Extensions Framework</description>
-      <author>sambhav</author>
-      <pubDate>Tue, 27 Jan 2026 22:49:53 +0000</pubDate>
     </item>
     <item>
       <title>Add note on updating sandbox technologies</title>
