@@ -4,7 +4,21 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Thu, 26 Feb 2026 02:45:32 +0000</pubDate>
+    <pubDate>Fri, 27 Feb 2026 02:43:40 +0000</pubDate>
+    <item>
+      <title>Add Swift SDK Tier 3 assessment to SDK listing</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2310</link>
+      <description>Merged by movetz - Add Swift SDK Tier 3 assessment to SDK listing</description>
+      <author>movetz</author>
+      <pubDate>Thu, 26 Feb 2026 13:55:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>SEP-414: Document OpenTelemetry Trace Context Propagation Conventions</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/414</link>
+      <description>Merged by codefromthecrypt - SEP-414: Document OpenTelemetry Trace Context Propagation Conventions</description>
+      <author>codefromthecrypt</author>
+      <pubDate>Thu, 26 Feb 2026 12:06:26 +0000</pubDate>
+    </item>
     <item>
       <title>Add C# SDK Tier 1 assessment to SDK listing</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2308</link>
@@ -396,13 +410,6 @@
       <description>Merged by loganaden - Add note on updating sandbox technologies</description>
       <author>loganaden</author>
       <pubDate>Sat, 24 Jan 2026 01:41:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>SEP-2085: Governance Succession and Amendment Procedures</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2085</link>
-      <description>Merged by dsp-ant - SEP-2085: Governance Succession and Amendment Procedures</description>
-      <author>dsp-ant</author>
-      <pubDate>Thu, 22 Jan 2026 15:27:16 +0000</pubDate>
     </item>
     <item>
       <title>Fix typos in specification</title>
