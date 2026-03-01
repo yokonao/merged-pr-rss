@@ -4,7 +4,14 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Sat, 28 Feb 2026 02:32:42 +0000</pubDate>
+    <pubDate>Sun, 01 Mar 2026 03:15:44 +0000</pubDate>
+    <item>
+      <title>docs: add design principles page to community section</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2303</link>
+      <description>Merged by dsp-ant - docs: add design principles page to community section</description>
+      <author>dsp-ant</author>
+      <pubDate>Sat, 28 Feb 2026 19:56:06 +0000</pubDate>
+    </item>
     <item>
       <title>Add Go SDK Tier 1 assessment to SDK listing</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2318</link>
@@ -389,13 +396,6 @@
       <description>Merged by dependabot[bot] - Bump actions/upload-artifact from 4 to 6</description>
       <author>dependabot[bot]</author>
       <pubDate>Fri, 30 Jan 2026 11:56:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs: Add contributing guide and improve community documentation</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2162</link>
-      <description>Merged by dsp-ant - docs: Add contributing guide and improve community documentation</description>
-      <author>dsp-ant</author>
-      <pubDate>Fri, 30 Jan 2026 11:53:51 +0000</pubDate>
     </item>
     <item>
       <title>Enable Dependabot for GitHub Actions</title>
