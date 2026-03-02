@@ -4,7 +4,7 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Sun, 01 Mar 2026 03:15:44 +0000</pubDate>
+    <pubDate>Mon, 02 Mar 2026 02:46:25 +0000</pubDate>
     <item>
       <title>docs: add design principles page to community section</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2303</link>
@@ -389,13 +389,6 @@
       <description>Merged by dependabot[bot] - Bump actions/checkout from 4 to 6</description>
       <author>dependabot[bot]</author>
       <pubDate>Fri, 30 Jan 2026 11:58:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bump actions/upload-artifact from 4 to 6</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2179</link>
-      <description>Merged by dependabot[bot] - Bump actions/upload-artifact from 4 to 6</description>
-      <author>dependabot[bot]</author>
-      <pubDate>Fri, 30 Jan 2026 11:56:13 +0000</pubDate>
     </item>
     <item>
       <title>Enable Dependabot for GitHub Actions</title>
