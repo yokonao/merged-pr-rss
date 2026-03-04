@@ -4,7 +4,63 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Tue, 03 Mar 2026 02:49:25 +0000</pubDate>
+    <pubDate>Wed, 04 Mar 2026 02:42:20 +0000</pubDate>
+    <item>
+      <title>Bump minimatch from 3.1.2 to 3.1.5 in the npm_and_yarn group across 1 directory</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2320</link>
+      <description>Merged by dependabot[bot] - Bump minimatch from 3.1.2 to 3.1.5 in the npm_and_yarn group across 1 directory</description>
+      <author>dependabot[bot]</author>
+      <pubDate>Tue, 03 Mar 2026 22:48:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bump rollup from 4.55.1 to 4.59.0 in /tools/sep-automation in the npm_and_yarn group across 1 directory</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2323</link>
+      <description>Merged by dependabot[bot] - Bump rollup from 4.55.1 to 4.59.0 in /tools/sep-automation in the npm_and_yarn group across 1 directory</description>
+      <author>dependabot[bot]</author>
+      <pubDate>Tue, 03 Mar 2026 22:48:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bump actions/upload-artifact from 6 to 7</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2328</link>
+      <description>Merged by dependabot[bot] - Bump actions/upload-artifact from 6 to 7</description>
+      <author>dependabot[bot]</author>
+      <pubDate>Tue, 03 Mar 2026 22:47:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bump typescript-json-schema from 0.65.1 to 0.67.1</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2329</link>
+      <description>Merged by dependabot[bot] - Bump typescript-json-schema from 0.65.1 to 0.67.1</description>
+      <author>dependabot[bot]</author>
+      <pubDate>Tue, 03 Mar 2026 22:47:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bump typescript-json-schema from 0.65.1 to 0.67.1</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2344</link>
+      <description>Merged by Copilot - Bump typescript-json-schema from 0.65.1 to 0.67.1</description>
+      <author>Copilot</author>
+      <pubDate>Tue, 03 Mar 2026 22:44:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bump typescript-eslint from 8.56.0 to 8.56.1</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2330</link>
+      <description>Merged by dependabot[bot] - Bump typescript-eslint from 8.56.0 to 8.56.1</description>
+      <author>dependabot[bot]</author>
+      <pubDate>Tue, 03 Mar 2026 21:45:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bump eslint from 9.39.2 to 10.0.2</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2331</link>
+      <description>Merged by dependabot[bot] - Bump eslint from 9.39.2 to 10.0.2</description>
+      <author>dependabot[bot]</author>
+      <pubDate>Tue, 03 Mar 2026 21:40:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add Ruby SDK Tier 3 assessment to SDK listing</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2341</link>
+      <description>Merged by koic - Add Ruby SDK Tier 3 assessment to SDK listing</description>
+      <author>koic</author>
+      <pubDate>Tue, 03 Mar 2026 14:43:57 +0000</pubDate>
+    </item>
     <item>
       <title>fix: Typescript schema types - move object types to Record&lt;string, unknown&gt;</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2139</link>
@@ -340,55 +396,6 @@
       <description>Merged by jonathanhefner - Fix broken PR links in SEP documents</description>
       <author>jonathanhefner</author>
       <pubDate>Mon, 02 Feb 2026 23:46:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add guidance for `instructions` field in `InitializeResult`</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2184</link>
-      <description>Merged by jonathanhefner - Add guidance for `instructions` field in `InitializeResult`</description>
-      <author>jonathanhefner</author>
-      <pubDate>Sat, 31 Jan 2026 00:02:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add Apigene MCP Client to client list</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2160</link>
-      <description>Merged by yaniv-apigene - Add Apigene MCP Client to client list</description>
-      <author>yaniv-apigene</author>
-      <pubDate>Fri, 30 Jan 2026 23:03:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Update nicknotfun to nickcoai</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2183</link>
-      <description>Merged by nickcoai - Update nicknotfun to nickcoai</description>
-      <author>nickcoai</author>
-      <pubDate>Fri, 30 Jan 2026 21:41:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add Apps capability to client documentation</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2142</link>
-      <description>Merged by Copilot - Add Apps capability to client documentation</description>
-      <author>Copilot</author>
-      <pubDate>Fri, 30 Jan 2026 20:09:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bump actions/upload-pages-artifact from 3 to 4</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2181</link>
-      <description>Merged by dependabot[bot] - Bump actions/upload-pages-artifact from 3 to 4</description>
-      <author>dependabot[bot]</author>
-      <pubDate>Fri, 30 Jan 2026 16:23:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Community feedback iteration (rev 1) on SEP-1649 (MCP Server Cards)</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2152</link>
-      <description>Merged by tadasant - Community feedback iteration (rev 1) on SEP-1649 (MCP Server Cards)</description>
-      <author>tadasant</author>
-      <pubDate>Fri, 30 Jan 2026 16:23:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Enable Dependabot for GitHub Actions</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2168</link>
-      <description>Merged by koic - Enable Dependabot for GitHub Actions</description>
-      <author>koic</author>
-      <pubDate>Fri, 30 Jan 2026 11:48:19 +0000</pubDate>
     </item>
     <item>
       <title>SEP-1865: MCP Apps - Interactive User Interfaces for MCP</title>
