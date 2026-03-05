@@ -4,7 +4,21 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Wed, 04 Mar 2026 02:42:20 +0000</pubDate>
+    <pubDate>Thu, 05 Mar 2026 02:45:13 +0000</pubDate>
+    <item>
+      <title>Bump @eslint/js from 9.39.2 to 10.0.1</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2254</link>
+      <description>Merged by dependabot[bot] - Bump @eslint/js from 9.39.2 to 10.0.1</description>
+      <author>dependabot[bot]</author>
+      <pubDate>Thu, 05 Mar 2026 02:28:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>docs: add Joey as an MCP client in Example Clients and Extension Support matrix</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2327</link>
+      <description>Merged by benkaiser - docs: add Joey as an MCP client in Example Clients and Extension Support matrix</description>
+      <author>benkaiser</author>
+      <pubDate>Wed, 04 Mar 2026 16:55:38 +0000</pubDate>
+    </item>
     <item>
       <title>Bump minimatch from 3.1.2 to 3.1.5 in the npm_and_yarn group across 1 directory</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2320</link>
@@ -391,13 +405,6 @@
       <pubDate>Mon, 02 Feb 2026 23:56:34 +0000</pubDate>
     </item>
     <item>
-      <title>Fix broken PR links in SEP documents</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2195</link>
-      <description>Merged by jonathanhefner - Fix broken PR links in SEP documents</description>
-      <author>jonathanhefner</author>
-      <pubDate>Mon, 02 Feb 2026 23:46:40 +0000</pubDate>
-    </item>
-    <item>
       <title>SEP-1865: MCP Apps - Interactive User Interfaces for MCP</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1865</link>
       <description>Merged by idosal - SEP-1865: MCP Apps - Interactive User Interfaces for MCP</description>
@@ -417,13 +424,6 @@
       <description>Merged by pja-ant - Fix typos in specification</description>
       <author>pja-ant</author>
       <pubDate>Thu, 15 Jan 2026 23:45:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>chore: update licensing to Apache 2.0 for new contributions</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1994</link>
-      <description>Merged by domdomegg - chore: update licensing to Apache 2.0 for new contributions</description>
-      <author>domdomegg</author>
-      <pubDate>Mon, 05 Jan 2026 18:57:17 +0000</pubDate>
     </item>
     <item>
       <title>Fix link to MCP Authorization specification</title>
