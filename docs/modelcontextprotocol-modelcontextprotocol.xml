@@ -4,7 +4,35 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Thu, 05 Mar 2026 02:45:13 +0000</pubDate>
+    <pubDate>Fri, 06 Mar 2026 02:42:42 +0000</pubDate>
+    <item>
+      <title>(docs): Add ecosystem support section to MCP intro page</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2359</link>
+      <description>Merged by localden - (docs): Add ecosystem support section to MCP intro page</description>
+      <author>localden</author>
+      <pubDate>Thu, 05 Mar 2026 23:58:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>(chore): Fix typo in CODEOWNERS team name for docs-maintainers</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2360</link>
+      <description>Merged by localden - (chore): Fix typo in CODEOWNERS team name for docs-maintainers</description>
+      <author>localden</author>
+      <pubDate>Thu, 05 Mar 2026 23:58:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add guidance to discuss SEPs with working groups before submission</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2358</link>
+      <description>Merged by dend - Add guidance to discuss SEPs with working groups before submission</description>
+      <author>dend</author>
+      <pubDate>Thu, 05 Mar 2026 20:52:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add Rust SDK Tier 2 assessment</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2347</link>
+      <description>Merged by alexhancock - Add Rust SDK Tier 2 assessment</description>
+      <author>alexhancock</author>
+      <pubDate>Thu, 05 Mar 2026 12:47:20 +0000</pubDate>
+    </item>
     <item>
       <title>Bump @eslint/js from 9.39.2 to 10.0.1</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2254</link>
@@ -384,27 +412,6 @@
       <pubDate>Tue, 03 Feb 2026 15:42:57 +0000</pubDate>
     </item>
     <item>
-      <title>Use Mintlify&#39;s built-in `&lt;Badge&gt;` component for SEP pages</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2194</link>
-      <description>Merged by jonathanhefner - Use Mintlify&#39;s built-in `&lt;Badge&gt;` component for SEP pages</description>
-      <author>jonathanhefner</author>
-      <pubDate>Tue, 03 Feb 2026 04:13:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Update Core Maintainers list to sync with governance.mdx</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2198</link>
-      <description>Merged by olaservo - Update Core Maintainers list to sync with governance.mdx</description>
-      <author>olaservo</author>
-      <pubDate>Tue, 03 Feb 2026 04:12:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>SEP-1730: SDK tiers definition</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1777</link>
-      <description>Merged by ihrpr - SEP-1730: SDK tiers definition</description>
-      <author>ihrpr</author>
-      <pubDate>Mon, 02 Feb 2026 23:56:34 +0000</pubDate>
-    </item>
-    <item>
       <title>SEP-1865: MCP Apps - Interactive User Interfaces for MCP</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1865</link>
       <description>Merged by idosal - SEP-1865: MCP Apps - Interactive User Interfaces for MCP</description>
@@ -501,13 +508,6 @@
       <description>Merged by koic - [Docs] Fix typos</description>
       <author>koic</author>
       <pubDate>Tue, 21 Oct 2025 20:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>(docs): Update consent prompt guidelines for MCP servers</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1587</link>
-      <description>Merged by localden - (docs): Update consent prompt guidelines for MCP servers</description>
-      <author>localden</author>
-      <pubDate>Tue, 14 Oct 2025 09:47:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
