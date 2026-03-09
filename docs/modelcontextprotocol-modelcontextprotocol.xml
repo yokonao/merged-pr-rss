@@ -4,7 +4,7 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Sun, 08 Mar 2026 02:49:01 +0000</pubDate>
+    <pubDate>Mon, 09 Mar 2026 02:50:26 +0000</pubDate>
     <item>
       <title>Update roadmap to reflect 2026 core maintainer priorities</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2321</link>
@@ -494,13 +494,6 @@
       <description>Merged by pcarleton - [auth] Add client priority list for client registration methods</description>
       <author>pcarleton</author>
       <pubDate>Thu, 20 Nov 2025 10:11:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>add description of authorization extensions to main authorization spec page</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1707</link>
-      <description>Merged by aaronpk - add description of authorization extensions to main authorization spec page</description>
-      <author>aaronpk</author>
-      <pubDate>Sat, 15 Nov 2025 00:13:55 +0000</pubDate>
     </item>
     <item>
       <title>SEP-991 specification changes; OAuth client id metadata document</title>
