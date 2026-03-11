@@ -4,7 +4,49 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Tue, 10 Mar 2026 02:41:47 +0000</pubDate>
+    <pubDate>Wed, 11 Mar 2026 02:41:07 +0000</pubDate>
+    <item>
+      <title>Add version warning banners to specification pages</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1516</link>
+      <description>Merged by pja-ant - Add version warning banners to specification pages</description>
+      <author>pja-ant</author>
+      <pubDate>Wed, 11 Mar 2026 00:28:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Replace Java SDK docs with redirect notices to new documentation site</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2259</link>
+      <description>Merged by tzolov - Replace Java SDK docs with redirect notices to new documentation site</description>
+      <author>tzolov</author>
+      <pubDate>Tue, 10 Mar 2026 22:25:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>SEP-2260 Require Server requests to be associated with a Client request.</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2260</link>
+      <description>Merged by evalstate - SEP-2260 Require Server requests to be associated with a Client request.</description>
+      <author>evalstate</author>
+      <pubDate>Tue, 10 Mar 2026 21:12:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>(docs): SDK tier pills, promote SEPs to top-level tab</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2364</link>
+      <description>Merged by localden - (docs): SDK tier pills, promote SEPs to top-level tab</description>
+      <author>localden</author>
+      <pubDate>Tue, 10 Mar 2026 17:03:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>ci(blog): use shared cloudflare-pages-preview action</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2378</link>
+      <description>Merged by localden - ci(blog): use shared cloudflare-pages-preview action</description>
+      <author>localden</author>
+      <pubDate>Tue, 10 Mar 2026 17:02:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>(blog): 2026 MCP Roadmap announcement post</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2372</link>
+      <description>Merged by localden - (blog): 2026 MCP Roadmap announcement post</description>
+      <author>localden</author>
+      <pubDate>Tue, 10 Mar 2026 13:16:29 +0000</pubDate>
+    </item>
     <item>
       <title>Strengthen protocol stewardship language in role definitions and details</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2201</link>
@@ -298,83 +340,6 @@
       <description>Merged by cliffhall - Add Bob Dickinson as maintainer for Inspector &amp; Registry</description>
       <author>cliffhall</author>
       <pubDate>Fri, 20 Feb 2026 00:47:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>TypeScript SDK: Tier 1 assessment</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2272</link>
-      <description>Merged by felixweinberger - TypeScript SDK: Tier 1 assessment</description>
-      <author>felixweinberger</author>
-      <pubDate>Thu, 19 Feb 2026 11:13:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Update SECURITY.md to use GitHub Security Advisories</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2273</link>
-      <description>Merged by localden - Update SECURITY.md to use GitHub Security Advisories</description>
-      <author>localden</author>
-      <pubDate>Thu, 19 Feb 2026 02:58:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add SDK tier column to SDK listing page</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2270</link>
-      <description>Merged by felixweinberger - Add SDK tier column to SDK listing page</description>
-      <author>felixweinberger</author>
-      <pubDate>Wed, 18 Feb 2026 19:14:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Track user activity instead of `updated_at` for `daysSinceActivity`</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2262</link>
-      <description>Merged by jonathanhefner - Track user activity instead of `updated_at` for `daysSinceActivity`</description>
-      <author>jonathanhefner</author>
-      <pubDate>Tue, 17 Feb 2026 22:44:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bump glob from 11.1.0 to 13.0.3</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2251</link>
-      <description>Merged by dependabot[bot] - Bump glob from 11.1.0 to 13.0.3</description>
-      <author>dependabot[bot]</author>
-      <pubDate>Mon, 16 Feb 2026 16:47:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bump typedoc from 0.28.16 to 0.28.17</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2252</link>
-      <description>Merged by dependabot[bot] - Bump typedoc from 0.28.16 to 0.28.17</description>
-      <author>dependabot[bot]</author>
-      <pubDate>Mon, 16 Feb 2026 16:45:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bump ajv from 8.17.1 to 8.18.0</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2253</link>
-      <description>Merged by dependabot[bot] - Bump ajv from 8.17.1 to 8.18.0</description>
-      <author>dependabot[bot]</author>
-      <pubDate>Mon, 16 Feb 2026 16:42:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mark rendered SEP docs as `linguist-generated`</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2258</link>
-      <description>Merged by jonathanhefner - Mark rendered SEP docs as `linguist-generated`</description>
-      <author>jonathanhefner</author>
-      <pubDate>Mon, 16 Feb 2026 12:26:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add npm ecosystem to Dependabot configuration</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2236</link>
-      <description>Merged by koic - Add npm ecosystem to Dependabot configuration</description>
-      <author>koic</author>
-      <pubDate>Sat, 14 Feb 2026 18:25:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Clarify relationship between `server.json` and MCP Server Cards</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2186</link>
-      <description>Merged by tadasant - Clarify relationship between `server.json` and MCP Server Cards</description>
-      <author>tadasant</author>
-      <pubDate>Sat, 14 Feb 2026 13:38:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>(chore): Add post for MCP first anniversary and Nov 2025 release</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1808</link>
-      <description>Merged by localden - (chore): Add post for MCP first anniversary and Nov 2025 release</description>
-      <author>localden</author>
-      <pubDate>Tue, 25 Nov 2025 21:14:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
