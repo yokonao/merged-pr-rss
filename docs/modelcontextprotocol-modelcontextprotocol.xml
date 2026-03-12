@@ -4,7 +4,70 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Wed, 11 Mar 2026 02:41:07 +0000</pubDate>
+    <pubDate>Thu, 12 Mar 2026 02:46:43 +0000</pubDate>
+    <item>
+      <title>stage-blog: repost preview comment on each /stageblog (minimize old as outdated)</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2387</link>
+      <description>Merged by localden - stage-blog: repost preview comment on each /stageblog (minimize old as outdated)</description>
+      <author>localden</author>
+      <pubDate>Wed, 11 Mar 2026 23:26:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>docs: add Go tab to build-server tutorial</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2375</link>
+      <description>Merged by shubham-chemate - docs: add Go tab to build-server tutorial</description>
+      <author>shubham-chemate</author>
+      <pubDate>Wed, 11 Mar 2026 23:06:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>slash-commands: pending (yellow) merge-gate status instead of red ❌</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2386</link>
+      <description>Merged by localden - slash-commands: pending (yellow) merge-gate status instead of red ❌</description>
+      <author>localden</author>
+      <pubDate>Wed, 11 Mar 2026 23:04:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Enable /stageblog for fork PR blog previews</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2384</link>
+      <description>Merged by localden - Enable /stageblog for fork PR blog previews</description>
+      <author>localden</author>
+      <pubDate>Wed, 11 Mar 2026 20:37:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bump slash-commands action ref to @main</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2383</link>
+      <description>Merged by localden - Bump slash-commands action ref to @main</description>
+      <author>localden</author>
+      <pubDate>Wed, 11 Mar 2026 18:07:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add /lgtm and /hold slash-commands workflow</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2381</link>
+      <description>Merged by localden - Add /lgtm and /hold slash-commands workflow</description>
+      <author>localden</author>
+      <pubDate>Wed, 11 Mar 2026 17:11:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>(blog): MCP Extensions</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1799</link>
+      <description>Merged by thoorp - (blog): MCP Extensions</description>
+      <author>thoorp</author>
+      <pubDate>Wed, 11 Mar 2026 15:58:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fix registry internal links by removing `.mdx` suffixes</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2380</link>
+      <description>Merged by wong2 - Fix registry internal links by removing `.mdx` suffixes</description>
+      <author>wong2</author>
+      <pubDate>Wed, 11 Mar 2026 15:55:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>fix(scripts): handle hyphenated statuses in SEP status normalization</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2222</link>
+      <description>Merged by 18-RAJAT - fix(scripts): handle hyphenated statuses in SEP status normalization</description>
+      <author>18-RAJAT</author>
+      <pubDate>Wed, 11 Mar 2026 14:40:54 +0000</pubDate>
+    </item>
     <item>
       <title>Add version warning banners to specification pages</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1516</link>
@@ -291,55 +354,6 @@
       <description>Merged by chr-hertel - Add PHP SDK Tier 3 assessment to SDK listing</description>
       <author>chr-hertel</author>
       <pubDate>Tue, 24 Feb 2026 15:24:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>add chatgpt in ext-app support matrix</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2294</link>
-      <description>Merged by yannj-fr - add chatgpt in ext-app support matrix</description>
-      <author>yannj-fr</author>
-      <pubDate>Tue, 24 Feb 2026 01:55:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add MCP Apps support to ChatGPT client entry</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2296</link>
-      <description>Merged by Copilot - Add MCP Apps support to ChatGPT client entry</description>
-      <author>Copilot</author>
-      <pubDate>Tue, 24 Feb 2026 01:52:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bump cheerio from 1.1.2 to 1.2.0</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2300</link>
-      <description>Merged by dependabot[bot] - Bump cheerio from 1.1.2 to 1.2.0</description>
-      <author>dependabot[bot]</author>
-      <pubDate>Mon, 23 Feb 2026 15:38:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bump typescript-eslint from 8.53.1 to 8.56.0</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2298</link>
-      <description>Merged by dependabot[bot] - Bump typescript-eslint from 8.53.1 to 8.56.0</description>
-      <author>dependabot[bot]</author>
-      <pubDate>Mon, 23 Feb 2026 15:38:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bump glob from 13.0.3 to 13.0.6</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2297</link>
-      <description>Merged by dependabot[bot] - Bump glob from 13.0.3 to 13.0.6</description>
-      <author>dependabot[bot]</author>
-      <pubDate>Mon, 23 Feb 2026 15:37:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs: Extensions as a top-level tab with dedicated pages</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2263</link>
-      <description>Merged by dsp-ant - docs: Extensions as a top-level tab with dedicated pages</description>
-      <author>dsp-ant</author>
-      <pubDate>Sat, 21 Feb 2026 11:03:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add Bob Dickinson as maintainer for Inspector &amp; Registry</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2277</link>
-      <description>Merged by cliffhall - Add Bob Dickinson as maintainer for Inspector &amp; Registry</description>
-      <author>cliffhall</author>
-      <pubDate>Fri, 20 Feb 2026 00:47:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
