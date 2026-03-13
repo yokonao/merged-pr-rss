@@ -4,7 +4,21 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Thu, 12 Mar 2026 02:46:43 +0000</pubDate>
+    <pubDate>Fri, 13 Mar 2026 02:44:29 +0000</pubDate>
+    <item>
+      <title>[Doc] Add Ruby SDK example to build-server documentation</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2264</link>
+      <description>Merged by koic - [Doc] Add Ruby SDK example to build-server documentation</description>
+      <author>koic</author>
+      <pubDate>Thu, 12 Mar 2026 13:18:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>slash-commands: trim pull_request_target triggers to opened/synchronize</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2388</link>
+      <description>Merged by localden - slash-commands: trim pull_request_target triggers to opened/synchronize</description>
+      <author>localden</author>
+      <pubDate>Thu, 12 Mar 2026 13:13:52 +0000</pubDate>
+    </item>
     <item>
       <title>stage-blog: repost preview comment on each /stageblog (minimize old as outdated)</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2387</link>
@@ -333,27 +347,6 @@
       <description>Merged by olaservo - Add mcp-spec Claude plugin with GitHub search skill</description>
       <author>olaservo</author>
       <pubDate>Wed, 25 Feb 2026 13:04:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add Java SDK Tier 2 Assessment to SDK listing</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2302</link>
-      <description>Merged by chemicL - Add Java SDK Tier 2 Assessment to SDK listing</description>
-      <author>chemicL</author>
-      <pubDate>Wed, 25 Feb 2026 12:54:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Update ext-apps docs URLs to new subdomain</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2312</link>
-      <description>Merged by jonathanhefner - Update ext-apps docs URLs to new subdomain</description>
-      <author>jonathanhefner</author>
-      <pubDate>Wed, 25 Feb 2026 02:46:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add PHP SDK Tier 3 assessment to SDK listing</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2306</link>
-      <description>Merged by chr-hertel - Add PHP SDK Tier 3 assessment to SDK listing</description>
-      <author>chr-hertel</author>
-      <pubDate>Tue, 24 Feb 2026 15:24:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
