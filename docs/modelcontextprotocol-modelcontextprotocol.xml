@@ -4,7 +4,14 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Mon, 16 Mar 2026 03:23:53 +0000</pubDate>
+    <pubDate>Tue, 17 Mar 2026 02:46:51 +0000</pubDate>
+    <item>
+      <title>build(deps-dev): bump typescript-eslint from 8.56.1 to 8.57.0</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2415</link>
+      <description>Merged by dependabot[bot] - build(deps-dev): bump typescript-eslint from 8.56.1 to 8.57.0</description>
+      <author>dependabot[bot]</author>
+      <pubDate>Mon, 16 Mar 2026 13:11:58 +0000</pubDate>
+    </item>
     <item>
       <title>Add issue templates: spec bugs, work tracking, SEP/SDK redirects</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2407</link>
