@@ -4,7 +4,14 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Tue, 17 Mar 2026 02:46:51 +0000</pubDate>
+    <pubDate>Wed, 18 Mar 2026 02:53:16 +0000</pubDate>
+    <item>
+      <title>Update Kotlin example</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2416</link>
+      <description>Merged by devcrocod - Update Kotlin example</description>
+      <author>devcrocod</author>
+      <pubDate>Wed, 18 Mar 2026 00:33:47 +0000</pubDate>
+    </item>
     <item>
       <title>build(deps-dev): bump typescript-eslint from 8.56.1 to 8.57.0</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2415</link>
@@ -340,13 +347,6 @@
       <description>Merged by koic - Add Ruby SDK Tier 3 assessment to SDK listing</description>
       <author>koic</author>
       <pubDate>Tue, 03 Mar 2026 14:43:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>fix: Typescript schema types - move object types to Record&lt;string, unknown&gt;</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2139</link>
-      <description>Merged by KKonstantinov - fix: Typescript schema types - move object types to Record&lt;string, unknown&gt;</description>
-      <author>KKonstantinov</author>
-      <pubDate>Mon, 02 Mar 2026 13:19:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
