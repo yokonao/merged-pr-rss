@@ -4,7 +4,14 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Thu, 19 Mar 2026 02:54:41 +0000</pubDate>
+    <pubDate>Fri, 20 Mar 2026 02:45:37 +0000</pubDate>
+    <item>
+      <title>Reorganize tool error handling section for clarity</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2425</link>
+      <description>Merged by jonathanhefner - Reorganize tool error handling section for clarity</description>
+      <author>jonathanhefner</author>
+      <pubDate>Thu, 19 Mar 2026 17:53:57 +0000</pubDate>
+    </item>
     <item>
       <title>Add blog post for Tool Annotations</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2230</link>
@@ -305,20 +312,6 @@
       <description>Merged by benkaiser - docs: add Joey as an MCP client in Example Clients and Extension Support matrix</description>
       <author>benkaiser</author>
       <pubDate>Wed, 04 Mar 2026 16:55:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bump minimatch from 3.1.2 to 3.1.5 in the npm_and_yarn group across 1 directory</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2320</link>
-      <description>Merged by dependabot[bot] - Bump minimatch from 3.1.2 to 3.1.5 in the npm_and_yarn group across 1 directory</description>
-      <author>dependabot[bot]</author>
-      <pubDate>Tue, 03 Mar 2026 22:48:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bump rollup from 4.55.1 to 4.59.0 in /tools/sep-automation in the npm_and_yarn group across 1 directory</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2323</link>
-      <description>Merged by dependabot[bot] - Bump rollup from 4.55.1 to 4.59.0 in /tools/sep-automation in the npm_and_yarn group across 1 directory</description>
-      <author>dependabot[bot]</author>
-      <pubDate>Tue, 03 Mar 2026 22:48:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
