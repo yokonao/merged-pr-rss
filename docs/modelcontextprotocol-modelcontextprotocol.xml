@@ -4,7 +4,21 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Sun, 22 Mar 2026 02:55:26 +0000</pubDate>
+    <pubDate>Mon, 23 Mar 2026 02:55:38 +0000</pubDate>
+    <item>
+      <title>build(deps-dev): bump flatted from 3.3.3 to 3.4.2 in the npm_and_yarn group across 1 directory</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2429</link>
+      <description>Merged by dependabot[bot] - build(deps-dev): bump flatted from 3.3.3 to 3.4.2 in the npm_and_yarn group across 1 directory</description>
+      <author>dependabot[bot]</author>
+      <pubDate>Mon, 23 Mar 2026 02:49:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>docs: Fix mermaid rendering in enterprise managed auth flow</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2432</link>
+      <description>Merged by max-stytch - docs: Fix mermaid rendering in enterprise managed auth flow</description>
+      <author>max-stytch</author>
+      <pubDate>Sun, 22 Mar 2026 15:03:23 +0000</pubDate>
+    </item>
     <item>
       <title>Reorganize tool error handling section for clarity</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2425</link>
@@ -298,20 +312,6 @@
       <description>Merged by alexhancock - Add Rust SDK Tier 2 assessment</description>
       <author>alexhancock</author>
       <pubDate>Thu, 05 Mar 2026 12:47:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bump @eslint/js from 9.39.2 to 10.0.1</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2254</link>
-      <description>Merged by dependabot[bot] - Bump @eslint/js from 9.39.2 to 10.0.1</description>
-      <author>dependabot[bot]</author>
-      <pubDate>Thu, 05 Mar 2026 02:28:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs: add Joey as an MCP client in Example Clients and Extension Support matrix</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2327</link>
-      <description>Merged by benkaiser - docs: add Joey as an MCP client in Example Clients and Extension Support matrix</description>
-      <author>benkaiser</author>
-      <pubDate>Wed, 04 Mar 2026 16:55:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
