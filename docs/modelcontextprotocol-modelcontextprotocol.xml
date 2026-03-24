@@ -4,7 +4,70 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Mon, 23 Mar 2026 02:55:38 +0000</pubDate>
+    <pubDate>Tue, 24 Mar 2026 02:47:34 +0000</pubDate>
+    <item>
+      <title>Add explicit permissions to markdown-format and sep-lifecycle workflows</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2450</link>
+      <description>Merged by localden - Add explicit permissions to markdown-format and sep-lifecycle workflows</description>
+      <author>localden</author>
+      <pubDate>Tue, 24 Mar 2026 01:44:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add explicit permissions to workflows missing them</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2449</link>
+      <description>Merged by localden - Add explicit permissions to workflows missing them</description>
+      <author>localden</author>
+      <pubDate>Tue, 24 Mar 2026 01:30:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Restore docs navigation structure lost in merge</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2446</link>
+      <description>Merged by localden - Restore docs navigation structure lost in merge</description>
+      <author>localden</author>
+      <pubDate>Mon, 23 Mar 2026 23:53:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>SEP-2149: MCP Group Governance and Charter Template</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2149</link>
+      <description>Merged by dsp-ant - SEP-2149: MCP Group Governance and Charter Template</description>
+      <author>dsp-ant</author>
+      <pubDate>Mon, 23 Mar 2026 22:04:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>clients(support): update goose&#39;s supported features</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2442</link>
+      <description>Merged by alexhancock - clients(support): update goose&#39;s supported features</description>
+      <author>alexhancock</author>
+      <pubDate>Mon, 23 Mar 2026 20:41:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>build(deps-dev): bump eslint from 10.0.3 to 10.1.0</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2438</link>
+      <description>Merged by dependabot[bot] - build(deps-dev): bump eslint from 10.0.3 to 10.1.0</description>
+      <author>dependabot[bot]</author>
+      <pubDate>Mon, 23 Mar 2026 16:49:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>build(deps-dev): bump typescript-eslint from 8.57.0 to 8.57.1</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2439</link>
+      <description>Merged by dependabot[bot] - build(deps-dev): bump typescript-eslint from 8.57.0 to 8.57.1</description>
+      <author>dependabot[bot]</author>
+      <pubDate>Mon, 23 Mar 2026 16:49:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>build(deps-dev): bump typedoc from 0.28.17 to 0.28.18</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2440</link>
+      <description>Merged by dependabot[bot] - build(deps-dev): bump typedoc from 0.28.17 to 0.28.18</description>
+      <author>dependabot[bot]</author>
+      <pubDate>Mon, 23 Mar 2026 16:48:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>fix: Clarify ID-JAG role in Enterprise Managed Authorization</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2435</link>
+      <description>Merged by max-stytch - fix: Clarify ID-JAG role in Enterprise Managed Authorization</description>
+      <author>max-stytch</author>
+      <pubDate>Mon, 23 Mar 2026 04:25:07 +0000</pubDate>
+    </item>
     <item>
       <title>build(deps-dev): bump flatted from 3.3.3 to 3.4.2 in the npm_and_yarn group across 1 directory</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2429</link>
@@ -277,41 +340,6 @@
       <description>Merged by dependabot[bot] - Bump eslint from 10.0.2 to 10.0.3</description>
       <author>dependabot[bot]</author>
       <pubDate>Mon, 09 Mar 2026 11:09:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Update roadmap to reflect 2026 core maintainer priorities</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2321</link>
-      <description>Merged by dsp-ant - Update roadmap to reflect 2026 core maintainer priorities</description>
-      <author>dsp-ant</author>
-      <pubDate>Fri, 06 Mar 2026 15:43:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>(docs): Add ecosystem support section to MCP intro page</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2359</link>
-      <description>Merged by localden - (docs): Add ecosystem support section to MCP intro page</description>
-      <author>localden</author>
-      <pubDate>Thu, 05 Mar 2026 23:58:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>(chore): Fix typo in CODEOWNERS team name for docs-maintainers</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2360</link>
-      <description>Merged by localden - (chore): Fix typo in CODEOWNERS team name for docs-maintainers</description>
-      <author>localden</author>
-      <pubDate>Thu, 05 Mar 2026 23:58:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add guidance to discuss SEPs with working groups before submission</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2358</link>
-      <description>Merged by dend - Add guidance to discuss SEPs with working groups before submission</description>
-      <author>dend</author>
-      <pubDate>Thu, 05 Mar 2026 20:52:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add Rust SDK Tier 2 assessment</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2347</link>
-      <description>Merged by alexhancock - Add Rust SDK Tier 2 assessment</description>
-      <author>alexhancock</author>
-      <pubDate>Thu, 05 Mar 2026 12:47:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
