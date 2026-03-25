@@ -4,7 +4,35 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Tue, 24 Mar 2026 02:47:34 +0000</pubDate>
+    <pubDate>Wed, 25 Mar 2026 02:52:06 +0000</pubDate>
+    <item>
+      <title>[Doc] Remove unnecessary `bundle install` in Ruby MCP server example</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2458</link>
+      <description>Merged by koic - [Doc] Remove unnecessary `bundle install` in Ruby MCP server example</description>
+      <author>koic</author>
+      <pubDate>Tue, 24 Mar 2026 20:31:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fix docs.json navigation reverted during SEP-2149 rebase</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2453</link>
+      <description>Merged by dsp-ant - Fix docs.json navigation reverted during SEP-2149 rebase</description>
+      <author>dsp-ant</author>
+      <pubDate>Tue, 24 Mar 2026 12:05:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Doc] Add Ruby SDK example to build-client documentation</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2431</link>
+      <description>Merged by koic - [Doc] Add Ruby SDK example to build-client documentation</description>
+      <author>koic</author>
+      <pubDate>Tue, 24 Mar 2026 04:42:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>(docs): Clarify &#34;sensitive information&#34; scope in elicitation spec</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2447</link>
+      <description>Merged by localden - (docs): Clarify &#34;sensitive information&#34; scope in elicitation spec</description>
+      <author>localden</author>
+      <pubDate>Tue, 24 Mar 2026 03:11:54 +0000</pubDate>
+    </item>
     <item>
       <title>Add explicit permissions to markdown-format and sep-lifecycle workflows</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2450</link>
@@ -291,55 +319,6 @@
       <description>Merged by PederHP - Strengthen protocol stewardship language in role definitions and details</description>
       <author>PederHP</author>
       <pubDate>Tue, 10 Mar 2026 00:13:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>fix: clarify that servers should not advertise `tasks.list` without context-binding</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2123</link>
-      <description>Merged by LucaButBoring - fix: clarify that servers should not advertise `tasks.list` without context-binding</description>
-      <author>LucaButBoring</author>
-      <pubDate>Mon, 09 Mar 2026 23:48:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mention Tool.execution in tools.mdx</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1929</link>
-      <description>Merged by LucaButBoring - Mention Tool.execution in tools.mdx</description>
-      <author>LucaButBoring</author>
-      <pubDate>Mon, 09 Mar 2026 23:47:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Docs: Clarify handling of JSON-RPC responses and notifications in client-to-server messages</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1733</link>
-      <description>Merged by Shenouda-Fawzy - Docs: Clarify handling of JSON-RPC responses and notifications in client-to-server messages</description>
-      <author>Shenouda-Fawzy</author>
-      <pubDate>Mon, 09 Mar 2026 23:47:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>SEP-2127: Remove primitives from server cards</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2336</link>
-      <description>Merged by SamMorrowDrums - SEP-2127: Remove primitives from server cards</description>
-      <author>SamMorrowDrums</author>
-      <pubDate>Mon, 09 Mar 2026 22:35:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Feat (small): Add CompleteRequest.values maximum length to jsonschema</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/588</link>
-      <description>Merged by hesreallyhim - Feat (small): Add CompleteRequest.values maximum length to jsonschema</description>
-      <author>hesreallyhim</author>
-      <pubDate>Mon, 09 Mar 2026 22:24:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs: reorder SDK table by tier</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2373</link>
-      <description>Merged by felixweinberger - docs: reorder SDK table by tier</description>
-      <author>felixweinberger</author>
-      <pubDate>Mon, 09 Mar 2026 12:18:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bump eslint from 10.0.2 to 10.0.3</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2370</link>
-      <description>Merged by dependabot[bot] - Bump eslint from 10.0.2 to 10.0.3</description>
-      <author>dependabot[bot]</author>
-      <pubDate>Mon, 09 Mar 2026 11:09:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
