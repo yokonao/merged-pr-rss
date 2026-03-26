@@ -4,7 +4,42 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Wed, 25 Mar 2026 02:52:06 +0000</pubDate>
+    <pubDate>Thu, 26 Mar 2026 03:17:21 +0000</pubDate>
+    <item>
+      <title>(docs): clarify prompt content provenance, roots are informational</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2464</link>
+      <description>Merged by localden - (docs): clarify prompt content provenance, roots are informational</description>
+      <author>localden</author>
+      <pubDate>Wed, 25 Mar 2026 23:56:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>(docs): Make stdio shutdown sequence platform-neutral</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2466</link>
+      <description>Merged by localden - (docs): Make stdio shutdown sequence platform-neutral</description>
+      <author>localden</author>
+      <pubDate>Wed, 25 Mar 2026 23:06:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>(docs): Remove all orphan pages, promote debugging, add agent skills guide</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2465</link>
+      <description>Merged by localden - (docs): Remove all orphan pages, promote debugging, add agent skills guide</description>
+      <author>localden</author>
+      <pubDate>Wed, 25 Mar 2026 23:05:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>(feat): Allow null for Task.ttl in generated JSON schema</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2408</link>
+      <description>Merged by localden - (feat): Allow null for Task.ttl in generated JSON schema</description>
+      <author>localden</author>
+      <pubDate>Wed, 25 Mar 2026 21:06:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add Triggers &amp; Events working group charter</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2459</link>
+      <description>Merged by pja-ant - Add Triggers &amp; Events working group charter</description>
+      <author>pja-ant</author>
+      <pubDate>Wed, 25 Mar 2026 04:28:41 +0000</pubDate>
+    </item>
     <item>
       <title>[Doc] Remove unnecessary `bundle install` in Ruby MCP server example</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2458</link>
