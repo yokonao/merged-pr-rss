@@ -4,7 +4,70 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Thu, 26 Mar 2026 03:17:21 +0000</pubDate>
+    <pubDate>Fri, 27 Mar 2026 03:20:24 +0000</pubDate>
+    <item>
+      <title>docs: fix subject-verb agreement in CONTRIBUTING.md</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2482</link>
+      <description>Merged by localden - docs: fix subject-verb agreement in CONTRIBUTING.md</description>
+      <author>localden</author>
+      <pubDate>Thu, 26 Mar 2026 23:51:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>slash-commands: switch to MCP Commander App + auto-merge</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2481</link>
+      <description>Merged by localden - slash-commands: switch to MCP Commander App + auto-merge</description>
+      <author>localden</author>
+      <pubDate>Thu, 26 Mar 2026 23:36:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>build(deps-dev): bump picomatch from 4.0.3 to 4.0.4 in /tools/sep-automation in the npm_and_yarn group across 1 directory</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2472</link>
+      <description>Merged by dependabot[bot] - build(deps-dev): bump picomatch from 4.0.3 to 4.0.4 in /tools/sep-automation in the npm_and_yarn group across 1 directory</description>
+      <author>dependabot[bot]</author>
+      <pubDate>Thu, 26 Mar 2026 18:00:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>(docs): Link lifecycle page to architecture guide</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2467</link>
+      <description>Merged by localden - (docs): Link lifecycle page to architecture guide</description>
+      <author>localden</author>
+      <pubDate>Thu, 26 Mar 2026 18:00:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>build(deps-dev): bump picomatch from 4.0.3 to 4.0.4 in the npm_and_yarn group across 1 directory</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2473</link>
+      <description>Merged by dependabot[bot] - build(deps-dev): bump picomatch from 4.0.3 to 4.0.4 in the npm_and_yarn group across 1 directory</description>
+      <author>dependabot[bot]</author>
+      <pubDate>Thu, 26 Mar 2026 17:59:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reword `ping` guidance to make that implementation is not optional</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2401</link>
+      <description>Merged by evalstate - Reword `ping` guidance to make that implementation is not optional</description>
+      <author>evalstate</author>
+      <pubDate>Thu, 26 Mar 2026 17:59:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>(docs): Clarify list request obligations for declared capabilities</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2463</link>
+      <description>Merged by localden - (docs): Clarify list request obligations for declared capabilities</description>
+      <author>localden</author>
+      <pubDate>Thu, 26 Mar 2026 16:26:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Move `counter-increment` from `::before` to `hN` for section numbering</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2477</link>
+      <description>Merged by jonathanhefner - Move `counter-increment` from `::before` to `hN` for section numbering</description>
+      <author>jonathanhefner</author>
+      <pubDate>Thu, 26 Mar 2026 16:25:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Align Server Card with server.json compatibility</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2443</link>
+      <description>Merged by tadasant - Align Server Card with server.json compatibility</description>
+      <author>tadasant</author>
+      <pubDate>Thu, 26 Mar 2026 13:34:16 +0000</pubDate>
+    </item>
     <item>
       <title>(docs): clarify prompt content provenance, roots are informational</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2464</link>
