@@ -4,7 +4,63 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Fri, 27 Mar 2026 03:20:24 +0000</pubDate>
+    <pubDate>Sat, 28 Mar 2026 02:50:59 +0000</pubDate>
+    <item>
+      <title>[Doc] Add documentation link for Ruby SDK in the SDK table</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2486</link>
+      <description>Merged by koic - [Doc] Add documentation link for Ruby SDK in the SDK table</description>
+      <author>koic</author>
+      <pubDate>Sat, 28 Mar 2026 01:48:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>slash-commands: only move SEP-labeled PRs to the project board</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2489</link>
+      <description>Merged by localden - slash-commands: only move SEP-labeled PRs to the project board</description>
+      <author>localden</author>
+      <pubDate>Sat, 28 Mar 2026 01:47:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>SEP-2350: Clarify client-side scope accumulation in step-up authorization</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2350</link>
+      <description>Merged by dend - SEP-2350: Clarify client-side scope accumulation in step-up authorization</description>
+      <author>dend</author>
+      <pubDate>Sat, 28 Mar 2026 01:45:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>SEP-2351: Explicitly specify RFC 8414 well-known URI suffix for MCP</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2351</link>
+      <description>Merged by dend - SEP-2351: Explicitly specify RFC 8414 well-known URI suffix for MCP</description>
+      <author>dend</author>
+      <pubDate>Sat, 28 Mar 2026 01:43:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>SEP-2352: Clarify authorization server binding and migration</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2352</link>
+      <description>Merged by dend - SEP-2352: Clarify authorization server binding and migration</description>
+      <author>dend</author>
+      <pubDate>Sat, 28 Mar 2026 01:42:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>slash-commands: clean up SEP labels and project status on /lgtm</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2488</link>
+      <description>Merged by localden - slash-commands: clean up SEP labels and project status on /lgtm</description>
+      <author>localden</author>
+      <pubDate>Sat, 28 Mar 2026 01:41:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>SEP-837: Update authorization spec to clarify client type requirements</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/837</link>
+      <description>Merged by localden - SEP-837: Update authorization spec to clarify client type requirements</description>
+      <author>localden</author>
+      <pubDate>Sat, 28 Mar 2026 01:32:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add Server Card Working Group charter</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2480</link>
+      <description>Merged by dsp-ant - Add Server Card Working Group charter</description>
+      <author>dsp-ant</author>
+      <pubDate>Fri, 27 Mar 2026 16:19:41 +0000</pubDate>
+    </item>
     <item>
       <title>docs: fix subject-verb agreement in CONTRIBUTING.md</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2482</link>
