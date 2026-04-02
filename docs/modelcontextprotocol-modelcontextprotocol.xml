@@ -4,7 +4,35 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Wed, 01 Apr 2026 03:31:59 +0000</pubDate>
+    <pubDate>Thu, 02 Apr 2026 02:56:51 +0000</pubDate>
+    <item>
+      <title>build(deps-dev): bump typescript-eslint from 8.57.1 to 8.57.2</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2502</link>
+      <description>Merged by dependabot[bot] - build(deps-dev): bump typescript-eslint from 8.57.1 to 8.57.2</description>
+      <author>dependabot[bot]</author>
+      <pubDate>Wed, 01 Apr 2026 20:21:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>build(deps): bump actions/deploy-pages from 4 to 5</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2501</link>
+      <description>Merged by dependabot[bot] - build(deps): bump actions/deploy-pages from 4 to 5</description>
+      <author>dependabot[bot]</author>
+      <pubDate>Wed, 01 Apr 2026 20:19:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>build(deps): bump actions/configure-pages from 5 to 6</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2500</link>
+      <description>Merged by dependabot[bot] - build(deps): bump actions/configure-pages from 5 to 6</description>
+      <author>dependabot[bot]</author>
+      <pubDate>Wed, 01 Apr 2026 20:13:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>build(deps): bump actions/create-github-app-token from 2 to 3</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2499</link>
+      <description>Merged by dependabot[bot] - build(deps): bump actions/create-github-app-token from 2 to 3</description>
+      <author>dependabot[bot]</author>
+      <pubDate>Wed, 01 Apr 2026 20:12:15 +0000</pubDate>
+    </item>
     <item>
       <title>SEP-2207: OIDC-flavored refresh token guidance</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2207</link>
@@ -473,13 +501,6 @@
       <description>Merged by localden - (blog): 2026 MCP Roadmap announcement post</description>
       <author>localden</author>
       <pubDate>Tue, 10 Mar 2026 13:16:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Strengthen protocol stewardship language in role definitions and details</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2201</link>
-      <description>Merged by PederHP - Strengthen protocol stewardship language in role definitions and details</description>
-      <author>PederHP</author>
-      <pubDate>Tue, 10 Mar 2026 00:13:52 +0000</pubDate>
     </item>
     <item>
       <title>SEP-2127: Remove primitives from server cards</title>
