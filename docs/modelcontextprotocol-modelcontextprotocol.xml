@@ -4,7 +4,28 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Tue, 07 Apr 2026 03:20:22 +0000</pubDate>
+    <pubDate>Wed, 08 Apr 2026 03:22:56 +0000</pubDate>
+    <item>
+      <title>build(deps-dev): bump vite from 7.3.1 to 7.3.2 in /tools/sep-automation in the npm_and_yarn group across 1 directory</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2529</link>
+      <description>Merged by dependabot[bot] - build(deps-dev): bump vite from 7.3.1 to 7.3.2 in /tools/sep-automation in the npm_and_yarn group across 1 directory</description>
+      <author>dependabot[bot]</author>
+      <pubDate>Tue, 07 Apr 2026 19:59:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>feat: add support for Qoder</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2531</link>
+      <description>Merged by assertion - feat: add support for Qoder</description>
+      <author>assertion</author>
+      <pubDate>Tue, 07 Apr 2026 19:43:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>docs: add Archestra support to clients page</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2514</link>
+      <description>Merged by joeyorlando - docs: add Archestra support to clients page</description>
+      <author>joeyorlando</author>
+      <pubDate>Tue, 07 Apr 2026 19:42:29 +0000</pubDate>
+    </item>
     <item>
       <title>Add Clare to core maintainer list</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2530</link>
@@ -487,27 +508,6 @@
       <description>Merged by pja-ant - Add version warning banners to specification pages</description>
       <author>pja-ant</author>
       <pubDate>Wed, 11 Mar 2026 00:28:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Replace Java SDK docs with redirect notices to new documentation site</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2259</link>
-      <description>Merged by tzolov - Replace Java SDK docs with redirect notices to new documentation site</description>
-      <author>tzolov</author>
-      <pubDate>Tue, 10 Mar 2026 22:25:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>SEP-2260 Require Server requests to be associated with a Client request.</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2260</link>
-      <description>Merged by evalstate - SEP-2260 Require Server requests to be associated with a Client request.</description>
-      <author>evalstate</author>
-      <pubDate>Tue, 10 Mar 2026 21:12:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>(docs): SDK tier pills, promote SEPs to top-level tab</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2364</link>
-      <description>Merged by localden - (docs): SDK tier pills, promote SEPs to top-level tab</description>
-      <author>localden</author>
-      <pubDate>Tue, 10 Mar 2026 17:03:21 +0000</pubDate>
     </item>
     <item>
       <title>SEP-2127: Remove primitives from server cards</title>
