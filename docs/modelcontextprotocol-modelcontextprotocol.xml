@@ -4,7 +4,56 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Wed, 08 Apr 2026 03:22:56 +0000</pubDate>
+    <pubDate>Thu, 09 Apr 2026 03:17:07 +0000</pubDate>
+    <item>
+      <title>fix: use execFileSync for prettier to avoid shell injection (CodeQL #21)</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2546</link>
+      <description>Merged by localden - fix: use execFileSync for prettier to avoid shell injection (CodeQL #21)</description>
+      <author>localden</author>
+      <pubDate>Thu, 09 Apr 2026 00:20:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>docs: move versioning page out of specification/ to drop the spec banner</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2544</link>
+      <description>Merged by localden - docs: move versioning page out of specification/ to drop the spec banner</description>
+      <author>localden</author>
+      <pubDate>Thu, 09 Apr 2026 00:16:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>fix: render-seps 0000- skip was dead code; update workflow paths</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2543</link>
+      <description>Merged by localden - fix: render-seps 0000- skip was dead code; update workflow paths</description>
+      <author>localden</author>
+      <pubDate>Wed, 08 Apr 2026 23:26:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>docs: Add Cursor extension to client matrix documentation</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2520</link>
+      <description>Merged by hydrosquall - docs: Add Cursor extension to client matrix documentation</description>
+      <author>hydrosquall</author>
+      <pubDate>Wed, 08 Apr 2026 22:19:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add Peder Holdgaard Pedersen to Community Moderators</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2541</link>
+      <description>Merged by PederHP - Add Peder Holdgaard Pedersen to Community Moderators</description>
+      <author>PederHP</author>
+      <pubDate>Wed, 08 Apr 2026 18:49:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add IBM Bob to MCP clients list</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2540</link>
+      <description>Merged by Yashrajsingh2001 - Add IBM Bob to MCP clients list</description>
+      <author>Yashrajsingh2001</author>
+      <pubDate>Wed, 08 Apr 2026 17:32:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Remove unnecessary length check</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2537</link>
+      <description>Merged by antony - Remove unnecessary length check</description>
+      <author>antony</author>
+      <pubDate>Wed, 08 Apr 2026 16:32:36 +0000</pubDate>
+    </item>
     <item>
       <title>build(deps-dev): bump vite from 7.3.1 to 7.3.2 in /tools/sep-automation in the npm_and_yarn group across 1 directory</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2529</link>
@@ -501,13 +550,6 @@
       <description>Merged by 18-RAJAT - fix(scripts): handle hyphenated statuses in SEP status normalization</description>
       <author>18-RAJAT</author>
       <pubDate>Wed, 11 Mar 2026 14:40:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add version warning banners to specification pages</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1516</link>
-      <description>Merged by pja-ant - Add version warning banners to specification pages</description>
-      <author>pja-ant</author>
-      <pubDate>Wed, 11 Mar 2026 00:28:45 +0000</pubDate>
     </item>
     <item>
       <title>SEP-2127: Remove primitives from server cards</title>
