@@ -4,7 +4,21 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Thu, 09 Apr 2026 03:17:07 +0000</pubDate>
+    <pubDate>Fri, 10 Apr 2026 03:31:01 +0000</pubDate>
+    <item>
+      <title>(blog): Announce April 2026 maintainer updates</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2542</link>
+      <description>Merged by localden - (blog): Announce April 2026 maintainer updates</description>
+      <author>localden</author>
+      <pubDate>Thu, 09 Apr 2026 16:29:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>schema: use JSONObject for extensions capability values</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2508</link>
+      <description>Merged by felixweinberger - schema: use JSONObject for extensions capability values</description>
+      <author>felixweinberger</author>
+      <pubDate>Thu, 09 Apr 2026 12:18:27 +0000</pubDate>
+    </item>
     <item>
       <title>fix: use execFileSync for prettier to avoid shell injection (CodeQL #21)</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2546</link>
@@ -543,13 +557,6 @@
       <description>Merged by wong2 - Fix registry internal links by removing `.mdx` suffixes</description>
       <author>wong2</author>
       <pubDate>Wed, 11 Mar 2026 15:55:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>fix(scripts): handle hyphenated statuses in SEP status normalization</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2222</link>
-      <description>Merged by 18-RAJAT - fix(scripts): handle hyphenated statuses in SEP status normalization</description>
-      <author>18-RAJAT</author>
-      <pubDate>Wed, 11 Mar 2026 14:40:54 +0000</pubDate>
     </item>
     <item>
       <title>SEP-2127: Remove primitives from server cards</title>
