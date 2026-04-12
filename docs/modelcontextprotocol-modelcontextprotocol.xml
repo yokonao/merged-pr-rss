@@ -4,7 +4,14 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Sat, 11 Apr 2026 02:54:04 +0000</pubDate>
+    <pubDate>Sun, 12 Apr 2026 03:34:47 +0000</pubDate>
+    <item>
+      <title>Update Go SDK in MAINTAINERS.md</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2551</link>
+      <description>Merged by maciej-kisiel - Update Go SDK in MAINTAINERS.md</description>
+      <author>maciej-kisiel</author>
+      <pubDate>Sat, 11 Apr 2026 02:57:44 +0000</pubDate>
+    </item>
     <item>
       <title>(blog): Announce April 2026 maintainer updates</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2542</link>
@@ -529,20 +536,6 @@
       <description>Merged by localden - Enable /stageblog for fork PR blog previews</description>
       <author>localden</author>
       <pubDate>Wed, 11 Mar 2026 20:37:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bump slash-commands action ref to @main</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2383</link>
-      <description>Merged by localden - Bump slash-commands action ref to @main</description>
-      <author>localden</author>
-      <pubDate>Wed, 11 Mar 2026 18:07:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add /lgtm and /hold slash-commands workflow</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2381</link>
-      <description>Merged by localden - Add /lgtm and /hold slash-commands workflow</description>
-      <author>localden</author>
-      <pubDate>Wed, 11 Mar 2026 17:11:08 +0000</pubDate>
     </item>
     <item>
       <title>Fix registry internal links by removing `.mdx` suffixes</title>
