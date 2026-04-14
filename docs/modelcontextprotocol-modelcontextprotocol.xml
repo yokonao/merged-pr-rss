@@ -4,7 +4,63 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Mon, 13 Apr 2026 03:41:12 +0000</pubDate>
+    <pubDate>Tue, 14 Apr 2026 03:30:44 +0000</pubDate>
+    <item>
+      <title>docs: update VS Code client entry with current MCP capabilities</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2517</link>
+      <description>Merged by digitarald - docs: update VS Code client entry with current MCP capabilities</description>
+      <author>digitarald</author>
+      <pubDate>Mon, 13 Apr 2026 19:39:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>spec: tools/list SHOULD return tools in deterministic order</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2516</link>
+      <description>Merged by dsp - spec: tools/list SHOULD return tools in deterministic order</description>
+      <author>dsp</author>
+      <pubDate>Mon, 13 Apr 2026 18:57:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>docs: Add Bob Shell to MCP clients documentation</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2548</link>
+      <description>Merged by Yashrajsingh2001 - docs: Add Bob Shell to MCP clients documentation</description>
+      <author>Yashrajsingh2001</author>
+      <pubDate>Mon, 13 Apr 2026 17:48:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>docs(community): Inspector V2 WG charter (SEP-2149)</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2555</link>
+      <description>Merged by cliffhall - docs(community): Inspector V2 WG charter (SEP-2149)</description>
+      <author>cliffhall</author>
+      <pubDate>Mon, 13 Apr 2026 17:46:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>build(deps-dev): bump typedoc from 0.28.18 to 0.28.19</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2561</link>
+      <description>Merged by dependabot[bot] - build(deps-dev): bump typedoc from 0.28.18 to 0.28.19</description>
+      <author>dependabot[bot]</author>
+      <pubDate>Mon, 13 Apr 2026 16:37:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>build(deps-dev): bump typescript-eslint from 8.58.0 to 8.58.1</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2562</link>
+      <description>Merged by dependabot[bot] - build(deps-dev): bump typescript-eslint from 8.58.0 to 8.58.1</description>
+      <author>dependabot[bot]</author>
+      <pubDate>Mon, 13 Apr 2026 16:36:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>build(deps-dev): bump prettier from 3.8.1 to 3.8.2</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2560</link>
+      <description>Merged by dependabot[bot] - build(deps-dev): bump prettier from 3.8.1 to 3.8.2</description>
+      <author>dependabot[bot]</author>
+      <pubDate>Mon, 13 Apr 2026 16:35:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Remove authentication, capabilities, and requires to limit Server Card scope</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2525</link>
+      <description>Merged by tadasant - Remove authentication, capabilities, and requires to limit Server Card scope</description>
+      <author>tadasant</author>
+      <pubDate>Mon, 13 Apr 2026 14:06:13 +0000</pubDate>
+    </item>
     <item>
       <title>Update Go SDK in MAINTAINERS.md</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2551</link>
@@ -480,62 +536,6 @@
       <description>Merged by localden - blog: fix .footer flex-item shrink, add header wrap padding</description>
       <author>localden</author>
       <pubDate>Sat, 14 Mar 2026 01:16:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>blog: mobile layout — wrap header menu, stack footer nav, clip 100vw overflow</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2394</link>
-      <description>Merged by localden - blog: mobile layout — wrap header menu, stack footer nav, clip 100vw overflow</description>
-      <author>localden</author>
-      <pubDate>Fri, 13 Mar 2026 16:24:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>blog: SEO fixes + design refresh — JSON-LD, search/archives, docs-site header alignment</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2390</link>
-      <description>Merged by localden - blog: SEO fixes + design refresh — JSON-LD, search/archives, docs-site header alignment</description>
-      <author>localden</author>
-      <pubDate>Fri, 13 Mar 2026 15:13:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Doc] Add Ruby SDK example to build-server documentation</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2264</link>
-      <description>Merged by koic - [Doc] Add Ruby SDK example to build-server documentation</description>
-      <author>koic</author>
-      <pubDate>Thu, 12 Mar 2026 13:18:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>slash-commands: trim pull_request_target triggers to opened/synchronize</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2388</link>
-      <description>Merged by localden - slash-commands: trim pull_request_target triggers to opened/synchronize</description>
-      <author>localden</author>
-      <pubDate>Thu, 12 Mar 2026 13:13:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>stage-blog: repost preview comment on each /stageblog (minimize old as outdated)</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2387</link>
-      <description>Merged by localden - stage-blog: repost preview comment on each /stageblog (minimize old as outdated)</description>
-      <author>localden</author>
-      <pubDate>Wed, 11 Mar 2026 23:26:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs: add Go tab to build-server tutorial</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2375</link>
-      <description>Merged by shubham-chemate - docs: add Go tab to build-server tutorial</description>
-      <author>shubham-chemate</author>
-      <pubDate>Wed, 11 Mar 2026 23:06:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>slash-commands: pending (yellow) merge-gate status instead of red ❌</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2386</link>
-      <description>Merged by localden - slash-commands: pending (yellow) merge-gate status instead of red ❌</description>
-      <author>localden</author>
-      <pubDate>Wed, 11 Mar 2026 23:04:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fix registry internal links by removing `.mdx` suffixes</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2380</link>
-      <description>Merged by wong2 - Fix registry internal links by removing `.mdx` suffixes</description>
-      <author>wong2</author>
-      <pubDate>Wed, 11 Mar 2026 15:55:36 +0000</pubDate>
     </item>
     <item>
       <title>SEP-2127: Remove primitives from server cards</title>
