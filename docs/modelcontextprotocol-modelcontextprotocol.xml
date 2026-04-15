@@ -4,7 +4,14 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Tue, 14 Apr 2026 03:30:44 +0000</pubDate>
+    <pubDate>Wed, 15 Apr 2026 03:29:39 +0000</pubDate>
+    <item>
+      <title>docs(community): add Skills Over MCP IG charter</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2568</link>
+      <description>Merged by olaservo - docs(community): add Skills Over MCP IG charter</description>
+      <author>olaservo</author>
+      <pubDate>Tue, 14 Apr 2026 16:47:14 +0000</pubDate>
+    </item>
     <item>
       <title>docs: update VS Code client entry with current MCP capabilities</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2517</link>
@@ -522,20 +529,6 @@
       <description>Merged by ochafik - Update MCP client capability documentation for Claude Code (Elicitation), Claude Desktop (Roots), claude.ai (Apps)</description>
       <author>ochafik</author>
       <pubDate>Sat, 14 Mar 2026 20:40:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>build(deps-dev): bump undici from 7.19.0 to 7.24.1 in the npm_and_yarn group across 1 directory</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2396</link>
-      <description>Merged by dependabot[bot] - build(deps-dev): bump undici from 7.19.0 to 7.24.1 in the npm_and_yarn group across 1 directory</description>
-      <author>dependabot[bot]</author>
-      <pubDate>Sat, 14 Mar 2026 01:17:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>blog: fix .footer flex-item shrink, add header wrap padding</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2397</link>
-      <description>Merged by localden - blog: fix .footer flex-item shrink, add header wrap padding</description>
-      <author>localden</author>
-      <pubDate>Sat, 14 Mar 2026 01:16:05 +0000</pubDate>
     </item>
     <item>
       <title>SEP-2127: Remove primitives from server cards</title>
