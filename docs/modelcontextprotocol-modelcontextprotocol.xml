@@ -4,7 +4,28 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Wed, 15 Apr 2026 03:29:39 +0000</pubDate>
+    <pubDate>Thu, 16 Apr 2026 03:36:30 +0000</pubDate>
+    <item>
+      <title>docs(spec): restore tool-name disambiguation note dropped in #2243</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2584</link>
+      <description>Merged by localden - docs(spec): restore tool-name disambiguation note dropped in #2243</description>
+      <author>localden</author>
+      <pubDate>Thu, 16 Apr 2026 01:09:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fix `linguist-generated` paths for rendered SEP docs</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2581</link>
+      <description>Merged by jonathanhefner - Fix `linguist-generated` paths for rendered SEP docs</description>
+      <author>jonathanhefner</author>
+      <pubDate>Wed, 15 Apr 2026 18:55:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>SEP-2243 HTTP Standardization</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2243</link>
+      <description>Merged by mikekistler - SEP-2243 HTTP Standardization</description>
+      <author>mikekistler</author>
+      <pubDate>Wed, 15 Apr 2026 18:51:31 +0000</pubDate>
+    </item>
     <item>
       <title>docs(community): add Skills Over MCP IG charter</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2568</link>
@@ -517,25 +538,18 @@
       <pubDate>Mon, 16 Mar 2026 01:36:36 +0000</pubDate>
     </item>
     <item>
-      <title>docs: add note for Continue client apps support</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2191</link>
-      <description>Merged by RomneyDa - docs: add note for Continue client apps support</description>
-      <author>RomneyDa</author>
-      <pubDate>Sun, 15 Mar 2026 19:09:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Update MCP client capability documentation for Claude Code (Elicitation), Claude Desktop (Roots), claude.ai (Apps)</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2398</link>
-      <description>Merged by ochafik - Update MCP client capability documentation for Claude Code (Elicitation), Claude Desktop (Roots), claude.ai (Apps)</description>
-      <author>ochafik</author>
-      <pubDate>Sat, 14 Mar 2026 20:40:15 +0000</pubDate>
-    </item>
-    <item>
       <title>SEP-2127: Remove primitives from server cards</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2336</link>
       <description>Merged by SamMorrowDrums - SEP-2127: Remove primitives from server cards</description>
       <author>SamMorrowDrums</author>
       <pubDate>Mon, 09 Mar 2026 22:35:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>SEP-1730: SDK tiers definition</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1777</link>
+      <description>Merged by ihrpr - SEP-1730: SDK tiers definition</description>
+      <author>ihrpr</author>
+      <pubDate>Mon, 02 Feb 2026 23:56:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
