@@ -4,7 +4,21 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Thu, 16 Apr 2026 03:36:30 +0000</pubDate>
+    <pubDate>Fri, 17 Apr 2026 03:32:34 +0000</pubDate>
+    <item>
+      <title>docs(community): convert Skills Over MCP IG to Working Group</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2586</link>
+      <description>Merged by olaservo - docs(community): convert Skills Over MCP IG to Working Group</description>
+      <author>olaservo</author>
+      <pubDate>Thu, 16 Apr 2026 17:15:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>docs: Update `mcpc` MCP CLI client with new capabilities in Example Clients</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2576</link>
+      <description>Merged by jancurn - docs: Update `mcpc` MCP CLI client with new capabilities in Example Clients</description>
+      <author>jancurn</author>
+      <pubDate>Thu, 16 Apr 2026 04:44:29 +0000</pubDate>
+    </item>
     <item>
       <title>docs(spec): restore tool-name disambiguation note dropped in #2243</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2584</link>
@@ -517,27 +531,6 @@
       <pubDate>Wed, 18 Mar 2026 20:32:50 +0000</pubDate>
     </item>
     <item>
-      <title>Update Kotlin example</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2416</link>
-      <description>Merged by devcrocod - Update Kotlin example</description>
-      <author>devcrocod</author>
-      <pubDate>Wed, 18 Mar 2026 00:33:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>build(deps-dev): bump typescript-eslint from 8.56.1 to 8.57.0</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2415</link>
-      <description>Merged by dependabot[bot] - build(deps-dev): bump typescript-eslint from 8.56.1 to 8.57.0</description>
-      <author>dependabot[bot]</author>
-      <pubDate>Mon, 16 Mar 2026 13:11:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add issue templates: spec bugs, work tracking, SEP/SDK redirects</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2407</link>
-      <description>Merged by localden - Add issue templates: spec bugs, work tracking, SEP/SDK redirects</description>
-      <author>localden</author>
-      <pubDate>Mon, 16 Mar 2026 01:36:36 +0000</pubDate>
-    </item>
-    <item>
       <title>SEP-2127: Remove primitives from server cards</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2336</link>
       <description>Merged by SamMorrowDrums - SEP-2127: Remove primitives from server cards</description>
@@ -550,6 +543,20 @@
       <description>Merged by ihrpr - SEP-1730: SDK tiers definition</description>
       <author>ihrpr</author>
       <pubDate>Mon, 02 Feb 2026 23:56:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>SEP-1024: MCP Client Security Requirements for Local Server Installation</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1025</link>
+      <description>Merged by localden - SEP-1024: MCP Client Security Requirements for Local Server Installation</description>
+      <author>localden</author>
+      <pubDate>Fri, 12 Sep 2025 01:13:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>SEP-994: Shared Communication Practices/Guidelines</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1002</link>
+      <description>Merged by localden - SEP-994: Shared Communication Practices/Guidelines</description>
+      <author>localden</author>
+      <pubDate>Thu, 31 Jul 2025 16:45:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
