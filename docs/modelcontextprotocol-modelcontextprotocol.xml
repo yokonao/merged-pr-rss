@@ -4,7 +4,35 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Fri, 17 Apr 2026 03:32:34 +0000</pubDate>
+    <pubDate>Sat, 18 Apr 2026 03:20:20 +0000</pubDate>
+    <item>
+      <title>fix: use directory symlink so search-mcp-github skill is indexed</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2597</link>
+      <description>Merged by olaservo - fix: use directory symlink so search-mcp-github skill is indexed</description>
+      <author>olaservo</author>
+      <pubDate>Fri, 17 Apr 2026 20:07:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>(chore): Add /draft-sep skill to simplify how SEPs are written</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2410</link>
+      <description>Merged by localden - (chore): Add /draft-sep skill to simplify how SEPs are written</description>
+      <author>localden</author>
+      <pubDate>Fri, 17 Apr 2026 16:53:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Expose MCP skills via .well-known/agent-skills/ discovery</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2589</link>
+      <description>Merged by olaservo - Expose MCP skills via .well-known/agent-skills/ discovery</description>
+      <author>olaservo</author>
+      <pubDate>Fri, 17 Apr 2026 16:23:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>SEP-2149: clarify single Core Maintainer approval for WG charter</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2592</link>
+      <description>Merged by dsp-ant - SEP-2149: clarify single Core Maintainer approval for WG charter</description>
+      <author>dsp-ant</author>
+      <pubDate>Fri, 17 Apr 2026 07:45:28 +0000</pubDate>
+    </item>
     <item>
       <title>docs(community): convert Skills Over MCP IG to Working Group</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2586</link>
@@ -503,32 +531,11 @@
       <pubDate>Mon, 23 Mar 2026 02:49:16 +0000</pubDate>
     </item>
     <item>
-      <title>docs: Fix mermaid rendering in enterprise managed auth flow</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2432</link>
-      <description>Merged by max-stytch - docs: Fix mermaid rendering in enterprise managed auth flow</description>
-      <author>max-stytch</author>
-      <pubDate>Sun, 22 Mar 2026 15:03:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Reorganize tool error handling section for clarity</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2425</link>
-      <description>Merged by jonathanhefner - Reorganize tool error handling section for clarity</description>
-      <author>jonathanhefner</author>
-      <pubDate>Thu, 19 Mar 2026 17:53:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add blog post for Tool Annotations</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2230</link>
-      <description>Merged by olaservo - Add blog post for Tool Annotations</description>
-      <author>olaservo</author>
-      <pubDate>Wed, 18 Mar 2026 21:57:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>SEP-2148: MCP Contributor Ladder</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2148</link>
-      <description>Merged by dsp-ant - SEP-2148: MCP Contributor Ladder</description>
-      <author>dsp-ant</author>
-      <pubDate>Wed, 18 Mar 2026 20:32:50 +0000</pubDate>
+      <title>SEP-2260 Require Server requests to be associated with a Client request.</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2260</link>
+      <description>Merged by evalstate - SEP-2260 Require Server requests to be associated with a Client request.</description>
+      <author>evalstate</author>
+      <pubDate>Tue, 10 Mar 2026 21:12:10 +0000</pubDate>
     </item>
     <item>
       <title>SEP-2127: Remove primitives from server cards</title>
@@ -538,11 +545,32 @@
       <pubDate>Mon, 09 Mar 2026 22:35:55 +0000</pubDate>
     </item>
     <item>
+      <title>SEP-414: Document OpenTelemetry Trace Context Propagation Conventions</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/414</link>
+      <description>Merged by codefromthecrypt - SEP-414: Document OpenTelemetry Trace Context Propagation Conventions</description>
+      <author>codefromthecrypt</author>
+      <pubDate>Thu, 26 Feb 2026 12:06:26 +0000</pubDate>
+    </item>
+    <item>
       <title>SEP-1730: SDK tiers definition</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1777</link>
       <description>Merged by ihrpr - SEP-1730: SDK tiers definition</description>
       <author>ihrpr</author>
       <pubDate>Mon, 02 Feb 2026 23:56:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>SEP-1865: MCP Apps - Interactive User Interfaces for MCP</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1865</link>
+      <description>Merged by idosal - SEP-1865: MCP Apps - Interactive User Interfaces for MCP</description>
+      <author>idosal</author>
+      <pubDate>Wed, 28 Jan 2026 18:08:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>SEP-2133: Extensions framework for MCP</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2133</link>
+      <description>Merged by pja-ant - SEP-2133: Extensions framework for MCP</description>
+      <author>pja-ant</author>
+      <pubDate>Mon, 26 Jan 2026 23:57:49 +0000</pubDate>
     </item>
     <item>
       <title>SEP-1024: MCP Client Security Requirements for Local Server Installation</title>
