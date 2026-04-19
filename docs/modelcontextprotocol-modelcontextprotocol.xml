@@ -4,7 +4,7 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Sat, 18 Apr 2026 03:20:20 +0000</pubDate>
+    <pubDate>Sun, 19 Apr 2026 03:39:30 +0000</pubDate>
     <item>
       <title>fix: use directory symlink so search-mcp-github skill is indexed</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2597</link>
