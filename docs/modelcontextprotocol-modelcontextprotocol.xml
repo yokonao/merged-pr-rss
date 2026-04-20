@@ -4,7 +4,14 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Sun, 19 Apr 2026 03:39:30 +0000</pubDate>
+    <pubDate>Mon, 20 Apr 2026 03:40:57 +0000</pubDate>
+    <item>
+      <title>docs: symlink draft-sep skill for Mintlify + note Agent Skills symlink requirement</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2604</link>
+      <description>Merged by olaservo - docs: symlink draft-sep skill for Mintlify + note Agent Skills symlink requirement</description>
+      <author>olaservo</author>
+      <pubDate>Sun, 19 Apr 2026 04:18:15 +0000</pubDate>
+    </item>
     <item>
       <title>fix: use directory symlink so search-mcp-github skill is indexed</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2597</link>
@@ -517,20 +524,6 @@
       <pubDate>Mon, 23 Mar 2026 16:48:47 +0000</pubDate>
     </item>
     <item>
-      <title>fix: Clarify ID-JAG role in Enterprise Managed Authorization</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2435</link>
-      <description>Merged by max-stytch - fix: Clarify ID-JAG role in Enterprise Managed Authorization</description>
-      <author>max-stytch</author>
-      <pubDate>Mon, 23 Mar 2026 04:25:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>build(deps-dev): bump flatted from 3.3.3 to 3.4.2 in the npm_and_yarn group across 1 directory</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2429</link>
-      <description>Merged by dependabot[bot] - build(deps-dev): bump flatted from 3.3.3 to 3.4.2 in the npm_and_yarn group across 1 directory</description>
-      <author>dependabot[bot]</author>
-      <pubDate>Mon, 23 Mar 2026 02:49:16 +0000</pubDate>
-    </item>
-    <item>
       <title>SEP-2260 Require Server requests to be associated with a Client request.</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2260</link>
       <description>Merged by evalstate - SEP-2260 Require Server requests to be associated with a Client request.</description>
@@ -571,6 +564,13 @@
       <description>Merged by pja-ant - SEP-2133: Extensions framework for MCP</description>
       <author>pja-ant</author>
       <pubDate>Mon, 26 Jan 2026 23:57:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add 2025-11-25 MCP specification</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1887</link>
+      <description>Merged by localden - Add 2025-11-25 MCP specification</description>
+      <author>localden</author>
+      <pubDate>Tue, 25 Nov 2025 21:06:46 +0000</pubDate>
     </item>
     <item>
       <title>SEP-1024: MCP Client Security Requirements for Local Server Installation</title>
