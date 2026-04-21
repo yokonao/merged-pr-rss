@@ -4,7 +4,49 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Mon, 20 Apr 2026 03:40:57 +0000</pubDate>
+    <pubDate>Tue, 21 Apr 2026 03:33:43 +0000</pubDate>
+    <item>
+      <title>Add Runbear to Example Clients list</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2572</link>
+      <description>Merged by ssowonny - Add Runbear to Example Clients list</description>
+      <author>ssowonny</author>
+      <pubDate>Mon, 20 Apr 2026 21:45:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>build(deps-dev): bump typescript-eslint from 8.58.1 to 8.58.2</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2612</link>
+      <description>Merged by dependabot[bot] - build(deps-dev): bump typescript-eslint from 8.58.1 to 8.58.2</description>
+      <author>dependabot[bot]</author>
+      <pubDate>Mon, 20 Apr 2026 16:48:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>build(deps-dev): bump eslint from 10.2.0 to 10.2.1</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2613</link>
+      <description>Merged by dependabot[bot] - build(deps-dev): bump eslint from 10.2.0 to 10.2.1</description>
+      <author>dependabot[bot]</author>
+      <pubDate>Mon, 20 Apr 2026 16:48:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>build(deps-dev): bump prettier from 3.8.2 to 3.8.3</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2611</link>
+      <description>Merged by dependabot[bot] - build(deps-dev): bump prettier from 3.8.2 to 3.8.3</description>
+      <author>dependabot[bot]</author>
+      <pubDate>Mon, 20 Apr 2026 15:52:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>build(deps-dev): bump typescript from 6.0.2 to 6.0.3</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2610</link>
+      <description>Merged by dependabot[bot] - build(deps-dev): bump typescript from 6.0.2 to 6.0.3</description>
+      <author>dependabot[bot]</author>
+      <pubDate>Mon, 20 Apr 2026 15:51:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>build(deps): bump actions/upload-pages-artifact from 4 to 5</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2609</link>
+      <description>Merged by dependabot[bot] - build(deps): bump actions/upload-pages-artifact from 4 to 5</description>
+      <author>dependabot[bot]</author>
+      <pubDate>Mon, 20 Apr 2026 14:15:02 +0000</pubDate>
+    </item>
     <item>
       <title>docs: symlink draft-sep skill for Mintlify + note Agent Skills symlink requirement</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2604</link>
@@ -473,55 +515,6 @@
       <description>Merged by localden - Add explicit permissions to markdown-format and sep-lifecycle workflows</description>
       <author>localden</author>
       <pubDate>Tue, 24 Mar 2026 01:44:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add explicit permissions to workflows missing them</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2449</link>
-      <description>Merged by localden - Add explicit permissions to workflows missing them</description>
-      <author>localden</author>
-      <pubDate>Tue, 24 Mar 2026 01:30:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Restore docs navigation structure lost in merge</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2446</link>
-      <description>Merged by localden - Restore docs navigation structure lost in merge</description>
-      <author>localden</author>
-      <pubDate>Mon, 23 Mar 2026 23:53:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>SEP-2149: MCP Group Governance and Charter Template</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2149</link>
-      <description>Merged by dsp-ant - SEP-2149: MCP Group Governance and Charter Template</description>
-      <author>dsp-ant</author>
-      <pubDate>Mon, 23 Mar 2026 22:04:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>clients(support): update goose&#39;s supported features</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2442</link>
-      <description>Merged by alexhancock - clients(support): update goose&#39;s supported features</description>
-      <author>alexhancock</author>
-      <pubDate>Mon, 23 Mar 2026 20:41:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>build(deps-dev): bump eslint from 10.0.3 to 10.1.0</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2438</link>
-      <description>Merged by dependabot[bot] - build(deps-dev): bump eslint from 10.0.3 to 10.1.0</description>
-      <author>dependabot[bot]</author>
-      <pubDate>Mon, 23 Mar 2026 16:49:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>build(deps-dev): bump typescript-eslint from 8.57.0 to 8.57.1</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2439</link>
-      <description>Merged by dependabot[bot] - build(deps-dev): bump typescript-eslint from 8.57.0 to 8.57.1</description>
-      <author>dependabot[bot]</author>
-      <pubDate>Mon, 23 Mar 2026 16:49:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>build(deps-dev): bump typedoc from 0.28.17 to 0.28.18</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2440</link>
-      <description>Merged by dependabot[bot] - build(deps-dev): bump typedoc from 0.28.17 to 0.28.18</description>
-      <author>dependabot[bot]</author>
-      <pubDate>Mon, 23 Mar 2026 16:48:47 +0000</pubDate>
     </item>
     <item>
       <title>SEP-2260 Require Server requests to be associated with a Client request.</title>
