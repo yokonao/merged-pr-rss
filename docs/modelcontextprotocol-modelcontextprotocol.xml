@@ -4,7 +4,14 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Tue, 21 Apr 2026 03:33:43 +0000</pubDate>
+    <pubDate>Wed, 22 Apr 2026 03:31:41 +0000</pubDate>
+    <item>
+      <title>Add Interceptors Working Group charter</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2619</link>
+      <description>Merged by sambhav - Add Interceptors Working Group charter</description>
+      <author>sambhav</author>
+      <pubDate>Tue, 21 Apr 2026 14:11:48 +0000</pubDate>
+    </item>
     <item>
       <title>Add Runbear to Example Clients list</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2572</link>
@@ -508,13 +515,6 @@
       <description>Merged by localden - (docs): Clarify &#34;sensitive information&#34; scope in elicitation spec</description>
       <author>localden</author>
       <pubDate>Tue, 24 Mar 2026 03:11:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add explicit permissions to markdown-format and sep-lifecycle workflows</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2450</link>
-      <description>Merged by localden - Add explicit permissions to markdown-format and sep-lifecycle workflows</description>
-      <author>localden</author>
-      <pubDate>Tue, 24 Mar 2026 01:44:58 +0000</pubDate>
     </item>
     <item>
       <title>SEP-2260 Require Server requests to be associated with a Client request.</title>
