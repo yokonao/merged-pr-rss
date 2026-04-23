@@ -4,7 +4,21 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Wed, 22 Apr 2026 03:31:41 +0000</pubDate>
+    <pubDate>Thu, 23 Apr 2026 03:35:15 +0000</pubDate>
+    <item>
+      <title>docs: adjust slug for new client page to match title</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2634</link>
+      <description>Merged by alexhancock - docs: adjust slug for new client page to match title</description>
+      <author>alexhancock</author>
+      <pubDate>Thu, 23 Apr 2026 01:41:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>feat(docs): some MCP client best practices</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2582</link>
+      <description>Merged by alexhancock - feat(docs): some MCP client best practices</description>
+      <author>alexhancock</author>
+      <pubDate>Wed, 22 Apr 2026 22:58:33 +0000</pubDate>
+    </item>
     <item>
       <title>Add Interceptors Working Group charter</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2619</link>
@@ -501,20 +515,6 @@
       <description>Merged by dsp-ant - Fix docs.json navigation reverted during SEP-2149 rebase</description>
       <author>dsp-ant</author>
       <pubDate>Tue, 24 Mar 2026 12:05:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Doc] Add Ruby SDK example to build-client documentation</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2431</link>
-      <description>Merged by koic - [Doc] Add Ruby SDK example to build-client documentation</description>
-      <author>koic</author>
-      <pubDate>Tue, 24 Mar 2026 04:42:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>(docs): Clarify &#34;sensitive information&#34; scope in elicitation spec</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2447</link>
-      <description>Merged by localden - (docs): Clarify &#34;sensitive information&#34; scope in elicitation spec</description>
-      <author>localden</author>
-      <pubDate>Tue, 24 Mar 2026 03:11:54 +0000</pubDate>
     </item>
     <item>
       <title>SEP-2260 Require Server requests to be associated with a Client request.</title>
