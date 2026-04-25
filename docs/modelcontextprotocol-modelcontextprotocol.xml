@@ -4,7 +4,28 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Fri, 24 Apr 2026 03:37:04 +0000</pubDate>
+    <pubDate>Sat, 25 Apr 2026 03:21:36 +0000</pubDate>
+    <item>
+      <title>docs: fix incorrect method names in learning guides</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2645</link>
+      <description>Merged by TanmayZade - docs: fix incorrect method names in learning guides</description>
+      <author>TanmayZade</author>
+      <pubDate>Fri, 24 Apr 2026 16:58:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>SEP-2468: add Authorization spec changes for RFC 9207 iss validation</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2646</link>
+      <description>Merged by pcarleton - SEP-2468: add Authorization spec changes for RFC 9207 iss validation</description>
+      <author>pcarleton</author>
+      <pubDate>Fri, 24 Apr 2026 15:52:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>docs(community): add File Uploads Working Group charter</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2635</link>
+      <description>Merged by localden - docs(community): add File Uploads Working Group charter</description>
+      <author>localden</author>
+      <pubDate>Fri, 24 Apr 2026 06:42:18 +0000</pubDate>
+    </item>
     <item>
       <title>SEP-2243: mark as Final</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2641</link>
@@ -494,27 +515,6 @@
       <description>Merged by localden - (docs): Remove all orphan pages, promote debugging, add agent skills guide</description>
       <author>localden</author>
       <pubDate>Wed, 25 Mar 2026 23:05:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>(feat): Allow null for Task.ttl in generated JSON schema</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2408</link>
-      <description>Merged by localden - (feat): Allow null for Task.ttl in generated JSON schema</description>
-      <author>localden</author>
-      <pubDate>Wed, 25 Mar 2026 21:06:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add Triggers &amp; Events working group charter</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2459</link>
-      <description>Merged by pja-ant - Add Triggers &amp; Events working group charter</description>
-      <author>pja-ant</author>
-      <pubDate>Wed, 25 Mar 2026 04:28:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Doc] Remove unnecessary `bundle install` in Ruby MCP server example</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2458</link>
-      <description>Merged by koic - [Doc] Remove unnecessary `bundle install` in Ruby MCP server example</description>
-      <author>koic</author>
-      <pubDate>Tue, 24 Mar 2026 20:31:01 +0000</pubDate>
     </item>
     <item>
       <title>SEP-2260 Require Server requests to be associated with a Client request.</title>
