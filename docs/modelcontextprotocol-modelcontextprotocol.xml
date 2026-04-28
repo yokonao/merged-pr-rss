@@ -4,7 +4,28 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Mon, 27 Apr 2026 03:49:57 +0000</pubDate>
+    <pubDate>Tue, 28 Apr 2026 03:54:27 +0000</pubDate>
+    <item>
+      <title>build(deps-dev): bump postcss from 8.5.6 to 8.5.12 in /tools/sep-automation in the npm_and_yarn group across 1 directory</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2656</link>
+      <description>Merged by dependabot[bot] - build(deps-dev): bump postcss from 8.5.6 to 8.5.12 in /tools/sep-automation in the npm_and_yarn group across 1 directory</description>
+      <author>dependabot[bot]</author>
+      <pubDate>Mon, 27 Apr 2026 23:13:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>build(deps-dev): bump typescript-eslint from 8.58.2 to 8.59.0</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2654</link>
+      <description>Merged by dependabot[bot] - build(deps-dev): bump typescript-eslint from 8.58.2 to 8.59.0</description>
+      <author>dependabot[bot]</author>
+      <pubDate>Mon, 27 Apr 2026 15:51:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>build(deps-dev): bump ajv from 8.18.0 to 8.20.0</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2655</link>
+      <description>Merged by dependabot[bot] - build(deps-dev): bump ajv from 8.18.0 to 8.20.0</description>
+      <author>dependabot[bot]</author>
+      <pubDate>Mon, 27 Apr 2026 15:51:19 +0000</pubDate>
+    </item>
     <item>
       <title>docs: refresh Skills Over MCP charter for SEP-2640</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2650</link>
@@ -482,39 +503,11 @@
       <pubDate>Thu, 26 Mar 2026 17:59:19 +0000</pubDate>
     </item>
     <item>
-      <title>(docs): Clarify list request obligations for declared capabilities</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2463</link>
-      <description>Merged by localden - (docs): Clarify list request obligations for declared capabilities</description>
-      <author>localden</author>
-      <pubDate>Thu, 26 Mar 2026 16:26:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Move `counter-increment` from `::before` to `hN` for section numbering</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2477</link>
-      <description>Merged by jonathanhefner - Move `counter-increment` from `::before` to `hN` for section numbering</description>
-      <author>jonathanhefner</author>
-      <pubDate>Thu, 26 Mar 2026 16:25:25 +0000</pubDate>
-    </item>
-    <item>
       <title>Align Server Card with server.json compatibility</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2443</link>
       <description>Merged by tadasant - Align Server Card with server.json compatibility</description>
       <author>tadasant</author>
       <pubDate>Thu, 26 Mar 2026 13:34:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>(docs): clarify prompt content provenance, roots are informational</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2464</link>
-      <description>Merged by localden - (docs): clarify prompt content provenance, roots are informational</description>
-      <author>localden</author>
-      <pubDate>Wed, 25 Mar 2026 23:56:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>(docs): Make stdio shutdown sequence platform-neutral</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2466</link>
-      <description>Merged by localden - (docs): Make stdio shutdown sequence platform-neutral</description>
-      <author>localden</author>
-      <pubDate>Wed, 25 Mar 2026 23:06:24 +0000</pubDate>
     </item>
     <item>
       <title>SEP-2260 Require Server requests to be associated with a Client request.</title>
