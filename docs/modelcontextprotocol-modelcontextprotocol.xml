@@ -4,7 +4,7 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Tue, 28 Apr 2026 03:54:27 +0000</pubDate>
+    <pubDate>Wed, 29 Apr 2026 03:51:36 +0000</pubDate>
     <item>
       <title>build(deps-dev): bump postcss from 8.5.6 to 8.5.12 in /tools/sep-automation in the npm_and_yarn group across 1 directory</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2656</link>
@@ -494,13 +494,6 @@
       <description>Merged by dependabot[bot] - build(deps-dev): bump picomatch from 4.0.3 to 4.0.4 in the npm_and_yarn group across 1 directory</description>
       <author>dependabot[bot]</author>
       <pubDate>Thu, 26 Mar 2026 17:59:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Reword `ping` guidance to make that implementation is not optional</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2401</link>
-      <description>Merged by evalstate - Reword `ping` guidance to make that implementation is not optional</description>
-      <author>evalstate</author>
-      <pubDate>Thu, 26 Mar 2026 17:59:19 +0000</pubDate>
     </item>
     <item>
       <title>Align Server Card with server.json compatibility</title>
