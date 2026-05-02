@@ -4,7 +4,7 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Fri, 01 May 2026 04:04:11 +0000</pubDate>
+    <pubDate>Sat, 02 May 2026 03:36:41 +0000</pubDate>
     <item>
       <title>build(deps-dev): bump postcss from 8.5.6 to 8.5.12 in /tools/sep-automation in the npm_and_yarn group across 1 directory</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2656</link>
