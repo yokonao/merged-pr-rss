@@ -4,7 +4,21 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Tue, 05 May 2026 03:37:26 +0000</pubDate>
+    <pubDate>Wed, 06 May 2026 03:53:13 +0000</pubDate>
+    <item>
+      <title>docs(community): add SDK Working Group charter</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2662</link>
+      <description>Merged by felixweinberger - docs(community): add SDK Working Group charter</description>
+      <author>felixweinberger</author>
+      <pubDate>Tue, 05 May 2026 20:21:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update link to server.schema.json in about.mdx</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2673</link>
+      <description>Merged by jonathansampson - Update link to server.schema.json in about.mdx</description>
+      <author>jonathansampson</author>
+      <pubDate>Tue, 05 May 2026 20:17:37 +0000</pubDate>
+    </item>
     <item>
       <title>build(deps-dev): bump postcss from 8.5.6 to 8.5.12 in /tools/sep-automation in the npm_and_yarn group across 1 directory</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2656</link>
@@ -480,20 +494,6 @@
       <description>Merged by dependabot[bot] - build(deps-dev): bump picomatch from 4.0.3 to 4.0.4 in /tools/sep-automation in the npm_and_yarn group across 1 directory</description>
       <author>dependabot[bot]</author>
       <pubDate>Thu, 26 Mar 2026 18:00:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>(docs): Link lifecycle page to architecture guide</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2467</link>
-      <description>Merged by localden - (docs): Link lifecycle page to architecture guide</description>
-      <author>localden</author>
-      <pubDate>Thu, 26 Mar 2026 18:00:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>build(deps-dev): bump picomatch from 4.0.3 to 4.0.4 in the npm_and_yarn group across 1 directory</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2473</link>
-      <description>Merged by dependabot[bot] - build(deps-dev): bump picomatch from 4.0.3 to 4.0.4 in the npm_and_yarn group across 1 directory</description>
-      <author>dependabot[bot]</author>
-      <pubDate>Thu, 26 Mar 2026 17:59:55 +0000</pubDate>
     </item>
     <item>
       <title>Align Server Card with server.json compatibility</title>
