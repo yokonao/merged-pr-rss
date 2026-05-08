@@ -4,7 +4,14 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Thu, 07 May 2026 03:51:45 +0000</pubDate>
+    <pubDate>Fri, 08 May 2026 03:42:18 +0000</pubDate>
+    <item>
+      <title>SEP-2567: Sessionless MCP via Explicit State Handles</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2567</link>
+      <description>Merged by pja-ant - SEP-2567: Sessionless MCP via Explicit State Handles</description>
+      <author>pja-ant</author>
+      <pubDate>Thu, 07 May 2026 17:34:23 +0000</pubDate>
+    </item>
     <item>
       <title>SEP-2322: Multi Round-Trip Requests </title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2322</link>
@@ -487,13 +494,6 @@
       <description>Merged by dend - SEP-2352: Clarify authorization server binding and migration</description>
       <author>dend</author>
       <pubDate>Sat, 28 Mar 2026 01:42:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>slash-commands: clean up SEP labels and project status on /lgtm</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2488</link>
-      <description>Merged by localden - slash-commands: clean up SEP labels and project status on /lgtm</description>
-      <author>localden</author>
-      <pubDate>Sat, 28 Mar 2026 01:41:43 +0000</pubDate>
     </item>
     <item>
       <title>SEP-837: Update authorization spec to clarify client type requirements</title>
