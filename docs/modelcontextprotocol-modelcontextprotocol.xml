@@ -4,7 +4,49 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Mon, 11 May 2026 04:12:02 +0000</pubDate>
+    <pubDate>Tue, 12 May 2026 03:55:28 +0000</pubDate>
+    <item>
+      <title>build(deps-dev): bump fast-uri to 3.1.2</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2715</link>
+      <description>Merged by localden - build(deps-dev): bump fast-uri to 3.1.2</description>
+      <author>localden</author>
+      <pubDate>Tue, 12 May 2026 02:35:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>build(deps-dev): bump typescript-eslint from 8.59.1 to 8.59.3</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2708</link>
+      <description>Merged by dependabot[bot] - build(deps-dev): bump typescript-eslint from 8.59.1 to 8.59.3</description>
+      <author>dependabot[bot]</author>
+      <pubDate>Tue, 12 May 2026 02:23:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>build(deps-dev): pin typescript-json-schema to 0.67.1 (fixes broken validate on main)</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2714</link>
+      <description>Merged by localden - build(deps-dev): pin typescript-json-schema to 0.67.1 (fixes broken validate on main)</description>
+      <author>localden</author>
+      <pubDate>Tue, 12 May 2026 02:20:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>build(deps-dev): bump typescript-json-schema from 0.67.1 to 0.67.2</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2709</link>
+      <description>Merged by dependabot[bot] - build(deps-dev): bump typescript-json-schema from 0.67.1 to 0.67.2</description>
+      <author>dependabot[bot]</author>
+      <pubDate>Tue, 12 May 2026 02:12:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>build(deps-dev): bump vm2 to 3.11.3</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2711</link>
+      <description>Merged by localden - build(deps-dev): bump vm2 to 3.11.3</description>
+      <author>localden</author>
+      <pubDate>Tue, 12 May 2026 01:05:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>SEP-2575: Make MCP Stateless</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2575</link>
+      <description>Merged by kurtisvg - SEP-2575: Make MCP Stateless</description>
+      <author>kurtisvg</author>
+      <pubDate>Mon, 11 May 2026 17:06:27 +0000</pubDate>
+    </item>
     <item>
       <title>SEP-2567: Sessionless MCP via Explicit State Handles</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2567</link>
@@ -433,46 +475,11 @@
       <pubDate>Wed, 01 Apr 2026 20:21:39 +0000</pubDate>
     </item>
     <item>
-      <title>build(deps): bump actions/deploy-pages from 4 to 5</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2501</link>
-      <description>Merged by dependabot[bot] - build(deps): bump actions/deploy-pages from 4 to 5</description>
-      <author>dependabot[bot]</author>
-      <pubDate>Wed, 01 Apr 2026 20:19:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>build(deps): bump actions/configure-pages from 5 to 6</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2500</link>
-      <description>Merged by dependabot[bot] - build(deps): bump actions/configure-pages from 5 to 6</description>
-      <author>dependabot[bot]</author>
-      <pubDate>Wed, 01 Apr 2026 20:13:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>build(deps): bump actions/create-github-app-token from 2 to 3</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2499</link>
-      <description>Merged by dependabot[bot] - build(deps): bump actions/create-github-app-token from 2 to 3</description>
-      <author>dependabot[bot]</author>
-      <pubDate>Wed, 01 Apr 2026 20:12:15 +0000</pubDate>
-    </item>
-    <item>
       <title>SEP-2207: OIDC-flavored refresh token guidance</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2207</link>
       <description>Merged by wdawson - SEP-2207: OIDC-flavored refresh token guidance</description>
       <author>wdawson</author>
       <pubDate>Sun, 29 Mar 2026 05:15:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Doc] Add documentation link for Ruby SDK in the SDK table</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2486</link>
-      <description>Merged by koic - [Doc] Add documentation link for Ruby SDK in the SDK table</description>
-      <author>koic</author>
-      <pubDate>Sat, 28 Mar 2026 01:48:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>slash-commands: only move SEP-labeled PRs to the project board</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2489</link>
-      <description>Merged by localden - slash-commands: only move SEP-labeled PRs to the project board</description>
-      <author>localden</author>
-      <pubDate>Sat, 28 Mar 2026 01:47:27 +0000</pubDate>
     </item>
     <item>
       <title>SEP-2350: Clarify client-side scope accumulation in step-up authorization</title>
@@ -508,13 +515,6 @@
       <description>Merged by evalstate - SEP-2260 Require Server requests to be associated with a Client request.</description>
       <author>evalstate</author>
       <pubDate>Tue, 10 Mar 2026 21:12:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>SEP-2127: Remove primitives from server cards</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2336</link>
-      <description>Merged by SamMorrowDrums - SEP-2127: Remove primitives from server cards</description>
-      <author>SamMorrowDrums</author>
-      <pubDate>Mon, 09 Mar 2026 22:35:55 +0000</pubDate>
     </item>
     <item>
       <title>SEP-414: Document OpenTelemetry Trace Context Propagation Conventions</title>
