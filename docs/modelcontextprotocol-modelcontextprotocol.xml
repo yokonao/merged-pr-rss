@@ -4,7 +4,63 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Fri, 15 May 2026 04:08:00 +0000</pubDate>
+    <pubDate>Sat, 16 May 2026 03:50:09 +0000</pubDate>
+    <item>
+      <title>SEP-2577: Deprecate Roots, Sampling, and Logging </title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2577</link>
+      <description>Merged by kurtisvg - SEP-2577: Deprecate Roots, Sampling, and Logging </description>
+      <author>kurtisvg</author>
+      <pubDate>Fri, 15 May 2026 22:23:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>SEP-2663: Tasks Extension</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2663</link>
+      <description>Merged by LucaButBoring - SEP-2663: Tasks Extension</description>
+      <author>LucaButBoring</author>
+      <pubDate>Fri, 15 May 2026 19:46:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mark SEP-2260 as Final</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2730</link>
+      <description>Merged by CaitieM20 - Mark SEP-2260 as Final</description>
+      <author>CaitieM20</author>
+      <pubDate>Fri, 15 May 2026 19:13:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Clarify resultType is required; reframe absent-field handling as backward compat</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2726</link>
+      <description>Merged by pja-ant - Clarify resultType is required; reframe absent-field handling as backward compat</description>
+      <author>pja-ant</author>
+      <pubDate>Fri, 15 May 2026 18:55:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bug &amp; Doc Fixes for SEP-2322: MRTR Docs </title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2725</link>
+      <description>Merged by CaitieM20 - Bug &amp; Doc Fixes for SEP-2322: MRTR Docs </description>
+      <author>CaitieM20</author>
+      <pubDate>Fri, 15 May 2026 18:55:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Clarify notifications/message is request-scoped, not delivered on subscriptions/listen</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2728</link>
+      <description>Merged by pja-ant - Clarify notifications/message is request-scoped, not delivered on subscriptions/listen</description>
+      <author>pja-ant</author>
+      <pubDate>Fri, 15 May 2026 15:35:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Disambiguate HTTP backward-compat fallbacks: inspect 400/404 body before falling back</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2727</link>
+      <description>Merged by pja-ant - Disambiguate HTTP backward-compat fallbacks: inspect 400/404 body before falling back</description>
+      <author>pja-ant</author>
+      <pubDate>Fri, 15 May 2026 15:35:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>SEP-2549: TTL for List Results</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2549</link>
+      <description>Merged by CaitieM20 - SEP-2549: TTL for List Results</description>
+      <author>CaitieM20</author>
+      <pubDate>Fri, 15 May 2026 14:37:16 +0000</pubDate>
+    </item>
     <item>
       <title>build(deps-dev): bump fast-uri to 3.1.2</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2715</link>
@@ -410,69 +466,6 @@
       <description>Merged by PederHP - Add Peder Holdgaard Pedersen to Community Moderators</description>
       <author>PederHP</author>
       <pubDate>Wed, 08 Apr 2026 18:49:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add IBM Bob to MCP clients list</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2540</link>
-      <description>Merged by Yashrajsingh2001 - Add IBM Bob to MCP clients list</description>
-      <author>Yashrajsingh2001</author>
-      <pubDate>Wed, 08 Apr 2026 17:32:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Remove unnecessary length check</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2537</link>
-      <description>Merged by antony - Remove unnecessary length check</description>
-      <author>antony</author>
-      <pubDate>Wed, 08 Apr 2026 16:32:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>build(deps-dev): bump vite from 7.3.1 to 7.3.2 in /tools/sep-automation in the npm_and_yarn group across 1 directory</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2529</link>
-      <description>Merged by dependabot[bot] - build(deps-dev): bump vite from 7.3.1 to 7.3.2 in /tools/sep-automation in the npm_and_yarn group across 1 directory</description>
-      <author>dependabot[bot]</author>
-      <pubDate>Tue, 07 Apr 2026 19:59:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>feat: add support for Qoder</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2531</link>
-      <description>Merged by assertion - feat: add support for Qoder</description>
-      <author>assertion</author>
-      <pubDate>Tue, 07 Apr 2026 19:43:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs: add Archestra support to clients page</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2514</link>
-      <description>Merged by joeyorlando - docs: add Archestra support to clients page</description>
-      <author>joeyorlando</author>
-      <pubDate>Tue, 07 Apr 2026 19:42:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add Clare to core maintainer list</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2530</link>
-      <description>Merged by clareliguori - Add Clare to core maintainer list</description>
-      <author>clareliguori</author>
-      <pubDate>Tue, 07 Apr 2026 00:10:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>build(deps-dev): bump eslint from 10.1.0 to 10.2.0</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2522</link>
-      <description>Merged by dependabot[bot] - build(deps-dev): bump eslint from 10.1.0 to 10.2.0</description>
-      <author>dependabot[bot]</author>
-      <pubDate>Mon, 06 Apr 2026 16:53:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>build(deps-dev): bump typescript from 5.9.3 to 6.0.2</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2503</link>
-      <description>Merged by dependabot[bot] - build(deps-dev): bump typescript from 5.9.3 to 6.0.2</description>
-      <author>dependabot[bot]</author>
-      <pubDate>Thu, 02 Apr 2026 03:04:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>build(deps-dev): bump typescript-eslint from 8.57.1 to 8.57.2</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2502</link>
-      <description>Merged by dependabot[bot] - build(deps-dev): bump typescript-eslint from 8.57.1 to 8.57.2</description>
-      <author>dependabot[bot]</author>
-      <pubDate>Wed, 01 Apr 2026 20:21:39 +0000</pubDate>
     </item>
     <item>
       <title>SEP-2207: OIDC-flavored refresh token guidance</title>
