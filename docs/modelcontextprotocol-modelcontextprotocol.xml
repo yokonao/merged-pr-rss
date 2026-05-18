@@ -4,7 +4,21 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Sun, 17 May 2026 04:08:18 +0000</pubDate>
+    <pubDate>Mon, 18 May 2026 04:20:49 +0000</pubDate>
+    <item>
+      <title>SEP-2468: Recommend Issuer (iss) Parameter in MCP Auth Responses</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2468</link>
+      <description>Merged by EmLauber - SEP-2468: Recommend Issuer (iss) Parameter in MCP Auth Responses</description>
+      <author>EmLauber</author>
+      <pubDate>Sun, 17 May 2026 08:33:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>SEP-2484: Require Conformance Tests for Standards Track SEPs to Reach Final Status</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2484</link>
+      <description>Merged by pcarleton - SEP-2484: Require Conformance Tests for Standards Track SEPs to Reach Final Status</description>
+      <author>pcarleton</author>
+      <pubDate>Sun, 17 May 2026 08:26:38 +0000</pubDate>
+    </item>
     <item>
       <title>SEP-2577: Deprecate Roots, Sampling, and Logging </title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2577</link>
@@ -452,20 +466,6 @@
       <description>Merged by localden - fix: render-seps 0000- skip was dead code; update workflow paths</description>
       <author>localden</author>
       <pubDate>Wed, 08 Apr 2026 23:26:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs: Add Cursor extension to client matrix documentation</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2520</link>
-      <description>Merged by hydrosquall - docs: Add Cursor extension to client matrix documentation</description>
-      <author>hydrosquall</author>
-      <pubDate>Wed, 08 Apr 2026 22:19:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add Peder Holdgaard Pedersen to Community Moderators</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2541</link>
-      <description>Merged by PederHP - Add Peder Holdgaard Pedersen to Community Moderators</description>
-      <author>PederHP</author>
-      <pubDate>Wed, 08 Apr 2026 18:49:07 +0000</pubDate>
     </item>
     <item>
       <title>SEP-2207: OIDC-flavored refresh token guidance</title>
