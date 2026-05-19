@@ -4,7 +4,49 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Mon, 18 May 2026 04:20:49 +0000</pubDate>
+    <pubDate>Tue, 19 May 2026 04:16:24 +0000</pubDate>
+    <item>
+      <title>build(deps-dev): bump tsx from 4.21.0 to 4.22.1</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2739</link>
+      <description>Merged by dependabot[bot] - build(deps-dev): bump tsx from 4.21.0 to 4.22.1</description>
+      <author>dependabot[bot]</author>
+      <pubDate>Tue, 19 May 2026 03:00:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add CIMD to ChatGPT MCP Client support list</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2741</link>
+      <description>Merged by mstoiber-oai - Add CIMD to ChatGPT MCP Client support list</description>
+      <author>mstoiber-oai</author>
+      <pubDate>Tue, 19 May 2026 02:59:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add GitHub Copilot CLI to clients list</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2718</link>
+      <description>Merged by stephentoub - Add GitHub Copilot CLI to clients list</description>
+      <author>stephentoub</author>
+      <pubDate>Mon, 18 May 2026 18:31:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>SEP-2596: Specification Feature Lifecycle and Deprecation Policy</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2596</link>
+      <description>Merged by localden - SEP-2596: Specification Feature Lifecycle and Deprecation Policy</description>
+      <author>localden</author>
+      <pubDate>Mon, 18 May 2026 18:09:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>SEP-2164: Standardize resource not found error code (-32602)</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2164</link>
+      <description>Merged by pja-ant - SEP-2164: Standardize resource not found error code (-32602)</description>
+      <author>pja-ant</author>
+      <pubDate>Mon, 18 May 2026 06:28:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>SEP-2106: Tools `inputSchema` &amp; `outputSchema` Conform to JSON Schema 2020-12</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2106</link>
+      <description>Merged by olaservo - SEP-2106: Tools `inputSchema` &amp; `outputSchema` Conform to JSON Schema 2020-12</description>
+      <author>olaservo</author>
+      <pubDate>Mon, 18 May 2026 06:23:08 +0000</pubDate>
+    </item>
     <item>
       <title>SEP-2468: Recommend Issuer (iss) Parameter in MCP Auth Responses</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2468</link>
@@ -431,41 +473,6 @@
       <description>Merged by maciej-kisiel - Update Go SDK in MAINTAINERS.md</description>
       <author>maciej-kisiel</author>
       <pubDate>Sat, 11 Apr 2026 02:57:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>(blog): Announce April 2026 maintainer updates</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2542</link>
-      <description>Merged by localden - (blog): Announce April 2026 maintainer updates</description>
-      <author>localden</author>
-      <pubDate>Thu, 09 Apr 2026 16:29:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>schema: use JSONObject for extensions capability values</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2508</link>
-      <description>Merged by felixweinberger - schema: use JSONObject for extensions capability values</description>
-      <author>felixweinberger</author>
-      <pubDate>Thu, 09 Apr 2026 12:18:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>fix: use execFileSync for prettier to avoid shell injection (CodeQL #21)</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2546</link>
-      <description>Merged by localden - fix: use execFileSync for prettier to avoid shell injection (CodeQL #21)</description>
-      <author>localden</author>
-      <pubDate>Thu, 09 Apr 2026 00:20:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs: move versioning page out of specification/ to drop the spec banner</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2544</link>
-      <description>Merged by localden - docs: move versioning page out of specification/ to drop the spec banner</description>
-      <author>localden</author>
-      <pubDate>Thu, 09 Apr 2026 00:16:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>fix: render-seps 0000- skip was dead code; update workflow paths</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2543</link>
-      <description>Merged by localden - fix: render-seps 0000- skip was dead code; update workflow paths</description>
-      <author>localden</author>
-      <pubDate>Wed, 08 Apr 2026 23:26:07 +0000</pubDate>
     </item>
     <item>
       <title>SEP-2207: OIDC-flavored refresh token guidance</title>
