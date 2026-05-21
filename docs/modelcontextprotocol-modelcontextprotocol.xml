@@ -4,7 +4,14 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Wed, 20 May 2026 04:17:01 +0000</pubDate>
+    <pubDate>Thu, 21 May 2026 04:25:10 +0000</pubDate>
+    <item>
+      <title>fix(SEP-2575): introduce a custom error code for unsupported protocol error</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2716</link>
+      <description>Merged by yarolegovich - fix(SEP-2575): introduce a custom error code for unsupported protocol error</description>
+      <author>yarolegovich</author>
+      <pubDate>Wed, 20 May 2026 17:38:45 +0000</pubDate>
+    </item>
     <item>
       <title>build(deps-dev): bump tsx from 4.21.0 to 4.22.1</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2739</link>
