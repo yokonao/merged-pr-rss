@@ -4,7 +4,35 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Thu, 21 May 2026 04:25:10 +0000</pubDate>
+    <pubDate>Fri, 22 May 2026 04:19:55 +0000</pubDate>
+    <item>
+      <title>docs(spec): fix broken anchors, stale links, and mermaid diagrams in draft spec</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2765</link>
+      <description>Merged by halter73 - docs(spec): fix broken anchors, stale links, and mermaid diagrams in draft spec</description>
+      <author>halter73</author>
+      <pubDate>Thu, 21 May 2026 22:44:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fixing doc bugs, missing required fields</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2764</link>
+      <description>Merged by CaitieM20 - Fixing doc bugs, missing required fields</description>
+      <author>CaitieM20</author>
+      <pubDate>Thu, 21 May 2026 22:18:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>fix(schema): require `params._meta` on list and discover requests</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2759</link>
+      <description>Merged by pja-ant - fix(schema): require `params._meta` on list and discover requests</description>
+      <author>pja-ant</author>
+      <pubDate>Thu, 21 May 2026 18:11:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>fix(schema): align reserved `_meta` prefix rule with spec docs</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2758</link>
+      <description>Merged by pja-ant - fix(schema): align reserved `_meta` prefix rule with spec docs</description>
+      <author>pja-ant</author>
+      <pubDate>Thu, 21 May 2026 18:09:18 +0000</pubDate>
+    </item>
     <item>
       <title>fix(SEP-2575): introduce a custom error code for unsupported protocol error</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2716</link>
@@ -473,13 +501,6 @@
       <description>Merged by tadasant - Remove authentication, capabilities, and requires to limit Server Card scope</description>
       <author>tadasant</author>
       <pubDate>Mon, 13 Apr 2026 14:06:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Update Go SDK in MAINTAINERS.md</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2551</link>
-      <description>Merged by maciej-kisiel - Update Go SDK in MAINTAINERS.md</description>
-      <author>maciej-kisiel</author>
-      <pubDate>Sat, 11 Apr 2026 02:57:44 +0000</pubDate>
     </item>
     <item>
       <title>SEP-2207: OIDC-flavored refresh token guidance</title>
