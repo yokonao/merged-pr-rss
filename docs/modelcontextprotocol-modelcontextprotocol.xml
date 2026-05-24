@@ -4,7 +4,7 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Sat, 23 May 2026 03:58:30 +0000</pubDate>
+    <pubDate>Sun, 24 May 2026 04:18:46 +0000</pubDate>
     <item>
       <title>Update Documentation to match Schema (Transports, Completions, Prompts, Resources)</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2769</link>
@@ -487,20 +487,6 @@
       <description>Merged by cliffhall - docs(community): Inspector V2 WG charter (SEP-2149)</description>
       <author>cliffhall</author>
       <pubDate>Mon, 13 Apr 2026 17:46:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>build(deps-dev): bump typedoc from 0.28.18 to 0.28.19</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2561</link>
-      <description>Merged by dependabot[bot] - build(deps-dev): bump typedoc from 0.28.18 to 0.28.19</description>
-      <author>dependabot[bot]</author>
-      <pubDate>Mon, 13 Apr 2026 16:37:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>build(deps-dev): bump typescript-eslint from 8.58.0 to 8.58.1</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2562</link>
-      <description>Merged by dependabot[bot] - build(deps-dev): bump typescript-eslint from 8.58.0 to 8.58.1</description>
-      <author>dependabot[bot]</author>
-      <pubDate>Mon, 13 Apr 2026 16:36:44 +0000</pubDate>
     </item>
     <item>
       <title>SEP-2207: OIDC-flavored refresh token guidance</title>
