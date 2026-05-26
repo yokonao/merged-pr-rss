@@ -4,7 +4,7 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Mon, 25 May 2026 04:41:03 +0000</pubDate>
+    <pubDate>Tue, 26 May 2026 04:16:20 +0000</pubDate>
     <item>
       <title>Update Documentation to match Schema (Transports, Completions, Prompts, Resources)</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2769</link>
@@ -473,20 +473,6 @@
       <description>Merged by dsp - spec: tools/list SHOULD return tools in deterministic order</description>
       <author>dsp</author>
       <pubDate>Mon, 13 Apr 2026 18:57:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs: Add Bob Shell to MCP clients documentation</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2548</link>
-      <description>Merged by Yashrajsingh2001 - docs: Add Bob Shell to MCP clients documentation</description>
-      <author>Yashrajsingh2001</author>
-      <pubDate>Mon, 13 Apr 2026 17:48:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs(community): Inspector V2 WG charter (SEP-2149)</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2555</link>
-      <description>Merged by cliffhall - docs(community): Inspector V2 WG charter (SEP-2149)</description>
-      <author>cliffhall</author>
-      <pubDate>Mon, 13 Apr 2026 17:46:07 +0000</pubDate>
     </item>
     <item>
       <title>SEP-2207: OIDC-flavored refresh token guidance</title>
