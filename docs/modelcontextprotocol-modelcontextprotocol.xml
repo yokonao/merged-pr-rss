@@ -4,7 +4,56 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Wed, 27 May 2026 04:39:04 +0000</pubDate>
+    <pubDate>Thu, 28 May 2026 04:18:54 +0000</pubDate>
+    <item>
+      <title>Remove Example Clients overview page</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2804</link>
+      <description>Merged by dsp-ant - Remove Example Clients overview page</description>
+      <author>dsp-ant</author>
+      <pubDate>Wed, 27 May 2026 18:02:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fix typos</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2801</link>
+      <description>Merged by localden - Fix typos</description>
+      <author>localden</author>
+      <pubDate>Wed, 27 May 2026 13:36:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>docs(spec): incorporate SEP-2596 and SEP-1865 into the draft spec; clarify Streamable HTTP</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2791</link>
+      <description>Merged by dsp-ant - docs(spec): incorporate SEP-2596 and SEP-1865 into the draft spec; clarify Streamable HTTP</description>
+      <author>dsp-ant</author>
+      <pubDate>Wed, 27 May 2026 12:58:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>docs: add Tool Annotations Interest Group charter</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2615</link>
+      <description>Merged by SamMorrowDrums - docs: add Tool Annotations Interest Group charter</description>
+      <author>SamMorrowDrums</author>
+      <pubDate>Wed, 27 May 2026 08:37:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Use canonical release-notes template in cut-release / publish-release</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2800</link>
+      <description>Merged by localden - Use canonical release-notes template in cut-release / publish-release</description>
+      <author>localden</author>
+      <pubDate>Wed, 27 May 2026 06:15:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>build(deps-dev): bump eslint from 10.3.0 to 10.4.0</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2737</link>
+      <description>Merged by dependabot[bot] - build(deps-dev): bump eslint from 10.3.0 to 10.4.0</description>
+      <author>dependabot[bot]</author>
+      <pubDate>Wed, 27 May 2026 06:06:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add cut-release / publish-release workflows</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2799</link>
+      <description>Merged by localden - Add cut-release / publish-release workflows</description>
+      <author>localden</author>
+      <pubDate>Wed, 27 May 2026 06:05:19 +0000</pubDate>
+    </item>
     <item>
       <title>build(deps-dev): bump typescript-json-schema from 0.67.1 to 0.67.4</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2784</link>
@@ -447,27 +496,6 @@
       <pubDate>Fri, 17 Apr 2026 07:45:28 +0000</pubDate>
     </item>
     <item>
-      <title>docs(community): convert Skills Over MCP IG to Working Group</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2586</link>
-      <description>Merged by olaservo - docs(community): convert Skills Over MCP IG to Working Group</description>
-      <author>olaservo</author>
-      <pubDate>Thu, 16 Apr 2026 17:15:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs: Update `mcpc` MCP CLI client with new capabilities in Example Clients</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2576</link>
-      <description>Merged by jancurn - docs: Update `mcpc` MCP CLI client with new capabilities in Example Clients</description>
-      <author>jancurn</author>
-      <pubDate>Thu, 16 Apr 2026 04:44:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs(spec): restore tool-name disambiguation note dropped in #2243</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2584</link>
-      <description>Merged by localden - docs(spec): restore tool-name disambiguation note dropped in #2243</description>
-      <author>localden</author>
-      <pubDate>Thu, 16 Apr 2026 01:09:14 +0000</pubDate>
-    </item>
-    <item>
       <title>SEP-2243 HTTP Standardization</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2243</link>
       <description>Merged by mikekistler - SEP-2243 HTTP Standardization</description>
@@ -550,20 +578,6 @@
       <description>Merged by localden - Add 2025-11-25 MCP specification</description>
       <author>localden</author>
       <pubDate>Tue, 25 Nov 2025 21:06:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>SEP-1024: MCP Client Security Requirements for Local Server Installation</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1025</link>
-      <description>Merged by localden - SEP-1024: MCP Client Security Requirements for Local Server Installation</description>
-      <author>localden</author>
-      <pubDate>Fri, 12 Sep 2025 01:13:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>SEP-994: Shared Communication Practices/Guidelines</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1002</link>
-      <description>Merged by localden - SEP-994: Shared Communication Practices/Guidelines</description>
-      <author>localden</author>
-      <pubDate>Thu, 31 Jul 2025 16:45:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
