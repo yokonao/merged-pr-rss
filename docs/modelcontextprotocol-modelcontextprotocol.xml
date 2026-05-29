@@ -4,7 +4,28 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Thu, 28 May 2026 04:18:54 +0000</pubDate>
+    <pubDate>Fri, 29 May 2026 04:21:47 +0000</pubDate>
+    <item>
+      <title>Add Sambhav Kothari to participant list</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2810</link>
+      <description>Merged by sambhav - Add Sambhav Kothari to participant list</description>
+      <author>sambhav</author>
+      <pubDate>Thu, 28 May 2026 20:57:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>fix(SEP-2322): Explicitly support extending ResultType</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2773</link>
+      <description>Merged by LucaButBoring - fix(SEP-2322): Explicitly support extending ResultType</description>
+      <author>LucaButBoring</author>
+      <pubDate>Thu, 28 May 2026 17:10:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>docs(community): add Registry WG charter</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2587</link>
+      <description>Merged by tadasant - docs(community): add Registry WG charter</description>
+      <author>tadasant</author>
+      <pubDate>Thu, 28 May 2026 17:06:24 +0000</pubDate>
+    </item>
     <item>
       <title>Remove Example Clients overview page</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2804</link>
@@ -475,27 +496,6 @@
       <pubDate>Fri, 17 Apr 2026 20:07:13 +0000</pubDate>
     </item>
     <item>
-      <title>(chore): Add /draft-sep skill to simplify how SEPs are written</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2410</link>
-      <description>Merged by localden - (chore): Add /draft-sep skill to simplify how SEPs are written</description>
-      <author>localden</author>
-      <pubDate>Fri, 17 Apr 2026 16:53:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Expose MCP skills via .well-known/agent-skills/ discovery</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2589</link>
-      <description>Merged by olaservo - Expose MCP skills via .well-known/agent-skills/ discovery</description>
-      <author>olaservo</author>
-      <pubDate>Fri, 17 Apr 2026 16:23:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>SEP-2149: clarify single Core Maintainer approval for WG charter</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2592</link>
-      <description>Merged by dsp-ant - SEP-2149: clarify single Core Maintainer approval for WG charter</description>
-      <author>dsp-ant</author>
-      <pubDate>Fri, 17 Apr 2026 07:45:28 +0000</pubDate>
-    </item>
-    <item>
       <title>SEP-2243 HTTP Standardization</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2243</link>
       <description>Merged by mikekistler - SEP-2243 HTTP Standardization</description>
@@ -531,13 +531,6 @@
       <pubDate>Sat, 28 Mar 2026 01:42:26 +0000</pubDate>
     </item>
     <item>
-      <title>SEP-837: Update authorization spec to clarify client type requirements</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/837</link>
-      <description>Merged by localden - SEP-837: Update authorization spec to clarify client type requirements</description>
-      <author>localden</author>
-      <pubDate>Sat, 28 Mar 2026 01:32:29 +0000</pubDate>
-    </item>
-    <item>
       <title>SEP-2260 Require Server requests to be associated with a Client request.</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2260</link>
       <description>Merged by evalstate - SEP-2260 Require Server requests to be associated with a Client request.</description>
@@ -550,13 +543,6 @@
       <description>Merged by codefromthecrypt - SEP-414: Document OpenTelemetry Trace Context Propagation Conventions</description>
       <author>codefromthecrypt</author>
       <pubDate>Thu, 26 Feb 2026 12:06:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>SEP-1730: SDK tiers definition</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1777</link>
-      <description>Merged by ihrpr - SEP-1730: SDK tiers definition</description>
-      <author>ihrpr</author>
-      <pubDate>Mon, 02 Feb 2026 23:56:34 +0000</pubDate>
     </item>
     <item>
       <title>SEP-1865: MCP Apps - Interactive User Interfaces for MCP</title>
