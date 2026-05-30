@@ -4,7 +4,70 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Fri, 29 May 2026 04:21:47 +0000</pubDate>
+    <pubDate>Sat, 30 May 2026 04:06:43 +0000</pubDate>
+    <item>
+      <title>docs(tool-annotations): add IG members from first two meetings</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2818</link>
+      <description>Merged by SamMorrowDrums - docs(tool-annotations): add IG members from first two meetings</description>
+      <author>SamMorrowDrums</author>
+      <pubDate>Fri, 29 May 2026 19:54:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>build(deps-dev): bump vm2 from 3.11.3 to 3.11.5 in the npm_and_yarn group across 1 directory</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2821</link>
+      <description>Merged by dependabot[bot] - build(deps-dev): bump vm2 from 3.11.3 to 3.11.5 in the npm_and_yarn group across 1 directory</description>
+      <author>dependabot[bot]</author>
+      <pubDate>Fri, 29 May 2026 19:54:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>docs: SEP-2243 clarifications for x-mcp-header</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2772</link>
+      <description>Merged by mikekistler - docs: SEP-2243 clarifications for x-mcp-header</description>
+      <author>mikekistler</author>
+      <pubDate>Fri, 29 May 2026 14:50:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>fix: NumberSchema min/max/default should be number, not integer</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2710</link>
+      <description>Merged by gsdv - fix: NumberSchema min/max/default should be number, not integer</description>
+      <author>gsdv</author>
+      <pubDate>Fri, 29 May 2026 12:49:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>docs: add Archestra.AI to MCP Apps and Enterprise Auth client matrix</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2707</link>
+      <description>Merged by Matvey-Kuk - docs: add Archestra.AI to MCP Apps and Enterprise Auth client matrix</description>
+      <author>Matvey-Kuk</author>
+      <pubDate>Fri, 29 May 2026 11:10:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>fix(SEP-2663): specify -32003 error for missing client capability</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2756</link>
+      <description>Merged by LucaButBoring - fix(SEP-2663): specify -32003 error for missing client capability</description>
+      <author>LucaButBoring</author>
+      <pubDate>Fri, 29 May 2026 11:09:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>docs(SEP-2575): clarify stdio process lifetime in lifecycle spec</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2770</link>
+      <description>Merged by kurtisvg - docs(SEP-2575): clarify stdio process lifetime in lifecycle spec</description>
+      <author>kurtisvg</author>
+      <pubDate>Fri, 29 May 2026 11:05:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mark generated files with -merge and document regeneration on conflicts</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2813</link>
+      <description>Merged by dsp-ant - Mark generated files with -merge and document regeneration on conflicts</description>
+      <author>dsp-ant</author>
+      <pubDate>Fri, 29 May 2026 10:58:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>docs(schema): clarify MethodNotFoundError scope vs MissingRequiredClientCapabilityError</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2775</link>
+      <description>Merged by kurtisvg - docs(schema): clarify MethodNotFoundError scope vs MissingRequiredClientCapabilityError</description>
+      <author>kurtisvg</author>
+      <pubDate>Fri, 29 May 2026 10:55:53 +0000</pubDate>
+    </item>
     <item>
       <title>Add Sambhav Kothari to participant list</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2810</link>
@@ -447,55 +510,6 @@
       <pubDate>Mon, 20 Apr 2026 21:45:27 +0000</pubDate>
     </item>
     <item>
-      <title>build(deps-dev): bump typescript-eslint from 8.58.1 to 8.58.2</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2612</link>
-      <description>Merged by dependabot[bot] - build(deps-dev): bump typescript-eslint from 8.58.1 to 8.58.2</description>
-      <author>dependabot[bot]</author>
-      <pubDate>Mon, 20 Apr 2026 16:48:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>build(deps-dev): bump eslint from 10.2.0 to 10.2.1</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2613</link>
-      <description>Merged by dependabot[bot] - build(deps-dev): bump eslint from 10.2.0 to 10.2.1</description>
-      <author>dependabot[bot]</author>
-      <pubDate>Mon, 20 Apr 2026 16:48:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>build(deps-dev): bump prettier from 3.8.2 to 3.8.3</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2611</link>
-      <description>Merged by dependabot[bot] - build(deps-dev): bump prettier from 3.8.2 to 3.8.3</description>
-      <author>dependabot[bot]</author>
-      <pubDate>Mon, 20 Apr 2026 15:52:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>build(deps-dev): bump typescript from 6.0.2 to 6.0.3</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2610</link>
-      <description>Merged by dependabot[bot] - build(deps-dev): bump typescript from 6.0.2 to 6.0.3</description>
-      <author>dependabot[bot]</author>
-      <pubDate>Mon, 20 Apr 2026 15:51:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>build(deps): bump actions/upload-pages-artifact from 4 to 5</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2609</link>
-      <description>Merged by dependabot[bot] - build(deps): bump actions/upload-pages-artifact from 4 to 5</description>
-      <author>dependabot[bot]</author>
-      <pubDate>Mon, 20 Apr 2026 14:15:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs: symlink draft-sep skill for Mintlify + note Agent Skills symlink requirement</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2604</link>
-      <description>Merged by olaservo - docs: symlink draft-sep skill for Mintlify + note Agent Skills symlink requirement</description>
-      <author>olaservo</author>
-      <pubDate>Sun, 19 Apr 2026 04:18:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>fix: use directory symlink so search-mcp-github skill is indexed</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2597</link>
-      <description>Merged by olaservo - fix: use directory symlink so search-mcp-github skill is indexed</description>
-      <author>olaservo</author>
-      <pubDate>Fri, 17 Apr 2026 20:07:13 +0000</pubDate>
-    </item>
-    <item>
       <title>SEP-2243 HTTP Standardization</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2243</link>
       <description>Merged by mikekistler - SEP-2243 HTTP Standardization</description>
@@ -543,27 +557,6 @@
       <description>Merged by codefromthecrypt - SEP-414: Document OpenTelemetry Trace Context Propagation Conventions</description>
       <author>codefromthecrypt</author>
       <pubDate>Thu, 26 Feb 2026 12:06:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>SEP-1865: MCP Apps - Interactive User Interfaces for MCP</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1865</link>
-      <description>Merged by idosal - SEP-1865: MCP Apps - Interactive User Interfaces for MCP</description>
-      <author>idosal</author>
-      <pubDate>Wed, 28 Jan 2026 18:08:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>SEP-2133: Extensions framework for MCP</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2133</link>
-      <description>Merged by pja-ant - SEP-2133: Extensions framework for MCP</description>
-      <author>pja-ant</author>
-      <pubDate>Mon, 26 Jan 2026 23:57:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add 2025-11-25 MCP specification</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1887</link>
-      <description>Merged by localden - Add 2025-11-25 MCP specification</description>
-      <author>localden</author>
-      <pubDate>Tue, 25 Nov 2025 21:06:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
