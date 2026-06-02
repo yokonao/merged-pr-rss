@@ -4,7 +4,35 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Mon, 01 Jun 2026 05:03:43 +0000</pubDate>
+    <pubDate>Tue, 02 Jun 2026 04:49:55 +0000</pubDate>
+    <item>
+      <title>build(deps-dev): bump tsx from 4.22.3 to 4.22.4</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2838</link>
+      <description>Merged by dependabot[bot] - build(deps-dev): bump tsx from 4.22.3 to 4.22.4</description>
+      <author>dependabot[bot]</author>
+      <pubDate>Tue, 02 Jun 2026 03:18:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>build(deps-dev): bump eslint from 10.4.0 to 10.4.1</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2839</link>
+      <description>Merged by dependabot[bot] - build(deps-dev): bump eslint from 10.4.0 to 10.4.1</description>
+      <author>dependabot[bot]</author>
+      <pubDate>Tue, 02 Jun 2026 01:14:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>docs(extensions): Use SEP-2575 capability exchanges consistently</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2830</link>
+      <description>Merged by LucaButBoring - docs(extensions): Use SEP-2575 capability exchanges consistently</description>
+      <author>LucaButBoring</author>
+      <pubDate>Tue, 02 Jun 2026 01:13:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>docs(maintainers): rename Server Identity WG to Server Card WG; add Sam Morrow to IGs/WGs</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2827</link>
+      <description>Merged by SamMorrowDrums - docs(maintainers): rename Server Identity WG to Server Card WG; add Sam Morrow to IGs/WGs</description>
+      <author>SamMorrowDrums</author>
+      <pubDate>Mon, 01 Jun 2026 22:03:24 +0000</pubDate>
+    </item>
     <item>
       <title>docs: move Adam &amp; Toby to registry emeritus; add Pree as collaborator</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2825</link>
@@ -473,27 +501,6 @@
       <description>Merged by pcarleton - SEP-2468: add Authorization spec changes for RFC 9207 iss validation</description>
       <author>pcarleton</author>
       <pubDate>Fri, 24 Apr 2026 15:52:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs(community): add File Uploads Working Group charter</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2635</link>
-      <description>Merged by localden - docs(community): add File Uploads Working Group charter</description>
-      <author>localden</author>
-      <pubDate>Fri, 24 Apr 2026 06:42:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>SEP-2243: mark as Final</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2641</link>
-      <description>Merged by pja-ant - SEP-2243: mark as Final</description>
-      <author>pja-ant</author>
-      <pubDate>Thu, 23 Apr 2026 20:36:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs: adjust slug for new client page to match title</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2634</link>
-      <description>Merged by alexhancock - docs: adjust slug for new client page to match title</description>
-      <author>alexhancock</author>
-      <pubDate>Thu, 23 Apr 2026 01:41:02 +0000</pubDate>
     </item>
     <item>
       <title>SEP-2243 HTTP Standardization</title>
