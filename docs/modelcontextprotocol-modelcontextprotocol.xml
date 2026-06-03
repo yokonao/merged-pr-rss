@@ -4,7 +4,49 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Tue, 02 Jun 2026 04:49:55 +0000</pubDate>
+    <pubDate>Wed, 03 Jun 2026 05:00:24 +0000</pubDate>
+    <item>
+      <title>build(deps-dev): bump vitest from 4.0.17 to 4.1.0 in /tools/sep-automation in the npm_and_yarn group across 1 directory</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2833</link>
+      <description>Merged by dependabot[bot] - build(deps-dev): bump vitest from 4.0.17 to 4.1.0 in /tools/sep-automation in the npm_and_yarn group across 1 directory</description>
+      <author>dependabot[bot]</author>
+      <pubDate>Wed, 03 Jun 2026 03:22:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>build(deps): bump actions/setup-node from 4 to 6</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2834</link>
+      <description>Merged by dependabot[bot] - build(deps): bump actions/setup-node from 4 to 6</description>
+      <author>dependabot[bot]</author>
+      <pubDate>Tue, 02 Jun 2026 22:14:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update draft spec overview: remove deprecated features, add extensions</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2840</link>
+      <description>Merged by dsp - Update draft spec overview: remove deprecated features, add extensions</description>
+      <author>dsp</author>
+      <pubDate>Tue, 02 Jun 2026 12:37:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>build(deps): bump actions/checkout from 4 to 6</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2835</link>
+      <description>Merged by dependabot[bot] - build(deps): bump actions/checkout from 4 to 6</description>
+      <author>dependabot[bot]</author>
+      <pubDate>Tue, 02 Jun 2026 05:12:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>build(deps): bump peter-evans/create-pull-request from 7.0.11 to 8.1.1</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2836</link>
+      <description>Merged by dependabot[bot] - build(deps): bump peter-evans/create-pull-request from 7.0.11 to 8.1.1</description>
+      <author>dependabot[bot]</author>
+      <pubDate>Tue, 02 Jun 2026 05:09:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>build(deps-dev): bump typescript-eslint from 8.59.4 to 8.60.1</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2837</link>
+      <description>Merged by dependabot[bot] - build(deps-dev): bump typescript-eslint from 8.59.4 to 8.60.1</description>
+      <author>dependabot[bot]</author>
+      <pubDate>Tue, 02 Jun 2026 05:08:42 +0000</pubDate>
+    </item>
     <item>
       <title>build(deps-dev): bump tsx from 4.22.3 to 4.22.4</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2838</link>
@@ -473,34 +515,6 @@
       <description>Merged by dependabot[bot] - build(deps-dev): bump typescript-eslint from 8.58.2 to 8.59.0</description>
       <author>dependabot[bot]</author>
       <pubDate>Mon, 27 Apr 2026 15:51:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>build(deps-dev): bump ajv from 8.18.0 to 8.20.0</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2655</link>
-      <description>Merged by dependabot[bot] - build(deps-dev): bump ajv from 8.18.0 to 8.20.0</description>
-      <author>dependabot[bot]</author>
-      <pubDate>Mon, 27 Apr 2026 15:51:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs: refresh Skills Over MCP charter for SEP-2640</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2650</link>
-      <description>Merged by olaservo - docs: refresh Skills Over MCP charter for SEP-2640</description>
-      <author>olaservo</author>
-      <pubDate>Mon, 27 Apr 2026 03:47:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs: fix incorrect method names in learning guides</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2645</link>
-      <description>Merged by TanmayZade - docs: fix incorrect method names in learning guides</description>
-      <author>TanmayZade</author>
-      <pubDate>Fri, 24 Apr 2026 16:58:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>SEP-2468: add Authorization spec changes for RFC 9207 iss validation</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2646</link>
-      <description>Merged by pcarleton - SEP-2468: add Authorization spec changes for RFC 9207 iss validation</description>
-      <author>pcarleton</author>
-      <pubDate>Fri, 24 Apr 2026 15:52:16 +0000</pubDate>
     </item>
     <item>
       <title>SEP-2243 HTTP Standardization</title>
