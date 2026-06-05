@@ -4,7 +4,42 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Thu, 04 Jun 2026 04:52:56 +0000</pubDate>
+    <pubDate>Fri, 05 Jun 2026 04:37:36 +0000</pubDate>
+    <item>
+      <title>Fix markdown format in server/prompts doc</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2860</link>
+      <description>Merged by jwarwick-r7 - Fix markdown format in server/prompts doc</description>
+      <author>jwarwick-r7</author>
+      <pubDate>Fri, 05 Jun 2026 02:34:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>docs: fix broken links to client/sampling and spec landing</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2823</link>
+      <description>Merged by sbeeredd04 - docs: fix broken links to client/sampling and spec landing</description>
+      <author>sbeeredd04</author>
+      <pubDate>Thu, 04 Jun 2026 19:53:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Authorization spec split</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2858</link>
+      <description>Merged by localden - Authorization spec split</description>
+      <author>localden</author>
+      <pubDate>Thu, 04 Jun 2026 19:16:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Bug Fix] make server/discover support caching</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2855</link>
+      <description>Merged by CaitieM20 - [Bug Fix] make server/discover support caching</description>
+      <author>CaitieM20</author>
+      <pubDate>Thu, 04 Jun 2026 14:48:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add Authorization Interest Group charter</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2843</link>
+      <description>Merged by pcarleton - Add Authorization Interest Group charter</description>
+      <author>pcarleton</author>
+      <pubDate>Thu, 04 Jun 2026 13:05:17 +0000</pubDate>
+    </item>
     <item>
       <title>Mark SEPs as final</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2856</link>
@@ -466,27 +501,6 @@
       <description>Merged by dependabot[bot] - build(deps-dev): bump typescript-eslint from 8.59.1 to 8.59.3</description>
       <author>dependabot[bot]</author>
       <pubDate>Tue, 12 May 2026 02:23:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>build(deps-dev): pin typescript-json-schema to 0.67.1 (fixes broken validate on main)</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2714</link>
-      <description>Merged by localden - build(deps-dev): pin typescript-json-schema to 0.67.1 (fixes broken validate on main)</description>
-      <author>localden</author>
-      <pubDate>Tue, 12 May 2026 02:20:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>build(deps-dev): bump typescript-json-schema from 0.67.1 to 0.67.2</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2709</link>
-      <description>Merged by dependabot[bot] - build(deps-dev): bump typescript-json-schema from 0.67.1 to 0.67.2</description>
-      <author>dependabot[bot]</author>
-      <pubDate>Tue, 12 May 2026 02:12:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>build(deps-dev): bump vm2 to 3.11.3</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2711</link>
-      <description>Merged by localden - build(deps-dev): bump vm2 to 3.11.3</description>
-      <author>localden</author>
-      <pubDate>Tue, 12 May 2026 01:05:05 +0000</pubDate>
     </item>
     <item>
       <title>SEP-2575: Make MCP Stateless</title>
