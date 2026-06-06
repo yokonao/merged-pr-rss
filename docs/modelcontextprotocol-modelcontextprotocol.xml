@@ -4,7 +4,28 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Fri, 05 Jun 2026 04:37:36 +0000</pubDate>
+    <pubDate>Sat, 06 Jun 2026 04:10:24 +0000</pubDate>
+    <item>
+      <title>fix(docs): replace dead Python auth sample link in authorization tutorial</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2865</link>
+      <description>Merged by clouatre - fix(docs): replace dead Python auth sample link in authorization tutorial</description>
+      <author>clouatre</author>
+      <pubDate>Fri, 05 Jun 2026 16:14:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>(chore): sep-to-spec consistency pass</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2863</link>
+      <description>Merged by localden - (chore): sep-to-spec consistency pass</description>
+      <author>localden</author>
+      <pubDate>Fri, 05 Jun 2026 16:11:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>(chore): Update the authorization spec structure/callouts </title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2862</link>
+      <description>Merged by localden - (chore): Update the authorization spec structure/callouts </description>
+      <author>localden</author>
+      <pubDate>Fri, 05 Jun 2026 10:52:30 +0000</pubDate>
+    </item>
     <item>
       <title>Fix markdown format in server/prompts doc</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2860</link>
@@ -475,32 +496,11 @@
       <pubDate>Fri, 15 May 2026 15:35:37 +0000</pubDate>
     </item>
     <item>
-      <title>Disambiguate HTTP backward-compat fallbacks: inspect 400/404 body before falling back</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2727</link>
-      <description>Merged by pja-ant - Disambiguate HTTP backward-compat fallbacks: inspect 400/404 body before falling back</description>
-      <author>pja-ant</author>
-      <pubDate>Fri, 15 May 2026 15:35:31 +0000</pubDate>
-    </item>
-    <item>
       <title>SEP-2549: TTL for List Results</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2549</link>
       <description>Merged by CaitieM20 - SEP-2549: TTL for List Results</description>
       <author>CaitieM20</author>
       <pubDate>Fri, 15 May 2026 14:37:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>build(deps-dev): bump fast-uri to 3.1.2</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2715</link>
-      <description>Merged by localden - build(deps-dev): bump fast-uri to 3.1.2</description>
-      <author>localden</author>
-      <pubDate>Tue, 12 May 2026 02:35:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>build(deps-dev): bump typescript-eslint from 8.59.1 to 8.59.3</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2708</link>
-      <description>Merged by dependabot[bot] - build(deps-dev): bump typescript-eslint from 8.59.1 to 8.59.3</description>
-      <author>dependabot[bot]</author>
-      <pubDate>Tue, 12 May 2026 02:23:20 +0000</pubDate>
     </item>
     <item>
       <title>SEP-2575: Make MCP Stateless</title>
