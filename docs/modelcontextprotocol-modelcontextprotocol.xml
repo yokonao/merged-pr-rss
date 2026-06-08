@@ -4,7 +4,21 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Sun, 07 Jun 2026 04:46:43 +0000</pubDate>
+    <pubDate>Mon, 08 Jun 2026 04:51:36 +0000</pubDate>
+    <item>
+      <title>Add repository links to Registry, Server Card, and Triggers &amp; Events charter docs</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2887</link>
+      <description>Merged by olaservo - Add repository links to Registry, Server Card, and Triggers &amp; Events charter docs</description>
+      <author>olaservo</author>
+      <pubDate>Sun, 07 Jun 2026 13:48:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>fix(schema): extract ElicitationCompleteNotificationParams to extend NotificationParams</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2866</link>
+      <description>Merged by clouatre - fix(schema): extract ElicitationCompleteNotificationParams to extend NotificationParams</description>
+      <author>clouatre</author>
+      <pubDate>Sun, 07 Jun 2026 12:53:39 +0000</pubDate>
+    </item>
     <item>
       <title>fix(docs): replace dead Python auth sample link in authorization tutorial</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2865</link>
@@ -473,27 +487,6 @@
       <description>Merged by CaitieM20 - Mark SEP-2260 as Final</description>
       <author>CaitieM20</author>
       <pubDate>Fri, 15 May 2026 19:13:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Clarify resultType is required; reframe absent-field handling as backward compat</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2726</link>
-      <description>Merged by pja-ant - Clarify resultType is required; reframe absent-field handling as backward compat</description>
-      <author>pja-ant</author>
-      <pubDate>Fri, 15 May 2026 18:55:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bug &amp; Doc Fixes for SEP-2322: MRTR Docs </title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2725</link>
-      <description>Merged by CaitieM20 - Bug &amp; Doc Fixes for SEP-2322: MRTR Docs </description>
-      <author>CaitieM20</author>
-      <pubDate>Fri, 15 May 2026 18:55:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Clarify notifications/message is request-scoped, not delivered on subscriptions/listen</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2728</link>
-      <description>Merged by pja-ant - Clarify notifications/message is request-scoped, not delivered on subscriptions/listen</description>
-      <author>pja-ant</author>
-      <pubDate>Fri, 15 May 2026 15:35:37 +0000</pubDate>
     </item>
     <item>
       <title>SEP-2549: TTL for List Results</title>
