@@ -4,7 +4,7 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Mon, 08 Jun 2026 04:51:36 +0000</pubDate>
+    <pubDate>Tue, 09 Jun 2026 04:14:10 +0000</pubDate>
     <item>
       <title>Add repository links to Registry, Server Card, and Triggers &amp; Events charter docs</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2887</link>
@@ -480,13 +480,6 @@
       <description>Merged by LucaButBoring - SEP-2663: Tasks Extension</description>
       <author>LucaButBoring</author>
       <pubDate>Fri, 15 May 2026 19:46:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mark SEP-2260 as Final</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2730</link>
-      <description>Merged by CaitieM20 - Mark SEP-2260 as Final</description>
-      <author>CaitieM20</author>
-      <pubDate>Fri, 15 May 2026 19:13:59 +0000</pubDate>
     </item>
     <item>
       <title>SEP-2549: TTL for List Results</title>
