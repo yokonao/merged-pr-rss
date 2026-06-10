@@ -4,7 +4,14 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Tue, 09 Jun 2026 04:14:10 +0000</pubDate>
+    <pubDate>Wed, 10 Jun 2026 04:25:15 +0000</pubDate>
+    <item>
+      <title>Fix Header Names on Extensions Page</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2895</link>
+      <description>Merged by CaitieM20 - Fix Header Names on Extensions Page</description>
+      <author>CaitieM20</author>
+      <pubDate>Tue, 09 Jun 2026 23:10:18 +0000</pubDate>
+    </item>
     <item>
       <title>Add repository links to Registry, Server Card, and Triggers &amp; Events charter docs</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2887</link>
@@ -417,20 +424,6 @@
       <description>Merged by dependabot[bot] - build(deps-dev): bump tsx from 4.21.0 to 4.22.1</description>
       <author>dependabot[bot]</author>
       <pubDate>Tue, 19 May 2026 03:00:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add CIMD to ChatGPT MCP Client support list</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2741</link>
-      <description>Merged by mstoiber-oai - Add CIMD to ChatGPT MCP Client support list</description>
-      <author>mstoiber-oai</author>
-      <pubDate>Tue, 19 May 2026 02:59:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add GitHub Copilot CLI to clients list</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2718</link>
-      <description>Merged by stephentoub - Add GitHub Copilot CLI to clients list</description>
-      <author>stephentoub</author>
-      <pubDate>Mon, 18 May 2026 18:31:01 +0000</pubDate>
     </item>
     <item>
       <title>SEP-2596: Specification Feature Lifecycle and Deprecation Policy</title>
