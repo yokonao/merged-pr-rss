@@ -4,7 +4,21 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Sat, 13 Jun 2026 04:38:41 +0000</pubDate>
+    <pubDate>Sun, 14 Jun 2026 04:56:49 +0000</pubDate>
+    <item>
+      <title>build(deps): bump esbuild from 0.27.2 to 0.28.1 in /tools/sep-automation in the npm_and_yarn group across 1 directory</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2911</link>
+      <description>Merged by dependabot[bot] - build(deps): bump esbuild from 0.27.2 to 0.28.1 in /tools/sep-automation in the npm_and_yarn group across 1 directory</description>
+      <author>dependabot[bot]</author>
+      <pubDate>Sat, 13 Jun 2026 10:28:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>build(deps-dev): bump esbuild from 0.28.0 to 0.28.1 in the npm_and_yarn group across 1 directory</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2910</link>
+      <description>Merged by dependabot[bot] - build(deps-dev): bump esbuild from 0.28.0 to 0.28.1 in the npm_and_yarn group across 1 directory</description>
+      <author>dependabot[bot]</author>
+      <pubDate>Sat, 13 Jun 2026 10:25:03 +0000</pubDate>
+    </item>
     <item>
       <title>Fix Header Names on Extensions Page</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2895</link>
@@ -340,90 +354,6 @@
       <description>Merged by localden - Add cut-release / publish-release workflows</description>
       <author>localden</author>
       <pubDate>Wed, 27 May 2026 06:05:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>build(deps-dev): bump typescript-json-schema from 0.67.1 to 0.67.4</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2784</link>
-      <description>Merged by dependabot[bot] - build(deps-dev): bump typescript-json-schema from 0.67.1 to 0.67.4</description>
-      <author>dependabot[bot]</author>
-      <pubDate>Wed, 27 May 2026 04:34:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>build(deps-dev): bump tsx from 4.22.1 to 4.22.3</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2785</link>
-      <description>Merged by dependabot[bot] - build(deps-dev): bump tsx from 4.22.1 to 4.22.3</description>
-      <author>dependabot[bot]</author>
-      <pubDate>Wed, 27 May 2026 04:13:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>build(deps-dev): bump typescript-eslint from 8.59.3 to 8.59.4</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2786</link>
-      <description>Merged by dependabot[bot] - build(deps-dev): bump typescript-eslint from 8.59.3 to 8.59.4</description>
-      <author>dependabot[bot]</author>
-      <pubDate>Wed, 27 May 2026 00:35:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Codex and ChatGPT now support MCP server instructions</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2790</link>
-      <description>Merged by mstoiber-oai - Codex and ChatGPT now support MCP server instructions</description>
-      <author>mstoiber-oai</author>
-      <pubDate>Tue, 26 May 2026 19:57:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Update Documentation to match Schema (Transports, Completions, Prompts, Resources)</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2769</link>
-      <description>Merged by evalstate - Update Documentation to match Schema (Transports, Completions, Prompts, Resources)</description>
-      <author>evalstate</author>
-      <pubDate>Fri, 22 May 2026 19:48:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Blog: 2026-07-28 specification release candidate</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2750</link>
-      <description>Merged by localden - Blog: 2026-07-28 specification release candidate</description>
-      <author>localden</author>
-      <pubDate>Fri, 22 May 2026 07:52:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs(spec): fix broken anchors, stale links, and mermaid diagrams in draft spec</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2765</link>
-      <description>Merged by halter73 - docs(spec): fix broken anchors, stale links, and mermaid diagrams in draft spec</description>
-      <author>halter73</author>
-      <pubDate>Thu, 21 May 2026 22:44:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fixing doc bugs, missing required fields</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2764</link>
-      <description>Merged by CaitieM20 - Fixing doc bugs, missing required fields</description>
-      <author>CaitieM20</author>
-      <pubDate>Thu, 21 May 2026 22:18:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>fix(schema): require `params._meta` on list and discover requests</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2759</link>
-      <description>Merged by pja-ant - fix(schema): require `params._meta` on list and discover requests</description>
-      <author>pja-ant</author>
-      <pubDate>Thu, 21 May 2026 18:11:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>fix(schema): align reserved `_meta` prefix rule with spec docs</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2758</link>
-      <description>Merged by pja-ant - fix(schema): align reserved `_meta` prefix rule with spec docs</description>
-      <author>pja-ant</author>
-      <pubDate>Thu, 21 May 2026 18:09:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>fix(SEP-2575): introduce a custom error code for unsupported protocol error</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2716</link>
-      <description>Merged by yarolegovich - fix(SEP-2575): introduce a custom error code for unsupported protocol error</description>
-      <author>yarolegovich</author>
-      <pubDate>Wed, 20 May 2026 17:38:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>build(deps-dev): bump tsx from 4.21.0 to 4.22.1</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2739</link>
-      <description>Merged by dependabot[bot] - build(deps-dev): bump tsx from 4.21.0 to 4.22.1</description>
-      <author>dependabot[bot]</author>
-      <pubDate>Tue, 19 May 2026 03:00:38 +0000</pubDate>
     </item>
     <item>
       <title>SEP-2596: Specification Feature Lifecycle and Deprecation Policy</title>
