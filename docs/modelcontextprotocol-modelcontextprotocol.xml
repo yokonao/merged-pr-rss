@@ -4,7 +4,28 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Mon, 15 Jun 2026 05:15:29 +0000</pubDate>
+    <pubDate>Tue, 16 Jun 2026 05:19:53 +0000</pubDate>
+    <item>
+      <title>build(deps-dev): bump eslint from 10.4.1 to 10.5.0</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2916</link>
+      <description>Merged by dependabot[bot] - build(deps-dev): bump eslint from 10.4.1 to 10.5.0</description>
+      <author>dependabot[bot]</author>
+      <pubDate>Mon, 15 Jun 2026 23:04:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>build(deps-dev): bump typescript-eslint from 8.60.1 to 8.61.0</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2917</link>
+      <description>Merged by dependabot[bot] - build(deps-dev): bump typescript-eslint from 8.60.1 to 8.61.0</description>
+      <author>dependabot[bot]</author>
+      <pubDate>Mon, 15 Jun 2026 23:04:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>build(deps-dev): bump prettier from 3.8.3 to 3.8.4</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2918</link>
+      <description>Merged by dependabot[bot] - build(deps-dev): bump prettier from 3.8.3 to 3.8.4</description>
+      <author>dependabot[bot]</author>
+      <pubDate>Mon, 15 Jun 2026 23:04:21 +0000</pubDate>
+    </item>
     <item>
       <title>build(deps): bump esbuild from 0.27.2 to 0.28.1 in /tools/sep-automation in the npm_and_yarn group across 1 directory</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2911</link>
@@ -326,34 +347,6 @@
       <description>Merged by dsp-ant - docs(spec): incorporate SEP-2596 and SEP-1865 into the draft spec; clarify Streamable HTTP</description>
       <author>dsp-ant</author>
       <pubDate>Wed, 27 May 2026 12:58:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs: add Tool Annotations Interest Group charter</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2615</link>
-      <description>Merged by SamMorrowDrums - docs: add Tool Annotations Interest Group charter</description>
-      <author>SamMorrowDrums</author>
-      <pubDate>Wed, 27 May 2026 08:37:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Use canonical release-notes template in cut-release / publish-release</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2800</link>
-      <description>Merged by localden - Use canonical release-notes template in cut-release / publish-release</description>
-      <author>localden</author>
-      <pubDate>Wed, 27 May 2026 06:15:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>build(deps-dev): bump eslint from 10.3.0 to 10.4.0</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2737</link>
-      <description>Merged by dependabot[bot] - build(deps-dev): bump eslint from 10.3.0 to 10.4.0</description>
-      <author>dependabot[bot]</author>
-      <pubDate>Wed, 27 May 2026 06:06:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add cut-release / publish-release workflows</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2799</link>
-      <description>Merged by localden - Add cut-release / publish-release workflows</description>
-      <author>localden</author>
-      <pubDate>Wed, 27 May 2026 06:05:19 +0000</pubDate>
     </item>
     <item>
       <title>SEP-2596: Specification Feature Lifecycle and Deprecation Policy</title>
