@@ -4,7 +4,21 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Tue, 16 Jun 2026 05:19:53 +0000</pubDate>
+    <pubDate>Wed, 17 Jun 2026 04:59:13 +0000</pubDate>
+    <item>
+      <title>build(deps-dev): bump markdown-it from 14.1.1 to 14.2.0 in the npm_and_yarn group across 1 directory</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2923</link>
+      <description>Merged by dependabot[bot] - build(deps-dev): bump markdown-it from 14.1.1 to 14.2.0 in the npm_and_yarn group across 1 directory</description>
+      <author>dependabot[bot]</author>
+      <pubDate>Tue, 16 Jun 2026 15:06:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add Security IG charter; move charters under working-groups/ and interest-groups/</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2912</link>
+      <description>Merged by localden - Add Security IG charter; move charters under working-groups/ and interest-groups/</description>
+      <author>localden</author>
+      <pubDate>Tue, 16 Jun 2026 15:02:45 +0000</pubDate>
+    </item>
     <item>
       <title>build(deps-dev): bump eslint from 10.4.1 to 10.5.0</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2916</link>
@@ -326,27 +340,6 @@
       <description>Merged by tadasant - docs(community): add Registry WG charter</description>
       <author>tadasant</author>
       <pubDate>Thu, 28 May 2026 17:06:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Remove Example Clients overview page</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2804</link>
-      <description>Merged by dsp-ant - Remove Example Clients overview page</description>
-      <author>dsp-ant</author>
-      <pubDate>Wed, 27 May 2026 18:02:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fix typos</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2801</link>
-      <description>Merged by localden - Fix typos</description>
-      <author>localden</author>
-      <pubDate>Wed, 27 May 2026 13:36:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs(spec): incorporate SEP-2596 and SEP-1865 into the draft spec; clarify Streamable HTTP</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2791</link>
-      <description>Merged by dsp-ant - docs(spec): incorporate SEP-2596 and SEP-1865 into the draft spec; clarify Streamable HTTP</description>
-      <author>dsp-ant</author>
-      <pubDate>Wed, 27 May 2026 12:58:42 +0000</pubDate>
     </item>
     <item>
       <title>SEP-2596: Specification Feature Lifecycle and Deprecation Policy</title>
