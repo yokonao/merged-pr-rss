@@ -4,7 +4,35 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Wed, 17 Jun 2026 04:59:13 +0000</pubDate>
+    <pubDate>Thu, 18 Jun 2026 04:48:59 +0000</pubDate>
+    <item>
+      <title>Close transport-layer specification gaps in the draft</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2891</link>
+      <description>Merged by pja-ant - Close transport-layer specification gaps in the draft</description>
+      <author>pja-ant</author>
+      <pubDate>Wed, 17 Jun 2026 18:09:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Fix draft spec examples and restore dropped guidance</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2890</link>
+      <description>Merged by pja-ant - Fix draft spec examples and restore dropped guidance</description>
+      <author>pja-ant</author>
+      <pubDate>Wed, 17 Jun 2026 17:34:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Align draft schema with spec docs (subscriptionId, HeaderMismatch, notification directions)</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2889</link>
+      <description>Merged by pja-ant - Align draft schema with spec docs (subscriptionId, HeaderMismatch, notification directions)</description>
+      <author>pja-ant</author>
+      <pubDate>Wed, 17 Jun 2026 17:32:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Proposal for Enterprise Managed Auth interest group</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2929</link>
+      <description>Merged by pcarleton - Proposal for Enterprise Managed Auth interest group</description>
+      <author>pcarleton</author>
+      <pubDate>Wed, 17 Jun 2026 12:54:10 +0000</pubDate>
+    </item>
     <item>
       <title>build(deps-dev): bump markdown-it from 14.1.1 to 14.2.0 in the npm_and_yarn group across 1 directory</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2923</link>
@@ -326,20 +354,6 @@
       <description>Merged by sambhav - Add Sambhav Kothari to participant list</description>
       <author>sambhav</author>
       <pubDate>Thu, 28 May 2026 20:57:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>fix(SEP-2322): Explicitly support extending ResultType</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2773</link>
-      <description>Merged by LucaButBoring - fix(SEP-2322): Explicitly support extending ResultType</description>
-      <author>LucaButBoring</author>
-      <pubDate>Thu, 28 May 2026 17:10:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs(community): add Registry WG charter</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2587</link>
-      <description>Merged by tadasant - docs(community): add Registry WG charter</description>
-      <author>tadasant</author>
-      <pubDate>Thu, 28 May 2026 17:06:24 +0000</pubDate>
     </item>
     <item>
       <title>SEP-2596: Specification Feature Lifecycle and Deprecation Policy</title>
