@@ -4,7 +4,28 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Thu, 18 Jun 2026 04:48:59 +0000</pubDate>
+    <pubDate>Fri, 19 Jun 2026 05:09:32 +0000</pubDate>
+    <item>
+      <title>Add rust example for Build an MCP client</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2864</link>
+      <description>Merged by amikai - Add rust example for Build an MCP client</description>
+      <author>amikai</author>
+      <pubDate>Thu, 18 Jun 2026 22:01:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add Enterprise-Managed Authorization blog post</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2944</link>
+      <description>Merged by localden - Add Enterprise-Managed Authorization blog post</description>
+      <author>localden</author>
+      <pubDate>Thu, 18 Jun 2026 17:02:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Define error code allocation policy and renumber draft error codes</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2907</link>
+      <description>Merged by felixweinberger - Define error code allocation policy and renumber draft error codes</description>
+      <author>felixweinberger</author>
+      <pubDate>Thu, 18 Jun 2026 14:18:11 +0000</pubDate>
+    </item>
     <item>
       <title>Close transport-layer specification gaps in the draft</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2891</link>
@@ -340,20 +361,6 @@
       <description>Merged by dsp-ant - Mark generated files with -merge and document regeneration on conflicts</description>
       <author>dsp-ant</author>
       <pubDate>Fri, 29 May 2026 10:58:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs(schema): clarify MethodNotFoundError scope vs MissingRequiredClientCapabilityError</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2775</link>
-      <description>Merged by kurtisvg - docs(schema): clarify MethodNotFoundError scope vs MissingRequiredClientCapabilityError</description>
-      <author>kurtisvg</author>
-      <pubDate>Fri, 29 May 2026 10:55:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Add Sambhav Kothari to participant list</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2810</link>
-      <description>Merged by sambhav - Add Sambhav Kothari to participant list</description>
-      <author>sambhav</author>
-      <pubDate>Thu, 28 May 2026 20:57:46 +0000</pubDate>
     </item>
     <item>
       <title>SEP-2596: Specification Feature Lifecycle and Deprecation Policy</title>
