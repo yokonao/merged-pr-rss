@@ -4,7 +4,35 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Fri, 19 Jun 2026 05:09:32 +0000</pubDate>
+    <pubDate>Sat, 20 Jun 2026 04:22:04 +0000</pubDate>
+    <item>
+      <title>docs: add Microsoft 365 Copilot to extension support matrix and MCP Apps client list</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2637</link>
+      <description>Merged by SuryaMSFT - docs: add Microsoft 365 Copilot to extension support matrix and MCP Apps client list</description>
+      <author>SuryaMSFT</author>
+      <pubDate>Sat, 20 Jun 2026 02:29:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add PostHog Code to client-matrix documentation</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2946</link>
+      <description>Merged by rafaeelaudibert - Add PostHog Code to client-matrix documentation</description>
+      <author>rafaeelaudibert</author>
+      <pubDate>Sat, 20 Jun 2026 02:16:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Update link to stable enterprise-managed authorization spec</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2949</link>
+      <description>Merged by garciasces - Update link to stable enterprise-managed authorization spec</description>
+      <author>garciasces</author>
+      <pubDate>Sat, 20 Jun 2026 02:14:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mark Archestra.AI as supporting OAuth Client Credentials</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2950</link>
+      <description>Merged by joeyorlando - Mark Archestra.AI as supporting OAuth Client Credentials</description>
+      <author>joeyorlando</author>
+      <pubDate>Fri, 19 Jun 2026 12:13:56 +0000</pubDate>
+    </item>
     <item>
       <title>Add rust example for Build an MCP client</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2864</link>
@@ -328,39 +356,11 @@
       <pubDate>Fri, 29 May 2026 14:50:25 +0000</pubDate>
     </item>
     <item>
-      <title>fix: NumberSchema min/max/default should be number, not integer</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2710</link>
-      <description>Merged by gsdv - fix: NumberSchema min/max/default should be number, not integer</description>
-      <author>gsdv</author>
-      <pubDate>Fri, 29 May 2026 12:49:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs: add Archestra.AI to MCP Apps and Enterprise Auth client matrix</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2707</link>
-      <description>Merged by Matvey-Kuk - docs: add Archestra.AI to MCP Apps and Enterprise Auth client matrix</description>
-      <author>Matvey-Kuk</author>
-      <pubDate>Fri, 29 May 2026 11:10:43 +0000</pubDate>
-    </item>
-    <item>
       <title>fix(SEP-2663): specify -32003 error for missing client capability</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2756</link>
       <description>Merged by LucaButBoring - fix(SEP-2663): specify -32003 error for missing client capability</description>
       <author>LucaButBoring</author>
       <pubDate>Fri, 29 May 2026 11:09:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs(SEP-2575): clarify stdio process lifetime in lifecycle spec</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2770</link>
-      <description>Merged by kurtisvg - docs(SEP-2575): clarify stdio process lifetime in lifecycle spec</description>
-      <author>kurtisvg</author>
-      <pubDate>Fri, 29 May 2026 11:05:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mark generated files with -merge and document regeneration on conflicts</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2813</link>
-      <description>Merged by dsp-ant - Mark generated files with -merge and document regeneration on conflicts</description>
-      <author>dsp-ant</author>
-      <pubDate>Fri, 29 May 2026 10:58:31 +0000</pubDate>
     </item>
     <item>
       <title>SEP-2596: Specification Feature Lifecycle and Deprecation Policy</title>
