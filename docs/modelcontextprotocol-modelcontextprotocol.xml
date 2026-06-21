@@ -4,7 +4,14 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Sat, 20 Jun 2026 04:22:04 +0000</pubDate>
+    <pubDate>Sun, 21 Jun 2026 05:05:53 +0000</pubDate>
+    <item>
+      <title>build(deps-dev): bump undici from 7.24.1 to 7.28.0 in the npm_and_yarn group across 1 directory</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2957</link>
+      <description>Merged by dependabot[bot] - build(deps-dev): bump undici from 7.24.1 to 7.28.0 in the npm_and_yarn group across 1 directory</description>
+      <author>dependabot[bot]</author>
+      <pubDate>Sun, 21 Jun 2026 00:21:02 +0000</pubDate>
+    </item>
     <item>
       <title>docs: add Microsoft 365 Copilot to extension support matrix and MCP Apps client list</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2637</link>
@@ -347,13 +354,6 @@
       <description>Merged by dependabot[bot] - build(deps-dev): bump vm2 from 3.11.3 to 3.11.5 in the npm_and_yarn group across 1 directory</description>
       <author>dependabot[bot]</author>
       <pubDate>Fri, 29 May 2026 19:54:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs: SEP-2243 clarifications for x-mcp-header</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2772</link>
-      <description>Merged by mikekistler - docs: SEP-2243 clarifications for x-mcp-header</description>
-      <author>mikekistler</author>
-      <pubDate>Fri, 29 May 2026 14:50:25 +0000</pubDate>
     </item>
     <item>
       <title>fix(SEP-2663): specify -32003 error for missing client capability</title>
