@@ -4,7 +4,35 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Mon, 22 Jun 2026 05:17:22 +0000</pubDate>
+    <pubDate>Tue, 23 Jun 2026 04:11:17 +0000</pubDate>
+    <item>
+      <title>Add Ola Hungerford as Lead for Interceptors</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2935</link>
+      <description>Merged by sambhav - Add Ola Hungerford as Lead for Interceptors</description>
+      <author>sambhav</author>
+      <pubDate>Mon, 22 Jun 2026 16:16:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>docs: recommend SSE comment-line keep-alive for listen streams</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2954</link>
+      <description>Merged by kurtisvg - docs: recommend SSE comment-line keep-alive for listen streams</description>
+      <author>kurtisvg</author>
+      <pubDate>Mon, 22 Jun 2026 15:42:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>build(deps): bump actions/checkout from 6 to 7</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2961</link>
+      <description>Merged by dependabot[bot] - build(deps): bump actions/checkout from 6 to 7</description>
+      <author>dependabot[bot]</author>
+      <pubDate>Mon, 22 Jun 2026 14:44:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>build(deps-dev): bump typescript-eslint from 8.61.0 to 8.61.1</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2962</link>
+      <description>Merged by dependabot[bot] - build(deps-dev): bump typescript-eslint from 8.61.0 to 8.61.1</description>
+      <author>dependabot[bot]</author>
+      <pubDate>Mon, 22 Jun 2026 14:44:26 +0000</pubDate>
+    </item>
     <item>
       <title>build(deps-dev): bump undici from 7.24.1 to 7.28.0 in the npm_and_yarn group across 1 directory</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2957</link>
@@ -340,20 +368,6 @@
       <description>Merged by tadasant - docs: move Adam &amp; Toby to registry emeritus; add Pree as collaborator</description>
       <author>tadasant</author>
       <pubDate>Sun, 31 May 2026 02:40:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>docs(tool-annotations): add IG members from first two meetings</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2818</link>
-      <description>Merged by SamMorrowDrums - docs(tool-annotations): add IG members from first two meetings</description>
-      <author>SamMorrowDrums</author>
-      <pubDate>Fri, 29 May 2026 19:54:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>build(deps-dev): bump vm2 from 3.11.3 to 3.11.5 in the npm_and_yarn group across 1 directory</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2821</link>
-      <description>Merged by dependabot[bot] - build(deps-dev): bump vm2 from 3.11.3 to 3.11.5 in the npm_and_yarn group across 1 directory</description>
-      <author>dependabot[bot]</author>
-      <pubDate>Fri, 29 May 2026 19:54:30 +0000</pubDate>
     </item>
     <item>
       <title>fix(SEP-2663): specify -32003 error for missing client capability</title>
