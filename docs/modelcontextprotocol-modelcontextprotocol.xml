@@ -4,7 +4,42 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Wed, 24 Jun 2026 04:14:31 +0000</pubDate>
+    <pubDate>Thu, 25 Jun 2026 04:14:34 +0000</pubDate>
+    <item>
+      <title>(docs): Update documentation for MCP security best practices</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1554</link>
+      <description>Merged by localden - (docs): Update documentation for MCP security best practices</description>
+      <author>localden</author>
+      <pubDate>Thu, 25 Jun 2026 01:33:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kotlin SDK: Tier 3 assessment</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2513</link>
+      <description>Merged by devcrocod - Kotlin SDK: Tier 3 assessment</description>
+      <author>devcrocod</author>
+      <pubDate>Wed, 24 Jun 2026 21:28:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Remove obsolete docs/community/seps/2243-http-standardization.mdx</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2914</link>
+      <description>Merged by mikekistler - Remove obsolete docs/community/seps/2243-http-standardization.mdx</description>
+      <author>mikekistler</author>
+      <pubDate>Wed, 24 Jun 2026 21:22:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>docs: reframe server/discover version-selection bullet</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2955</link>
+      <description>Merged by kurtisvg - docs: reframe server/discover version-selection bullet</description>
+      <author>kurtisvg</author>
+      <pubDate>Wed, 24 Jun 2026 16:00:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>fix links from docs to Enterprise Managed Auth spec</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2945</link>
+      <description>Merged by cconcannon - fix links from docs to Enterprise Managed Auth spec</description>
+      <author>cconcannon</author>
+      <pubDate>Wed, 24 Jun 2026 15:46:32 +0000</pubDate>
+    </item>
     <item>
       <title>docs(community): add Primitive Grouping Interest Group charter</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2942</link>
@@ -263,104 +298,6 @@
       <description>Merged by CaitieM20 - Mark SEPs as final</description>
       <author>CaitieM20</author>
       <pubDate>Wed, 03 Jun 2026 21:52:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fix typos in changelog</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2853</link>
-      <description>Merged by jwarwick-r7 - Fix typos in changelog</description>
-      <author>jwarwick-r7</author>
-      <pubDate>Wed, 03 Jun 2026 19:05:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Re-organize message patterns pages</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2851</link>
-      <description>Merged by clareliguori - Re-organize message patterns pages</description>
-      <author>clareliguori</author>
-      <pubDate>Wed, 03 Jun 2026 19:04:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fix stdio legacy-fallback rule and add a compatibility matrix</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2844</link>
-      <description>Merged by dsp-ant - Fix stdio legacy-fallback rule and add a compatibility matrix</description>
-      <author>dsp-ant</author>
-      <pubDate>Wed, 03 Jun 2026 17:01:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Restructure draft transport documentation</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2845</link>
-      <description>Merged by dsp-ant - Restructure draft transport documentation</description>
-      <author>dsp-ant</author>
-      <pubDate>Wed, 03 Jun 2026 16:12:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rename Lifecycle to Versioning and Compatibility</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2850</link>
-      <description>Merged by dsp-ant - Rename Lifecycle to Versioning and Compatibility</description>
-      <author>dsp-ant</author>
-      <pubDate>Wed, 03 Jun 2026 16:09:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>update basic/index.mdx to reference message patterns page</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2846</link>
-      <description>Merged by CaitieM20 - update basic/index.mdx to reference message patterns page</description>
-      <author>CaitieM20</author>
-      <pubDate>Wed, 03 Jun 2026 09:43:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>build(deps-dev): bump vitest from 4.0.17 to 4.1.0 in /tools/sep-automation in the npm_and_yarn group across 1 directory</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2833</link>
-      <description>Merged by dependabot[bot] - build(deps-dev): bump vitest from 4.0.17 to 4.1.0 in /tools/sep-automation in the npm_and_yarn group across 1 directory</description>
-      <author>dependabot[bot]</author>
-      <pubDate>Wed, 03 Jun 2026 03:22:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>build(deps): bump actions/setup-node from 4 to 6</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2834</link>
-      <description>Merged by dependabot[bot] - build(deps): bump actions/setup-node from 4 to 6</description>
-      <author>dependabot[bot]</author>
-      <pubDate>Tue, 02 Jun 2026 22:14:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Update draft spec overview: remove deprecated features, add extensions</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2840</link>
-      <description>Merged by dsp - Update draft spec overview: remove deprecated features, add extensions</description>
-      <author>dsp</author>
-      <pubDate>Tue, 02 Jun 2026 12:37:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>build(deps): bump actions/checkout from 4 to 6</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2835</link>
-      <description>Merged by dependabot[bot] - build(deps): bump actions/checkout from 4 to 6</description>
-      <author>dependabot[bot]</author>
-      <pubDate>Tue, 02 Jun 2026 05:12:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>build(deps): bump peter-evans/create-pull-request from 7.0.11 to 8.1.1</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2836</link>
-      <description>Merged by dependabot[bot] - build(deps): bump peter-evans/create-pull-request from 7.0.11 to 8.1.1</description>
-      <author>dependabot[bot]</author>
-      <pubDate>Tue, 02 Jun 2026 05:09:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>build(deps-dev): bump typescript-eslint from 8.59.4 to 8.60.1</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2837</link>
-      <description>Merged by dependabot[bot] - build(deps-dev): bump typescript-eslint from 8.59.4 to 8.60.1</description>
-      <author>dependabot[bot]</author>
-      <pubDate>Tue, 02 Jun 2026 05:08:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>build(deps-dev): bump tsx from 4.22.3 to 4.22.4</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2838</link>
-      <description>Merged by dependabot[bot] - build(deps-dev): bump tsx from 4.22.3 to 4.22.4</description>
-      <author>dependabot[bot]</author>
-      <pubDate>Tue, 02 Jun 2026 03:18:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>build(deps-dev): bump eslint from 10.4.0 to 10.4.1</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2839</link>
-      <description>Merged by dependabot[bot] - build(deps-dev): bump eslint from 10.4.0 to 10.4.1</description>
-      <author>dependabot[bot]</author>
-      <pubDate>Tue, 02 Jun 2026 01:14:05 +0000</pubDate>
     </item>
     <item>
       <title>docs: move Adam &amp; Toby to registry emeritus; add Pree as collaborator</title>
