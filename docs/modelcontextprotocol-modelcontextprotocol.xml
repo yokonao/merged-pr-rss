@@ -4,7 +4,42 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Thu, 25 Jun 2026 04:14:34 +0000</pubDate>
+    <pubDate>Fri, 26 Jun 2026 04:21:03 +0000</pubDate>
+    <item>
+      <title>Add Financial Services Interest Group charter</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2979</link>
+      <description>Merged by PederHP - Add Financial Services Interest Group charter</description>
+      <author>PederHP</author>
+      <pubDate>Thu, 25 Jun 2026 22:53:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Move AI contribution policy to AI_POLICY.md</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2965</link>
+      <description>Merged by localden - Move AI contribution policy to AI_POLICY.md</description>
+      <author>localden</author>
+      <pubDate>Thu, 25 Jun 2026 17:04:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add SDK vulnerability disclosure process and stdio trust boundary to SECURITY.md</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2973</link>
+      <description>Merged by localden - Add SDK vulnerability disclosure process and stdio trust boundary to SECURITY.md</description>
+      <author>localden</author>
+      <pubDate>Thu, 25 Jun 2026 16:35:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>docs: complete account linking guidance in enterprise-managed authori…</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2960</link>
+      <description>Merged by karankraina - docs: complete account linking guidance in enterprise-managed authori…</description>
+      <author>karankraina</author>
+      <pubDate>Thu, 25 Jun 2026 14:59:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>docs: fix elicitation example to use requestedSchema</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2978</link>
+      <description>Merged by FenjuFu - docs: fix elicitation example to use requestedSchema</description>
+      <author>FenjuFu</author>
+      <pubDate>Thu, 25 Jun 2026 13:10:48 +0000</pubDate>
+    </item>
     <item>
       <title>(docs): Update documentation for MCP security best practices</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1554</link>
@@ -293,13 +328,6 @@
       <pubDate>Thu, 04 Jun 2026 13:05:17 +0000</pubDate>
     </item>
     <item>
-      <title>Mark SEPs as final</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2856</link>
-      <description>Merged by CaitieM20 - Mark SEPs as final</description>
-      <author>CaitieM20</author>
-      <pubDate>Wed, 03 Jun 2026 21:52:27 +0000</pubDate>
-    </item>
-    <item>
       <title>docs: move Adam &amp; Toby to registry emeritus; add Pree as collaborator</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2825</link>
       <description>Merged by tadasant - docs: move Adam &amp; Toby to registry emeritus; add Pree as collaborator</description>
@@ -312,20 +340,6 @@
       <description>Merged by localden - SEP-2596: Specification Feature Lifecycle and Deprecation Policy</description>
       <author>localden</author>
       <pubDate>Mon, 18 May 2026 18:09:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>SEP-2164: Standardize resource not found error code (-32602)</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2164</link>
-      <description>Merged by pja-ant - SEP-2164: Standardize resource not found error code (-32602)</description>
-      <author>pja-ant</author>
-      <pubDate>Mon, 18 May 2026 06:28:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>SEP-2106: Tools `inputSchema` &amp; `outputSchema` Conform to JSON Schema 2020-12</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2106</link>
-      <description>Merged by olaservo - SEP-2106: Tools `inputSchema` &amp; `outputSchema` Conform to JSON Schema 2020-12</description>
-      <author>olaservo</author>
-      <pubDate>Mon, 18 May 2026 06:23:08 +0000</pubDate>
     </item>
     <item>
       <title>SEP-2468: Recommend Issuer (iss) Parameter in MCP Auth Responses</title>
@@ -419,46 +433,11 @@
       <pubDate>Sat, 28 Mar 2026 01:42:26 +0000</pubDate>
     </item>
     <item>
-      <title>SEP-837: Update authorization spec to clarify client type requirements</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/837</link>
-      <description>Merged by localden - SEP-837: Update authorization spec to clarify client type requirements</description>
-      <author>localden</author>
-      <pubDate>Sat, 28 Mar 2026 01:32:29 +0000</pubDate>
-    </item>
-    <item>
       <title>SEP-2260 Require Server requests to be associated with a Client request.</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2260</link>
       <description>Merged by evalstate - SEP-2260 Require Server requests to be associated with a Client request.</description>
       <author>evalstate</author>
       <pubDate>Tue, 10 Mar 2026 21:12:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>SEP-414: Document OpenTelemetry Trace Context Propagation Conventions</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/414</link>
-      <description>Merged by codefromthecrypt - SEP-414: Document OpenTelemetry Trace Context Propagation Conventions</description>
-      <author>codefromthecrypt</author>
-      <pubDate>Thu, 26 Feb 2026 12:06:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>SEP-1730: SDK tiers definition</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1777</link>
-      <description>Merged by ihrpr - SEP-1730: SDK tiers definition</description>
-      <author>ihrpr</author>
-      <pubDate>Mon, 02 Feb 2026 23:56:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>SEP-1865: MCP Apps - Interactive User Interfaces for MCP</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/1865</link>
-      <description>Merged by idosal - SEP-1865: MCP Apps - Interactive User Interfaces for MCP</description>
-      <author>idosal</author>
-      <pubDate>Wed, 28 Jan 2026 18:08:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>SEP-2133: Extensions framework for MCP</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2133</link>
-      <description>Merged by pja-ant - SEP-2133: Extensions framework for MCP</description>
-      <author>pja-ant</author>
-      <pubDate>Mon, 26 Jan 2026 23:57:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
