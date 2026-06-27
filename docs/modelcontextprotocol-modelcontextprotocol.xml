@@ -4,7 +4,14 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Fri, 26 Jun 2026 04:21:03 +0000</pubDate>
+    <pubDate>Sat, 27 Jun 2026 04:07:52 +0000</pubDate>
+    <item>
+      <title>SEP-2127: refactor to Extensions Track charter (delegate spec to experimental-ext-server-card)</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2893</link>
+      <description>Merged by tadasant - SEP-2127: refactor to Extensions Track charter (delegate spec to experimental-ext-server-card)</description>
+      <author>tadasant</author>
+      <pubDate>Fri, 26 Jun 2026 15:52:43 +0000</pubDate>
+    </item>
     <item>
       <title>Add Financial Services Interest Group charter</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2979</link>
@@ -391,53 +398,11 @@
       <pubDate>Thu, 07 May 2026 17:34:23 +0000</pubDate>
     </item>
     <item>
-      <title>SEP-2322: Multi Round-Trip Requests </title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2322</link>
-      <description>Merged by CaitieM20 - SEP-2322: Multi Round-Trip Requests </description>
-      <author>CaitieM20</author>
-      <pubDate>Wed, 06 May 2026 17:13:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>SEP-2243 HTTP Standardization</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2243</link>
-      <description>Merged by mikekistler - SEP-2243 HTTP Standardization</description>
-      <author>mikekistler</author>
-      <pubDate>Wed, 15 Apr 2026 18:51:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>SEP-2207: OIDC-flavored refresh token guidance</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2207</link>
-      <description>Merged by wdawson - SEP-2207: OIDC-flavored refresh token guidance</description>
-      <author>wdawson</author>
-      <pubDate>Sun, 29 Mar 2026 05:15:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>SEP-2350: Clarify client-side scope accumulation in step-up authorization</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2350</link>
-      <description>Merged by dend - SEP-2350: Clarify client-side scope accumulation in step-up authorization</description>
-      <author>dend</author>
-      <pubDate>Sat, 28 Mar 2026 01:45:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>SEP-2351: Explicitly specify RFC 8414 well-known URI suffix for MCP</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2351</link>
-      <description>Merged by dend - SEP-2351: Explicitly specify RFC 8414 well-known URI suffix for MCP</description>
-      <author>dend</author>
-      <pubDate>Sat, 28 Mar 2026 01:43:45 +0000</pubDate>
-    </item>
-    <item>
       <title>SEP-2352: Clarify authorization server binding and migration</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2352</link>
       <description>Merged by dend - SEP-2352: Clarify authorization server binding and migration</description>
       <author>dend</author>
       <pubDate>Sat, 28 Mar 2026 01:42:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>SEP-2260 Require Server requests to be associated with a Client request.</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2260</link>
-      <description>Merged by evalstate - SEP-2260 Require Server requests to be associated with a Client request.</description>
-      <author>evalstate</author>
-      <pubDate>Tue, 10 Mar 2026 21:12:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
