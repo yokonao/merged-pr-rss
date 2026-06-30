@@ -4,7 +4,35 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Mon, 29 Jun 2026 04:49:27 +0000</pubDate>
+    <pubDate>Tue, 30 Jun 2026 04:15:40 +0000</pubDate>
+    <item>
+      <title>build(deps-dev): bump prettier from 3.8.4 to 3.9.3</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2987</link>
+      <description>Merged by dependabot[bot] - build(deps-dev): bump prettier from 3.8.4 to 3.9.3</description>
+      <author>dependabot[bot]</author>
+      <pubDate>Mon, 29 Jun 2026 23:06:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>build(deps-dev): bump eslint from 10.5.0 to 10.6.0</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2986</link>
+      <description>Merged by dependabot[bot] - build(deps-dev): bump eslint from 10.5.0 to 10.6.0</description>
+      <author>dependabot[bot]</author>
+      <pubDate>Mon, 29 Jun 2026 23:01:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>build(deps-dev): bump typescript-eslint from 8.61.1 to 8.62.0</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2985</link>
+      <description>Merged by dependabot[bot] - build(deps-dev): bump typescript-eslint from 8.61.1 to 8.62.0</description>
+      <author>dependabot[bot]</author>
+      <pubDate>Mon, 29 Jun 2026 23:00:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>docs: fix SEP-2243 base64 sentinel case-sensitivity contradiction</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2937</link>
+      <description>Merged by DaleSeo - docs: fix SEP-2243 base64 sentinel case-sensitivity contradiction</description>
+      <author>DaleSeo</author>
+      <pubDate>Mon, 29 Jun 2026 17:15:45 +0000</pubDate>
+    </item>
     <item>
       <title>SEP-2127: refactor to Extensions Track charter (delegate spec to experimental-ext-server-card)</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2893</link>
@@ -349,39 +377,11 @@
       <pubDate>Mon, 18 May 2026 18:09:21 +0000</pubDate>
     </item>
     <item>
-      <title>SEP-2468: Recommend Issuer (iss) Parameter in MCP Auth Responses</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2468</link>
-      <description>Merged by EmLauber - SEP-2468: Recommend Issuer (iss) Parameter in MCP Auth Responses</description>
-      <author>EmLauber</author>
-      <pubDate>Sun, 17 May 2026 08:33:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>SEP-2484: Require Conformance Tests for Standards Track SEPs to Reach Final Status</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2484</link>
-      <description>Merged by pcarleton - SEP-2484: Require Conformance Tests for Standards Track SEPs to Reach Final Status</description>
-      <author>pcarleton</author>
-      <pubDate>Sun, 17 May 2026 08:26:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>SEP-2577: Deprecate Roots, Sampling, and Logging </title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2577</link>
-      <description>Merged by kurtisvg - SEP-2577: Deprecate Roots, Sampling, and Logging </description>
-      <author>kurtisvg</author>
-      <pubDate>Fri, 15 May 2026 22:23:10 +0000</pubDate>
-    </item>
-    <item>
       <title>SEP-2663: Tasks Extension</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2663</link>
       <description>Merged by LucaButBoring - SEP-2663: Tasks Extension</description>
       <author>LucaButBoring</author>
       <pubDate>Fri, 15 May 2026 19:46:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>SEP-2549: TTL for List Results</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2549</link>
-      <description>Merged by CaitieM20 - SEP-2549: TTL for List Results</description>
-      <author>CaitieM20</author>
-      <pubDate>Fri, 15 May 2026 14:37:16 +0000</pubDate>
     </item>
     <item>
       <title>SEP-2575: Make MCP Stateless</title>
@@ -396,13 +396,6 @@
       <description>Merged by pja-ant - SEP-2567: Sessionless MCP via Explicit State Handles</description>
       <author>pja-ant</author>
       <pubDate>Thu, 07 May 2026 17:34:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>SEP-2352: Clarify authorization server binding and migration</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2352</link>
-      <description>Merged by dend - SEP-2352: Clarify authorization server binding and migration</description>
-      <author>dend</author>
-      <pubDate>Sat, 28 Mar 2026 01:42:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
