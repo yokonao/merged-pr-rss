@@ -4,7 +4,14 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Tue, 30 Jun 2026 04:15:40 +0000</pubDate>
+    <pubDate>Wed, 01 Jul 2026 04:44:18 +0000</pubDate>
+    <item>
+      <title>spec: decouple Mcp-Param-* header emission from schema TTL</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2972</link>
+      <description>Merged by pcarleton - spec: decouple Mcp-Param-* header emission from schema TTL</description>
+      <author>pcarleton</author>
+      <pubDate>Tue, 30 Jun 2026 11:04:43 +0000</pubDate>
+    </item>
     <item>
       <title>build(deps-dev): bump prettier from 3.8.4 to 3.9.3</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2987</link>
@@ -356,32 +363,11 @@
       <pubDate>Thu, 04 Jun 2026 14:48:32 +0000</pubDate>
     </item>
     <item>
-      <title>Add Authorization Interest Group charter</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2843</link>
-      <description>Merged by pcarleton - Add Authorization Interest Group charter</description>
-      <author>pcarleton</author>
-      <pubDate>Thu, 04 Jun 2026 13:05:17 +0000</pubDate>
-    </item>
-    <item>
       <title>docs: move Adam &amp; Toby to registry emeritus; add Pree as collaborator</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2825</link>
       <description>Merged by tadasant - docs: move Adam &amp; Toby to registry emeritus; add Pree as collaborator</description>
       <author>tadasant</author>
       <pubDate>Sun, 31 May 2026 02:40:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>SEP-2596: Specification Feature Lifecycle and Deprecation Policy</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2596</link>
-      <description>Merged by localden - SEP-2596: Specification Feature Lifecycle and Deprecation Policy</description>
-      <author>localden</author>
-      <pubDate>Mon, 18 May 2026 18:09:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>SEP-2663: Tasks Extension</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2663</link>
-      <description>Merged by LucaButBoring - SEP-2663: Tasks Extension</description>
-      <author>LucaButBoring</author>
-      <pubDate>Fri, 15 May 2026 19:46:44 +0000</pubDate>
     </item>
     <item>
       <title>SEP-2575: Make MCP Stateless</title>
