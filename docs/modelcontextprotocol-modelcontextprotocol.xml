@@ -4,7 +4,21 @@
     <link>https://github.com/modelcontextprotocol/modelcontextprotocol</link>
     <description>Recent merged pull requests from modelcontextprotocol/modelcontextprotocol</description>
     <managingEditor>yokotukanao@gmail.com (Nao Yokotsuka)</managingEditor>
-    <pubDate>Wed, 01 Jul 2026 04:44:18 +0000</pubDate>
+    <pubDate>Thu, 02 Jul 2026 04:11:11 +0000</pubDate>
+    <item>
+      <title>Correct several claims in the SDK betas blog post</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2997</link>
+      <description>Merged by maxisbey - Correct several claims in the SDK betas blog post</description>
+      <author>maxisbey</author>
+      <pubDate>Wed, 01 Jul 2026 22:44:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Add blog post announcing SDK betas for 2026-07-28</title>
+      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2988</link>
+      <description>Merged by localden - Add blog post announcing SDK betas for 2026-07-28</description>
+      <author>localden</author>
+      <pubDate>Wed, 01 Jul 2026 21:33:02 +0000</pubDate>
+    </item>
     <item>
       <title>spec: decouple Mcp-Param-* header emission from schema TTL</title>
       <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2972</link>
@@ -347,20 +361,6 @@
       <description>Merged by sbeeredd04 - docs: fix broken links to client/sampling and spec landing</description>
       <author>sbeeredd04</author>
       <pubDate>Thu, 04 Jun 2026 19:53:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Authorization spec split</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2858</link>
-      <description>Merged by localden - Authorization spec split</description>
-      <author>localden</author>
-      <pubDate>Thu, 04 Jun 2026 19:16:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>[Bug Fix] make server/discover support caching</title>
-      <link>https://github.com/modelcontextprotocol/modelcontextprotocol/pull/2855</link>
-      <description>Merged by CaitieM20 - [Bug Fix] make server/discover support caching</description>
-      <author>CaitieM20</author>
-      <pubDate>Thu, 04 Jun 2026 14:48:32 +0000</pubDate>
     </item>
     <item>
       <title>docs: move Adam &amp; Toby to registry emeritus; add Pree as collaborator</title>
